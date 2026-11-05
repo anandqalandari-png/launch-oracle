@@ -1,0 +1,191 @@
+[
+ {
+  "text": "The API token for {connectionName} expires on {expiresOn}.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "umeric\"})})}let a=(0,r(752010).YK)({apiTitle:{id:\"botTokenExpiryWarningNotification.apiTitle\",defaultMessage:\"The API token for {connectionName} expires on {expiresOn}.\"},mcpTitle:{id:\"botTokenExpiryWarningNotification.m",
+  "new_chunk": false
+ },
+ {
+  "text": "The MCP token for {connectionName} expires on {expiresOn}.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "tionName} expires on {expiresOn}.\"},mcpTitle:{id:\"botTokenExpiryWarningNotification.mcpTitle\",defaultMessage:\"The MCP token for {connectionName} expires on {expiresOn}.\"}});r.d(t,{DP:()=>n,_I:()=>i})},148939(e,t,r){let n",
+  "new_chunk": false
+ },
+ {
+  "text": "Record Loading Function",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "()=>s,kD:()=>l,wA:()=>a,yd:()=>c},{AF:\"personal-access-tokens\",AU:n})},95476(e,t,r){var n=()=>r(48697);Symbol(\"Record Loading Function\"),r.d(t,{},{Oj:{fromRecordMapWithRole:e=>t=>e.getRole(t),empty:()=>e=>void 0,constant",
+  "new_chunk": false
+ },
+ {
+  "text": ",pageType:b,slug:g,kind:S.query.kind||void 0,duplicateFromId:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": ",slug:g,peekViewBlockId:o,peekMode:s},a(168962).JZ.nboPageTypeSlug];case\"outreach-templates\":return[{name:\"nbo\",pageType:b,slug:g,kind:S.query.kind||void 0,duplicateFromId:\"new\"===g&&S.query.duplicateFrom||void 0,peekVie",
+  "new_chunk": false
+ },
+ {
+  "text": "Type @ to assign or add a due date",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "2010).YK)({placeholder:{defaultMessage:\"To-do\",id:\"todoBlock.placeholder\"},activePlaceholder:{defaultMessage:\"Type @ to assign or add a due date\",id:\"todoBlock.placeholderMentionHint\"},ariaRoledescription:{defaultMessage",
+  "new_chunk": false
+ },
+ {
+  "text": "You’re offline, so only loaded rows were selected",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ",defaultMessage:\"Dismiss\"},offlineSelectAll:{id:\"bulkActionProgressSnackbar.offlineSelectAll\",defaultMessage:\"You\\u2019re offline, so only loaded rows were selected\"},unsupportedSelectAll:{id:\"bulkActionProgressSnackbar.",
+  "new_chunk": false
+ },
+ {
+  "text": "Only loaded rows were selected",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ws were selected\"},unsupportedSelectAll:{id:\"bulkActionProgressSnackbar.unsupportedSelectAll\",defaultMessage:\"Only loaded rows were selected\"}}),s={snackbar:{background:i(632079).Tj.background.elevated,color:i(632079).Tj",
+  "new_chunk": false
+ },
+ {
+  "text": "SIEM connection succeeded",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "=>r})},621941(e,t,i){let n=(0,i(752010).YK)({siemConnected:{id:\"siem.connectionSuccess.title\",defaultMessage:\"SIEM connection succeeded\"},siemConnectedDescription:{id:\"siem.connectionSuccess.description\",defaultMessage:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "You can manage your SIEM connection in Settings → Connections.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "SIEM connection succeeded\"},siemConnectedDescription:{id:\"siem.connectionSuccess.description\",defaultMessage:\"You can manage your SIEM connection in Settings \\u2192 Connections.\"},manageConnection:{id:\"siem.connectionSuc",
+  "new_chunk": false
+ },
+ {
+  "text": "Manage connection",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Settings \\u2192 Connections.\"},manageConnection:{id:\"siem.connectionSuccess.manageConnection\",defaultMessage:\"Manage connection\"},siemConnectedDone:{id:\"siem.connectionSuccess.done\",defaultMessage:\"Done\"}});function r(){",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof r.time_zone?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "persona:r.persona,user_source:r.source,user_use_case:r.use_case,time_zone:r.time_zone,time_zone_region:\"string\"==typeof r.time_zone?\"N/A\"===(t=r.time_zone)?t:t.split(\"/\")[0]:void 0,locale:r.locale,preferred_locale:r.pref",
+  "new_chunk": false
+ },
+ {
+  "text": "content-preview",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "n}this.publishInitialRemoteQuery(e)}recordContentPreviewQuery(e){this.initialQueryStore.setState({...e,source:\"content-preview\"})}recordViewChange(){this.viewChangeStore.setState({kind:\"changed\",query:void 0})}recordView",
+  "new_chunk": false
+ },
+ {
+  "text": ":t.isConsentUrlLoading||void 0!==t.encryptedToken&&t.encryptedToken!==n.encryptedToken?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "?(t=l,n={source:s,provider:p,encryptedToken:f},t.source!==n.source||t.provider!==n.provider?\"mismatchedAttempt\":t.isConsentUrlLoading||void 0!==t.encryptedToken&&t.encryptedToken!==n.encryptedToken?\"replacedAttempt\":void",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.tableUrlParams:void 0,recommendedSegment:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "e.kind:void 0,dismissalBatchId:\"dismissalBatchId\"in e?e.dismissalBatchId:void 0,tableUrlParams:\"tableUrlParams\"in e?e.tableUrlParams:void 0,recommendedSegment:\"recommendedSegment\"in e?e.recommendedSegment:void 0,peekView",
+  "new_chunk": false
+ },
+ {
+  "text": "in r?r.entityPageVersion:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ":void 0,peekViewBlockId:e.peekViewBlockId,peekMode:e.peekMode,entityPageVersion:(i=e,(r=t)&&\"entityPageVersion\"in r?r.entityPageVersion:\"entityPageVersion\"in i?i.entityPageVersion:void 0)})}function eu(e){switch(e.pageTy",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.role:t.role,repEmail:r,sfdcAccountId:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "rlParams:i,repEmail:r}=e,o=\"page\"in e?e.page:\"page\"in t?t.page:void 0;return n({pageType:t.pageType,role:\"role\"in e?e.role:t.role,repEmail:r,sfdcAccountId:\"workspaces\"!==t.pageType&&\"sfdcAccountId\"in t?t.sfdcAccountId:vo",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.view:void 0,tableUrlParams:i,recommendedSegment:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ceId:\"spaceId\"in t?t.spaceId:void 0,workspaceName:\"workspaceName\"in t?t.workspaceName:void 0,page:o,view:\"view\"in t?t.view:void 0,tableUrlParams:i,recommendedSegment:\"recommendedSegment\"in t?t.recommendedSegment:void 0,d",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.recommendedSegment:void 0,dismissalBatchId:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "kspaceName:void 0,page:o,view:\"view\"in t?t.view:void 0,tableUrlParams:i,recommendedSegment:\"recommendedSegment\"in t?t.recommendedSegment:void 0,dismissalBatchId:\"dismissalBatchId\"in t?t.dismissalBatchId:void 0,peekViewBl",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.tableUrlParams:void 0,recommendedSegment:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "iew\"in t?t.view:void 0,tab:\"tab\"in t?t.tab:void 0,kind:\"kind\"in t?t.kind:void 0,tableUrlParams:\"tableUrlParams\"in t?t.tableUrlParams:void 0,recommendedSegment:\"recommendedSegment\"in t?t.recommendedSegment:void 0,peekView",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.recommendedSegment:void 0,peekViewBlockId:i,peekMode:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "kind:void 0,tableUrlParams:\"tableUrlParams\"in t?t.tableUrlParams:void 0,recommendedSegment:\"recommendedSegment\"in t?t.recommendedSegment:void 0,peekViewBlockId:i,peekMode:\"s\",entityPageVersion:\"entityPageVersion\"in t?t.e",
+  "new_chunk": false
+ },
+ {
+  "text": ",hasValue:!!e.getPropertyValue(t.property),name:(null==(i=r[t.property])?void 0:i.name)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "oid 0:n.name)??\"\",...t,...m.find(e=>e.property===t.property)}}):f?f.map(t=>{var i;return{...t,visibility:\"show\",hasValue:!!e.getPropertyValue(t.property),name:(null==(i=r[t.property])?void 0:i.name)??\"\"}}):[]}function a(",
+  "new_chunk": false
+ },
+ {
+  "text": ",activeSubscriptionPlatform:(null==r?void 0:r.provider)??null,subscriptionPlanId:(null==r||null==(e=r.subscription)?void 0:e.items[0].price.externalId)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ")(r),hasAiAddOn:(0,i(900989).eh)(r,\"ai\"),stripeCustomerId:(null==r?void 0:r.type)===\"admin\"?r.externalId??\"\":\"\",activeSubscriptionPlatform:(null==r?void 0:r.provider)??null,subscriptionPlanId:(null==r||null==(e=r.subscri",
+  "new_chunk": false
+ },
+ {
+  "text": "service_worker_v3_1",
+  "kind": "key",
+  "file": "app.notion.com/_assets/80300.js",
+  "ctx": "nction m(){if(r(211589).default.isStatsigEnabledAndInitialized())return r(211589).default.checkGate({gateName:\"service_worker_v3_1\",disableExposureLogging:!0})}function f(){if(r(211589).default.isStatsigEnabledAndInitial",
+  "new_chunk": false
+ },
+ {
+  "text": "applecart_opt_in_rollout",
+  "kind": "key",
+  "file": "app.notion.com/_assets/48982.js",
+  "ctx": ":null==(n=t(192314).k7.state)?void 0:n.id})}t.d(n,{u:()=>i})},953159(e,n,t){function i(){let e=(0,t(83208).X)(\"applecart_opt_in_rollout\"),n=(0,t(579993).K8)(t(550418).u,[]);return{enabled:n&&e,ready:n}}t.d(n,{A:()=>i})},",
+  "new_chunk": true
+ },
+ {
+  "text": "Permanently delete some properties to continue.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/handleHttpFailure.js",
+  "ctx": ":\"Your trash is full.\",id:\"CollectionPropertyActions.trashFull\"},permanentlyDeleteProperties:{defaultMessage:\"Permanently delete some properties to continue.\",id:\"CollectionPropertyActions.permanentlyDeleteProperties\"},r",
+  "new_chunk": true
+ },
+ {
+  "text": "Resolve",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/handleHttpFailure.js",
+  "ctx": "properties to continue.\",id:\"CollectionPropertyActions.permanentlyDeleteProperties\"},resolve:{defaultMessage:\"Resolve\",id:\"CollectionPropertyActions.resolve\"}});var o=a(440302);async function i(e,t){let o=new(a(356912)).",
+  "new_chunk": true
+ },
+ {
+  "text": "EKM error for non-current workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/handleHttpFailure.js",
+  "ctx": "rom:\"api.ts:CantAccessWorkspaceFromEKMError\",level:\"info\",type:\"ekmErrorForNonCurrentWorkspace\",data:{message:\"EKM error for non-current workspace\",miscDataToConvertToString:{currentSpaceId:I,ekmSpaceId:C,spaceTransition",
+  "new_chunk": true
+ }
+]

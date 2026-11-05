@@ -1,1 +1,2 @@
 {"date": "2026-11-05", "app": "gemini", "baseline": true, "files": 472, "bytes": 32128536, "strings": 4689, "new": 0, "new_files": 0, "errors": [], "ok": true}
+{"date": "2026-11-05", "app": "gemini", "baseline": false, "files": 472, "bytes": 32153292, "strings": 4692, "new": 4, "new_files": 47, "errors": [], "ok": true}
