@@ -38,6 +38,12 @@ def load_files(app_id: str) -> dict[str, str]:
 
 def record(cap: Capture, today: str) -> dict:
     """Merge a capture into the ledger. Returns a run summary including today's new strings."""
+    if cap.blocked:  # never let a challenge page into the ledger
+        summary = {"date": today, "app": cap.app, "baseline": False, "files": 0, "bytes": 0, "strings": 0,
+                   "new": 0, "new_files": 0, "ok": False, "blocked": True, "errors": [f"blocked by {cap.blocked}"]}
+        with (app_dir(cap.app) / "runs.jsonl").open("a") as fh:
+            fh.write(json.dumps(summary) + "\n")
+        return {**summary, "new_strings": []}
     seen = load_seen(cap.app)
     files_before = load_files(cap.app)
     baseline = not seen

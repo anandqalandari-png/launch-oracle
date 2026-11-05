@@ -362,7 +362,8 @@ footer p { margin: 0 0 6px; max-width: 90ch; }
   document.getElementById("footer").innerHTML = D.watching.map(w => {
     const l = w.last;
     if (!l) return `<p>${esc(w.name)}: not captured yet.</p>`;
-    if (!l.ok) return `<p>${esc(w.name)}: last capture on ${fmt(l.date)} failed (${esc((l.errors || [])[0] || "blocked")}).</p>`;
+    if (l.blocked) return `<p>${esc(w.name)}: blocked by a bot check on ${fmt(l.date)}, so nothing was recorded that night.</p>`;
+    if (!l.ok) return `<p>${esc(w.name)}: last capture on ${fmt(l.date)} failed (${esc((l.errors || [])[0] || "unknown error")}).</p>`;
     return `<p>${esc(w.name)}: ${plural(l.files, "code file")} and ${l.strings.toLocaleString("en")} strings read on ${fmt(l.date)}${l.baseline ? ", recorded as the baseline" : `, ${plural(l.new, "new string")}`}.</p>`;
   }).join("") + `<p>Only public JavaScript served to logged-out visitors is read. Forecasts are machine-written guesses, not insider information.</p>`;
 

@@ -12,7 +12,11 @@ import json
 import re
 from dataclasses import dataclass
 
-STR_RE = re.compile(r'"((?:[^"\\\n]|\\.){3,400})"|\'((?:[^\'\\\n]|\\.){3,400})\'')
+STR_RE = re.compile(
+    r'"((?:[^"\\\n]|\\.){3,400})"'
+    r"|'((?:[^'\\\n]|\\.){3,400})'"
+    r"|`((?:[^`\\$]|\\.|\$(?!\{)){3,400})`"  # template literals without ${…}
+)
 
 FLAG_CALL_RE = re.compile(
     r'(?:gate|Gate|flag|Flag|feature|Feature|experiment|Experiment|statsig|Statsig|growthbook|GrowthBook|'
@@ -81,7 +85,12 @@ def extract(js: str) -> dict[str, Hit]:
         if s and s not in out and LETTER.search(s):
             out[s] = Hit("copy", m.start(1))
     for m in STR_RE.finditer(js):
-        raw, quote = (m.group(1), '"') if m.group(1) is not None else (m.group(2), "'")
+        if m.group(1) is not None:
+            raw, quote = m.group(1), '"'
+        elif m.group(2) is not None:
+            raw, quote = m.group(2), "'"
+        else:
+            raw, quote = m.group(3).replace("\\`", "`").replace("\n", "\\n"), "'"
         s = _decode(raw, quote).strip()
         if not s or s in out:
             continue
@@ -155,7 +164,7 @@ def discover(js: str, file_url: str) -> set[str]:
     return found
 
 
-HASH_TAIL = re.compile(r"[.\-~_]([A-Za-z0-9_]{6,32})(?=\.m?js$)")
+HASH_TAIL = re.compile(r"[.\-~_]([A-Za-z0-9_\-]{6,32})(?=\.m?js$)")  # base64url hashes may contain - and _
 
 
 def stable_name(url: str) -> str:

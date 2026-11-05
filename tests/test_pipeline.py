@@ -138,3 +138,17 @@ def test_expiry_and_void(env, monkeypatch):
     run("2026-11-03", monkeypatch, "resolve", pid, "reopen")
     run("2027-01-03", monkeypatch, "grade")   # 30-day window × 2 = 60 days → expired after 1 Jan
     assert json.loads((tmp / "data" / "predictions.json").read_text())[0]["status"] == "expired"
+
+
+def test_bot_check_is_not_recorded(env, monkeypatch):
+    srv, tmp = env
+    srv.root = FIX / "blocked"
+    run("2026-11-01", monkeypatch)
+    d = tmp / "data" / "fixture"
+    assert not (d / "seen.tsv").exists()          # the challenge page never becomes the baseline
+    last = json.loads((d / "runs.jsonl").read_text().splitlines()[-1])
+    assert last["blocked"] and not last["ok"]
+    srv.root = FIX / "v1"                         # next night it gets through → that becomes the baseline
+    run("2026-11-02", monkeypatch)
+    assert json.dumps("Start a new chat") in (d / "seen.tsv").read_text()
+    assert not (tmp / "data" / "predictions.json").exists()

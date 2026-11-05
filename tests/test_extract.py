@@ -36,3 +36,11 @@ def test_stable_name_strips_content_hash():
     assert stable_name("https://cdn.x.com/assets/index-Ab12Cd34.js") == stable_name("https://cdn.x.com/assets/index-Zz98Yy76.js")
     assert stable_name("https://x.com/_next/static/chunks/framework-2c79e2a64abdb08b.js") == "x.com/_next/static/chunks/framework.js"
     assert stable_name("https://x.com/app/main.js") == "x.com/app/main.js"
+
+
+def test_template_literals_and_dashed_hashes():
+    out = extract("a=`Invite your team to this project`;b=`Hi ${name}, welcome`")
+    assert "Invite your team to this project" in out
+    assert not any("welcome" in s for s in out)  # interpolated templates are skipped
+    assert stable_name("https://s.x.com/a/ActivityHistoryComponents.C2dlNX-o.js") == "s.x.com/a/ActivityHistoryComponents.js"
+    assert stable_name("https://x.com/a/use-chat-state.js") == "x.com/a/use-chat-state.js"

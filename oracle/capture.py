@@ -34,6 +34,13 @@ class Capture:
     strings: dict[str, Found] = field(default_factory=dict)
     bytes: int = 0
     errors: list[str] = field(default_factory=list)
+    blocked: str = ""      # set when a bot check served a challenge instead of the app
+
+
+CHALLENGE_MARKERS = ("challenges.cloudflare.com", "/cdn-cgi/challenge-platform", "captcha-delivery.com",
+                     "hcaptcha.com", "perimeterx", "/_Incapsula_Resource")
+CHALLENGE_TITLES = ("just a moment", "attention required", "access denied", "verify you are human",
+                    "are you a robot", "security check")
 
 
 def _is_js(url: str, ctype: str) -> bool:
@@ -72,6 +79,8 @@ async def capture_app(app: App, *, concurrency: int = 8) -> Capture:
         async def on_response(resp):
             try:
                 url = resp.url
+                if any(m in url for m in CHALLENGE_MARKERS) and not cap.blocked:
+                    cap.blocked = f"bot check ({urlsplit(url).netloc})"
                 if url in seen_urls or not _is_js(url, resp.headers.get("content-type", "")):
                     return
                 seen_urls.add(url)
@@ -93,10 +102,16 @@ async def capture_app(app: App, *, concurrency: int = 8) -> Capture:
                 except Exception:
                     pass
                 await page.wait_for_timeout(3_000)
+                title = (await page.title()).lower()
+                if any(t in title for t in CHALLENGE_TITLES) and not cap.blocked:
+                    cap.blocked = f"bot check (page title: {title[:60]})"
             except Exception as e:
                 cap.errors.append(f"goto {url}: {type(e).__name__}: {str(e)[:160]}")
         if pending:
             await asyncio.gather(*pending, return_exceptions=True)
+        if cap.blocked:
+            await browser.close()
+            return cap
 
         # Breadth-first through referenced chunks, staying on hosts the app itself used.
         sem = asyncio.Semaphore(concurrency)

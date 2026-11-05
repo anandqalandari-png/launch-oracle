@@ -37,8 +37,10 @@ def _capture_all(apps, today, settings, forecast: bool) -> list[dict]:
         tag = "baseline recorded" if summary["baseline"] else f"{summary['new']} new strings"
         print(f"  {summary['files']} files, {summary['strings']} strings, {tag}"
               + (f", {len(cap.errors)} errors" if cap.errors else ""))
-        if not cap.files:
-            print("  nothing captured (blocked or offline) — skipping forecasts")
+        if cap.blocked:
+            print(f"  blocked by {cap.blocked} — nothing recorded tonight")
+        elif not cap.files:
+            print("  nothing captured (offline?) — skipping forecasts")
         elif forecast and new:
             try:
                 r = hypothesize(app, settings, new, today)

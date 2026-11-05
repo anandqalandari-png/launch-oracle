@@ -20,8 +20,8 @@ class App:
     urls: list[str]
     release_notes: list[str] = field(default_factory=list)
     window_days: int = 60
-    max_files: int = 600
-    max_bytes: int = 120_000_000
+    max_files: int = 3000
+    max_bytes: int = 400_000_000
 
 
 @dataclass
