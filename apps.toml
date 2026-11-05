@@ -1,0 +1,46 @@
+# Launch Oracle — what to watch.
+# Each [[app]] is loaded logged-out in a headless browser every night.
+# urls:          pages whose JavaScript gets captured (login pages still ship the app bundle)
+# release_notes: official pages used to grade forecasts
+# window_days:   default forecast horizon for this app (Claude may shorten/extend per feature)
+
+[settings]
+model = "claude-sonnet-5-5"
+max_new_strings_per_app = 300   # most feature-like new strings sent to Claude each night
+expiry_multiplier = 2           # an unshipped forecast closes as "didn't ship" at window × this
+release_notes_chars = 40000     # how much of each release-notes page the grader reads
+
+[[app]]
+id = "chatgpt"
+name = "ChatGPT"
+urls = ["https://chatgpt.com/"]
+release_notes = ["https://help.openai.com/en/articles/6825453-chatgpt-release-notes"]
+window_days = 60
+
+[[app]]
+id = "claude"
+name = "Claude"
+urls = ["https://claude.ai/login"]
+release_notes = ["https://docs.anthropic.com/en/release-notes/claude-apps"]
+window_days = 60
+
+[[app]]
+id = "gemini"
+name = "Gemini"
+urls = ["https://gemini.google.com/app"]
+release_notes = ["https://gemini.google/release-notes/"]
+window_days = 60
+
+[[app]]
+id = "notion"
+name = "Notion"
+urls = ["https://www.notion.so/login"]
+release_notes = ["https://www.notion.com/releases"]
+window_days = 90
+
+[[app]]
+id = "linear"
+name = "Linear"
+urls = ["https://linear.app/login"]
+release_notes = ["https://linear.app/changelog"]
+window_days = 90

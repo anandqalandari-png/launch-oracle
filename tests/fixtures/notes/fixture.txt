@@ -1,0 +1,7 @@
+Release notes
+
+2026-11-20
+Notes: you can now record voice notes in the composer and get an instant transcript.
+
+2026-10-02
+Improved search across your conversations.

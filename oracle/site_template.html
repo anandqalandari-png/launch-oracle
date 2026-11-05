@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Launch Oracle</title>
+<meta name="description" content="Forecasts of unreleased features, read from the JavaScript companies already ship, and graded in public when they launch.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Schibsted+Grotesk:wght@400;500;600;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #edf1f4;
+  --grid: #dbe2e9;
+  --grid-major: #c9d3dd;
+  --ink: #15233b;
+  --muted: #586a80;
+  --pen: #c3262e;
+  --ship: #2c7a4b;
+  --late: #a5680f;
+  --sheet: rgba(237, 241, 244, .88);
+  --sans: "Schibsted Grotesk", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0d1828; --grid: #16253a; --grid-major: #1e3150; --ink: #e3ebf5; --muted: #8ea3bd;
+    --pen: #ff6f61; --ship: #5fcb8c; --late: #e3aa4f; --sheet: rgba(13, 24, 40, .9);
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; color: var(--ink); font: 400 17px/1.55 var(--sans);
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(var(--grid-major) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-major) 1px, transparent 1px),
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 120px 120px, 120px 120px, 24px 24px, 24px 24px;
+  background-position: -1px -1px;
+}
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--pen); outline-offset: 3px; }
+.wrap { max-width: 1104px; margin: 0 auto; padding: 0 24px; }
+
+/* masthead */
+.mast { padding: 40px 0 8px; display: grid; grid-template-columns: auto 1fr; gap: 6px 32px; align-items: baseline; }
+.wordmark { font-weight: 800; font-size: 22px; letter-spacing: -.01em; text-decoration: none; }
+.wordmark::before { content: ""; display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: var(--pen); margin-right: 10px; vertical-align: 1px; }
+.tag { margin: 0; color: var(--muted); max-width: 52ch; }
+.stamp { grid-column: 1 / -1; margin: 0; color: var(--muted); font-size: 14px; }
+
+/* hero */
+.hero { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); gap: 48px; padding: 56px 0 72px; align-items: center; }
+.record { font-size: clamp(22px, 2.6vw, 31px); line-height: 1.38; letter-spacing: -.012em; margin: 0; max-width: 30ch; }
+.record b { font-weight: 800; font-variant-numeric: tabular-nums; }
+.record .q { color: var(--muted); font-size: .62em; display: block; margin-top: 18px; letter-spacing: 0; line-height: 1.5; max-width: 52ch; }
+.calib { margin: 0; background: var(--sheet); padding: 18px 18px 14px; border-radius: 2px; }
+.calib svg { width: 100%; height: auto; display: block; overflow: visible; }
+.calib figcaption { color: var(--muted); font-size: 14px; margin-top: 10px; max-width: 54ch; }
+.axis text { fill: var(--muted); font: 500 11px var(--sans); }
+.axis line { stroke: var(--grid-major); }
+.diag { stroke: var(--ink); stroke-width: 1.5; stroke-dasharray: 5 5; }
+.dot { fill: var(--pen); }
+.dot-n { fill: var(--paper); font: 800 11px var(--sans); text-anchor: middle; dominant-baseline: central; }
+.link-line { stroke: var(--pen); stroke-width: 2; fill: none; }
+.draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: draw 1.6s .2s ease-out forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+.pop { opacity: 0; animation: pop .4s ease-out forwards; }
+@keyframes pop { to { opacity: 1; } }
+
+/* sections */
+section.block { padding: 8px 0 64px; }
+h2 { font-size: 30px; font-weight: 800; letter-spacing: -.015em; margin: 0 0 6px; }
+.lede { color: var(--muted); margin: 0 0 22px; max-width: 64ch; }
+.filters { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0 0 30px; }
+.filters button { font: 600 15px var(--sans); color: var(--muted); background: none; border: 0; padding: 4px 0; cursor: pointer; border-bottom: 2px solid transparent; }
+.filters button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--pen); }
+.filters button:hover { color: var(--ink); }
+.filters .n { font-weight: 400; margin-left: 4px; }
+
+/* forecasts */
+ol.ledger { list-style: none; margin: 0; padding: 0; }
+.fc { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 0 28px; padding: 26px 0; }
+.fc + .fc { border-top: 2px solid var(--ink); }
+.p { font-weight: 800; font-size: 60px; line-height: .9; color: var(--pen); font-variant-numeric: tabular-nums; letter-spacing: -.03em; }
+.p small { font-size: 26px; font-weight: 600; margin-left: 2px; letter-spacing: 0; }
+.p .was { display: block; font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: 0; margin-top: 10px; line-height: 1.3; }
+.fc h3 { font-size: 23px; line-height: 1.2; margin: 0 0 4px; letter-spacing: -.01em; }
+.one { margin: 0 0 10px; max-width: 62ch; }
+.meta { margin: 0 0 12px; color: var(--muted); font-size: 15px; }
+.fuse { position: relative; height: 6px; max-width: 420px; background: var(--grid-major); margin: 0 0 16px; }
+.fuse i { position: absolute; inset: 0 auto 0 0; background: var(--ink); width: calc(var(--t) * 100%); }
+.fuse::after { content: ""; position: absolute; right: -1px; top: -5px; width: 2px; height: 16px; background: var(--pen); }
+.ev { list-style: none; padding: 0; margin: 0 0 12px; display: flex; flex-direction: column; gap: 6px; }
+.ev code { font: 400 13.5px/1.45 var(--mono); background: var(--sheet); padding: 2px 6px; word-break: break-word; }
+.ev .k { color: var(--muted); font-size: 12px; margin-left: 6px; }
+details { margin: 4px 0 12px; max-width: 68ch; }
+summary { cursor: pointer; font-weight: 600; color: var(--ink); width: max-content; }
+summary::marker { color: var(--pen); }
+details dl { margin: 12px 0 0; display: grid; grid-template-columns: 9.5rem 1fr; gap: 8px 18px; background: var(--sheet); padding: 16px 18px; }
+details dt { color: var(--muted); font-size: 14px; padding-top: 2px; }
+details dd { margin: 0; }
+details ul { margin: 0; padding-left: 18px; }
+.hist { color: var(--muted); font-size: 14px; margin: 8px 0 0; }
+.call { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; font-size: 15px; color: var(--muted); }
+.call input { width: 200px; accent-color: var(--pen); }
+.call input.unset { accent-color: var(--muted); opacity: .55; }
+.call output { font-weight: 800; color: var(--ink); font-variant-numeric: tabular-nums; min-width: 3.5ch; }
+.call button { font: 500 14px var(--sans); color: var(--muted); background: none; border: 0; text-decoration: underline; cursor: pointer; padding: 0; }
+
+/* settled */
+.st { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 0 28px; padding: 22px 0; border-top: 2px solid var(--ink); }
+.verdict { font-weight: 800; font-size: 19px; line-height: 1.15; }
+.verdict.shipped { color: var(--ship); }
+.verdict.late { color: var(--late); }
+.verdict.expired, .verdict.void { color: var(--muted); }
+.st h3 { font-size: 20px; margin: 0 0 4px; }
+.st blockquote { margin: 10px 0 0; padding-left: 14px; border-left: 3px solid var(--ship); max-width: 64ch; }
+
+.empty { font-size: 19px; max-width: 54ch; margin: 0; }
+.you { font-size: 21px; max-width: 46ch; margin: 0; }
+.method { columns: 2 320px; column-gap: 48px; max-width: 980px; }
+.method p { margin: 0 0 14px; break-inside: avoid; }
+footer { padding: 28px 0 56px; color: var(--muted); font-size: 14px; border-top: 2px solid var(--ink); }
+footer p { margin: 0 0 6px; max-width: 90ch; }
+
+@media (max-width: 820px) {
+  .hero { grid-template-columns: 1fr; gap: 32px; padding: 36px 0 48px; }
+  .mast { grid-template-columns: 1fr; }
+  .fc, .st { grid-template-columns: 1fr; gap: 10px; }
+  .p { font-size: 48px; }
+  details dl { grid-template-columns: 1fr; gap: 2px; }
+  details dd { margin-bottom: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .draw, .pop { animation: none; stroke-dashoffset: 0; opacity: 1; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <a class="wordmark" href="./">Launch Oracle</a>
+    <p class="tag">Forecasts of unreleased features, read from the code companies already ship to your browser. Every forecast is graded in public when the feature launches, or doesn't.</p>
+    <p class="stamp" id="stamp"></p>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="record" id="record"></p>
+      <figure class="calib">
+        <svg id="calib" viewBox="0 0 380 330" role="img" aria-labelledby="calib-cap"></svg>
+        <figcaption id="calib-cap">Each dot groups settled forecasts by how sure the oracle said it was (across) against how often those features shipped on time (up). Dots on the dashed line mean the confidence was honest.</figcaption>
+      </figure>
+    </section>
+
+    <section class="block" id="open" aria-labelledby="open-h">
+      <h2 id="open-h">Open forecasts</h2>
+      <p class="lede">Make your own call on each one before it resolves. Your calls stay in this browser and get scored against the oracle's.</p>
+      <div class="filters" id="filters" role="group" aria-label="Filter by app"></div>
+      <ol class="ledger" id="open-list"></ol>
+    </section>
+
+    <section class="block" id="settled" aria-labelledby="settled-h">
+      <h2 id="settled-h">Settled</h2>
+      <p class="lede">A forecast counts as a hit only if the feature appears in the company's own release notes before its deadline.</p>
+      <ol class="ledger" id="settled-list"></ol>
+    </section>
+
+    <section class="block" aria-labelledby="you-h">
+      <h2 id="you-h">Your record</h2>
+      <p class="you" id="you"></p>
+    </section>
+
+    <section class="block" aria-labelledby="how-h">
+      <h2 id="how-h">How it works</h2>
+      <div class="method">
+        <p>Every night a headless browser opens each app logged-out and downloads the same JavaScript any visitor gets, plus the code chunks those files point to. Nothing behind a login, nothing decompiled.</p>
+        <p>Every human-readable string is added to a ledger. The first night only records a baseline. After that, a string that has never appeared before is a clue: interface copy, an experiment name, a feature flag.</p>
+        <p>Claude reads the night's clues, throws away the noise, and writes a forecast for each real feature: a short product spec, a deadline and a probability. Evidence has to quote the code exactly, or it is dropped.</p>
+        <p>Each night open forecasts are checked against the company's official release notes. Shipped before the deadline is a hit; after it is late; nothing by twice the window is a miss. Features that were already public are voided, not counted.</p>
+        <p>The headline score is the Brier score of each forecast as first published: the squared gap between the stated probability and what happened. Zero is perfect. Saying 50% every time scores 0.25.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer id="footer"></footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const S = D.summary, P = D.predictions;
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const day = iso => new Date(iso + "T12:00:00Z");
+  const fmt = iso => iso ? day(iso).toLocaleDateString("en-GB", {day: "numeric", month: "short", year: day(iso).getUTCFullYear() !== day(D.generated).getUTCFullYear() ? "numeric" : undefined}) : "";
+  const days = (a, b) => Math.round((day(b) - day(a)) / 864e5);
+  const pct = x => Math.round(x * 100);
+  const plural = (n, w, ws) => `${n} ${n === 1 ? w : (ws || w + "s")}`;
+
+  // ---- your calls (local to this browser) ----
+  const KEY = "launch-oracle-calls";
+  let calls = {};
+  try { calls = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { calls = {}; }
+  const saveCalls = () => { try { localStorage.setItem(KEY, JSON.stringify(calls)); } catch (e) {} };
+
+  // ---- stamp + record ----
+  const since = D.watching.map(w => w.since).filter(Boolean).sort()[0];
+  const nights = Math.max(0, ...D.watching.map(w => w.nights));
+  document.getElementById("stamp").textContent =
+    since ? `Updated ${fmt(D.generated)}. Watching ${D.watching.map(w => w.name).join(", ")} every night since ${fmt(since)}.`
+          : `Watching ${D.watching.map(w => w.name).join(", ")}. The first nightly run has not happened yet.`;
+
+  const rec = document.getElementById("record");
+  if (!S.total) {
+    rec.innerHTML = nights
+      ? `No forecasts yet. ${plural(nights, "night")} of code recorded as the baseline; forecasts start the first night something new appears.`
+      : `No forecasts yet. The first night records what each app already ships. Forecasts start the night after, when something new appears.`;
+  } else {
+    let t = `Since ${fmt(since || P[0].created)}, the oracle has made <b>${S.total}</b> ${S.total === 1 ? "forecast" : "forecasts"} and <b>${S.open}</b> ${S.open === 1 ? "is" : "are"} still open. `;
+    if (S.scored) {
+      t += `Of the <b>${S.scored}</b> settled, <b>${S.shipped}</b> shipped on time, <b>${S.late}</b> shipped late and <b>${S.expired}</b> never appeared.`;
+      if (S.median_lead_days != null) t += ` Launches were spotted a median <b>${Math.round(S.median_lead_days)} days</b> before release.`;
+      t += `<span class="q">Brier score ${S.brier.toFixed(2)} on ${plural(S.scored, "forecast")}. Lower is better; always saying 50% scores 0.25.${S.avg_prd_match != null ? ` Shadow specs matched what shipped ${S.avg_prd_match.toFixed(1)} out of 5 on average.` : ""}</span>`;
+    } else {
+      t += `None has reached its deadline or launched yet, so there is no score to show.`;
+    }
+    rec.innerHTML = t;
+  }
+
+  // ---- calibration plot ----
+  (function plot() {
+    const svg = document.getElementById("calib");
+    const L = 52, T = 14, W = 310, H = 270;
+    const x = v => L + v * W, y = v => T + (1 - v) * H;
+    let g = `<g class="axis">`;
+    for (let i = 0; i <= 5; i++) {
+      const v = i / 5;
+      g += `<line x1="${x(v)}" y1="${T}" x2="${x(v)}" y2="${T + H}"/><line x1="${L}" y1="${y(v)}" x2="${L + W}" y2="${y(v)}"/>`;
+      g += `<text x="${x(v)}" y="${T + H + 18}" text-anchor="middle">${i * 20}%</text>`;
+      g += `<text x="${L - 10}" y="${y(v) + 4}" text-anchor="end">${i * 20}%</text>`;
+    }
+    g += `<text x="${L + W / 2}" y="${T + H + 40}" text-anchor="middle">Oracle said</text>`;
+    g += `<text transform="translate(12 ${T + H / 2}) rotate(-90)" text-anchor="middle">Shipped on time</text></g>`;
+    g += `<line class="diag draw" x1="${x(0)}" y1="${y(0)}" x2="${x(1)}" y2="${y(1)}"/>`;
+    const C = S.calibration || [];
+    if (C.length > 1) g += `<polyline class="link-line draw" points="${C.map(c => `${x(c.said)},${y(c.happened)}`).join(" ")}"/>`;
+    C.forEach((c, i) => {
+      const r = 7 + Math.sqrt(c.n) * 3;
+      g += `<g class="pop" style="animation-delay:${1 + i * .15}s"><circle class="dot" cx="${x(c.said)}" cy="${y(c.happened)}" r="${r}"><title>${c.n} forecasts said ${pct(c.said)}% on average; ${pct(c.happened)}% shipped on time</title></circle>`;
+      if (r >= 11) g += `<text class="dot-n" x="${x(c.said)}" y="${y(c.happened)}">${c.n}</text>`;
+      g += `</g>`;
+    });
+    if (!C.length) g += `<text x="${x(.5)}" y="${y(.62)}" text-anchor="middle" style="fill:var(--muted);font:500 13px var(--sans)">Dots appear as forecasts settle.</text>`;
+    svg.innerHTML = g;
+  })();
+
+  // ---- open forecasts ----
+  const open = P.filter(p => p.status === "open").sort((a, b) => b.confidence - a.confidence);
+  const apps = [...new Set(open.map(p => p.app))];
+  let filter = "all";
+  const fl = document.getElementById("filters");
+  const renderFilters = () => {
+    fl.innerHTML = [["all", "All apps", open.length], ...apps.map(a => [a, open.find(p => p.app === a).app_name, open.filter(p => p.app === a).length])]
+      .map(([id, name, n]) => `<button type="button" data-f="${esc(id)}" aria-pressed="${filter === id}">${esc(name)}<span class="n">${n}</span></button>`).join("");
+  };
+  fl.addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    filter = b.dataset.f; renderFilters(); renderOpen();
+  });
+
+  const prdRows = prd => [
+    ["Problem", prd.problem], ["For", prd.users], ["What it does", prd.what],
+    ["Where it lives", prd.how_it_appears], ["Rollout guess", prd.rollout_guess],
+  ].filter(r => r[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("") +
+    ((prd.open_questions || []).filter(Boolean).length ? `<dt>Open questions</dt><dd><ul>${prd.open_questions.filter(Boolean).map(q => `<li>${esc(q)}</li>`).join("")}</ul></dd>` : "");
+
+  const kindName = {flag: "feature flag", copy: "interface text", key: "identifier"};
+
+  function forecastItem(p) {
+    const total = Math.max(1, days(p.created, p.deadline));
+    const t = Math.min(1, Math.max(0, days(p.created, D.generated) / total));
+    const left = days(D.generated, p.deadline);
+    const ev = p.evidence.slice(0, 4).map(e => `<li><code>${esc(e.text)}</code><span class="k">${kindName[e.kind] || e.kind}, first seen ${fmt(e.first_seen)}</span></li>`).join("");
+    const more = p.evidence.length > 4 ? `<li class="k">and ${p.evidence.length - 4} more strings</li>` : "";
+    const revised = p.history && p.history.length > 1;
+    const call = calls[p.id];
+    return `<li class="fc">
+      <div class="p" aria-label="${pct(p.confidence)} percent">${pct(p.confidence)}<small>%</small>${revised ? `<span class="was">first said ${pct(p.original_confidence)}%</span>` : ""}</div>
+      <div>
+        <h3>${esc(p.title)}</h3>
+        <p class="one">${esc(p.one_liner)}</p>
+        <p class="meta">${esc(p.app_name)}. First clue ${fmt(p.first_evidence)}. Forecast to ship by ${fmt(p.deadline)}, ${left >= 0 ? plural(left, "day") + " left" : "deadline passed"}.</p>
+        <div class="fuse" style="--t:${t.toFixed(3)}" role="img" aria-label="${pct(t)}% of the forecast window used"><i></i></div>
+        <ul class="ev">${ev}${more}</ul>
+        <details><summary>Shadow spec</summary><dl>${prdRows(p.prd || {})}</dl>
+          ${revised ? `<p class="hist">${p.history.map(h => `${fmt(h.date)}: ${pct(h.confidence)}%${h.note && h.note !== "forecast made" ? ` (${esc(h.note)})` : ""}`).join(". ")}.</p>` : ""}
+        </details>
+        <div class="call"><label for="c-${esc(p.id)}">Your call</label>
+          <input type="range" class="${call == null ? "unset" : ""}" id="c-${esc(p.id)}" data-id="${esc(p.id)}" min="0" max="100" step="5" value="${call ?? 50}">
+          <output>${call != null ? call + "%" : "not set"}</output>
+          ${call != null ? `<button type="button" data-clear="${esc(p.id)}">Clear</button>` : ""}
+        </div>
+      </div></li>`;
+  }
+
+  const ol = document.getElementById("open-list");
+  function renderOpen() {
+    const list = open.filter(p => filter === "all" || p.app === filter);
+    ol.innerHTML = list.length ? list.map(forecastItem).join("")
+      : `<li><p class="empty">${S.total ? "Nothing open right now. New forecasts appear the morning after something new shows up in the code." : "Forecasts appear here the morning after something new shows up in the code."}</p></li>`;
+  }
+  ol.addEventListener("input", e => {
+    const i = e.target.closest("input[type=range]"); if (!i) return;
+    calls[i.dataset.id] = +i.value; saveCalls();
+    i.classList.remove("unset");
+    i.nextElementSibling.textContent = i.value + "%";
+    renderYou();
+  });
+  ol.addEventListener("click", e => {
+    const b = e.target.closest("button[data-clear]"); if (!b) return;
+    delete calls[b.dataset.clear]; saveCalls(); renderOpen(); renderYou();
+  });
+
+  // ---- settled ----
+  const verdictText = {shipped: "Shipped on time", late: "Shipped late", expired: "Didn’t ship", void: "Already public"};
+  const settled = P.filter(p => p.status !== "open").sort((a, b) => (b.resolution?.date || "").localeCompare(a.resolution?.date || ""));
+  document.getElementById("settled-list").innerHTML = settled.length ? settled.map(p => {
+    const r = p.resolution || {};
+    let line = `${esc(p.app_name)}. Forecast ${pct(p.original_confidence)}% on ${fmt(p.created)} with a deadline of ${fmt(p.deadline)}.`;
+    if (r.ship_date) line += ` Launched ${fmt(r.ship_date)}${r.lead_days != null ? `, ${plural(r.lead_days, "day")} after the first clue` : ""}.`;
+    if (p.status === "expired") line += ` ${esc(r.why || "No launch found.")}`;
+    if (p.status === "void") line += ` It was already public, so it doesn't count.`;
+    if (r.prd_match) line += ` Spec match ${r.prd_match} of 5.`;
+    if (calls[p.id] != null && p.status !== "void") line += ` You said ${calls[p.id]}%.`;
+    const q = r.quote ? `<blockquote>${esc(r.quote)}${r.source ? ` <a href="${esc(r.source)}" rel="noopener">Release notes</a>` : ""}</blockquote>` : "";
+    return `<li class="st"><div class="verdict ${p.status}">${verdictText[p.status] || p.status}</div><div><h3>${esc(p.title)}</h3><p class="meta">${line}</p>${q}</div></li>`;
+  }).join("") : `<li><p class="empty">Nothing has settled yet. The first verdicts arrive when a forecast launches or its window closes.</p></li>`;
+
+  // ---- your record ----
+  function renderYou() {
+    const mine = P.filter(p => calls[p.id] != null && ["shipped", "late", "expired"].includes(p.status));
+    const el = document.getElementById("you");
+    const made = Object.keys(calls).length;
+    if (!mine.length) {
+      el.textContent = made
+        ? `You've made ${plural(made, "call")}. Your score appears here once one of them settles.`
+        : `Drag the slider on any open forecast to make your call. Once it settles you'll see whether you beat the oracle.`;
+      return;
+    }
+    const o = p => p.status === "shipped" ? 1 : 0;
+    const you = mine.reduce((s, p) => s + (calls[p.id] / 100 - o(p)) ** 2, 0) / mine.length;
+    const ora = mine.reduce((s, p) => s + (p.original_confidence - o(p)) ** 2, 0) / mine.length;
+    el.innerHTML = `On the ${plural(mine.length, "forecast")} you called that have settled, your Brier score is <b>${you.toFixed(2)}</b> and the oracle's is <b>${ora.toFixed(2)}</b>. ${you < ora ? "You're ahead." : you > ora ? "The oracle is ahead." : "Dead level."}`;
+  }
+
+  // ---- footer ----
+  document.getElementById("footer").innerHTML = D.watching.map(w => {
+    const l = w.last;
+    if (!l) return `<p>${esc(w.name)}: not captured yet.</p>`;
+    if (!l.ok) return `<p>${esc(w.name)}: last capture on ${fmt(l.date)} failed (${esc((l.errors || [])[0] || "blocked")}).</p>`;
+    return `<p>${esc(w.name)}: ${plural(l.files, "code file")} and ${l.strings.toLocaleString("en")} strings read on ${fmt(l.date)}${l.baseline ? ", recorded as the baseline" : `, ${plural(l.new, "new string")}`}.</p>`;
+  }).join("") + `<p>Only public JavaScript served to logged-out visitors is read. Forecasts are machine-written guesses, not insider information.</p>`;
+
+  renderFilters(); renderOpen(); renderYou();
+})();
+</script>
+</body>
+</html>
