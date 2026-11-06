@@ -1,0 +1,779 @@
+[
+ {
+  "text": "==typeof _.Qma&&e instanceof _.Qma?c.push(2,e.ayg):",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "ction(a,...b){var c=a[0];if(a.length===1)return c+\"_\";c=[0,c];for(let d=0;d<b.length;d++){let e=b[d];\"function\"==typeof _.Qma&&e instanceof _.Qma?c.push(2,e.ayg):\"function\"==typeof _.Rma&&e instanceof _.Rma?c.push(3,e.ru",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:(md=c==null?void 0:c.getName())!=null?md:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "d,Gd,Kc,Hc, Gc,Yc,Zd,Ke,Ne,ef,Re,Xe,Ue,Of,Mf;return Object.assign({},{id:(Fc=a==null?void 0:a.Ba())!=null?Fc:\"\",title:(md=c==null?void 0:c.getName())!=null?md:\"\",nm:(Gd=b==null?void 0:b.oa())!=null?Gd:\"\",description:(Kc=",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(Kc=c==null?void 0:c.Gd())!=null?Kc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "a.Ba())!=null?Fc:\"\",title:(md=c==null?void 0:c.getName())!=null?md:\"\",nm:(Gd=b==null?void 0:b.oa())!=null?Gd:\"\",description:(Kc=c==null?void 0:c.Gd())!=null?Kc:\"\",oA:(Hc=c==null?void 0:c.Ma().map(ng=>ng))!=null?Hc:[],yT:",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:(Hc=c==null?void 0:c.getName())!=null?Hc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "Kc,Hc,Gc,Yc,Zd,Ke,Ne,ef,Re,Xe,Ue,Of,Mf,ng,Lg;return Object.assign({},{id:(Kc=a==null?void 0:a.Ba())!=null?Kc:\"\",title:(Hc=c==null?void 0:c.getName())!=null?Hc:\"\",nm:(Gc=b==null?void 0:b.oa())!=null?Gc:\"\",description:(Yc=",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(of=(Ke=Yc.getValue)==null?void 0:Ke.call(Yc))!=null?of:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "ng,Lg,rg,Yi,Ge,of,Cf;return Object.assign({},{label:(Ge=(Zd=Yc.getLabel)==null?void 0:Zd.call(Yc))!= null?Ge:\"\",value:(of=(Ke=Yc.getValue)==null?void 0:Ke.call(Yc))!=null?of:\"\",Kuc:(Cf=(Ne=Yc.oa)==null?void 0:Ne.call(Yc)",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Hf=(Xe=Hc.getValue)==null?void 0:Xe.call(Hc))!=null?Hf:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": ",Yi,Ge,of,Cf,mg,Hf,Kf;return Object.assign({},{label:(mg=(Re=Hc.getLabel)==null?void 0:Re.call(Hc))!=null?mg:\"\",value:(Hf=(Xe=Hc.getValue)==null?void 0:Xe.call(Hc))!=null?Hf:\"\"},Ke&&{description:Ke},Yc?{O4:{kud:(Kf=(Ue=Y",
+  "new_chunk": true
+ },
+ {
+  "text": ",turnId:bn,Jh:(tt=xo==null?void 0:xo.id)!=null?tt:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "ll?void 0:xo.id)!=null?Jq:\"\",pT:!0,Af:{conversationId:(st=(Kp=_.m(a,_.BB,1))==null?void 0: Kp.Lg())!=null?st:\"\",turnId:bn,Jh:(tt=xo==null?void 0:xo.id)!=null?tt:\"\"}},ur=Aj.map(jj=>_.$cd(jj,Rv)),Hs,Kq=(Hs=a.Zk())==null?vo",
+  "new_chunk": true
+ },
+ {
+  "text": ",metadata:(V=c==null?void 0:c.getMetadata())!=null?V:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "?F:0),initializationData:{gRe:(I=c==null?void 0:_.n(c,1))!=null?I:\"\",yDc:(O=c==null?void 0:_.n(c,2))!=null?O:\"\",metadata:(V=c==null?void 0:c.getMetadata())!=null?V:\"\",eVd:(aa=c==null?void 0:_.n(c,4))!=null?aa:\"\",locale:(",
+  "new_chunk": true
+ },
+ {
+  "text": "Conversation Workspace Export Restricted",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "\"Streaming Response: Disconnect Response\"),_.KB());_.FNd=_.JB(UJ(\"Add Aborted Turn Id\"),_.KB());_.GNd=_.JB(UJ(\"Conversation Workspace Export Restricted\"),_.KB());_.HNd=_.JB(UJ(\"Remove Aborted Turn Id\"),_.KB());_.INd=_.JB",
+  "new_chunk": true
+ },
+ {
+  "text": "in a?a.eQ:a.title)!=null?e:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "){if(!a)return!1;var b,c,d=(c=(b=a.artifactId)==null?void 0:b.toLowerCase())!=null?c:\"\",e;b=((e=\"artifactTitle\"in a?a.eQ:a.title)!=null?e:\"\").toLowerCase();return\"sparkArtifactType\"in a&&a.ep===6||d.includes(\"personal_sn",
+  "new_chunk": true
+ },
+ {
+  "text": ",Jh:(Gd=Ic==null?void 0:Ic.id)!=null?Gd:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "Gd;za={responseId:(md=Ic==null?void 0:Ic.id)!=null?md:\"\",pT:_.pi(b,15),Af:{conversationId:V,turnId:O!=null?O:\"\",Jh:(Gd=Ic==null?void 0:Ic.id)!=null?Gd:\"\"}};md=_.m(b,_.YG,7);Gd=d.Ne===26;z=a.Ld||z?w:void 0;var Kc;(w=!!(w=",
+  "new_chunk": true
+ },
+ {
+  "text": ",parentResponseId:!rg||Ue&&(_.gL(rg.response)||rg.response.turnId!==((mr=Xe)==null?void 0:mr.turnId))?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": ")==null?void 0:et.conversationId)||(ng.Mb.length>0?ng.id||(Mf==null?void 0:Mf.conversationId)||\"\":\"\"),Mj:Qo||\"\",parentResponseId:!rg||Ue&&(_.gL(rg.response)||rg.response.turnId!==((mr=Xe)==null?void 0:mr.turnId))?\"\":((bk",
+  "new_chunk": true
+ },
+ {
+  "text": ",turnId:(w=c==null?void 0:(r=c.response)==null?void 0:r.turnId)!=null?w:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "assign({},r,{conversationId:r.conversationId||a.conversationId})}else if(!t&&h){let w;t={responseType:\"ROUTING\",turnId:(w=c==null?void 0:(r=c.response)==null?void 0:r.turnId)!=null?w:\"\",ulb:\"\",conversationId:a.conversati",
+  "new_chunk": true
+ },
+ {
+  "text": "Add labels, like names or locations",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "&!_.bl(_.m(a,_.ITc,13),KWe())){var c=a.getTitle();b=JWe(a,b);var d=a.getName()===\"google_photos_ask\"&&tWe(a)?[\"Add labels, like names or locations\"]:void 0;if(d==null?0:d.length)a=d;else{var e,f;a=(f=a==null?void 0:(e=_.",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.eFa().Pm,selected:!1,pC:this.eFa().tooltip||void 0,veId:194114,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "null?void 0:a.H$)});this.Wd=_.Y(()=>({id:_.yQ.Gzb,label:\"Photos\",ariaLabel:\"Open mobile gallery\",wm:\"add_image\",disabled:this.eFa().Pm,selected:!1,pC:this.eFa().tooltip||void 0,veId:194114,kind:\"menu-item\"}));this.YZ=_.Y",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.Aka().Pm,selected:!1,pC:this.Aka().tooltip||void 0,veId:296526,Fx:_.she,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "a;return _.PR((a=this.Nr())==null?void 0:a.Pqa)});this.ue=_.Y(()=>({id:_.yQ.Zeb,label:\"Notebooks\",wm:\"notebook\",disabled:this.Aka().Pm,selected:!1,pC:this.Aka().tooltip||void 0,veId:296526,Fx:_.she,kind:\"menu-item\"}));th",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.Aa().Pm,selected:!1,pC:this.Aa().tooltip||void 0,veId:241113,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "r a;return _.PR((a=this.Nr())==null?void 0:a.pea)});this.Yc=_.Y(()=>({id:_.yQ.e2b,label:\"Import code\",wm:\"code\",disabled:this.Aa().Pm,selected:!1,pC:this.Aa().tooltip||void 0,veId:241113,kind:\"menu-item\"}));this.C0=_.Y((",
+  "new_chunk": true
+ },
+ {
+  "text": "Remote tasks are turned off on",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "_.Y(()=>{var g;return this.uc()&&!((g=this.Da())==null?0:g.WN)&&!this.E1d()});this.PYf=_.Y(()=>{var g,h;return\"Remote tasks are turned off on \"+((h=(g=this.Da())==null?void 0:g.deviceName)!=null?h:\"\")});this.OYf=_.Y(()=>",
+  "new_chunk": true
+ },
+ {
+  "text": "Your public links couldn't be loaded.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=xqG9Nd",
+  "ctx": "_.h8(\"AVAILABLE\",!0).pipe(_.u(d=>d?!0:_.DE(c,\"/\"))):_.DE(c,\"/\")}],MEa:\"Your public links error\", errorMessage:\"Your public links couldn't be loaded.\",title:\"Your public links\",data:_.L_p}),{path:\"share/continue/:external",
+  "new_chunk": true
+ },
+ {
+  "text": "Rename project",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "d 0,wra:{}};_.VZe={FDa:\"Rename\",iEa:\"Rename this chat\",oec:!1,title:\"\",REc:{FFb:186010}}; WZe={FDa:\"Save\",iEa:\"Rename project\",oec:!1,title:\"\",REc:{FFb:292885},dqd:!0,KQa:\"You can change the name anytime. Limit to max 50",
+  "new_chunk": true
+ },
+ {
+  "text": "By connecting your Analytics property to Gemini, you will enable data to flow between the products. Data exported from your Analytics property into Gemini is subject to the Gemini terms of service, while Gemini data exposed to Analytics is subject to the Analytics terms of service.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ces exchange data, whether Contacts uses data to improve its own services, and Gemini's use of public data. \",\" By connecting your Analytics property to Gemini, you will enable data to flow between the products. Data exp",
+  "new_chunk": true
+ },
+ {
+  "text": "Your data from Gemini and Google Play will be used to do things for you, like show you apps and digital products available to you through Google Play, which may include items available for purchase. You can view and manage your Google Play purchases in your �#20�order history�/#20�.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "conversation and other info with Google Play. Google Play may use this information to improve its services. \",\" Your data from Gemini and Google Play will be used to do things for you, like show you apps and digital prod",
+  "new_chunk": true
+ },
+ {
+  "text": "You can disconnect Google Play from the Apps page. �#28� Learn how your content is used �/#28�",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "onds using other connected apps, your Google Play data may be shared if it's included in your conversation. \",\" You can disconnect Google Play from the Apps page. \\ufffd#28\\ufffd Learn how your content is used \\ufffd/#28",
+  "new_chunk": true
+ },
+ {
+  "text": "You can disconnect Gemini Notebook from the Connected Apps page. �#25�Learn how your content is used�/#25�.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "When Gemini uses other apps, your Gemini Notebook data may be shared if it's included in your conversation. \",\" You can disconnect Gemini Notebook from the Connected Apps page. \\ufffd#25\\ufffdLearn how your content is us",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:b.description,logoUrl:(g=(d=b.jY)==null?void 0:d.Pwa)!=null?g:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ol(\"\", {Mi:!0}))});var d,e,f,g,h,r,t;this.jG.setValue({id:b.id,title:b.title,readableUrlId:(f=b.sVb)!=null?f:\"\",description:b.description,logoUrl:(g=(d=b.jY)==null?void 0:d.Pwa)!=null?g:\"\",instruction:(h=b.nm)!=null?h:\"\"",
+  "new_chunk": true
+ },
+ {
+  "text": ",zeroStatePrompts:[...b.oA],defaultFeatureMode:(r=b.nca)!=null?r:null,brandName:(t=(e=b.B8)==null?void 0:e.hOa)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "\"\",description:b.description,logoUrl:(g=(d=b.jY)==null?void 0:d.Pwa)!=null?g:\"\",instruction:(h=b.nm)!=null?h:\"\",zeroStatePrompts:[...b.oA],defaultFeatureMode:(r=b.nca)!=null?r:null,brandName:(t=(e=b.B8)==null?void 0:e.hO",
+  "new_chunk": true
+ },
+ {
+  "text": "Abstract Iterator not directly constructable",
+  "kind": "copy",
+  "file": "www.gstatic.com/feedback/js/help/prod/service/lazy.min.js",
+  "ctx": "&&a.prototype===b)return a;var d=function(){if(!(this instanceof d)||this.constructor===d)throw new TypeError(\"Abstract Iterator not directly constructable\");};b&&(d.prototype=b);ba(d.prototype,\"constructor\",{configurabl",
+  "new_chunk": false
+ },
+ {
+  "text": "Method called on incompatible object",
+  "kind": "copy",
+  "file": "www.gstatic.com/feedback/js/help/prod/service/lazy.min.js",
+  "ctx": ",done:b}},Fa=null,Ga=function(a,b){var c=Fa;if(!c){var d=function(e,f){if(!e||e.self_!==e)throw new TypeError(\"Method called on incompatible object\");var g=e.state_;if(g===3)throw new TypeError(\"Generator is already runn",
+  "new_chunk": false
+ },
+ {
+  "text": "Web-endpoint returned an error",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=UE0P2d,Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=HwBxOc",
+  "ctx": "verable reason\"}):d===4?Promise.resolve({statusCode:11, statusMessage:gEk(c)}):Promise.resolve({statusMessage:\"Web-endpoint returned an error\",statusCode:7})}return a.zk.getLink({serviceId:a.serviceId,sessionId:a.session",
+  "new_chunk": true
+ },
+ {
+  "text": ",goal:a.displayText,category:b,icon:c,mYg:a.OSd,type:d,Uqg:(h=(f=a.Eye)==null?void 0:_.n(f,1))!=null?h:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=UE0P2d,Z8wCif,_b,mlMvR,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=HwBxOc",
+  "ctx": "DASHER\":a.L_a.includes(8)? \"LICENSED_EDU\":a.L_a.includes(9)?\"UNLICENSED_EDU\":\"\");var f,g,h,r;b={prompt:a.tR||\"\",goal:a.displayText,category:b,icon:c,mYg:a.OSd,type:d,Uqg:(h=(f=a.Eye)==null?void 0:_.n(f,1))!=null?h:\"\",lXf",
+  "new_chunk": true
+ },
+ {
+  "text": "View all styles",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,UE0P2d,Z8wCif,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=ZQlXXb",
+  "ctx": "k:\"photo\",isEnabled:!0, type:6,Z9:!0,actionType:3,veId:357500};a={toolName:\"view_all_collections\",displayName:\"View all styles\",Nf:\"\",Ds:\"\",rk:\"grid_view\",isEnabled:!0,type:6,Z9:!0,actionType:3,veId:357500};d=!d&&!z&&(!h",
+  "new_chunk": true
+ },
+ {
+  "text": "Gemini for your desktop",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,UE0P2d,Z8wCif,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=ZQlXXb",
+  "ctx": ".toLowerCase().includes(g)||\"collections\".includes(g)|| \"collection\".includes(g));V.length>0&&b.push({heading:\"Gemini for your desktop\",items:V});f=[];d&&w.length===0&&f.push(ia);F.length===0&&z&&f.push(za);t.length===0&",
+  "new_chunk": true
+ },
+ {
+  "text": "Gems are now in Settings",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": "),_.Qz(this.La)).subscribe(({anchor:F,oPg:I})=>{this.kc=!0;_.A5(_.uA(this.Eb,()=>_.v(_.B5)), F.element,{title:\"Gems are now in Settings\",content:\"You can view your Gems here while they transition to skills.\",Pua:250248},",
+  "new_chunk": true
+ },
+ {
+  "text": "You can view your Gems here while they transition to skills.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": ":F,oPg:I})=>{this.kc=!0;_.A5(_.uA(this.Eb,()=>_.v(_.B5)), F.element,{title:\"Gems are now in Settings\",content:\"You can view your Gems here while they transition to skills.\",Pua:250248},F.position,()=>{this.kc=!1;kjp(this",
+  "new_chunk": true
+ },
+ {
+  "text": "Settings and help",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": "content-loaded\",\"disable-onload-animations\",\"expanded\",\"mobile\",\"side-nav-mystuff-update\",\"ve\"],[\"aria-label\",\"Settings and help\",3,\"closed\",\"overlapTrigger\"],[\"lmMenuTheme\",\"\",\"overlapTrigger\",\"true\"],[1,\"sidenav-with-h",
+  "new_chunk": true
+ },
+ {
+  "text": "Let's get started",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "v;this.uWg=\"https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg\";this.Ej=_.R(\"Let's get started\");this.jCc=\"Write, plan, create, and get more done.\";this.Gf= \"Get started\";this.Tce=_.R(!1",
+  "new_chunk": true
+ },
+ {
+  "text": "Write, plan, create, and get more done.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "c.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg\";this.Ej=_.R(\"Let's get started\");this.jCc=\"Write, plan, create, and get more done.\";this.Gf= \"Get started\";this.Tce=_.R(!1);this.fRa=_.R(!1);this.Aoa=th",
+  "new_chunk": true
+ },
+ {
+  "text": "Get started",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "257da337c63.svg\";this.Ej=_.R(\"Let's get started\");this.jCc=\"Write, plan, create, and get more done.\";this.Gf= \"Get started\";this.Tce=_.R(!1);this.fRa=_.R(!1);this.Aoa=this.Ga.Ha(_.U8h);this.vog=this.Ga.Ha(_.wEd);this.bze",
+  "new_chunk": true
+ },
+ {
+  "text": "You’re in control of your settings and can �#20�change�/#20� them anytime.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "fffd#4\\ufffdPrivacy Notice[\\ufffd/#2\\ufffd|\\ufffd/#3\\ufffd|\\ufffd/#4\\ufffd] apply. \");return[[\"container\",\"\"],\" You\\u2019re in control of your settings and can \\ufffd#20\\ufffdchange\\ufffd/#20\\ufffd them anytime. \",\" Chat",
+  "new_chunk": true
+ },
+ {
+  "text": "Chats and �#2�location�/#2� are saved in History.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "\",\"\"],\" You\\u2019re in control of your settings and can \\ufffd#20\\ufffdchange\\ufffd/#20\\ufffd them anytime. \",\" Chats and \\ufffd#2\\ufffdlocation\\ufffd/#2\\ufffd are saved in History. \", \" Chats and \\ufffd#2\\ufffdlocation\\",
+  "new_chunk": true
+ },
+ {
+  "text": "Chats and �#2�location�/#2� are stored in Activity.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "ge\\ufffd/#20\\ufffd them anytime. \",\" Chats and \\ufffd#2\\ufffdlocation\\ufffd/#2\\ufffd are saved in History. \", \" Chats and \\ufffd#2\\ufffdlocation\\ufffd/#2\\ufffd are stored in Activity. \",\" Chats help train generative AI. ",
+  "new_chunk": true
+ },
+ {
+  "text": "Chats help train generative AI. You can �#2�turn this off�/#2� for future chats.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "#2\\ufffd are saved in History. \", \" Chats and \\ufffd#2\\ufffdlocation\\ufffd/#2\\ufffd are stored in Activity. \",\" Chats help train generative AI. You can \\ufffd#2\\ufffdturn this off\\ufffd/#2\\ufffd for future chats. \",\" Cha",
+  "new_chunk": true
+ },
+ {
+  "text": "Chats are reviewed to help make Google AI better for everyone.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=HwBxOc,OpU7Tc,UE0P2d,Z8wCif,ZQlXXb,_b,mlMvR,pwgmXb,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=DTcCS",
+  "ctx": "y. \",\" Chats help train generative AI. You can \\ufffd#2\\ufffdturn this off\\ufffd/#2\\ufffd for future chats. \",\" Chats are reviewed to help make Google AI better for everyone. \",a,b,[\"aria-describedby\",\"interstitial-descr",
+  "new_chunk": true
+ },
+ {
+  "text": ",status:1,pinned:!1,sqb:void 0,YQb:new Date,GIa:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,HbEaCf,HwBxOc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,QuxHpf,UE0P2d,Z8wCif,ZQlXXb,_b,eK0zfd,fSXoCf,mlMvR,o2mxrc,pwgmXb,v9r4Te,xqG9Nd/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=GzXWE",
+  "ctx": "e.dispatch((0,_.Cxf)({pageSize:11,filter:a}))}t8b(){var a={conversationId:\"__placeholder_goal__\",description:\"\",status:1,pinned:!1,sqb:void 0,YQb:new Date,GIa:\"Initializing task\\u2026\",vra:\"\"};this.store.dispatch((0,_.Ix",
+  "new_chunk": true
+ },
+ {
+  "text": "Something went wrong. Refresh and try again.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=BtUEvd",
+  "ctx": ".oa.tb.set(!1);EDl(a.oa,c)},error:()=>{a.Aa.next(!1);a.oa.tb.set(!1);a.Ba.next(!0);a.oa.nja.set(!0);_.aE(a.Fb,\"Something went wrong. Refresh and try again.\",\"\",_.WD)}})}; _.F6=class{constructor(){this.Da=_.v(_.Qwf);this.",
+  "new_chunk": true
+ },
+ {
+  "text": "student-aip-upsell",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bNyBZd,bSyRib,bnLiYc,eK0zfd,f8N0N,fSXoCf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,tCaMKd,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=gMf0nf",
+  "ctx": "d\",function(){_.y(c);var d=_.Q();return _.A(djl(d))}); _.K()}a&2&&_.H(\"config\",b)},fjl=function(a){a&1&&_.L(0,\"student-aip-upsell\")},hjl=function(a){a&1&&(_.RA(0,fjl,1,0),_.SA(1,0,gjl),_.lB())},ijl=function(a){a&1&&_.L(0",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.S9a>=1E3?\"P0\":\"P1\",jkb:\"Quick Win\",category:\"CACHE_ORDERING\",zCc:[b.vdc,b.Vpg],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "[1]}>\\n${C[2]}`,c-20,c+C[0].length+25)}}return b}; AUk=function(a){return[...a.y_a.map(b=>({id:`action-${b.id}`,priority:b.S9a>=1E3?\"P0\":\"P1\",jkb:\"Quick Win\",category:\"CACHE_ORDERING\",zCc:[b.vdc,b.Vpg],title:`Move dynami",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P0\":\"P1\",jkb:\"Quick Win\",category:\"CONFLICT\",zCc:[b.wha,b.xha],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "on:b.xR,Pkb:b.S9a,eub:b.S9a*1.5+300,owner:\"ALS Runtime & Context Team\"})),...a.q0a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P0\":\"P1\",jkb:\"Quick Win\",category:\"CONFLICT\",zCc:[b.wha,b.xha],title:`Resolve ",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",jkb:b.severity===\"CRITICAL\"||b.severity===\"HIGH\"&&!b.hbd?\"Major Overhaul\":\"Quick Win\",category:\"BLOAT\",zCc:[b.s_a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "b:60,eub:b.severity===\"HIGH\"?950:550,owner:\"Gemini SI Governance Team\"})),...a.v2a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",jkb:b.severity===\"CRITICAL\"||b.severity=",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\n\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",jkb:\"Quick Win\",category:\"REDUNDANCY\",zCc:[b.wha,b.xha],title:b.wsb===\"CROSS_SILO_CAPABILITY\"?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ens} tok)`,action:b.xR,Pkb:b.lJb,eub:b.lJb*(b.hbd?1.2:1),owner:b.owner})),...a.e9a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"? \"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",jkb:\"Quick Win\",category:\"REDUNDANCY\",zCc",
+  "new_chunk": true
+ },
+ {
+  "text": ",\npriority:c?\"P1\":\"P2\",jkb:\"Quick Win\",category:\"TYPO\",zCc:[b.s_a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "==\"UNBALANCED_XML_TAG\"||b.w0b===\"UNBALANCED_PARENTHESES\",d=b.Q1c.replace(/\\s+/g,\" \");return{id:`action-${b.id}`, priority:c?\"P1\":\"P2\",jkb:\"Quick Win\",category:\"TYPO\",zCc:[b.s_a],title:`Fix ${yUk[b.w0b]} '${d}' in '${b.s_",
+  "new_chunk": true
+ },
+ {
+  "text": "Answer simple, factual, or everyday queries directly and concisely.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "irectly and concisely\\\\b\",patternB:\"\\\\bsimple everyday queries should be answered concisely\\\\b\",sharedSnippet:\"Answer simple, factual, or everyday queries directly and concisely.\",wastedTokens:35,descriptionTemplate:\"Bot",
+  "new_chunk": true
+ },
+ {
+  "text": "Lead directly with the answer in the first sentence and eliminate introductory fluff or meta-announcements.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ctly with content in sentence 1|Eliminate introductory fluff, greetings, or robotic setups)\\\\b\",sharedSnippet:\"Lead directly with the answer in the first sentence and eliminate introductory fluff or meta-announcements.\",",
+  "new_chunk": true
+ },
+ {
+  "text": "Trigger and skip criteria for generating interactive widgets (when to invoke vs. skip widget generation).",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "he widget if the request is\\\\b\",patternB:\"\\\\bgenerate_widget:[\\\\s\\\\S]{0,220}?\\\\*\\\\*Skip:\\\\*\\\\*\",sharedSnippet:\"Trigger and skip criteria for generating interactive widgets (when to invoke vs. skip widget generation).\",wa",
+  "new_chunk": true
+ },
+ {
+  "text": "A list of locations to pass through or stop over at. These must be specific place names or addresses.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ocations to pass through or stop over at\\\\. These must be specific place names or addresses\\\\b\",sharedSnippet:\"A list of locations to pass through or stop over at. These must be specific place names or addresses.\", waste",
+  "new_chunk": true
+ },
+ {
+  "text": "Factor shared parameter descriptions in `maps_navigation` tool schemas into a concise shared reference.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": " the `waypoints` parameter are duplicated verbatim between '{blockA}' and '{blockB}'.\",recommendationTemplate:\"Factor shared parameter descriptions in `maps_navigation` tool schemas into a concise shared reference.\"},{id",
+  "new_chunk": true
+ },
+ {
+  "text": "It can only contain markdown features: BOLD, ITALIC, and TWO levels of HEADINGS.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "tternB:\"\\\\bIt can only contain markdown features: BOLD, ITALIC, and TWO levels of HEADINGS\\\\b\", sharedSnippet:\"It can only contain markdown features: BOLD, ITALIC, and TWO levels of HEADINGS.\",wastedTokens:95,description",
+  "new_chunk": true
+ },
+ {
+  "text": "Deduplicate repeated markdown formatting constraints across `notes_and_lists` tool declarations.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "kdown formatting restrictions are repeated verbatim across '{blockA}' and '{blockB}'.\",recommendationTemplate:\"Deduplicate repeated markdown formatting constraints across `notes_and_lists` tool declarations.\"},{idSuffix:",
+  "new_chunk": true
+ },
+ {
+  "text": "Do not append any email closing with a placeholder signature at the end of the email body.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "\\bDo not append any email closing with a placeholder signature at the end of the email body\\\\b\",sharedSnippet:\"Do not append any email closing with a placeholder signature at the end of the email body.\",wastedTokens:90,d",
+  "new_chunk": true
+ },
+ {
+  "text": "Move shared email body formatting rules to the namespace-level `gmail_bard` instruction instead of repeating per method.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "laceholder email signatures is duplicated verbatim between '{blockA}' and '{blockB}'.\",recommendationTemplate:\"Move shared email body formatting rules to the namespace-level `gmail_bard` instruction instead of repeating ",
+  "new_chunk": true
+ },
+ {
+  "text": ",action:(O=e==null?void 0:e.action)!=null?O:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,pwgmXb,qxlpjc,v9r4Te,xmtx9e,xqG9Nd,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "((F=this.turn())==null?void 0:F.YWb);var I,O;return{title:h,condition:(I=e==null?void 0:e.condition)!=null?I:\"\",action:(O=e==null?void 0:e.action)!=null?O:\"\",Su:f,badge:z}}}}});this.Ab=_.Tz(this.Yg);this.NYb=_.X(!0);this",
+  "new_chunk": true
+ },
+ {
+  "text": "Reconnect turn already exists",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "Q);a=a.request.clientTurnId; var c=b.Ab;b.Aa.value.state===\"WAITING_FOR_MODEL\"&&c!==void 0&&a===c&&(_.WP(b.oa,\"Reconnect turn already exists\",`clientTurnId=${a}`),_.jJe(b.Fa),HIe(b.oa.Fa,a),vKe(b))})),{dispatch:!1})}};YJ",
+  "new_chunk": true
+ },
+ {
+  "text": ",Mj:(t=c==null?void 0:(f=c.response)==null?void 0:f.turnId)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ">{var e,f,g,h,r,t,w,z={conversationId:(r=c==null?void 0:(e=c.request)==null?void 0:e.conversationId)!=null?r:\"\",Mj:(t=c==null?void 0:(f=c.response)==null?void 0:f.turnId)!=null?t:\"\",parentResponseId:(w=c==null?void 0:(g=",
+  "new_chunk": true
+ },
+ {
+  "text": "Unknown attach menu option",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "se \"files\":d=_.yQ.BLa;break a;case \"drive\":d=_.yQ.zga;break a;case \"photos\":d=_.yQ.bCa;break a;default:_.ib(d,\"Unknown attach menu option\")}d=void 0}g.call(f,d);e.Eb.get(_.XL).populatePrompt({textQuery:\"Attach these file",
+  "new_chunk": true
+ },
+ {
+  "text": "Attach these files to the email",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": " a;default:_.ib(d,\"Unknown attach menu option\")}d=void 0}g.call(f,d);e.Eb.get(_.XL).populatePrompt({textQuery:\"Attach these files to the email\"})}return _.A()})(\"focusin\",function(){var d= _.y(c).Oa,e=_.BA(1);return _.A(",
+  "new_chunk": true
+ },
+ {
+  "text": "Draft opened in Gmail",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "pired\"]},Ua:23,Va:26,Xa:()=>[[\"receiptBody\",\"\"],\"To: \\ufffd0\\ufffd\",\"Action timed out\",\"Something went wrong\",\"Draft opened in Gmail\",\"Sent\",\"Message sent\",\"Cc: \\ufffd0\\ufffd\",\"Bcc: \\ufffd0\\ufffd\",\"Subject: \\ufffd0\\ufffd",
+  "new_chunk": true
+ },
+ {
+  "text": "Break down the key concepts and terms on this page simply",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "roupId:9,Kca:!0}];_.Jnf=[..._.Inf,..._.snf];_.Knf=[..._.Inf,..._.tnf];var Enf={EXPLAIN:jT(\"EXPLAIN\",\"Explain\",\"Break down the key concepts and terms on this page simply\",\"notes_spark\"),MAKE_CHECKLIST:jT(\"MAKE_CHECKLIST\",",
+  "new_chunk": true
+ },
+ {
+  "text": "Give me an ordered checklist of tasks and to-dos based on this page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "e key concepts and terms on this page simply\",\"notes_spark\"),MAKE_CHECKLIST:jT(\"MAKE_CHECKLIST\",\"Create list\",\"Give me an ordered checklist of tasks and to-dos based on this page\",\"checklist\"),COMPARE:jT(\"COMPARE\",\"Compa",
+  "new_chunk": true
+ },
+ {
+  "text": "Provide a draft message that addresses the details on this page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "le, find an alternative, if a better one exists.\",\"split_scene\"),DRAFT_REPLY:jT(\"DRAFT_REPLY\",\"Draft message\",\"Provide a draft message that addresses the details on this page\", \"edit_note\"),DESCRIBE_IMAGE:jT(\"DESCRIBE_IM",
+  "new_chunk": true
+ },
+ {
+  "text": "Read and interpret any images on this page, including charts, screenshots, and other visuals to explain the key information found in them",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "age that addresses the details on this page\", \"edit_note\"),DESCRIBE_IMAGE:jT(\"DESCRIBE_IMAGE\",\"Analyze image\",\"Read and interpret any images on this page, including charts, screenshots, and other visuals to explain the k",
+  "new_chunk": true
+ },
+ {
+  "text": "Identify the main claims and statements on this page and verify if they're factually accurate",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "visuals to explain the key information found in them\",\"image_search\"),FACT_CHECK:jT(\"FACT_CHECK\",\"Fact check\",\"Identify the main claims and statements on this page and verify if they're factually accurate\",\"fact_check\"),",
+  "new_chunk": true
+ },
+ {
+  "text": "Provide a polished version of this draft to improve clarity, flow, and tone, while fixing any errors",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "atements on this page and verify if they're factually accurate\",\"fact_check\"),REWRITE:jT(\"REWRITE\",\"Rephrase\",\"Provide a polished version of this draft to improve clarity, flow, and tone, while fixing any errors\", \"pen_s",
+  "new_chunk": true
+ },
+ {
+  "text": "Analyze the figures or tables on this page to calculate key totals, differences, and verify math",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": " find and recommend an alternative, if a better one exists.\",\"thumb_up\"),CALCULATE:jT(\"CALCULATE\",\"Calculate\",\"Analyze the figures or tables on this page to calculate key totals, differences, and verify math\",\"function\")",
+  "new_chunk": true
+ },
+ {
+  "text": "Generate practice questions to test my understanding of the core concepts on this page, without showing the answers yet",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "is page to calculate key totals, differences, and verify math\",\"function\"),QUIZ_ME:jT(\"QUIZ_ME\",\"Create quiz\",\"Generate practice questions to test my understanding of the core concepts on this page, without showing the a",
+  "new_chunk": true
+ },
+ {
+  "text": "Write or debug the code needed for this page, or generate a script to extract and automate this data",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "s page is available at a different store for a better price.\",\"sell\"),WRITE_CODE:jT(\"WRITE_CODE\",\"Write code\",\"Write or debug the code needed for this page, or generate a script to extract and automate this data\",\"code\")",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to handle capture region",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "his.Aa,b).pipe(_.Qt(d=>{this.Ba.QG();this.Aa.oa=d}),_.u(()=>(0,_.YGe)({items:c})))),_.Et(b=>{this.logger.warn(\"Failed to handle capture region\",b);this.Aa.oa=void 0;this.Ba.QG();return _.q((0,_.YGe)({items:[]}))}),_.Ot(t",
+  "new_chunk": true
+ },
+ {
+  "text": "Get a notification to confirm final purchase or choose to let Gemini buy automatically",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "t your max budget and choose merchants Gemini can browse and buy from\"},{Ej:\"You\\u2019re in control\",bodyText:\"Get a notification to confirm final purchase or choose to let Gemini buy automatically\"},{Ej:\"Gemini uses inf",
+  "new_chunk": true
+ },
+ {
+  "text": "Undefined property",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "rce.replace(f,function(ba,za,ja,ka,fa){var xa=za||ja;if(xa){if(!r.hasOwnProperty(xa))throw new ReferenceError(\"Undefined property \"+ba);if(za){var ra=N[D];K[++D]=++v;ba=\"(?<\"+(ra||xa)+\">\"}else ba=\"(?:\";A=v;return ba+r[xa",
+  "new_chunk": true
+ },
+ {
+  "text": "Astral mode required for Unicode token",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "Error(\"Unicode token missing data \"+ p[0]+\" -> \"+A.inverseOf);A=f[r];u=!u}if(!A.bmp&&!v)throw new SyntaxError(\"Astral mode required for Unicode token \"+p[0]);if(v){if(q===\"class\")throw new SyntaxError(\"Astral mode does n",
+  "new_chunk": true
+ },
+ {
+  "text": "Astral mode does not support Unicode tokens within character classes",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "ow new SyntaxError(\"Astral mode required for Unicode token \"+p[0]);if(v){if(q===\"class\")throw new SyntaxError(\"Astral mode does not support Unicode tokens within character classes\");p=u?\"a!\":\"a=\";(q=f[r][p])||(q=f[r],r=f",
+  "new_chunk": true
+ },
+ {
+  "text": ",Mj:(r=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?r:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "var d,e,f,g,h,r,t,w,z={conversationId:(h=b==null?void 0:(d=b.request)==null?void 0:d.conversationId)!=null?h:\"\",Mj:(r=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?r:\"\",parentResponseId:(t=b==null?void 0:(f=",
+  "new_chunk": true
+ },
+ {
+  "text": "Don't give up! Review the material and try again.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "2&&(a=_.Q(),_.D(\"stroke-dasharray\",a.tAg)(\"stroke-dashoffset\",_.W(1,2,a.uAg)))};_.wUi=function(a){return a<=0?\"Don't give up! Review the material and try again.\":a<=60?\"Good start! Keep practicing.\":a<=79?\"Solid progress",
+  "new_chunk": true
+ },
+ {
+  "text": "Good start! Keep practicing.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "et\",_.W(1,2,a.uAg)))};_.wUi=function(a){return a<=0?\"Don't give up! Review the material and try again.\":a<=60?\"Good start! Keep practicing.\":a<=79?\"Solid progress! Keep up the good work.\":a<=99?\"Well done! A few left to ",
+  "new_chunk": true
+ },
+ {
+  "text": "Solid progress! Keep up the good work.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "a){return a<=0?\"Don't give up! Review the material and try again.\":a<=60?\"Good start! Keep practicing.\":a<=79?\"Solid progress! Keep up the good work.\":a<=99?\"Well done! A few left to review.\":\"Perfect score! You've maste",
+  "new_chunk": true
+ },
+ {
+  "text": "Well done! A few left to review.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "ial and try again.\":a<=60?\"Good start! Keep practicing.\":a<=79?\"Solid progress! Keep up the good work.\":a<=99?\"Well done! A few left to review.\":\"Perfect score! You've mastered this set.\"};xUi=function(a){a&1&&(_.T(0),_.",
+  "new_chunk": true
+ },
+ {
+  "text": "Perfect score! You've mastered this set.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "rt! Keep practicing.\":a<=79?\"Solid progress! Keep up the good work.\":a<=99?\"Well done! A few left to review.\":\"Perfect score! You've mastered this set.\"};xUi=function(a){a&1&&(_.T(0),_.U(1,\"sig\"));a&2&&(a=_.Q(),_.nx(\" \",",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Tr||!a.Uxa()?a.Tr.vAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "[\"PieChart\",\"Pie chart\"]]),szj=function(a){var b;return(b=a.Tr.title)!=null?b:\"\"},tzj=function(a){return\"vAxis\"in a.Tr||!a.Uxa()?a.Tr.vAxis.title:\"\"},uzj=function(a){return\"hAxis\"in a.Tr||!a.Uxa()?a.Tr.hAxis.title:\"\"},wz",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Tr||!a.Uxa()?a.Tr.hAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ")!=null?b:\"\"},tzj=function(a){return\"vAxis\"in a.Tr||!a.Uxa()?a.Tr.vAxis.title:\"\"},uzj=function(a){return\"hAxis\"in a.Tr||!a.Uxa()?a.Tr.hAxis.title:\"\"},wzj=function(a){google&& (new Promise(b=>{_.ltb(qzj,{}).then(()=>{goog",
+  "new_chunk": true
+ },
+ {
+  "text": "Research queued",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "his.jj();if(a!==0){if(a===7)return\"Research unsuccessful\";if(a===6)return\"Research cancelled\"; if(a===2)return\"Research queued\";if(a===5)return this.NVc()||\"\";var b=this.oka();if(b==null?0:b.Ew)return b.Ew;switch(b==null",
+  "new_chunk": true
+ },
+ {
+  "text": "View transcript",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "[1,\"immersiveEntryChipContent\"],Bv:[1,\"isRenderComplete\"],turn:[1,\"turn\"]},Ua:11,Va:13,Xa:()=>[[\"content\",\"\"],\"View transcript\",\"Open\",\"Sent\",\"Rejected\",\"Open\",[3,\"artifactId\",\"artifactType\",\"sourceCode\",\"title\",\"turn\"],",
+  "new_chunk": true
+ },
+ {
+  "text": "Back to scorecard",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": " learning on this topic with a quick quiz. Score at least 80% to unlock a new strength.\",\"Take quiz\",\" Hint \",\" Back to scorecard \",\" Back to report \",\" Previous \",\" Next \",\" Submit \",\"Correct\",\"Incorrect\",\"That's right!",
+  "new_chunk": true
+ },
+ {
+  "text": "See personalized results",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.MFW4LRIAYrM.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.4DJrUA5YsO0.L.B1.O/am=8d8IgBL7AUz9fXDBL0EHDiigCNAJgugCAAAAEAI/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PU1dDc,PdaDwd,QuxHpf,UE0P2d,UghKfd,VSiC6e,Z8wCif,ZQlXXb,_b,bSyRib,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,pwgmXb,qxlpjc,v9r4Te,xqG9Nd,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqJxe0e_9ZCIOswVaokT542swLhrA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "f(c&&e&&(b=b.result.at(0),(b==null?void 0:b.Q5)!==void 0))return{r5d:this.sQ()!==b.Q5.artifactId}}});this.w0g=\"See personalized results\";this.Ba=this.Ga.Ha(_.MJi);this.Ia=_.Z(pqj(this.Aa),{initialValue:!1});this.sQ=_.Z(t",
+  "new_chunk": true
+ },
+ {
+  "text": ",ref:a?h:void 0,size:u?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/LibraryOverviewSurface.js",
+  "ctx": ";t[7]!==u||t[8]!==a||t[9]!==i||t[10]!==h?(v=i?(0,$.jsx)(Ne,{\"aria-label\":n._({id:`N6Pxr9`}),icon:`chevronRight`,ref:a?h:void 0,size:u?`m`:`s`,to:i,variant:`tonal`}):null,t[7]=u,t[8]=a,t[9]=i,t[10]=h,t[11]=v):v=t[11];let ",
+  "new_chunk": false
+ },
+ {
+  "text": "Tell me more about this item",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefSurface.js",
+  "ctx": ",t[1]=r,t[2]=i):i=t[2],i}function xa(e,t){let n=e?.trim();return{kind:`prompt`,prompt:n?`Let's discuss: ${n}`:`Tell me more about this item`,...t?.routeToMonothread&&{routeToMonothread:!0}}}function Sa(e,t){return{label:",
+  "new_chunk": false
+ },
+ {
+  "text": "rpcs.getUserStatus.shellUserTier",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GoogleAccountSettingsSurface.js",
+  "ctx": "FragmentSpread`,name:`shellUserTier_status`},kind:`RelayResolver`,name:`shellUserTier`,resolverModule:oe,path:`rpcs.getUserStatus.shellUserTier`}],storageKey:`getUserStatus(request:{\"requestedAccountAttributes\":{\"values\"",
+  "new_chunk": true
+ },
+ {
+  "text": "Google Account settings page",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GoogleAccountSettingsSurface.js",
+  "ctx": "6]=s);let c;return t[7]!==i||t[8]!==a||t[9]!==s?(c=(0,S.jsx)(h,{children:(0,S.jsx)(ie,{fallback:i,featureName:`Google Account settings page`,resetKeys:a,showDiagnostics:!1,children:s})}),t[7]=i,t[8]=a,t[9]=s,t[10]=c):c=t",
+  "new_chunk": true
+ },
+ {
+  "text": ",occupant:void 0,fullScreen:!1,fullScreenOnly:!1,asOverlay:!1,layoutRatio:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/usePanel.js",
+  "ctx": "ncludes(t)||s[t].compatibleWith.includes(e)}function l(){let e={};for(let t of o)e[t]={kind:t,presence:`closed`,occupant:void 0,fullScreen:!1,fullScreenOnly:!1,asOverlay:!1,layoutRatio:`default`,focusOnOpen:!1,sequence:0",
+  "new_chunk": false
+ },
+ {
+  "text": ",onClick:i,size:x,sx:f?j.buttonFullWidth:void 0,type:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "j.buttonFullWidth],target:`_blank`,variant:`tonal`,ve:n,children:r},`${t}-${e.label}`):(0,A.jsx)(b,{as:`button`,onClick:i,size:x,sx:f?j.buttonFullWidth:void 0,type:`button`,variant:`tonal`,ve:n,children:r},`${t}-${e.labe",
+  "new_chunk": false
+ },
+ {
+  "text": ",disabled:!0,size:x,sx:f?j.buttonFullWidth:void 0,type:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "llWidth:void 0,type:`button`,variant:`tonal`,ve:n,children:r},`${t}-${e.label}`)}return(0,A.jsx)(b,{as:`button`,disabled:!0,size:x,sx:f?j.buttonFullWidth:void 0,type:`button`,variant:`tonal`,ve:n,children:r},`${t}-${e.la",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sx:[H.cell,n?H.headerCell:H.bodyCell,b&&H.twoColumnCell,l&&H.firstCell,u&&H.lastCell],textAlign:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ListNodeView.js",
+  "ctx": ";return(0,z.jsxs)(a,{as:n?`th`:`td`,colSpan:t.colspan,overflowWrap:`break-word`,rowSpan:t.rowspan,scope:n?`col`:void 0,sx:[H.cell,n?H.headerCell:H.bodyCell,b&&H.twoColumnCell,l&&H.firstCell,u&&H.lastCell],textAlign:`star",
+  "new_chunk": false
+ },
+ {
+  "text": "Unexpected struct type.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/feature.js",
+  "ctx": "`:return oi(t);case`array`:return e=ci(e),sr(t,6,e);case`object`:return e=ti(e),sr(t,5,e);default:throw Error(`Unexpected struct type.`)}}function ai(e){switch(Qn(e.internalArrayDoNotAccessOrElseMightBeUndefinedWhoKnows,",
+  "new_chunk": false
+ },
+ {
+  "text": "Unexpected struct type",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/feature.js",
+  "ctx": "id 0);case 5:return ni(H(e,ri,V(e,X,5),void 0));case 6:return li(H(e,ui,V(e,X,6),void 0));default:throw Error(`Unexpected struct type`)}}function oi(e){if(!Ct(0))throw ve(`enum`);return Xn(e,1,X,0)}var si=class extends q",
+  "new_chunk": false
+ },
+ {
+  "text": "Found an unpaired surrogate",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/feature.js",
+  "ctx": "sWellFormed():/(?:[^\\uD800-\\uDBFF]|^)[\\uDC00-\\uDFFF]|[\\uD800-\\uDBFF](?![\\uDC00-\\uDFFF])/.test(e)))throw Error(`Found an unpaired surrogate`);return e}function wa(e){if(e==null)return e;if(typeof e==`string`){e=ae(e);try{",
+  "new_chunk": false
+ },
+ {
+  "text": "Unpacked JSPB Any messages are not supported. Ensure they are binary-packed before serialization.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/feature.js",
+  "ctx": "instanceof _)t=fe(t);else if(typeof t==`string`)t=fe(ce(t));else if(t==null)t=new Uint8Array;else throw Error(`Unpacked JSPB Any messages are not supported. Ensure they are binary-packed before serialization.`);return{$t",
+  "new_chunk": false
+ },
+ {
+  "text": "Personal context settings page",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/PersonalContextSettingsSurface.js",
+  "ctx": "0];let c;return t[11]!==i||t[12]!==a||t[13]!==s?(c=(0,b.jsx)(m,{children:(0,b.jsx)(se,{fallback:i,featureName:`Personal context settings page`,resetKeys:a,showDiagnostics:!1,children:s})}),t[11]=i,t[12]=a,t[13]=s,t[14]=c",
+  "new_chunk": true
+ },
+ {
+  "text": "The Gemini viewer is unavailable for the Skills settings page.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SkillsSettingsSurface.js",
+  "ctx": "{queryReference:r}=e,i=(0,x.usePreloadedQuery)(_e,r),c=(0,x.useFragment)(ve,i.viewer??null);if(!c)throw Error(`The Gemini viewer is unavailable for the Skills settings page.`);let{showSnack:d}=le(),[ue,de]=(0,x.useMutati",
+  "new_chunk": true
+ },
+ {
+  "text": "Skills settings page",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SkillsSettingsSurface.js",
+  "ctx": "6]=s);let c;return t[7]!==i||t[8]!==a||t[9]!==s?(c=(0,S.jsx)(p,{children:(0,S.jsx)(de,{fallback:i,featureName:`Skills settings page`,resetKeys:a,showDiagnostics:!1,children:s})}),t[7]=i,t[8]=a,t[9]=s,t[10]=c):c=t[10],c}e",
+  "new_chunk": true
+ },
+ {
+  "text": "Agent Gemini Live (Bobbin)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RageshakeFeedbackDialog.js",
+  "ctx": "e:`Live`,subtitle:`Voice, video and live conversations.`,componentId:`2230369`},{id:`#agent_gemini_live`,name:`Agent Gemini Live (Bobbin)`,subtitle:`Agentic voice, screen share, and Bobbin workflows.`,componentId:`223036",
+  "new_chunk": false
+ },
+ {
+  "text": "Agentic voice, screen share, and Bobbin workflows.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RageshakeFeedbackDialog.js",
+  "ctx": "ve conversations.`,componentId:`2230369`},{id:`#agent_gemini_live`,name:`Agent Gemini Live (Bobbin)`,subtitle:`Agentic voice, screen share, and Bobbin workflows.`,componentId:`2230369`,hotlistId:`9144017`},{id:`#notifica",
+  "new_chunk": false
+ },
+ {
+  "text": "Proactivity (Daily Brief)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RageshakeFeedbackDialog.js",
+  "ctx": "rsonalization`,subtitle:`Memory, personal context and saved info.`,componentId:`2230707`},{id:`#yourday`,name:`Proactivity (Daily Brief)`,subtitle:`Daily feed by Gemini.`,componentId:`2230424`,hotlistId:`8281344`},{id:`#",
+  "new_chunk": false
+ },
+ {
+  "text": "Privacy settings page",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/PrivacySettingsSurface.js",
+  "ctx": "=t[7];let c;return t[8]!==i||t[9]!==a||t[10]!==s?(c=(0,E.jsx)(v,{children:(0,E.jsx)(m,{fallback:i,featureName:`Privacy settings page`,resetKeys:a,showDiagnostics:!1,children:s})}),t[8]=i,t[9]=a,t[10]=s,t[11]=c):c=t[11],c",
+  "new_chunk": true
+ }
+]

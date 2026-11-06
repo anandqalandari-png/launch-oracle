@@ -1,0 +1,1262 @@
+[
+ {
+  "text": ":void 0,\"data-has-attachments\":C.hasAttachments?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "d 0,\"data-default-prompt-placeholder\":e.imagesLanding?e.promptPlaceholder:void 0,\"data-expanded\":ee.expanded?``:void 0,\"data-has-attachments\":C.hasAttachments?``:void 0,\"data-has-status\":C.hasStatus?``:void 0,\"data-dicta",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-has-status\":C.hasStatus?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "ing?e.promptPlaceholder:void 0,\"data-expanded\":ee.expanded?``:void 0,\"data-has-attachments\":C.hasAttachments?``:void 0,\"data-has-status\":C.hasStatus?``:void 0,\"data-dictation-active\":g.dictationActive?``:void 0,\"data-fil",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-dictation-active\":g.dictationActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "anded\":ee.expanded?``:void 0,\"data-has-attachments\":C.hasAttachments?``:void 0,\"data-has-status\":C.hasStatus?``:void 0,\"data-dictation-active\":g.dictationActive?``:void 0,\"data-file-drag-active\":C.fileDragActive?``:void ",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-file-drag-active\":C.fileDragActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "C.hasAttachments?``:void 0,\"data-has-status\":C.hasStatus?``:void 0,\"data-dictation-active\":g.dictationActive?``:void 0,\"data-file-drag-active\":C.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":C.optimistic?``:vo",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-mobile-submit-optimistic\":C.optimistic?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "tatus?``:void 0,\"data-dictation-active\":g.dictationActive?``:void 0,\"data-file-drag-active\":C.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":C.optimistic?``:void 0,\"data-submitting\":C.submitting?``:void 0,\"data",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-submitting\":C.submitting?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "ve?``:void 0,\"data-file-drag-active\":C.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":C.optimistic?``:void 0,\"data-submitting\":C.submitting?``:void 0,\"data-thinking-selected\":C.thinking?``:void 0,\"data-landing\"",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-thinking-selected\":C.thinking?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "leDragActive?``:void 0,\"data-mobile-submit-optimistic\":C.optimistic?``:void 0,\"data-submitting\":C.submitting?``:void 0,\"data-thinking-selected\":C.thinking?``:void 0,\"data-landing\":g.landing?``:void 0,\"data-logged-out\":e.",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-landing\":g.landing?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "imistic\":C.optimistic?``:void 0,\"data-submitting\":C.submitting?``:void 0,\"data-thinking-selected\":C.thinking?``:void 0,\"data-landing\":g.landing?``:void 0,\"data-logged-out\":e.authenticated===!0?void 0:``,\"data-mobile-comp",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-web-search-enabled\":oe?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "-logged-out\":e.authenticated===!0?void 0:``,\"data-mobile-composer\":e.handoff?void 0:``,\"data-voice-entry\":ce?``:void 0,\"data-web-search-enabled\":oe?``:void 0,\"data-octane-conversation-followup\":e.isLanding===!1?``:void 0",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-octane-authenticated-file-upload-failed\":re?e.authenticatedFileUploadFailedLabel:void 0,\"data-octane-lexical-composer\":e.authenticated===!0&&re?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "`:void 0,\"data-octane-native-draft-handoff\":e.handoff?void 0:``,\"data-octane-authenticated-file-composer\":re?``:void 0,\"data-octane-authenticated-file-upload-failed\":re?e.authenticatedFileUploadFailedLabel:void 0,\"data-o",
+  "new_chunk": false
+ },
+ {
+  "text": "><use href=#lightweight-shell-scroll-to-bottom>'),Qa=ix(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "type=button><span aria-hidden=true data-button-icon><svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><use href=#lightweight-shell-scroll-to-bottom>'),Qa=ix(\"<div data-scroll-to-bottom-anchor><!><div></div><div",
+  "new_chunk": false
+ },
+ {
+  "text": "===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(v(t)?.assistantMessageId===ce.messageId?o=ce.observation.finish():ce.observation.dispose(),ce=void 0):",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "failed\"===e.detail.kind||e.detail.kind.startsWith(\"background-\")||\"terminal-received\"===e.detail.kind&&\"failed\"===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(v(t)?.assistantMessageId===ce.messageId?o=ce",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.width,F,H.stop.paint.p3Name,H.stop.canvas.height,H.stop.canvas.viewBox,H.stop.canvas.width,Z],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "This conversation has just been shared to me. Please summarize the contents of this conversation",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ersation.receiver-summarize-label\",\"Summarize\"),kg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"This conversation has just been shared to me. Please summarize the contents of this conversation\"),Cg=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Read story:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "about \"},{type:1,value:\"title\"}]],l,g,s,h,w,c,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Read story: \"},{type:1,value:\"title\"},{type:0,value:\" (opens in a new tab)\"}]]])},\"lazy.explore-image-detail\"",
+  "new_chunk": false
+ },
+ {
+  "text": "In ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "nslate \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" To \"},{type:1,value:\"targetLanguage\"},{type:0,value:\" In ChatGPT\"}]],J,X,$,_,ee,te,ie,ae,oe,ne,re,le,ge,se,he,we,[\"lightweight-web.translate.language-detected-lab",
+  "new_chunk": false
+ },
+ {
+  "text": "Dieses Gespräch wurde gerade mit mir geteilt. Bitte fasse den Inhalt dieses Gesprächs zusammen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ion.receiver-summarize-label\",\"Zusammenfassen\"),kh=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Dieses Gespräch wurde gerade mit mir geteilt. Bitte fasse den Inhalt dieses Gesprächs zusammen.\"),yh=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Bild erneut laden",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "tweight-web.conversation.retry\",\"Erneut versuchen\"),Dh=e(\"lightweight-web.conversation.retry-generated-image\",\"Bild erneut laden\"),Eh=e(\"lightweight-web.conversation.retry-upload-blocked\",\"Warte, bis der Upload abgeschlo",
+  "new_chunk": false
+ },
+ {
+  "text": "Weiter mit Apple",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ortzufahren.\"),lD=e(\"lightweight-web.auth.continue\",\"Weiter\"),gD=e(\"lightweight-web.auth.continue-with-apple\",\"Weiter mit Apple\"),hD=e(\"lightweight-web.auth.continue-with-email\",\"Weiter mit E-Mail\"),sD=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Weiter mit Google",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ghtweight-web.auth.continue-with-email\",\"Weiter mit E-Mail\"),sD=e(\"lightweight-web.auth.continue-with-google\",\"Weiter mit Google\"),oD=e(\"lightweight-web.auth.continue-with-microsoft\",\"Weiter mit Microsoft\"),wD=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Weiter mit Telefonnummer",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ght-web.auth.continue-with-microsoft\",\"Weiter mit Microsoft\"),wD=e(\"lightweight-web.auth.continue-with-phone\",\"Weiter mit Telefonnummer\"),cD=e(\"lightweight-web.auth.create-account\",\"Konto erstellen\"),dD=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Artikel lesen:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "le\"},{type:0,value:\" erhalten\"}]],g,h,s,o,w,c,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Artikel lesen: \"},{type:1,value:\"title\"},{type:0,value:\" (wird in einem neuen Tab geöffnet)\"}]]])},\"lazy.expl",
+  "new_chunk": false
+ },
+ {
+  "text": "Übersetze von",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "T,B,x,P,G,S,C,M,W,V,F,K,L,I,j,O,N,Z,H,R,U,Q,q,J,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Übersetze von \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" nach \"},{type:1,value:\"targetLanguage\"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Stručně mi shrň tuto zprávu:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "g-image\",\"Načítání nápadu na obrázek…\"),p=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Stručně mi shrň tuto zprávu: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nZdroj: \"},{type:1,value:\"articleUrl",
+  "new_chunk": false
+ },
+ {
+  "text": "Popiš klíčová fakta, vysvětli, proč je zpráva důležitá, a uveď případné související novinky. Odpověz v tomto jazyce:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "tuto zprávu: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nZdroj: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nPopiš klíčová fakta, vysvětli, proč je zpráva důležitá, a uveď případné související novinky. Odpověz v to",
+  "new_chunk": false
+ },
+ {
+  "text": "Právě se mnou někdo sdílel tuto konverzaci. Shrň prosím její obsah.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Shrnout\"),zs=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Právě se mnou někdo sdílel tuto konverzaci. Shrň prosím její obsah.\"),fs=e(\"lightweight-web.conversation.resp",
+  "new_chunk": false
+ },
+ {
+  "text": "Zkusit obrázek načíst znovu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "lightweight-web.conversation.retry\",\"Zkusit znovu\"),Ps=e(\"lightweight-web.conversation.retry-generated-image\",\"Zkusit obrázek načíst znovu\"),Zs=e(\"lightweight-web.conversation.retry-upload-blocked\",\"Počkejte, až se přílo",
+  "new_chunk": false
+ },
+ {
+  "text": "Sniedz man īsu pārskatu par šo ziņu:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "loading-image\",\"Ielādē ideju attēlam…\"),w=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Sniedz man īsu pārskatu par šo ziņu: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nAvots: \"},{type:1,value:\"ar",
+  "new_chunk": false
+ },
+ {
+  "text": "Izskaidro galvenos faktus, kāpēc šī ziņa ir svarīga, un sniedz informāciju par jaunākajām aktualitātēm, ja tādas ir. Atbildi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "par šo ziņu: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nAvots: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nIzskaidro galvenos faktus, kāpēc šī ziņa ir svarīga, un sniedz informāciju par jaunākajām aktualitātēm, j",
+  "new_chunk": false
+ },
+ {
+  "text": "Izveido kopsavilkumu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "onversation.message-copied\",\"Ziņojums nokopēts\"),zn=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Izveido kopsavilkumu\"),fn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ar mani tikko kopīgoja ",
+  "new_chunk": false
+ },
+ {
+  "text": "Ar mani tikko kopīgoja šo sarunu. Lūdzu, izveido šīs sarunas satura kopsavilkumu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "ceiver-summarize-label\",\"Izveido kopsavilkumu\"),fn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ar mani tikko kopīgoja šo sarunu. Lūdzu, izveido šīs sarunas satura kopsavilkumu.\"),yn=e(\"lightweight-web.con",
+  "new_chunk": false
+ },
+ {
+  "text": "Ziņot par materiāliem, kuros attēlota bērnu seksuāla izmantošana",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "jupielādē, nesaglabā un nekopīgo šos materiālus.\"),qn=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Ziņot par materiāliem, kuros attēlota bērnu seksuāla izmantošana\"),Jn=e(\"lightweight-web.csam-help-resources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Saņem specializētu palīdzību",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "riāliem, kuros attēlota bērnu seksuāla izmantošana\"),Jn=e(\"lightweight-web.csam-help-resources.support-title\",\"Saņem specializētu palīdzību\"),Fn=e(\"lightweight-web.csam-help-resources.title\",\"Palīdzības resursi\"),Hn=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Esta conversa acabou de ser compartilhada comigo. Resuma o conteúdo dela.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Resumir\"),kl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Esta conversa acabou de ser compartilhada comigo. Resuma o conteúdo dela.\"),xl=e(\"lightweight-web.conversatio",
+  "new_chunk": false
+ },
+ {
+  "text": "Ler matéria:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "sobre \"},{type:1,value:\"title\"}]],n,l,g,h,c,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Ler matéria: \"},{type:1,value:\"title\"},{type:0,value:\" (abre em uma nova aba)\"}]]])},\"lazy.explore-image-deta",
+  "new_chunk": false
+ },
+ {
+  "text": "Traduza de",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "T,P,E,A,N,R,G,D,j,O,B,I,M,S,V,F,L,U,H,Q,W,J,K,Z,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Traduza de \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" para \"},{type:1,value:\"targetLanguage\"},{type:0",
+  "new_chunk": false
+ },
+ {
+  "text": "Cette conversation vient d’être partagée avec moi. Merci d’en résumer le contenu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Résumer\"),zl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Cette conversation vient d’être partagée avec moi. Merci d’en résumer le contenu.\"),kl=e(\"lightweight-web.con",
+  "new_chunk": false
+ },
+ {
+  "text": "Lire l’article :",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "é sur \"},{type:1,value:\"title\"}]],n,l,g,h,c,u,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Lire l’article : \"},{type:1,value:\"title\"},{type:0,value:\" (s’ouvre dans un nouvel onglet)\"}]]])},\"lazy.explo",
+  "new_chunk": false
+ },
+ {
+  "text": "Traduisez dans ChatGPT :",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "A,P,R,T,V,j,G,I,E,D,S,L,O,F,M,N,U,B,H,J,Q,W,Z,K,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Traduisez dans ChatGPT : \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" → \"},{type:1,value:\"targetLanguag",
+  "new_chunk": false
+ },
+ {
+  "text": "Créez un brouillon au format",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": ",vr,fr,yr,zr,kr,Cr,xr,qr,Ar,[\"lightweight-web.writing-tools.ai-text-generator-prompt-template\",[{type:0,value:\"Créez un brouillon au format \"},{type:1,value:\"format\"},{type:0,value:\". Adoptez un ton \"},{type:1,value:\"ton",
+  "new_chunk": false
+ },
+ {
+  "text": ". Respectez la longueur suivante :",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "n au format \"},{type:1,value:\"format\"},{type:0,value:\". Adoptez un ton \"},{type:1,value:\"tone\"},{type:0,value:\". Respectez la longueur suivante : \"},{type:1,value:\"length\"},{type:0,value:\".\"}]],Pr,Rr,Tr,Vr,jr,[\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "Percakapan ini baru saja dibagikan kepada saya. Tolong ringkas isi percakapan ini",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Ringkas\"),ys=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Percakapan ini baru saja dibagikan kepada saya. Tolong ringkas isi percakapan ini\"),fs=e(\"lightweight-web.con",
+  "new_chunk": false
+ },
+ {
+  "text": "Baca berita:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "ntang \"},{type:1,value:\"title\"}]],r,s,o,h,w,u,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Baca berita: \"},{type:1,value:\"title\"},{type:0,value:\" (dibuka di tab baru)\"}]]])},\"lazy.explore-image-detail",
+  "new_chunk": false
+ },
+ {
+  "text": "Terjemahkan dari",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "C,M,G,D,B,x,S,K,z,I,O,L,E,H,U,R,q,N,F,J,W,V,Q,Y,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Terjemahkan dari \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" ke \"},{type:1,value:\"targetLanguage\"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Fes un resum",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": ".conversation.message-copied\",\"Missatge copiat\"),yn=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Fes un resum\"),xn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Acaben de compartir aquesta con",
+  "new_chunk": false
+ },
+ {
+  "text": "Acaben de compartir aquesta conversa amb mi. Resumeix-ne el contingut.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "ation.receiver-summarize-label\",\"Fes un resum\"),xn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Acaben de compartir aquesta conversa amb mi. Resumeix-ne el contingut.\"),kn=e(\"lightweight-web.conversation.r",
+  "new_chunk": false
+ },
+ {
+  "text": "Ajuda a les víctimes i les famílies",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "nversation.writing-block-subject-label\",\"Assumpte\"),Bn=e(\"lightweight-web.csam-help-resources.families-title\",\"Ajuda a les víctimes i les famílies\"),Hn=e(\"lightweight-web.csam-help-resources.reporting-description\",\"Si un",
+  "new_chunk": false
+ },
+ {
+  "text": "Accedeix a suport especialitzat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "g-title\",\"Denuncia material d’abús sexual infantil\"),Un=e(\"lightweight-web.csam-help-resources.support-title\",\"Accedeix a suport especialitzat\"),Qn=e(\"lightweight-web.csam-help-resources.title\",\"Recursos d'ajuda\"),Wn=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Llegeix la notícia:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "sobre \"},{type:1,value:\"title\"}]],s,n,g,c,h,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Llegeix la notícia: \"},{type:1,value:\"title\"},{type:0,value:\" (s’obre en una pestanya nova)\"}]]])},\"lazy.expl",
+  "new_chunk": false
+ },
+ {
+  "text": "Tradueix d’una llengua (",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "P,E,A,z,j,S,G,N,I,D,M,O,R,L,F,B,H,V,U,Q,W,X,J,K,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Tradueix d’una llengua (\"},{type:1,value:\"sourceLanguage\"},{type:0,value:\") a una altra (\"},{type:1,value:\"ta",
+  "new_chunk": false
+ },
+ {
+  "text": "On vient de partager cette conversation avec moi. Veuillez en résumer le contenu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Résumer\"),zl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"On vient de partager cette conversation avec moi. Veuillez en résumer le contenu.\"),Cl=e(\"lightweight-web.con",
+  "new_chunk": false
+ },
+ {
+  "text": "Esta conversa acabou de ser partilhada comigo. Por favor, resume o conteúdo desta conversa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Resumir\"),kl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Esta conversa acabou de ser partilhada comigo. Por favor, resume o conteúdo desta conversa\"),Cl=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Denuncie material de abuso sexual de crianças",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": ". Não transfira, guarde nem partilhe o material.\"),Ul=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Denuncie material de abuso sexual de crianças\"),Hl=e(\"lightweight-web.csam-help-resources.support-title\",\"Obt",
+  "new_chunk": false
+ },
+ {
+  "text": "Ler artigo:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "mo de \"},{type:1,value:\"title\"}]],n,l,g,h,c,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Ler artigo: \"},{type:1,value:\"title\"},{type:0,value:\" (abre num novo separador)\"}]]])},\"lazy.explore-image-de",
+  "new_chunk": false
+ },
+ {
+  "text": "Mazungumzo haya yameshirikiwa nami hivi punde. Tafadhali toa muhtasari wa yaliyomo kwenye mazungumzo haya",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Fupisha\"),fg=a(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Mazungumzo haya yameshirikiwa nami hivi punde. Tafadhali toa muhtasari wa yaliyomo kwenye mazungumzo haya\"),z",
+  "new_chunk": false
+ },
+ {
+  "text": "Soma habari:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "uhusu \"},{type:1,value:\"title\"}]],h,g,w,u,s,r,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Soma habari: \"},{type:1,value:\"title\"},{type:0,value:\" (inafunguka kwenye kichupo kipya)\"}]]])},\"lazy.explore",
+  "new_chunk": false
+ },
+ {
+  "text": "Tafsiri kutoka",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "I,C,K,G,x,A,M,O,H,U,J,Z,E,B,F,D,S,N,W,R,q,L,V,Y,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Tafsiri kutoka \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" hadi \"},{type:1,value:\"targetLanguage\"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Tee yhteenveto",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": ".conversation.message-copied\",\"Viesti kopioitu\"),yg=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Tee yhteenveto\"),jg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Tämä keskustelu on juuri jaet",
+  "new_chunk": false
+ },
+ {
+  "text": "Tämä keskustelu on juuri jaettu minulle. Voisitko tiivistää sen sisällön?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "ion.receiver-summarize-label\",\"Tee yhteenveto\"),jg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Tämä keskustelu on juuri jaettu minulle. Voisitko tiivistää sen sisällön?\"),fg=e(\"lightweight-web.conversatio",
+  "new_chunk": false
+ },
+ {
+  "text": "Ilmianna lapsiin kohdistuvaa seksuaaliväkivaltaa todistavaa kuvamateriaalia",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "veluun. Älä lataa, tallenna tai jaa materiaalia.\"),Jg=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Ilmianna lapsiin kohdistuvaa seksuaaliväkivaltaa todistavaa kuvamateriaalia\"),qg=e(\"lightweight-web.csam-help",
+  "new_chunk": false
+ },
+ {
+  "text": "Lue artikkeli:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "eesta \"},{type:1,value:\"title\"}]],o,g,h,r,u,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Lue artikkeli: \"},{type:1,value:\"title\"},{type:0,value:\" (avautuu uudelle välilehdelle)\"}]]])},\"lazy.explore-",
+  "new_chunk": false
+ },
+ {
+  "text": "Käännä ChatGPT:ssä:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "K,x,V,C,E,z,G,S,A,Y,O,I,M,N,D,F,H,J,q,R,B,U,W,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Käännä ChatGPT:ssä: \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" → \"},{type:1,value:\"targetLanguage\"}]]",
+  "new_chunk": false
+ },
+ {
+  "text": "Acaban de compartir conmigo esta conversación. Por favor, resume su contenido.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Resumir\"),kl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Acaban de compartir conmigo esta conversación. Por favor, resume su contenido.\"),Cl=e(\"lightweight-web.conver",
+  "new_chunk": false
+ },
+ {
+  "text": "Leer noticia:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "sobre \"},{type:1,value:\"title\"}]],s,l,g,c,h,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Leer noticia: \"},{type:1,value:\"title\"},{type:0,value:\" (se abre en una nueva pestaña)\"}]]])},\"lazy.explore-i",
+  "new_chunk": false
+ },
+ {
+  "text": "Traduce del",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "E,q,I,T,j,A,G,N,D,S,M,R,O,V,L,B,H,U,F,Q,W,Y,J,K,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Traduce del \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" al \"},{type:1,value:\"targetLanguage\"},{type:0,",
+  "new_chunk": false
+ },
+ {
+  "text": "Riassumi brevemente questa notizia:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "Caricamento dell'idea per l'immagine…\"),w=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Riassumi brevemente questa notizia: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nFonte: \"},{type:1,value:\"art",
+  "new_chunk": false
+ },
+ {
+  "text": "Spiega i fatti principali, perché la notizia è importante e gli eventuali aggiornamenti rilevanti. Rispondi in",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "sta notizia: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nFonte: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nSpiega i fatti principali, perché la notizia è importante e gli eventuali aggiornamenti rilevanti. Rispon",
+  "new_chunk": false
+ },
+ {
+  "text": "Questa conversazione è stata appena condivisa con me. Per favore, riassumine il contenuto",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "versation.receiver-summarize-label\",\"Riassumi\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Questa conversazione è stata appena condivisa con me. Per favore, riassumine il contenuto\"),kg=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Leggi l'articolo:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "go su \"},{type:1,value:\"title\"}]],n,g,s,c,h,w,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Leggi l'articolo: \"},{type:1,value:\"title\"},{type:0,value:\" (si apre in una nuova scheda)\"}]]])},\"lazy.explor",
+  "new_chunk": false
+ },
+ {
+  "text": "Traduci da",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "T,A,R,q,G,S,x,D,M,O,N,E,L,j,V,F,U,Q,B,H,W,K,Z,J,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Traduci da \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" a \"},{type:1,value:\"targetLanguage\"},{type:0,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Pateik man glaustą šios naujienos santrauką:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "oading-image\",\"Įkeliama vaizdo idėja…\"),u=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Pateik man glaustą šios naujienos santrauką: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nŠaltinis: \"},{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "Išdėstyk svarbiausius faktus, paaiškink, kodėl tai svarbu, ir pateik naujausią susijusią informaciją. Atsakyk šia kalba:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "antrauką: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nŠaltinis: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nIšdėstyk svarbiausius faktus, paaiškink, kodėl tai svarbu, ir pateik naujausią susijusią informaciją. Ats",
+  "new_chunk": false
+ },
+ {
+  "text": "Su manimi ką tik pasidalyta šiuo pokalbiu. Prašau apibendrinti jo turinį",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "ation.receiver-summarize-label\",\"Apibendrinti\"),yg=i(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Su manimi ką tik pasidalyta šiuo pokalbiu. Prašau apibendrinti jo turinį\"),fg=i(\"lightweight-web.conversation",
+  "new_chunk": false
+ },
+ {
+  "text": "Įkelti vaizdą dar kartą",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "weight-web.conversation.retry\",\"Bandyti dar kartą\"),Pg=i(\"lightweight-web.conversation.retry-generated-image\",\"Įkelti vaizdą dar kartą\"),zg=i(\"lightweight-web.conversation.retry-upload-blocked\",\"Palaukite, kol priedas bu",
+  "new_chunk": false
+ },
+ {
+  "text": "Praneškite apie vaikų seksualinio išnaudojimo medžiagą",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "eatsisiųskite, neišsaugokite ir ja nesidalykite.\"),Lg=i(\"lightweight-web.csam-help-resources.reporting-title\",\"Praneškite apie vaikų seksualinio išnaudojimo medžiagą\"),qg=i(\"lightweight-web.csam-help-resources.support-ti",
+  "new_chunk": false
+ },
+ {
+  "text": "Gaukite specializuotą pagalbą",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "eškite apie vaikų seksualinio išnaudojimo medžiagą\"),qg=i(\"lightweight-web.csam-help-resources.support-title\",\"Gaukite specializuotą pagalbą\"),Ug=i(\"lightweight-web.csam-help-resources.title\",\"Pagalbos ištekliai\"),Fg=i(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Denne samtale er lige blevet delt med mig. Opsummér venligst indholdet af samtalen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "versation.receiver-summarize-label\",\"Opsummér\"),yo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Denne samtale er lige blevet delt med mig. Opsummér venligst indholdet af samtalen\"),jo=e(\"lightweight-web.co",
+  "new_chunk": false
+ },
+ {
+  "text": "Oversæt fra",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "G,S,K,I,C,O,x,F,A,z,V,L,B,E,H,M,N,q,R,U,J,W,Z,Y,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Oversæt fra \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" til \"},{type:1,value:\"targetLanguage\"},{type:0",
+  "new_chunk": false
+ },
+ {
+  "text": "Denne samtalen ble nettopp delt med meg. Kan du oppsummere innholdet i samtalen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ersation.receiver-summarize-label\",\"Oppsummer\"),yo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Denne samtalen ble nettopp delt med meg. Kan du oppsummere innholdet i samtalen?\"),jo=e(\"lightweight-web.conv",
+  "new_chunk": false
+ },
+ {
+  "text": "Les saken:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ng av \"},{type:1,value:\"title\"}]],g,o,s,h,w,p,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Les saken: \"},{type:1,value:\"title\"},{type:0,value:\" (åpnes i en ny fane)\"}]]])},\"lazy.explore-image-detail\":",
+  "new_chunk": false
+ },
+ {
+  "text": "Oversett fra",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "O,D,G,S,K,x,C,A,F,z,V,B,N,E,I,H,M,q,R,U,J,W,Z,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Oversett fra \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" til \"},{type:1,value:\"targetLanguage\"},{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "Foglald össze",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "b.conversation.message-copied\",\"Üzenet másolva\"),vr=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Foglald össze\"),ur=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Most osztották meg velem ezt a",
+  "new_chunk": false
+ },
+ {
+  "text": "Most osztották meg velem ezt a beszélgetést. Kérlek, foglald össze a tartalmát!",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "tion.receiver-summarize-label\",\"Foglald össze\"),ur=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Most osztották meg velem ezt a beszélgetést. Kérlek, foglald össze a tartalmát!\"),yr=e(\"lightweight-web.conve",
+  "new_chunk": false
+ },
+ {
+  "text": "Képbetöltés újrapróbálása",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "htweight-web.conversation.retry\",\"Újrapróbálkozás\"),jr=e(\"lightweight-web.conversation.retry-generated-image\",\"Képbetöltés újrapróbálása\"),Ar=e(\"lightweight-web.conversation.retry-upload-blocked\",\"Várd meg a feltöltés vé",
+  "new_chunk": false
+ },
+ {
+  "text": "Koosta sellest uudisest lühiülevaade:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": ".loading-image\",\"Pildiidee laadimine…\"),w=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Koosta sellest uudisest lühiülevaade: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nAllikas: \"},{type:1,value:",
+  "new_chunk": false
+ },
+ {
+  "text": "Selgita peamisi fakte ja seda, miks uudis on oluline, ning kirjelda asjakohaseid uusi arenguid. Vasta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "iülevaade: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nAllikas: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nSelgita peamisi fakte ja seda, miks uudis on oluline, ning kirjelda asjakohaseid uusi arenguid. Vasta \"},",
+  "new_chunk": false
+ },
+ {
+  "text": "Tee kokkuvõte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "conversation.message-copied\",\"Sõnum kopeeritud\"),fn=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Tee kokkuvõte\"),yn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Minuga jagati äsja seda vestlu",
+  "new_chunk": false
+ },
+ {
+  "text": "Minuga jagati äsja seda vestlust. Palun tee selle vestluse sisust kokkuvõte.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "tion.receiver-summarize-label\",\"Tee kokkuvõte\"),yn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Minuga jagati äsja seda vestlust. Palun tee selle vestluse sisust kokkuvõte.\"),jn=e(\"lightweight-web.conversa",
+  "new_chunk": false
+ },
+ {
+  "text": "Sharax xaqiiqooyinka muhiimka ah, sababta uu muhiim u yahay, iyo wixii warar cusub ah ee la xiriira. Ku jawaab",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "an warkan: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nXigasho: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nSharax xaqiiqooyinka muhiimka ah, sababta uu muhiim u yahay, iyo wixii warar cusub ah ee la xiriira. Ku j",
+  "new_chunk": false
+ },
+ {
+  "text": "Sawirka ayaa la soo muujinayaa…",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "sages\",\"Waxaa la soo muujinayaa fariimihii hore\"),yr=a(\"lightweight-web.conversation.loading-generated-image\",\"Sawirka ayaa la soo muujinayaa…\"),mr=a(\"lightweight-web.conversation.loading-history\",\"Wadahadalka waa la soo",
+  "new_chunk": false
+ },
+ {
+  "text": "Soo koob",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ation.message-copied\",\"Fariinta la koobiyeeyay\"),pr=a(\"lightweight-web.conversation.receiver-summarize-label\",\"Soo koob\"),vr=a(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Wadahadalkan ayaa hadda uun la ila ",
+  "new_chunk": false
+ },
+ {
+  "text": "Wadahadalkan ayaa hadda uun la ila wadaagay. Fadlan soo koob waxa ku jira wadahadalkan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "versation.receiver-summarize-label\",\"Soo koob\"),vr=a(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Wadahadalkan ayaa hadda uun la ila wadaagay. Fadlan soo koob waxa ku jira wadahadalkan\"),fr=a(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Dib isugu day soo muujinta sawirka",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ightweight-web.conversation.retry\",\"Dib isugu day\"),qr=a(\"lightweight-web.conversation.retry-generated-image\",\"Dib isugu day soo muujinta sawirka\"),jr=a(\"lightweight-web.conversation.retry-upload-blocked\",\"Sug ilaa soo g",
+  "new_chunk": false
+ },
+ {
+  "text": "Warbixin ka gudbi waxyaabaha muujinaya xadgudubka galmada ee carruurta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": " dejisan, ha keydin, hana wadaagin waxyaabahaas.\"),Er=a(\"lightweight-web.csam-help-resources.reporting-title\",\"Warbixin ka gudbi waxyaabaha muujinaya xadgudubka galmada ee carruurta\"),Lr=a(\"lightweight-web.csam-help-reso",
+  "new_chunk": false
+ },
+ {
+  "text": "Akhri maqaalka:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "absan \"},{type:1,value:\"title\"}]],h,r,n,s,w,d,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Akhri maqaalka: \"},{type:1,value:\"title\"},{type:0,value:\" (wuxuu ku furmayaa tab cusub)\"}]]])},\"lazy.explore-",
+  "new_chunk": false
+ },
+ {
+  "text": "Ka turjun",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "D,A,T,W,G,C,K,I,P,M,O,z,F,H,Q,B,E,L,X,J,N,U,R,V,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Ka turjun \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" una turjun \"},{type:1,value:\"targetLanguage\"},{t",
+  "new_chunk": false
+ },
+ {
+  "text": "Oferă-mi o prezentare concisă a acestei știri:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "-image\",\"Se încarcă ideea de imagine…\"),u=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Oferă-mi o prezentare concisă a acestei știri: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nSursă: \"},{type:1",
+  "new_chunk": false
+ },
+ {
+  "text": "Explică faptele esențiale, de ce contează știrea și orice noutăți relevante. Răspunde în",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "estei știri: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nSursă: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nExplică faptele esențiale, de ce contează știrea și orice noutăți relevante. Răspunde în \"},{type:1,value",
+  "new_chunk": false
+ },
+ {
+  "text": "Această conversație tocmai a fost partajată cu mine. Te rog să rezumi conținutul acestei conversații",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "onversation.receiver-summarize-label\",\"Rezumă\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Această conversație tocmai a fost partajată cu mine. Te rog să rezumi conținutul acestei conversații\"),kg=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Obține asistență specializată",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "iale care prezintă abuzuri sexuale asupra copiilor\"),Hg=e(\"lightweight-web.csam-help-resources.support-title\",\"Obține asistență specializată\"),Wg=e(\"lightweight-web.csam-help-resources.title\",\"Resurse de ajutor\"),Kg=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Citește articolul:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "espre \"},{type:1,value:\"title\"}]],o,g,c,s,h,u,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Citește articolul: \"},{type:1,value:\"title\"},{type:0,value:\" (se deschide într-o filă nouă)\"}]]])},\"lazy.expl",
+  "new_chunk": false
+ },
+ {
+  "text": "Tradu din",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "P,T,j,R,G,O,S,D,I,N,E,V,F,M,L,q,B,U,H,W,K,Z,J,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Tradu din \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" în \"},{type:1,value:\"targetLanguage\"},{type:0,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Ta pogovor je bil pravkar deljen z mano. Prosim, povzemi njegovo vsebino.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Povzemi\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ta pogovor je bil pravkar deljen z mano. Prosim, povzemi njegovo vsebino.\"),fg=e(\"lightweight-web.conversatio",
+  "new_chunk": false
+ },
+ {
+  "text": "Preberi članek:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "vice: \"},{type:1,value:\"title\"}]],r,g,s,h,w,p,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Preberi članek: \"},{type:1,value:\"title\"},{type:0,value:\" (odpre se v novem zavihku)\"}]]])},\"lazy.explore-ima",
+  "new_chunk": false
+ },
+ {
+  "text": "Prevajajte iz jezika",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "N,I,O,x,D,G,S,V,C,Z,U,K,E,M,A,R,B,q,L,H,F,J,Q,W,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Prevajajte iz jezika \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" v jezik \"},{type:1,value:\"targetLangu",
+  "new_chunk": false
+ },
+ {
+  "text": "Nije moguće učitati sliku.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ated-file-spreadsheet\",\"Proračunska tablica\"),sg=e(\"lightweight-web.conversation.generated-image-load-failed\",\"Nije moguće učitati sliku.\"),hg=e(\"lightweight-web.conversation.health-composer-disclosure\",\"ChatGPT može pog",
+  "new_chunk": false
+ },
+ {
+  "text": "Ovaj je razgovor upravo podijeljen sa mnom. Molim te, sažmi njegov sadržaj",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "conversation.receiver-summarize-label\",\"Sažmi\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ovaj je razgovor upravo podijeljen sa mnom. Molim te, sažmi njegov sadržaj\"),fg=e(\"lightweight-web.conversati",
+  "new_chunk": false
+ },
+ {
+  "text": "Prijavite materijal koji prikazuje seksualno zlostavljanje djece",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": " preuzimati, spremati ni dijeliti taj materijal.\"),Bg=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Prijavite materijal koji prikazuje seksualno zlostavljanje djece\"),qg=e(\"lightweight-web.csam-help-resources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Pročitajte članak:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "esti: \"},{type:1,value:\"title\"}]],l,g,s,h,w,p,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Pročitajte članak: \"},{type:1,value:\"title\"},{type:0,value:\" (otvara se u novoj kartici)\"}]]])},\"lazy.explore",
+  "new_chunk": false
+ },
+ {
+  "text": "Prevodite u aplikaciji ChatGPT:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "N,T,D,G,x,U,I,C,A,R,S,H,Z,E,V,M,K,B,q,L,J,F,W,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Prevodite u aplikaciji ChatGPT: \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" → \"},{type:1,value:\"target",
+  "new_chunk": false
+ },
+ {
+  "text": "Taka saman",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "conversation.message-copied\",\"Skilaboð afrituð\"),ks=e(\"lightweight-web.conversation.receiver-summarize-label\",\"Taka saman\"),fs=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Þessu samtali var rétt í þessu de",
+  "new_chunk": false
+ },
+ {
+  "text": "Lesa frétt:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "kt um \"},{type:1,value:\"title\"}]],g,s,o,h,w,u,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Lesa frétt: \"},{type:1,value:\"title\"},{type:0,value:\" (opnast í nýjum flipa)\"}]]])},\"lazy.explore-image-detai",
+  "new_chunk": false
+ },
+ {
+  "text": "Þýddu í ChatGPT:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "T,G,P,H,V,B,C,z,R,L,F,A,D,O,M,I,N,q,U,K,J,Y,Q,W,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Þýddu í ChatGPT: \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" → \"},{type:1,value:\"targetLanguage\"}]],X,",
+  "new_chunk": false
+ },
+ {
+  "text": "Më jep një përmbledhje të shkurtër për këtë lajm:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "image\",\"Po ngarkohet ideja për imazh…\"),p=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Më jep një përmbledhje të shkurtër për këtë lajm: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nBurimi: \"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Nuk u ngarkua ky imazh.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "nerated-file-spreadsheet\",\"Fletëllogaritëse\"),sg=e(\"lightweight-web.conversation.generated-image-load-failed\",\"Nuk u ngarkua ky imazh.\"),lg=e(\"lightweight-web.conversation.health-composer-disclosure\",\"ChatGPT mund të gab",
+  "new_chunk": false
+ },
+ {
+  "text": "Kjo bisedë sapo u nda me mua. Përmblidh përmbajtjen e kësaj bisede",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ersation.receiver-summarize-label\",\"Përmblidh\"),fg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Kjo bisedë sapo u nda me mua. Përmblidh përmbajtjen e kësaj bisede\"),yg=e(\"lightweight-web.conversation.respo",
+  "new_chunk": false
+ },
+ {
+  "text": "Raporto materiale të abuzimit seksual me fëmijë",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "e shkarko, mos e ruaj dhe mos e ndaj materialin.\"),Fg=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Raporto materiale të abuzimit seksual me fëmijë\"),Zg=e(\"lightweight-web.csam-help-resources.support-title\",\"M",
+  "new_chunk": false
+ },
+ {
+  "text": "Merr mbështetje të specializuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "\",\"Raporto materiale të abuzimit seksual me fëmijë\"),Zg=e(\"lightweight-web.csam-help-resources.support-title\",\"Merr mbështetje të specializuar\"),Vg=e(\"lightweight-web.csam-help-resources.title\",\"Burime ndihme\"),Ug=e(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Lexo artikullin:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "rreth \"},{type:1,value:\"title\"}]],h,g,s,l,w,p,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Lexo artikullin: \"},{type:1,value:\"title\"},{type:0,value:\" (hapet në një skedë të re)\"}]]])},\"lazy.explore-im",
+  "new_chunk": false
+ },
+ {
+  "text": "Përkthe nga",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "K,A,x,G,T,S,N,C,M,D,L,R,I,H,E,B,O,F,Z,V,U,J,Q,W,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Përkthe nga \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" në \"},{type:1,value:\"targetLanguage\"},{type:0,",
+  "new_chunk": false
+ },
+ {
+  "text": "Imej ini tidak dapat dimuatkan.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "ation.generated-file-spreadsheet\",\"Hamparan\"),rr=a(\"lightweight-web.conversation.generated-image-load-failed\",\"Imej ini tidak dapat dimuatkan.\"),hr=a(\"lightweight-web.conversation.health-composer-disclosure\",\"ChatGPT bol",
+  "new_chunk": false
+ },
+ {
+  "text": "Perbualan ini baru sahaja dikongsi dengan saya. Sila ringkaskan kandungan perbualan ini",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "rsation.receiver-summarize-label\",\"Ringkaskan\"),yr=a(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Perbualan ini baru sahaja dikongsi dengan saya. Sila ringkaskan kandungan perbualan ini\"),fr=a(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Dalam ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "mahkan \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" Ke \"},{type:1,value:\"targetLanguage\"},{type:0,value:\" Dalam ChatGPT\"}]],Q,X,$,_,aa,ea,ia,ta,na,la,ga,sa,ra,ha,oa,wa,[\"lightweight-web.translate.language-detected-",
+  "new_chunk": false
+ },
+ {
+  "text": "Dit gesprek is net met me gedeeld. Vat de inhoud van dit gesprek alsjeblieft samen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "sation.receiver-summarize-label\",\"Samenvatten\"),yl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Dit gesprek is net met me gedeeld. Vat de inhoud van dit gesprek alsjeblieft samen.\"),jl=e(\"lightweight-web.c",
+  "new_chunk": false
+ },
+ {
+  "text": "Lees het artikel:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": " over \"},{type:1,value:\"title\"}]],g,l,s,h,w,d,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Lees het artikel: \"},{type:1,value:\"title\"},{type:0,value:\" (opent in een nieuw tabblad)\"}]]])},\"lazy.explore",
+  "new_chunk": false
+ },
+ {
+  "text": "Vertaal vanuit het",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "C,D,A,T,x,V,M,O,L,B,E,N,S,J,I,H,W,K,q,U,F,R,Z,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Vertaal vanuit het \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" naar het \"},{type:1,value:\"targetLangua",
+  "new_chunk": false
+ },
+ {
+  "text": "Przygotuj zwięzłe omówienie tego artykułu:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "image\",\"Wczytywanie pomysłu na obraz…\"),p=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Przygotuj zwięzłe omówienie tego artykułu: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nŹródło: \"},{type:1,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Właśnie udostępniono mi tę rozmowę. Proszę, podsumuj jej treść.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "versation.receiver-summarize-label\",\"Podsumuj\"),jl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Właśnie udostępniono mi tę rozmowę. Proszę, podsumuj jej treść.\"),vl=e(\"lightweight-web.conversation.response",
+  "new_chunk": false
+ },
+ {
+  "text": "Pomoc dla ofiar i ich rodzin",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": ".conversation.writing-block-subject-label\",\"Temat\"),Il=e(\"lightweight-web.csam-help-resources.families-title\",\"Pomoc dla ofiar i ich rodzin\"),Bl=e(\"lightweight-web.csam-help-resources.reporting-description\",\"Jeśli dzieck",
+  "new_chunk": false
+ },
+ {
+  "text": "Zgłoś materiały przedstawiające seksualne wykorzystywanie dzieci",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "nie zapisuj ani nie udostępniaj tych materiałów.\"),ql=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Zgłoś materiały przedstawiające seksualne wykorzystywanie dzieci\"),Rl=e(\"lightweight-web.csam-help-resources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Przeczytaj artykuł:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "matu: \"},{type:1,value:\"title\"}]],r,l,g,s,h,p,[\"lightweight-web.explore-feed.read-story-label\",[{type:0,value:\"Przeczytaj artykuł: \"},{type:1,value:\"title\"},{type:0,value:\" (otwiera się w nowej karcie)\"}]]])},\"lazy.explo",
+  "new_chunk": false
+ },
+ {
+  "text": "Tłumacz w ChatGPT:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "W,S,N,C,G,x,D,O,Z,A,U,L,K,E,M,I,B,q,R,J,V,F,H,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Tłumacz w ChatGPT: \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" → \"},{type:1,value:\"targetLanguage\"}]],",
+  "new_chunk": false
+ },
+ {
+  "text": "Acaban de compartir esta conversación conmigo. Por favor, resume su contenido",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Resumir\"),kl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Acaban de compartir esta conversación conmigo. Por favor, resume su contenido\"),Cl=e(\"lightweight-web.convers",
+  "new_chunk": false
+ },
+ {
+  "text": "Traduce de",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "q,E,T,j,A,G,N,V,I,D,R,M,O,L,S,B,H,U,Q,F,W,Y,J,K,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Traduce de \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" a \"},{type:1,value:\"targetLanguage\"},{type:0,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Bana bu haberin kısa bir özetini ver:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "ding-image\",\"Görsel fikri yükleniyor…\"),d=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Bana bu haberin kısa bir özetini ver: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nKaynak: \"},{type:1,value:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Bu konuşma az önce benimle paylaşıldı. Lütfen içeriğini özetle.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "onversation.receiver-summarize-label\",\"Özetle\"),fo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Bu konuşma az önce benimle paylaşıldı. Lütfen içeriğini özetle.\"),zo=e(\"lightweight-web.conversation.response",
+  "new_chunk": false
+ },
+ {
+  "text": "Ovu sliku nije bilo moguće učitati.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "rated-file-spreadsheet\",\"Proračunska tabela\"),sg=e(\"lightweight-web.conversation.generated-image-load-failed\",\"Ovu sliku nije bilo moguće učitati.\"),hg=e(\"lightweight-web.conversation.health-composer-disclosure\",\"ChatGPT",
+  "new_chunk": false
+ },
+ {
+  "text": "Ovaj razgovor je upravo podijeljen sa mnom. Molim te, sažmi sadržaj ovog razgovora",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "conversation.receiver-summarize-label\",\"Sažmi\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ovaj razgovor je upravo podijeljen sa mnom. Molim te, sažmi sadržaj ovog razgovora\"),fg=e(\"lightweight-web.co",
+  "new_chunk": false
+ },
+ {
+  "text": "Prevedite s jezika",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "N,A,D,G,T,x,C,U,I,K,S,B,M,V,E,Z,R,q,L,J,F,W,H,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Prevedite s jezika \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" na jezik \"},{type:1,value:\"targetLangua",
+  "new_chunk": false
+ },
+ {
+  "text": "Den här konversationen har precis delats med mig. Sammanfatta innehållet i konversationen, tack.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "sation.receiver-summarize-label\",\"Sammanfatta\"),yo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Den här konversationen har precis delats med mig. Sammanfatta innehållet i konversationen, tack.\"),Do=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Rapportera material som skildrar sexuella övergrepp mot barn",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ska inte ladda ner, spara eller dela materialet.\"),Ho=e(\"lightweight-web.csam-help-resources.reporting-title\",\"Rapportera material som skildrar sexuella övergrepp mot barn\"),qo=e(\"lightweight-web.csam-help-resources.supp",
+  "new_chunk": false
+ },
+ {
+  "text": "Få specialiserad hjälp",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": " material som skildrar sexuella övergrepp mot barn\"),qo=e(\"lightweight-web.csam-help-resources.support-title\",\"Få specialiserad hjälp\"),Uo=e(\"lightweight-web.csam-help-resources.title\",\"Hjälpresurser\"),Jo=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Översätt från",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "F,T,P,A,L,G,C,E,z,V,K,B,O,I,R,M,N,H,q,U,J,W,Z,Y,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Översätt från \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" till \"},{type:1,value:\"targetLanguage\"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Bigyan mo ako ng maikling buod ng balitang ito:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "\"Nilo-load ang ideya para sa larawan…\"),p=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Bigyan mo ako ng maikling buod ng balitang ito: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nPinagmulan: \"},{",
+  "new_chunk": false
+ },
+ {
+  "text": "Ipaliwanag ang mahahalagang detalye, kung bakit ito mahalaga, at ang anumang kaugnay na mga update. Tumugon sa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ng ito: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nPinagmulan: \"},{type:1,value:\"articleUrl\"},{type:0,value:\"\\n\\nIpaliwanag ang mahahalagang detalye, kung bakit ito mahalaga, at ang anumang kaugnay na mga update. Tumug",
+  "new_chunk": false
+ },
+ {
+  "text": "Ngayon lang ibinahagi sa akin ang pag-uusap na ito. Pakibuod ang nilalaman nito.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "conversation.receiver-summarize-label\",\"Ibuod\"),fs=a(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ngayon lang ibinahagi sa akin ang pag-uusap na ito. Pakibuod ang nilalaman nito.\"),Is=a(\"lightweight-web.conv",
+  "new_chunk": false
+ },
+ {
+  "text": "I-load ulit ang image",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "lightweight-web.conversation.retry\",\"Subukan ulit\"),Ms=a(\"lightweight-web.conversation.retry-generated-image\",\"I-load ulit ang image\"),xs=a(\"lightweight-web.conversation.retry-upload-blocked\",\"Hintaying matapos ang uploa",
+  "new_chunk": false
+ },
+ {
+  "text": "Makakuha ng espesyal na suporta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": " na nagpapakita ng seksuwal na pang-aabuso sa bata\"),Rs=a(\"lightweight-web.csam-help-resources.support-title\",\"Makakuha ng espesyal na suporta\"),Us=a(\"lightweight-web.csam-help-resources.title\",\"Mga resource para sa tulo",
+  "new_chunk": false
+ },
+ {
+  "text": "Práve so mnou niekto zdieľal túto konverzáciu. Prosím, zhrň jej obsah.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "onversation.receiver-summarize-label\",\"Zhrnúť\"),zs=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Práve so mnou niekto zdieľal túto konverzáciu. Prosím, zhrň jej obsah.\"),fs=e(\"lightweight-web.conversation.r",
+  "new_chunk": false
+ },
+ {
+  "text": "Získaj odbornú pomoc",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "siť materiál zobrazujúci sexuálne zneužívanie detí\"),Rs=e(\"lightweight-web.csam-help-resources.support-title\",\"Získaj odbornú pomoc\"),Ls=e(\"lightweight-web.csam-help-resources.title\",\"Zdroje pomoci\"),Ws=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Prekladajte z jazyka",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "S,T,N,Z,O,V,G,C,A,D,K,M,E,I,U,H,q,B,R,L,W,F,J,Q,[\"lightweight-web.translate.headline-template\",[{type:0,value:\"Prekladajte z jazyka \"},{type:1,value:\"sourceLanguage\"},{type:0,value:\" do jazyka \"},{type:1,value:\"targetLan",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor aria-hidden=true>',1),Hr=Ko(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "l=\"currentColor\"/>'});mo(1),jo(1,!0),vi([\"click\"],[112]);var Lr=Ko('<svg width=20 height=20 viewBox=\"0 0 20 20\" fill=currentColor aria-hidden=true>',1),Hr=Ko(\"<p role=alert>\"),Or=Ko('<div data-conversation-rating><aside>",
+  "new_chunk": false
+ },
+ {
+  "text": "),Br=Ko('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Kr=Ko(\"<!>\",0,1),Ur=Ko(\"<span role=alert> \"),Vr=Ko(\"<div data-generated-file-cards><!>\"),Br=Ko('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Wr=Ko('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Wr=Ko('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Ko('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Xr=Ko('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Ko('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),zx=Ko('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),wx=Ko(\"<div></div><!>\",0,2),jx=Ko(\"<p role=status> \"),qx=Ko(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),zx=Ko('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),Mx=Ko(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),Rx=Ko('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),Mx=Ko(\"<blockquote> \"),Ix=Ko(\"<p data-user-message-copy>\"),Cx=Ko(\"<p data-user-message-copy> \"),Rx=Ko('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),Sx=Ko('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),$x=Ko(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),Sx=Ko('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Ko(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),Sx=Ko('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Ko(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),Lx=Ko('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Ko(\"<svg aria-hidden=true fill=none><use>\",1),Lx=Ko('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Hx=Vn(111),Ox=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": "]'),i=n?.dataset.messageId||n?.id||e.dataset.canonicalDilMessageId,o=e.querySelector(':scope > script[data-canonical-dil-payload][type=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/registry.js",
+  "ctx": "ata||\"model_dil_v2\"in u.metadata))}catch{return!1}},z=(e,t,a)=>{let n=e.closest('[data-message-role=\"assistant\"]'),i=n?.dataset.messageId||n?.id||e.dataset.canonicalDilMessageId,o=e.querySelector(':scope > script[data-ca",
+  "new_chunk": false
+ },
+ {
+  "text": "Conversation metadata unavailable",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/saved-conversation.js",
+  "ctx": "y{let e=await o.response;if(!e.ok||!e.headers.get(`Content-Type`)?.startsWith(`application/json`))throw Error(`Conversation metadata unavailable`);let i=await G(e,131072);if(!i)throw Error(`Conversation metadata too larg",
+  "new_chunk": false
+ },
+ {
+  "text": "Conversation metadata too large",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/saved-conversation.js",
+  "ctx": "application/json`))throw Error(`Conversation metadata unavailable`);let i=await G(e,131072);if(!i)throw Error(`Conversation metadata too large`);let a=me(JSON.parse(new TextDecoder().decode(i)));return t.throwIfAborted()",
+  "new_chunk": false
+ },
+ {
+  "text": "!=typeof n||!Number.isSafeInteger(n)||n<0||n>Tt||!i||!i.isConnected||i.closest('[data-message-role=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/assistant.js",
+  "ctx": ".dataset.dilWidgetRef!==e.presentation.identity||t.dataset.partialIslandRef!==e.presentation.identity||\"number\"!=typeof n||!Number.isSafeInteger(n)||n<0||n>Tt||!i||!i.isConnected||i.closest('[data-message-role=\"assistant",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof e.isOpen?e.isOpen:void 0,latitude:e.latitude,longitude:e.longitude,...$(t.attribute,e),name:e.name,payload:JSON.stringify([e]),price:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/assistant.js",
+  "ctx": "egory:void 0,isModelPreferred:!(\"isModelPreferred\"in e)||!1!==e.isModelPreferred,isOpen:\"isOpen\"in e&&\"boolean\"==typeof e.isOpen?e.isOpen:void 0,latitude:e.latitude,longitude:e.longitude,...$(t.attribute,e),name:e.name,p",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,x=d===TA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===g){let e,i,k,b,v,x,y,w,j,S,C,N,E,I=Gy(VA);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===TA.EnterActive?\"\":void 0,y=d===TA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Ly(ux(rL.gro",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,y=d===TA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": ",N,E,I=Gy(VA);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===TA.EnterActive?\"\":void 0,y=d===TA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Ly(ux(rL.groupItem,!p.reduced&&rL.block,s.w",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,f=a===TA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "i,p=t.slots[0],m=null;if(void 0===p){let e,i,m,h,f,g,k,b,v,x=Gy(GA);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===TA.EnterActive?\"\":void 0,g=a===TA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Ly(ux(rL.con",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,g=a===TA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===p){let e,i,m,h,f,g,k,b,v,x=Gy(GA);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===TA.EnterActive?\"\":void 0,g=a===TA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Ly(ux(rL.content,rL.noShrink,o.composite&&r",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?Yf(e.children):",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "nt\"!==e.type||!Uf(e).includes(\"list-item-decorator\")).map(e=>\"text\"===e.type||\"raw\"===e.type?e.value:\"children\"in e?Yf(e.children):\"\").join(\"\")}function Xf(e,t){let i;(i=t[0])!==e&&(e.c=xy(t[2],e.c,e.b,i,\"b:f2ee098a\",!0)",
+  "new_chunk": false
+ },
+ {
+  "text": "Cannot set currentNode to a node that is not contained by the root node.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "ss{filter;root;whatToShow;get currentNode(){return this.#t}set currentNode(e){if(!Il(this.root,e))throw Error(\"Cannot set currentNode to a node that is not contained by the root node.\");this.#t=e,this.#i=null,this.#r=nul",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof m.color&&SB.has(m.color)?m.color:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===n[0]&&Fw(n[1],a)&&Fw(n[2],c)?n[3]:Mx(n,0,Xa(p,f),a,c)),k=\"md\"===m.size||\"lg\"===m.size?m.size:\"sm\",b=\"string\"==typeof m.color&&SB.has(m.color)?m.color:\"secondary\",v=null!=m.color&&!(\"string\"==typeof m.color&&SB.has(m.c",
+  "new_chunk": false
+ },
+ {
+  "text": ",!P||!A)throw a.errorReason=P?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "pported_encoding\",Error(\"Unsupported translation stream encoding.\");L=new D}}if(o(),a.failurePhase=\"completion\",!P||!A)throw a.errorReason=P?\"empty_translation\":\"incomplete_stream\",Error(\"Translation ended before it was ",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,role:S?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/Image.js",
+  "ctx": "data-w-hover-zoom\":f?\"\":void 0,\"data-w-image-load-failed\":E?\"\":void 0,\"data-w-image-load-recovery-pending\":I?\"\":void 0,role:S?\"button\":\"presentation\",tabIndex:S?0:void 0,onClick:S?a=>{a.stopPropagation(),H()}:void 0,onKe",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof F&&Number.isFinite(F)&&F>0?F:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/PieChart.js",
+  "ctx": ")return;let e=Math.min(2048,Math.max(1,Math.round(X))),t=\"number\"==typeof $&&Number.isFinite($)&&$>0?$:\"number\"==typeof F&&Number.isFinite(F)&&F>0?F:\"number\"==typeof ie&&Number.isFinite(ie)&&ie>0?e/ie:e;return{height:Mat",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,ref:G,referrerPolicy:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/YouTubeEmbed.js",
+  "ctx": "-media; gyroscope; picture-in-picture; web-share\",allowFullScreen:!0,className:m,\"data-w-click-through\":v||P?\"\":void 0,ref:G,referrerPolicy:\"strict-origin-when-cross-origin\",src:D,tabIndex:v?-1:void 0,title:T,onLoad:P&&!",
+  "new_chunk": false
+ },
+ {
+  "text": ",tickLine:!1,tickMargin:Lt?0:Vt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:qt??Br??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "kMargin:xr,hide:!je,height:je?void 0:0,padding:la}),(0,ar.jsx)(Nt,{className:rr.Axis,dataKey:Ct,type:\"category\",tickLine:!1,tickMargin:Lt?0:Vt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:qt??Br??\"auto\",hide:Lt,ti",
+  "new_chunk": false
+ },
+ {
+  "text": "),jn=Me('<a target=_blank rel=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "s-color-scheme: dark)\">'),yn=Me(\"<picture><!><img referrerPolicy=no-referrer>\"),Cn=Me(\"<strong> \"),wn=Me(\"<p> \"),jn=Me('<a target=_blank rel=\"noopener noreferrer\"> ',3),In=Me('<a rel=\"noopener noreferrer\"> ',3),_n=Me(\"<a",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof t?.resetAfter?t.resetAfter:void 0,conversationId:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "it?.()??M();if(!a&&r<o)return;let i=x();return{draftFull:!a,notice:a?n(t?.notice):void 0,resetAfter:a&&\"string\"==typeof t?.resetAfter?t.resetAfter:void 0,conversationId:\"string\"==typeof i?.backendConversationId?i.backend",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid Writing image",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/composer.js",
+  "ctx": "{attachments:t}=e.payload;if(Array.isArray(t))try{return i(t.map(e=>{if(!x(e)||\"local\"!==e.source)throw Error(\"Invalid Writing image\");return{fileId:e.id,name:e.name,mimeType:e.mime_type,size:e.size,width:e.width,height:",
+  "new_chunk": false
+ }
+]

@@ -222,12 +222,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-06",
+    "confidence": 0.55,
+    "note": "New UI strings show a Private/Shared visibility picker and an 'Only you' collaborators tooltip, which point to the feature being built."
    }
   ],
   "evidence": [
@@ -241,6 +246,18 @@
     "text": "Deleted private documents stay here for 30 days",
     "kind": "copy",
     "first_seen": "2026-11-05",
+    "new_chunk": false
+   },
+   {
+    "text": "Private or shared",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Only you",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
     "new_chunk": false
    }
   ],
@@ -269,12 +286,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.35,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-06",
+    "confidence": 0.45,
+    "note": "New inference settings let admins connect Amazon Bedrock or a custom endpoint, and an OpenAI key for Codex, for coding agents."
    }
   ],
   "evidence": [
@@ -300,6 +322,30 @@
     "text": "Choose who provides inference for cloud coding agents",
     "kind": "copy",
     "first_seen": "2026-11-05",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect cloud provider",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Amazon Bedrock",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Custom endpoint",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "OpenAI API key",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
     "new_chunk": false
    }
   ],
@@ -375,12 +421,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 120,
   "deadline": "2027-03-05",
-  "confidence": 0.2,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-06",
+    "confidence": 0.4,
+    "note": "Workbench folder create, rename, move and delete actions show the Workbench is being built out."
    }
   ],
   "evidence": [
@@ -401,6 +452,18 @@
     "kind": "copy",
     "first_seen": "2026-11-05",
     "new_chunk": false
+   },
+   {
+    "text": "Create Workbench folder",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Move Workbench item",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -412,6 +475,1097 @@
    "open_questions": [
     "What is the Workbench?",
     "Is it user-facing or internal?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-06-gems-migrating-to-skills",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Gems migrating to Skills",
+  "one_liner": "Users find their existing Gems under Settings as Gemini converts Gems into skills.",
+  "category": "expansion",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 45,
+  "deadline": "2026-12-21",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Gems are now in Settings",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "You can view your Gems here while they transition to skills.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Skills settings page",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Gems and the new skills concept overlap, and users need to know where their custom assistants went.",
+   "users": "Existing Gem creators and users, and anyone using skills.",
+   "what": "Gems move into Settings, where they are shown alongside a Skills settings page while they transition into skills.",
+   "how_it_appears": "A one-time tooltip anchored to a navigation element says 'Gems are now in Settings'. A Skills settings page sits among the other settings pages.",
+   "rollout_guess": "Gradual rollout to logged-in users, with the tooltip appearing the first time they see the new navigation.",
+   "open_questions": [
+    "Will Gems be fully replaced by skills, or will both coexist?",
+    "Will existing Gem instructions convert automatically?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-06-agentic-shopping-with-auto-buy",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Agentic shopping with auto-buy",
+  "one_liner": "Gemini browses merchants and buys on the user's behalf within a set budget, confirming by notification or purchasing automatically.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 90,
+  "deadline": "2027-02-04",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Get a notification to confirm final purchase or choose to let Gemini buy automatically",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users have to complete purchases themselves after Gemini finds products.",
+   "users": "Shoppers using Gemini, likely paid-tier or US users first.",
+   "what": "An onboarding flow where users set a maximum budget, choose merchants Gemini may browse and buy from, and decide between confirming each purchase and letting Gemini buy automatically.",
+   "how_it_appears": "An onboarding carousel with an 'You're in control' step.",
+   "rollout_guess": "Staged rollout, probably to paid subscribers in the US first.",
+   "open_questions": [
+    "Which merchants and payment methods are supported?",
+    "Is this part of an agent mode or a separate shopping surface?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-06-page-aware-quick-actions",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Page-aware quick actions",
+  "one_liner": "One-tap actions such as Explain, Create list, Fact check, Calculate, Create quiz and Write code that run on the page the user is viewing.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Break down the key concepts and terms on this page simply",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Identify the main claims and statements on this page and verify if they're factually accurate",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Generate practice questions to test my understanding of the core concepts on this page, without showing the answers yet",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Provide a draft message that addresses the details on this page",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users must write prompts themselves to work with the page they are reading.",
+   "users": "Browser users with Gemini available in a side panel or in-page.",
+   "what": "A set of preset chips (Explain, Create list, Compare, Draft message, Rephrase, Analyze image, Fact check, Calculate, Create quiz, Write code), each with an icon and a prefilled prompt about the current page.",
+   "how_it_appears": "Suggestion chips in a page-context assistant, probably a browser integration.",
+   "rollout_guess": "Likely arrives as part of a browser or Chrome Gemini update.",
+   "open_questions": [
+    "Which surface hosts it: Chrome, an extension, or the web app?",
+    "Are these chips already live in some form in Chrome?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-06-learning-quizzes-with-scorecard-and-stre",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Learning quizzes with scorecard and strengths",
+  "one_liner": "Gemini gives practice quizzes with score feedback, a scorecard and a personalised report, and users can unlock new strengths by scoring 80% or more.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Back to scorecard",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "See personalized results",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Perfect score! You've mastered this set.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Don't give up! Review the material and try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Learners have no structured way to track mastery inside Gemini.",
+   "users": "Students and self-learners.",
+   "what": "Interactive quizzes with hints, a per-score encouragement message, a scorecard and a report. Inferred: a strengths profile that unlocks at 80% or higher.",
+   "how_it_appears": "An interactive quiz artifact in chat, with a report view reached via 'Back to scorecard' and 'Back to report'.",
+   "rollout_guess": "Likely tied to Guided Learning or the education push, with a staged rollout.",
+   "open_questions": [
+    "Is the report tied to a personal learning profile?",
+    "Will it be limited to education accounts?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-06-agent-gemini-live-bobbin",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Agent Gemini Live (Bobbin)",
+  "one_liner": "A Gemini Live mode with agentic voice, screen sharing and 'Bobbin' workflows.",
+  "category": "experiment",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 120,
+  "deadline": "2027-03-06",
+  "confidence": 0.15,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.15,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Agent Gemini Live (Bobbin)",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Agentic voice, screen share, and Bobbin workflows.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Gemini Live is conversational but cannot act on the user's behalf.",
+   "users": "Gemini Live users.",
+   "what": "An agentic variant of Live that combines voice, screen share and task workflows under the codename Bobbin.",
+   "how_it_appears": "Listed as a product area, apparently in a feedback or help taxonomy, with a hotlist ID.",
+   "rollout_guess": "Unclear; this looks like an internal classification and may precede launch by a long time.",
+   "open_questions": [
+    "What is Bobbin?",
+    "Is this a launch name or an internal codename?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-06-free-workspace-storage-cap-with-upload-p",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Free workspace storage cap with upload pausing",
+  "one_liner": "Free workspaces get a fixed storage allowance, and new uploads pause once it is used up unless the workspace upgrades or frees space.",
+  "category": "pricing",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Free workspaces now include {limit} of storage · New uploads pause in {dayCount, plural, one {1 day} other {# days}}",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This workspace is full",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Upgrade or free up space to keep uploading.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "New uploads are paused · You can keep editing.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Uploads pause on {date}",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Uploads are back on.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Free workspaces have effectively unbounded file storage, which is costly and gives little reason to upgrade.",
+   "users": "Free-plan workspace owners and members who upload files.",
+   "what": "A storage meter with a limit. It shows a warning banner at a usage percentage, then a countdown to pausing uploads, then a blocked state where editing still works. A toast confirms when uploads are restored.",
+   "how_it_appears": "Banner in the workspace, storage meter in settings, and error text on upload actions.",
+   "rollout_guess": "Gradual rollout to free workspaces, with a grace period before uploads pause.",
+   "open_questions": [
+    "What is the storage limit per free workspace?",
+    "When does enforcement start for existing workspaces?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-06-ai-agent-revisions",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "AI agent Revisions",
+  "one_liner": "Review, and apply or reject, page edits that an AI agent made or drafted, from a dedicated Revisions view.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 90,
+  "deadline": "2027-02-04",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Lists a workspace's AI agent Revisions, newest first",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Shows an AI agent Revision: the page edits an agent made or drafted, with apply actions",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Revisions",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users need a way to review and control the changes an AI agent makes to their pages.",
+   "users": "Editors and teams who use Notion AI agents.",
+   "what": "A workspace-level Revisions list, plus a detail route for a single Revision. The detail route shows the agent's made or drafted page edits with apply actions.",
+   "how_it_appears": "Two new routes, `revisions` and `revision`, with a tab titled \"Revisions\".",
+   "rollout_guess": "Likely gated behind an AI agent flag first, then rolled out with agent updates.",
+   "open_questions": [
+    "Are Revisions created automatically for every agent edit?",
+    "Can Revisions be reverted after they are applied?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-06-meeting-notes-onboarding-v2-with-auto-fi",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Meeting Notes onboarding v2 with auto-filing suggestions",
+  "one_liner": "A new Notion Notetaker onboarding suggests where meeting notes are saved, including per-recurring-meeting locations, and adds more meeting-specific AI prompts.",
+  "category": "expansion",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Review suggestions for where your meeting notes get saved in Notion.{lineBreak}Make changes anytime in settings.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggestions for your recurring meetings",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Meet your Notion Notetaker.{lineBreak}It works where you do!",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Where notes get saved by default",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Draft a recap",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Summarize what you missed so far in an ongoing meeting.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Meeting notes end up scattered, and users have no easy way to choose where they are saved.",
+   "users": "AI Meeting Notes users, especially those with recurring meetings.",
+   "what": "An onboarding flow that sets a default save location and per-recurring-meeting suggestions. It also adds suggested prompts such as catch me up, draft a recap, and create follow-up tasks.",
+   "how_it_appears": "Meeting notes onboarding modal, settings, and the AI chat prompt list inside meeting notes.",
+   "rollout_guess": "Already behind a meeting_notes_onboarding gate, so it is probably rolling out soon.",
+   "open_questions": [
+    "Does the 'works where you do' wording mean the notetaker also works outside Notion pages?",
+    "Is this available on all plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-06-database-bulk-actions-with-progress-and-",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Database bulk actions with progress and undo",
+  "one_liner": "Run an action across many database rows at once, including select-all across a view, with a progress snackbar and restore.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Bulk actions aren’t available in this workspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This action requires all selected items to be visible.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "These rows can no longer be restored from here. You can still restore them from Trash.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This action can’t run on the selected groups. Select the rows directly and try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn’t load the rows to change. Please try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Changing or deleting many rows in large databases is slow and breaks when rows are not all loaded.",
+   "users": "Database power users.",
+   "what": "Server-side bulk operations on a database view's rows, with progress tracking, error handling and restore.",
+   "how_it_appears": "A snackbar after bulk-selecting rows in a database view.",
+   "rollout_guess": "Feature-flagged per workspace. The 'not available in this workspace' error suggests a gradual rollout.",
+   "open_questions": [
+    "Which actions are supported (delete, edit properties, others)?",
+    "Is there a row cap?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-06-convert-ai-meeting-into-a-regular-page",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Convert AI meeting into a regular page",
+  "one_liner": "Convert a meeting notes block into a standard page or destination, preserving content and access rules.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 90,
+  "deadline": "2027-02-04",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Couldn’t convert this meeting. Try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Converting this meeting would change who can access it.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This meeting can’t be converted across workspaces.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This meeting’s transcript retention settings couldn’t be preserved.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Wait for recording and processing to finish before converting this meeting.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Meetings are a special content type and are hard to move or reorganize like ordinary pages.",
+   "users": "AI Meeting Notes users.",
+   "what": "A conversion action with validation for content, permissions, destination, and retention.",
+   "how_it_appears": "A menu action on a meeting, with toast errors.",
+   "rollout_guess": "Likely tied to the Meeting Notes v2 work.",
+   "open_questions": [
+    "What is the conversion target (page, database item, or another meeting type)?",
+    "Is the conversion reversible?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-claude-security-findings-sync",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Claude Security findings sync",
+  "one_liner": "Connect a Claude Security project so its open security findings are synced into Linear and turned into issues by rules.",
+  "category": "integration",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Choose the Claude Security project whose findings Linear syncs. The list shows the projects that the token can read.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear will create an issue for each open security finding these rules cover, unless it already has one.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Claude Security shows the endpoint’s signing secret only once, right after you create it. Copy it then and paste it below.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Create your first rule to create issues",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Security findings live outside Linear and must be triaged and tracked by hand.",
+   "users": "Workspace admins and security or engineering teams using Claude Security.",
+   "what": "An integration that takes a Claude Security access token, project and webhook signing secret. Rules decide which findings create issues in a chosen team, in Triage or Backlog.",
+   "how_it_appears": "Integration settings page with fields for project, access token, webhook URL, signing secret, and a 'Create issues in' rules section.",
+   "rollout_guess": "Likely a new integration announced in the changelog, possibly as a beta.",
+   "open_questions": [
+    "Is this limited to certain plans?",
+    "Do findings stay two-way synced with issue status?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-linear-agent-dashboard-builder",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Linear Agent dashboard builder",
+  "one_liner": "Describe a dashboard in a prompt and Linear Agent builds it.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Ask Linear Agent to build this dashboard",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Agent is building your dashboard…",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "What should this dashboard show?",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Prompt for the Agent to build this dashboard",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Building dashboards from insight widgets takes manual configuration.",
+   "users": "Team leads and workspace members who use dashboards.",
+   "what": "An empty-state prompt box on a new dashboard. The user describes what it should show, sends it to the agent, and sees a building state while the agent creates widgets.",
+   "how_it_appears": "The new or empty dashboard view, with a 'Send to Agent' button.",
+   "rollout_guess": "Ships alongside broader Linear Agent updates.",
+   "open_questions": [
+    "Can the agent edit existing dashboards?",
+    "Which plans get it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-dashboard-snapshot-comparisons",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Dashboard snapshot comparisons",
+  "one_liner": "Compare issue insight widgets on dashboards with their daily snapshot from 7 days, 30 days, 90 days or 1 year ago.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Dashboard snapshots UI",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Compare issue insight widgets on dashboards to their daily snapshot from 7 days, 30 days, 90 days or 1 year ago",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Compare to",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Higher is better",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Lower is better",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Dashboards show only current state, so it is hard to see trends.",
+   "users": "Managers and team leads using Insights dashboards.",
+   "what": "A 'Compare to' control on widgets with periods of 7d, 30d, 90d and 1y. It includes a setting for whether higher or lower is better, which drives the delta coloring.",
+   "how_it_appears": "Widget controls and fullscreen view on dashboards.",
+   "rollout_guess": "The flag is still off by default, so it is probably in internal testing.",
+   "open_questions": [
+    "Is it limited to certain widget types?",
+    "Is it limited to higher plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-document-triggered-loops",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Document-triggered Loops",
+  "one_liner": "Start a Loop automatically when a chosen document's content changes.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Document loop triggers",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Start loops when document content changes.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Select a document to run this Loop",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Document-triggered run",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loops can't react to changes in specs or docs.",
+   "users": "Teams using Loops automations.",
+   "what": "A document trigger type in Loop configuration. The user selects a document, and the Loop runs when its content changes. Runs are labeled 'Document-triggered run'.",
+   "how_it_appears": "The Loop trigger picker and the run history.",
+   "rollout_guess": "Flagged off. It probably ships with the next batch of Loops triggers.",
+   "open_questions": [
+    "Is it one document per Loop?",
+    "Is there a debounce on edits?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-slack-reaction-triggers-for-loops",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Slack reaction triggers for Loops",
+  "one_liner": "Run a Loop when someone adds a chosen emoji reaction to a Slack message.",
+  "category": "integration",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Runs when a full Slack member adds one of these reactions to a top-level message in a public, non-shared channel. The loop runs at most once per message.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Select reactions…",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Slack triggers require Loops and Slack message history access to be enabled.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Invite Linear to each selected channel before publishing. Automatic channel joining is disabled.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Turning Slack conversations into automated work requires manual steps.",
+   "users": "Teams that triage in Slack.",
+   "what": "A Loop trigger that fires on selected emoji reactions in selected public channels, at most once per message.",
+   "how_it_appears": "The Loop trigger configuration, with a reaction picker and a channel selector.",
+   "rollout_guess": "Likely ships soon with other Slack Loop triggers.",
+   "open_questions": [
+    "Is it limited to a fixed set of channels?",
+    "Is it tied to Slack message history permissions?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-workbench-navigation-rail",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Workbench navigation rail",
+  "one_liner": "A compact rail with Home, Inbox, Reviews and a Workspace section replaces Home, and favorites move into a Workbench header menu.",
+  "category": "experiment",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 90,
+  "deadline": "2027-02-04",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Workbench nav",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "With Workbench, replace Home in the rail with a Workspace section and move favorites to a menu in the Workbench header.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Added to favorites",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "The sidebar and the agent Workbench compete for space.",
+   "users": "Users of Linear Agent and Workbench.",
+   "what": "A restructured navigation, gated behind a flag, that pairs with Workbench.",
+   "how_it_appears": "The left rail and the Workbench header.",
+   "rollout_guess": "Probably rolls out with a Workbench launch.",
+   "open_questions": [
+    "Is Workbench itself generally available?",
+    "Is the new rail opt-in?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-jira-status-mapping-settings",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Jira status mapping settings",
+  "one_liner": "View and edit a synced Jira project's status mapping from its settings, in both directions.",
+  "category": "integration",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 60,
+  "deadline": "2027-01-05",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Jira status mapping settings",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Show the status mapping of a synced Jira project in its settings, and let users change its entries in both directions",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Jira sync status mapping can't be seen or changed after setup.",
+   "users": "Admins of workspaces with Jira sync.",
+   "what": "A status mapping table in the synced project's settings with editable entries for both sync directions.",
+   "how_it_appears": "Project settings for Jira-synced projects.",
+   "rollout_guess": "Flagged. It would probably appear as a changelog item.",
+   "open_questions": [
+    "Can mappings be edited after sync begins?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-06-pull-request-guide-in-reviews",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request guide in Reviews",
+  "one_liner": "Linear writes a step-by-step guide for each pull request, shown alongside the agent review and reviewer comments.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "This PR has no guide yet",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Review steps",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "This PR has no Linear review yet",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers must work out the structure of large pull requests on their own.",
+   "users": "Code reviewers using Linear Reviews.",
+   "what": "An AI-generated guide made of sections, shown in the review view with review steps.",
+   "how_it_appears": "The Reviews pull request page, in a Guide tab or section.",
+   "rollout_guess": "Likely part of Reviews iteration.",
+   "open_questions": [
+    "Is the guide generated automatically?",
+    "Which plans get it?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-06",
+   "ship_date": "2026-07-30",
+   "why": "was already public when forecast",
+   "source": "https://linear.app/changelog",
+   "quote": "Guided Reviews break diffs into focused sections with explainers on what changed and why.",
+   "prd_match": 4,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "linear-2026-11-06-investigate-with-linear-agent",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Investigate with Linear Agent",
+  "one_liner": "Prepare a code investigation prompt that Linear Agent runs and turns into an issue with findings.",
+  "category": "new_feature",
+  "created": "2026-11-06",
+  "first_evidence": "2026-11-06",
+  "window_days": 75,
+  "deadline": "2027-01-20",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-06",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Prepare a code investigation and an issue with findings. Review the prompt, then send it to Linear Agent.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Reconnect to investigate with Linear Agent.",
+    "kind": "copy",
+    "first_seen": "2026-11-06",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Investigating a bug or question in the codebase means leaving Linear.",
+   "users": "Engineers using Linear Agent with a connected code host.",
+   "what": "A pre-filled prompt the user reviews and sends. The agent investigates the code and files an issue with its findings.",
+   "how_it_appears": "An action on issues or in navigation. It needs a connected code environment.",
+   "rollout_guess": "Likely a staged Agent rollout.",
+   "open_questions": [
+    "Where is the entry point?"
    ]
   },
   "status": "open",

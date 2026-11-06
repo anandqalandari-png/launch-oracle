@@ -1,0 +1,702 @@
+[
+ {
+  "text": "This action requires all selected items to be visible.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "action.\"},unavailableForBulkSelectAllTooltip:{id:\"action.tooltip.unavailableForBulkSelectAll\",defaultMessage:\"This action requires all selected items to be visible.\"}}),o={maxWidth:400,whiteSpace:\"pre-wrap\"},a={disabled:",
+  "new_chunk": false
+ },
+ {
+  "text": "Bulk actions aren’t available in this workspace.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "lease try again.\"},errorFeatureDisabled:{id:\"bulkActionProgressSnackbar.errorFeatureDisabled\",defaultMessage:\"Bulk actions aren’t available in this workspace.\"},errorInvalidCollectionSource:{id:\"bulkActionProgressSnackba",
+  "new_chunk": false
+ },
+ {
+  "text": "This action isn’t available for this database.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "\"},errorInvalidCollectionSource:{id:\"bulkActionProgressSnackbar.errorInvalidCollectionSource\",defaultMessage:\"This action isn’t available for this database.\"},errorInvalidCollectionView:{id:\"bulkActionProgressSnackbar.er",
+  "new_chunk": false
+ },
+ {
+  "text": "This view was deleted, or you no longer have access to it.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ase.\"},errorInvalidCollectionView:{id:\"bulkActionProgressSnackbar.errorInvalidCollectionView\",defaultMessage:\"This view was deleted, or you no longer have access to it.\"},errorInvalidCollection:{id:\"bulkActionProgressSna",
+  "new_chunk": false
+ },
+ {
+  "text": "This database was deleted, or you no longer have access to it.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ccess to it.\"},errorInvalidCollection:{id:\"bulkActionProgressSnackbar.errorInvalidCollection\",defaultMessage:\"This database was deleted, or you no longer have access to it.\"},errorUnauthorizedCollectionAccess:{id:\"bulkAc",
+  "new_chunk": false
+ },
+ {
+  "text": "You don’t have permission to edit this database.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "authorizedCollectionAccess:{id:\"bulkActionProgressSnackbar.errorUnauthorizedCollectionAccess\",defaultMessage:\"You don’t have permission to edit this database.\"},errorUnableToQueryCollection:{id:\"bulkActionProgressSnackba",
+  "new_chunk": false
+ },
+ {
+  "text": "Couldn’t load the rows to change. Please try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "\"},errorUnableToQueryCollection:{id:\"bulkActionProgressSnackbar.errorUnableToQueryCollection\",defaultMessage:\"Couldn’t load the rows to change. Please try again.\"},errorNoResults:{id:\"bulkActionProgressSnackbar.errorNoRe",
+  "new_chunk": false
+ },
+ {
+  "text": "There were no rows to change.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "to change. Please try again.\"},errorNoResults:{id:\"bulkActionProgressSnackbar.errorNoResults\",defaultMessage:\"There were no rows to change.\"},errorOffline:{id:\"bulkActionProgressSnackbar.errorOffline\",defaultMessage:\"You",
+  "new_chunk": false
+ },
+ {
+  "text": "You’re offline. Reconnect and try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "e:\"There were no rows to change.\"},errorOffline:{id:\"bulkActionProgressSnackbar.errorOffline\",defaultMessage:\"You’re offline. Reconnect and try again.\"},errorRateLimited:{id:\"bulkActionProgressSnackbar.errorRateLimited\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Too many requests. Please try again in a few minutes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Reconnect and try again.\"},errorRateLimited:{id:\"bulkActionProgressSnackbar.errorRateLimited\",defaultMessage:\"Too many requests. Please try again in a few minutes.\"},errorInvalidRequest:{id:\"bulkActionProgressSnackbar.er",
+  "new_chunk": false
+ },
+ {
+  "text": "Notion couldn’t process this request. Refresh the page and try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": " in a few minutes.\"},errorInvalidRequest:{id:\"bulkActionProgressSnackbar.errorInvalidRequest\",defaultMessage:\"Notion couldn’t process this request. Refresh the page and try again.\"},errorRestoreUnavailable:{id:\"bulkActio",
+  "new_chunk": false
+ },
+ {
+  "text": "These rows can no longer be restored from here. You can still restore them from Trash.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "try again.\"},errorRestoreUnavailable:{id:\"bulkActionProgressSnackbar.errorRestoreUnavailable\",defaultMessage:\"These rows can no longer be restored from here. You can still restore them from Trash.\"},errorProgressUnavaila",
+  "new_chunk": false
+ },
+ {
+  "text": "Lost track of this action’s progress. It may still finish. Refresh the page to see the latest changes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "m Trash.\"},errorProgressUnavailable:{id:\"bulkActionProgressSnackbar.errorProgressUnavailable\",defaultMessage:\"Lost track of this action’s progress. It may still finish. Refresh the page to see the latest changes.\"},error",
+  "new_chunk": false
+ },
+ {
+  "text": "This action can’t run on the selected groups. Select the rows directly and try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "changes.\"},errorGroupsNotFilterable:{id:\"bulkActionProgressSnackbar.errorGroupsNotFilterable\",defaultMessage:\"This action can’t run on the selected groups. Select the rows directly and try again.\"},dismiss:{id:\"bulkActio",
+  "new_chunk": false
+ },
+ {
+  "text": "Segment candidate: {speakerName} · confidence {confidence} · coverage {coverage}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "cs not recorded}}\"},attributionCandidate:{id:\"dictation.speakerRunBadge.attributionCandidate\",defaultMessage:\"Segment candidate: {speakerName} · confidence {confidence} · coverage {coverage}\"},attributionEvidence:{id:\"di",
+  "new_chunk": false
+ },
+ {
+  "text": "Evidence: winner {winnerOverlap} · all activity {totalActivityOverlap} · segment {segmentDuration}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "coverage {coverage}\"},attributionEvidence:{id:\"dictation.speakerRunBadge.attributionEvidence\",defaultMessage:\"Evidence: winner {winnerOverlap} · all activity {totalActivityOverlap} · segment {segmentDuration}\"},providerS",
+  "new_chunk": false
+ },
+ {
+  "text": "This workspace is full",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "void 0,t)}let m=(0,i(752010).YK)({storageFullTitle:{id:\"uploadActions.storageLimit.fullTitle\",defaultMessage:\"This workspace is full\"},storageFullUsage:{id:\"uploadActions.storageLimit.fullUsage\",defaultMessage:\"{used} of",
+  "new_chunk": false
+ },
+ {
+  "text": "{used} of {limit} used.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Message:\"This workspace is full\"},storageFullUsage:{id:\"uploadActions.storageLimit.fullUsage\",defaultMessage:\"{used} of {limit} used.\"},storageFullNextStep:{id:\"uploadActions.storageLimit.fullNextStep\",defaultMessage:\"Up",
+  "new_chunk": false
+ },
+ {
+  "text": "Upgrade or free up space to keep uploading.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ":\"{used} of {limit} used.\"},storageFullNextStep:{id:\"uploadActions.storageLimit.fullNextStep\",defaultMessage:\"Upgrade or free up space to keep uploading.\"},storageFullNextStepForFile:{id:\"uploadActions.storageLimit.fullN",
+  "new_chunk": false
+ },
+ {
+  "text": "Upgrade or free up space to upload “{fileName}”.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": " uploading.\"},storageFullNextStepForFile:{id:\"uploadActions.storageLimit.fullNextStepForFile\",defaultMessage:\"Upgrade or free up space to upload “{fileName}”.\"},storageLimitAction:{id:\"uploadActions.storageLimit.action\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Couldn’t convert this meeting. Try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "0);return}}},655048(e,t,i){let n=(0,i(752010).YK)({failed:{id:\"meetingConversion.failedToast\",defaultMessage:\"Couldn’t convert this meeting. Try again.\"},ownedDatabase:{id:\"meetingConversion.ownedDatabase\",defaultMessage",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting contains a database that can’t be converted.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "uldn’t convert this meeting. Try again.\"},ownedDatabase:{id:\"meetingConversion.ownedDatabase\",defaultMessage:\"This meeting contains a database that can’t be converted.\"},unsupportedDatabaseView:{id:\"meetingConversion.uns",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting contains a database view that can’t be converted.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "can’t be converted.\"},unsupportedDatabaseView:{id:\"meetingConversion.unsupportedDatabaseView\",defaultMessage:\"This meeting contains a database view that can’t be converted.\"},unsupportedContent:{id:\"meetingConversion.uns",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting contains content that can’t be converted.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "view that can’t be converted.\"},unsupportedContent:{id:\"meetingConversion.unsupportedContent\",defaultMessage:\"This meeting contains content that can’t be converted.\"},unavailableContent:{id:\"meetingConversion.unavailable",
+  "new_chunk": false
+ },
+ {
+  "text": "Some content in this meeting is unavailable or can’t be edited.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "tent that can’t be converted.\"},unavailableContent:{id:\"meetingConversion.unavailableContent\",defaultMessage:\"Some content in this meeting is unavailable or can’t be edited.\"},tooLarge:{id:\"meetingConversion.tooLarge\",de",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting has too much content to convert.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "n this meeting is unavailable or can’t be edited.\"},tooLarge:{id:\"meetingConversion.tooLarge\",defaultMessage:\"This meeting has too much content to convert.\"},active:{id:\"meetingConversion.active\",defaultMessage:\"Wait for",
+  "new_chunk": false
+ },
+ {
+  "text": "Wait for recording and processing to finish before converting this meeting.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "essage:\"This meeting has too much content to convert.\"},active:{id:\"meetingConversion.active\",defaultMessage:\"Wait for recording and processing to finish before converting this meeting.\"},crossWorkspace:{id:\"meetingConve",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting can’t be converted across workspaces.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "inish before converting this meeting.\"},crossWorkspace:{id:\"meetingConversion.crossWorkspace\",defaultMessage:\"This meeting can’t be converted across workspaces.\"},destinationTrashed:{id:\"meetingConversion.destinationTras",
+  "new_chunk": false
+ },
+ {
+  "text": "The destination is in Trash. Restore it and try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": " converted across workspaces.\"},destinationTrashed:{id:\"meetingConversion.destinationTrashed\",defaultMessage:\"The destination is in Trash. Restore it and try again.\"},accessChange:{id:\"meetingConversion.accessChange\",def",
+  "new_chunk": false
+ },
+ {
+  "text": "Converting this meeting would change who can access it.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "on is in Trash. Restore it and try again.\"},accessChange:{id:\"meetingConversion.accessChange\",defaultMessage:\"Converting this meeting would change who can access it.\"},invalidSource:{id:\"meetingConversion.invalidSource\",",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting can’t be converted from its current location.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "meeting would change who can access it.\"},invalidSource:{id:\"meetingConversion.invalidSource\",defaultMessage:\"This meeting can’t be converted from its current location.\"},invalidDestination:{id:\"meetingConversion.invalid",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting can’t be converted at this destination.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ed from its current location.\"},invalidDestination:{id:\"meetingConversion.invalidDestination\",defaultMessage:\"This meeting can’t be converted at this destination.\"},retention:{id:\"meetingConversion.retention\",defaultMess",
+  "new_chunk": false
+ },
+ {
+  "text": "This meeting’s transcript retention settings couldn’t be preserved.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "meeting can’t be converted at this destination.\"},retention:{id:\"meetingConversion.retention\",defaultMessage:\"This meeting’s transcript retention settings couldn’t be preserved.\"},replacementUnavailable:{id:\"meetingConve",
+  "new_chunk": false
+ },
+ {
+  "text": "The converted meeting is no longer available at its original destination.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ouldn’t be preserved.\"},replacementUnavailable:{id:\"meetingConversion.replacementUnavailable\",defaultMessage:\"The converted meeting is no longer available at its original destination.\"}});function r(e){(0,i(984211).f)({i",
+  "new_chunk": false
+ },
+ {
+  "text": "You’ve used {percentUsed}% of your storage, upgrade to unlock more storage.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "})},823265(e,t,i){let n=(0,i(752010).YK)({warningBanner:{id:\"fileStorageLimit.banner.warning\",defaultMessage:\"You’ve used {percentUsed}% of your storage, upgrade to unlock more storage.\"},uploadsPausingBanner:{id:\"fileSt",
+  "new_chunk": false
+ },
+ {
+  "text": "Free workspaces now include {limit} of storage · New uploads pause in {dayCount, plural, one {1 day} other {# days}}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "e to unlock more storage.\"},uploadsPausingBanner:{id:\"fileStorageLimit.banner.uploadsPausing\",defaultMessage:\"Free workspaces now include {limit} of storage · New uploads pause in {dayCount, plural, one {1 day} other {# ",
+  "new_chunk": false
+ },
+ {
+  "text": "New uploads are paused · You can keep editing.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "nt, plural, one {1 day} other {# days}}\"},blockedBanner:{id:\"fileStorageLimit.banner.blocked\",defaultMessage:\"New uploads are paused · You can keep editing.\"},upgradeForMoreStorage:{id:\"fileStorageLimit.upgradeForMoreSto",
+  "new_chunk": false
+ },
+ {
+  "text": "Storage",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "geLimit.learnMore\",defaultMessage:\"Learn more\"},meterLabel:{id:\"fileStorageLimit.meter.label\",defaultMessage:\"Storage\"},meterUsage:{id:\"fileStorageLimit.meter.usage\",defaultMessage:\"{used} of {limit} used\"},meterUploadsP",
+  "new_chunk": false
+ },
+ {
+  "text": "{used} of {limit} used",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ageLimit.meter.label\",defaultMessage:\"Storage\"},meterUsage:{id:\"fileStorageLimit.meter.usage\",defaultMessage:\"{used} of {limit} used\"},meterUploadsPausingStatus:{id:\"fileStorageLimit.meter.uploadsPausingStatus\",defaultMe",
+  "new_chunk": false
+ },
+ {
+  "text": "Uploads pause on {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "of {limit} used\"},meterUploadsPausingStatus:{id:\"fileStorageLimit.meter.uploadsPausingStatus\",defaultMessage:\"Uploads pause on {date}\"},meterBlockedStatus:{id:\"fileStorageLimit.meter.blockedStatus\",defaultMessage:\"Upload",
+  "new_chunk": false
+ },
+ {
+  "text": "Uploads paused",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "sage:\"Uploads pause on {date}\"},meterBlockedStatus:{id:\"fileStorageLimit.meter.blockedStatus\",defaultMessage:\"Uploads paused\"},recoveredToast:{id:\"fileStorageLimit.recoveredToast\",defaultMessage:\"Uploads are back on.\"}})",
+  "new_chunk": false
+ },
+ {
+  "text": "Uploads are back on.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Status\",defaultMessage:\"Uploads paused\"},recoveredToast:{id:\"fileStorageLimit.recoveredToast\",defaultMessage:\"Uploads are back on.\"}});function r(e,t){return t>=i(570323).xT?e.formatNumber(t/i(570323).xT,{style:\"unit\",un",
+  "new_chunk": false
+ },
+ {
+  "text": "Workflow",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "gent\"},workerWorkflowSubtext:{id:\"workflowTypePresentation.mentionCardSubtext.workerWorkflow\",defaultMessage:\"Workflow\"},labAgentSubtext:{id:\"workflowTypePresentation.mentionCardSubtext.labAgent\",defaultMessage:\"External",
+  "new_chunk": false
+ },
+ {
+  "text": "What would you like to write about?\nFor example, “5 reasons why we should hire a dedicated designer”",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "te:{defaultMessage:\"Ask AI to write…\",id:\"id.completions.helpMeWrite\"},helpMeWritePlaceholder:{defaultMessage:`What would you like to write about? For example, “5 reasons why we should hire a dedicated designer”`,id:\"id.",
+  "new_chunk": false
+ },
+ {
+  "text": "What would you like to write about?\nFor example, “article about the benefits of learning a new language”",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ire a dedicated designer”`,id:\"id.completions.helpMeWritePlaceholder\"},helpMeDraftPlaceholder:{defaultMessage:`What would you like to write about? For example, “article about the benefits of learning a new language”`,id:",
+  "new_chunk": false
+ },
+ {
+  "text": "How it works:\n1. Click “Start transcribing” to get started.\n2. Add notes here anytime. AI uses them to make the summary smarter.\n3. When you’re done, click “Stop”. AI will generate a summary with action items.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "otes and transcript\",id:\"transcriptionBlock.notes.smallerPlaceholder\"},longerNotesPlaceholder:{defaultMessage:`How it works: 1. Click “Start transcribing” to get started. 2. Add notes here anytime. AI uses them to make t",
+  "new_chunk": false
+ },
+ {
+  "text": "ai_meeting_notes_desktop_download_block_v2",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ntent&&!o.hideRecordingControls&&!i(769719).c.getIsLoading(o.store.id)&&i(211589).default.checkGate({gateName:\"ai_meeting_notes_desktop_download_block_v2\"})&&i(211589).default.checkGate({gateName:\"meeting_notes_onboardin",
+  "new_chunk": false
+ },
+ {
+  "text": "ai_meeting_notes_desktop_download_block_v2_unconnected",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "i(610463).A.state,h=a.getSpaceId();if(!m.loaded||m.loading||m.needsRefresh||m.spaceId!==h||m.userId!==s)return\"ai_meeting_notes_desktop_download_block_v2_unconnected\";let v=i(610463).A.findViewerBotForIntegration({integr",
+  "new_chunk": false
+ },
+ {
+  "text": "ai_meeting_notes_desktop_download_block_v2_connected",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "nId:i(49361).io,spaceId:h,userId:s});return void 0!==v&&m.externalAuthentications.some(e=>e.parent_id===v.id)?\"ai_meeting_notes_desktop_download_block_v2_connected\":\"ai_meeting_notes_desktop_download_block_v2_unconnected",
+  "new_chunk": false
+ },
+ {
+  "text": "Can’t open Notion here",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "y:\"titleSmSemibold\",children:(0,i.jsx)(n(752010).sA,{id:\"mcp.pageEmbed.signInBlocked.heading\",defaultMessage:\"Can’t open Notion here\"})}),(0,i.jsx)(n(111010).D,{styleKey:\"bodyRegular\",colorVariant:\"secondary\",children:(0",
+  "new_chunk": false
+ },
+ {
+  "text": "Revisions",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "me}}],getDocumentTitle:e=>({title:e.formatMessage({id:\"documentTitleListener.revisions.title\",defaultMessage:\"Revisions\"}),iconDefinition:n(672660).Z}),onLoad:async({environment:e,tabId:t,routerState:r},{sourceRoute:i,pa",
+  "new_chunk": false
+ },
+ {
+  "text": "Shows an AI agent Revision: the page edits an agent made or drafted, with apply actions",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": ")(n(543622).z,{route:e.routerState.route}),skipDefaultVisitTracking:!0},revision:{name:\"revision\",description:\"Shows an AI agent Revision: the page edits an agent made or drafted, with apply actions\",owner:\"ai-agent\",gua",
+  "new_chunk": false
+ },
+ {
+  "text": "Lists a workspace's AI agent Revisions, newest first",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "k:!0})},render:e=>(0,l.jsx)(n(543622).z,{route:e.routerState.route})},revisions:{name:\"revisions\",description:\"Lists a workspace's AI agent Revisions, newest first\",owner:\"editor\",guardrails:({routerState:{route:e}})=>[(",
+  "new_chunk": false
+ },
+ {
+  "text": "View run",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/11812.js",
+  "ctx": "View chat\"},viewWorkerWorkflowRun:{id:\"threadBottomAgentActivityStatus.viewWorkerWorkflowRun\",defaultMessage:\"View run\"}});function i(e){let{baseLabel:t,intl:n}=e,i=/[.!?…]$/.test(t)?t:`${t}.`;return n.formatMessage(a.vi",
+  "new_chunk": true
+ },
+ {
+  "text": "Plus · {percentage}% off until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "oreAi:{defaultMessage:\"Plus with Core AI\",id:\"plusWithCoreAi.title\"},plusWithOfferPercentage:{defaultMessage:\"Plus · {percentage}% off until {date}\",id:\"plus.withOffer.label\"},plusWithOfferSeats:{defaultMessage:\"Plus · {",
+  "new_chunk": false
+ },
+ {
+  "text": "Plus · {seats, plural, one {# seat} other {# seats}} free until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "essage:\"Plus · {percentage}% off until {date}\",id:\"plus.withOffer.label\"},plusWithOfferSeats:{defaultMessage:\"Plus · {seats, plural, one {# seat} other {# seats}} free until {date}\",id:\"plus.withOfferSeats.label\"},busine",
+  "new_chunk": false
+ },
+ {
+  "text": "Business · {percentage}% off until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "},businessTrial:{id:\"businessTrial.title\",defaultMessage:\"Business Trial\"},businessWithOffer:{defaultMessage:\"Business · {percentage}% off until {date}\",id:\"business.withOffer.label\"},businessWithOfferSeats:{defaultMessa",
+  "new_chunk": false
+ },
+ {
+  "text": "Business · {seats, plural, one {# seat} other {# seats}} free until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "ness · {percentage}% off until {date}\",id:\"business.withOffer.label\"},businessWithOfferSeats:{defaultMessage:\"Business · {seats, plural, one {# seat} other {# seats}} free until {date}\",id:\"business.withOfferSeats.label\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Enterprise · {percentage}% off until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "faultMessage:\"Enterprise Limited Plan\",id:\"enterpriseLimitedPlan.label\"},enterpriseWithOffer:{defaultMessage:\"Enterprise · {percentage}% off until {date}\",id:\"enterprise.withOffer.label\"},enterpriseWithOfferSeats:{defaul",
+  "new_chunk": false
+ },
+ {
+  "text": "Enterprise · {seats, plural, one {# seat} other {# seats}} free until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": " · {percentage}% off until {date}\",id:\"enterprise.withOffer.label\"},enterpriseWithOfferSeats:{defaultMessage:\"Enterprise · {seats, plural, one {# seat} other {# seats}} free until {date}\",id:\"enterprise.withOfferSeats.la",
+  "new_chunk": false
+ },
+ {
+  "text": "Enterprise Limited · {percentage}% off until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": " seats}} free until {date}\",id:\"enterprise.withOfferSeats.label\"},enterpriseLimitedWithOffer:{defaultMessage:\"Enterprise Limited · {percentage}% off until {date}\",id:\"enterpriseLimited.withOffer.label\"},enterpriseLimited",
+  "new_chunk": false
+ },
+ {
+  "text": "Enterprise Limited · {seats, plural, one {# seat} other {# seats}} free until {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/91534.js",
+  "ctx": "}% off until {date}\",id:\"enterpriseLimited.withOffer.label\"},enterpriseLimitedWithOfferSeats:{defaultMessage:\"Enterprise Limited · {seats, plural, one {# seat} other {# seats}} free until {date}\",id:\"enterpriseLimited.wi",
+  "new_chunk": false
+ },
+ {
+  "text": ",jiraSyncProgress:(null==o?void 0:o.progress)??0,jiraSiteUrl:(null==o?void 0:o.external_source_name)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40678.js",
+  "ctx": ".details.connectionDetails;return r.setState({...r.state,jiraSyncState:(null==o?void 0:o.status)??\"not_started\",jiraSyncProgress:(null==o?void 0:o.progress)??0,jiraSiteUrl:(null==o?void 0:o.external_source_name)??\"\",isDi",
+  "new_chunk": false
+ },
+ {
+  "text": ",isLoaded:!0,ingestionProgress:null==r?void 0:r.progress,status:null==r?void 0:r.status,userAuthStatus:(null==i?void 0:i.userAuthStatus)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40678.js",
+  "ctx": "leted\"||(null==r?void 0:r.status)===\"disconnecting\",isDisconnecting:(null==r?void 0:r.status)===\"disconnecting\",isLoaded:!0,ingestionProgress:null==r?void 0:r.progress,status:null==r?void 0:r.status,userAuthStatus:(null=",
+  "new_chunk": false
+ },
+ {
+  "text": "AI Meeting Notes turned off",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "kspaceDisabledAiMeetingNotes:{id:\"nboActivityTimeline.signal.workspaceDisabledAiMeetingNotes\",defaultMessage:\"AI Meeting Notes turned off\"},signalNewHeadOfAi:{id:\"nboActivityTimeline.signal.newHeadOfAi\",defaultMessage:\"N",
+  "new_chunk": false
+ },
+ {
+  "text": "Workspace disabled AI Meeting Notes",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "orkspace_disabled_ai_meeting_notes:{id:\"nboSignal.shortLabel.workspaceDisabledAiMeetingNotes\",defaultMessage:\"Workspace disabled AI Meeting Notes\"},hosted_content:{id:\"nboSignal.shortLabel.hostedContent\",defaultMessage:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "AI Meeting Notes disabled",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "tion\"},workspaceDisabledAiMeetingNotes:{id:\"nboSignal.detail.workspaceDisabledAiMeetingNotes\",defaultMessage:\"AI Meeting Notes disabled\"},aiCampaignResponse:{id:\"nboSignal.detail.aiCampaignResponse\",defaultMessage:\"Campa",
+  "new_chunk": false
+ },
+ {
+  "text": "Disabled {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": ":\"Connected {date}\"},meetingNotesDisabledDate:{id:\"nboSignal.detail.meetingNotesDisabledDate\",defaultMessage:\"Disabled {date}\"},connectedAiConnectorCompactDetail:{id:\"nboSignal.detail.connectedAiConnectorCompactDetail\",d",
+  "new_chunk": false
+ },
+ {
+  "text": "{status} · {dateDetail}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "t date: {date}\"},hostedWebinarStatusAndDate:{id:\"nboSignal.detail.hostedWebinarStatusAndDate\",defaultMessage:\"{status} · {dateDetail}\"},hostedEventAttended:{id:\"nboSignal.detail.hostedEventAttended\",defaultMessage:\"Atten",
+  "new_chunk": false
+ },
+ {
+  "text": "A workspace at the account turned off AI Meeting Notes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "rkspace_disabled_ai_meeting_notes:{id:\"pitCrewSignalGlossary.workspaceDisabledAiMeetingNotes\",defaultMessage:\"A workspace at the account turned off AI Meeting Notes.\"},hosted_content:{id:\"pitCrewSignalGlossary.hostedCont",
+  "new_chunk": false
+ },
+ {
+  "text": "Subtree duplication",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/14147.js",
+  "ctx": "528545).HC)({environment:t,...o.data,outputValidator:r,task:{eventName:a(147469).$,request:i},taskDescription:\"Subtree duplication\",allowUnsettledSuccess:!0})}async function l(e){let{navigateToTarget:t,skipUserFacingMess",
+  "new_chunk": true
+ },
+ {
+  "text": "Draft a recap",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "aultMessage:\"Create follow-up tasks\"},draftRecap:{id:\"meetingNoteSuggestedPrompts.draftRecap\",defaultMessage:\"Draft a recap\"},completeActionItems:{id:\"meetingNoteSuggestedPrompts.completeActionItems\",defaultMessage:\"Comp",
+  "new_chunk": false
+ },
+ {
+  "text": "Summarize what you missed so far in an ongoing meeting.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "10).YK)({meeting_note_catch_me_up:{id:\"skillsPage.promptRow.meetingNoteCatchMeUp.description\",defaultMessage:\"Summarize what you missed so far in an ongoing meeting.\"},meeting_note_suggest_questions:{id:\"skillsPage.promp",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggest questions to ask based on the meeting discussion so far.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "ing_note_suggest_questions:{id:\"skillsPage.promptRow.meetingNoteSuggestQuestions.description\",defaultMessage:\"Suggest questions to ask based on the meeting discussion so far.\"},meeting_note_recap_decisions:{id:\"skillsPag",
+  "new_chunk": false
+ },
+ {
+  "text": "Recap the decisions made during the meeting.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "meeting_note_recap_decisions:{id:\"skillsPage.promptRow.meetingNoteRecapDecisions.description\",defaultMessage:\"Recap the decisions made during the meeting.\"},meeting_note_make_summary_longer:{id:\"skillsPage.promptRow.meet",
+  "new_chunk": false
+ },
+ {
+  "text": "Expand the meeting summary with more detail from the transcript.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "_note_make_summary_longer:{id:\"skillsPage.promptRow.meetingNoteMakeSummaryLonger.description\",defaultMessage:\"Expand the meeting summary with more detail from the transcript.\"},meeting_note_create_follow_up_tasks:{id:\"sk",
+  "new_chunk": false
+ },
+ {
+  "text": "Create follow-up tasks from the meeting notes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "_create_follow_up_tasks:{id:\"skillsPage.promptRow.meetingNoteCreateFollowUpTasks.description\",defaultMessage:\"Create follow-up tasks from the meeting notes.\"},meeting_note_draft_recap:{id:\"skillsPage.promptRow.meetingNot",
+  "new_chunk": false
+ },
+ {
+  "text": "Draft a concise meeting recap to share with your team.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "otes.\"},meeting_note_draft_recap:{id:\"skillsPage.promptRow.meetingNoteDraftRecap.description\",defaultMessage:\"Draft a concise meeting recap to share with your team.\"},meeting_note_complete_action_items:{id:\"skillsPage.pr",
+  "new_chunk": false
+ },
+ {
+  "text": "Plan and complete the action items assigned to you in the meeting.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "e_complete_action_items:{id:\"skillsPage.promptRow.meetingNoteCompleteActionItems.description\",defaultMessage:\"Plan and complete the action items assigned to you in the meeting.\"},meeting_note_find_related_documents:{id:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Find documents related to the meeting discussion.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/40835.js",
+  "ctx": "find_related_documents:{id:\"skillsPage.promptRow.meetingNoteFindRelatedDocuments.description\",defaultMessage:\"Find documents related to the meeting discussion.\"}});a.d(t,{},{dA:o,qx:i,vh:n})}}]);",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,r.seniority?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/6307.js",
+  "ctx": "??r.title,industry:r.companyIndustry??r.companySector,companyName:r.companyName},s=[r.title?`Title: ${r.title}`:void 0,r.seniority?`Seniority: ${r.seniority}`:void 0,r.companyDescription?`Company: ${r.companyDescription}",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,r.companyDescription?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/6307.js",
+  "ctx": "Sector,companyName:r.companyName},s=[r.title?`Title: ${r.title}`:void 0,r.seniority?`Seniority: ${r.seniority}`:void 0,r.companyDescription?`Company: ${r.companyDescription}`:void 0,r.companySize?`Company size: ${r.compa",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,r.companySize?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/6307.js",
+  "ctx": "`:void 0,r.seniority?`Seniority: ${r.seniority}`:void 0,r.companyDescription?`Company: ${r.companyDescription}`:void 0,r.companySize?`Company size: ${r.companySize}`:void 0].flatMap(e=>e?[e]:[]);return s.length>0&&(l.res",
+  "new_chunk": true
+ },
+ {
+  "text": "I’ve stopped transcribing with Notion AI Meeting Notes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/23555.js",
+  "ctx": "his meeting.\"},chatStopNoticeMessage:{id:\"transcription.consentActions.chatStopNoticeMessage\",defaultMessage:\"I’ve stopped transcribing with Notion AI Meeting Notes.\"},defaultConsentMessage:{id:\"transcription.consentActi",
+  "new_chunk": false
+ },
+ {
+  "text": "Adds styles and colors to the text. Valid formatting styles: “b” (bold), “u” (underline), “i” (italics), “c” (code), or “s” (strikethrough). Valid colors: “gray”, “brown”, “orange”, “yellow”, “green”, “blue”, “purple”, “pink”, and “red”. Add “_background” to colors to set background colors.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/8437.js",
+  "ctx": "“uyu”, “pen”, “vnd”, “pkr”, “ngn”.\"},style:{id:\"database.formula2.function.style.description\",defaultMessage:\"Adds styles and colors to the text. Valid formatting styles: “b” (bold), “u” (underline), “i” (italics), “c” (",
+  "new_chunk": false
+ },
+ {
+  "text": "Review suggestions for where your meeting notes get saved in Notion.{lineBreak}Make changes anytime in settings.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "ganized\"},filingDescription:{id:\"meetingNotesOnboardingV2.filingReviewSuggestionsDescription\",defaultMessage:\"Review suggestions for where your meeting notes get saved in Notion.{lineBreak}Make changes anytime in setting",
+  "new_chunk": false
+ },
+ {
+  "text": "Your default",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "changes anytime in settings.\"},filingDefault:{id:\"meetingNotesOnboardingV2.filingYourDefault\",defaultMessage:\"Your default\"},filingDefaultDescription:{id:\"meetingNotesOnboardingV2.filingDefaultLocationDescription\",defaul",
+  "new_chunk": false
+ },
+ {
+  "text": "Where notes get saved by default",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "lt\"},filingDefaultDescription:{id:\"meetingNotesOnboardingV2.filingDefaultLocationDescription\",defaultMessage:\"Where notes get saved by default\"},filingSuggestions:{id:\"meetingNotesOnboardingV2.filingRecurringSuggestions\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggestions for your recurring meetings",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "aved by default\"},filingSuggestions:{id:\"meetingNotesOnboardingV2.filingRecurringSuggestions\",defaultMessage:\"Suggestions for your recurring meetings\"},private:{id:\"meetingNotesOnboardingV2.private\",defaultMessage:\"Priva",
+  "new_chunk": false
+ },
+ {
+  "text": "Show more meetings",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "ngNew\",defaultMessage:\"New\"},filingScrollDown:{id:\"meetingNotesOnboardingV2.filingScrollDown\",defaultMessage:\"Show more meetings\"},filingTeamMeetings:{id:\"meetingNotesOnboardingV2.filingTeamMeetings\",defaultMessage:\"Team",
+  "new_chunk": false
+ },
+ {
+  "text": "Meet your Notion Notetaker.{lineBreak}It works where you do!",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/login.js",
+  "ctx": "y again.\"},introWorksWhereYouDoTitle:{id:\"meetingNotesOnboardingV2.introWorksWhereYouDoTitle\",defaultMessage:\"Meet your Notion Notetaker.{lineBreak}It works where you do!\"},introUpgradeTitle:{id:\"meetingNotesOnboardingV2",
+  "new_chunk": false
+ },
+ {
+  "text": "Español (España)",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/72849.js",
+  "ctx": "o={\"en-US\":\"English (US)\",\"de-DE\":\"Deutsch\",\"ko-KR\":\"한국어\",\"zh-CN\":\"简体中文\",\"zh-TW\":\"繁體中文\",\"ja-JP\":\"日本語\",\"es-ES\":\"Español (España)\",\"es-LA\":\"Español (Latinoamérica)\",\"pt-BR\":\"Português (Brasil)\",\"fr-FR\":\"Français (France)\",",
+  "new_chunk": true
+ },
+ {
+  "text": "Español (Latinoamérica)",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/72849.js",
+  "ctx": "de-DE\":\"Deutsch\",\"ko-KR\":\"한국어\",\"zh-CN\":\"简体中文\",\"zh-TW\":\"繁體中文\",\"ja-JP\":\"日本語\",\"es-ES\":\"Español (España)\",\"es-LA\":\"Español (Latinoamérica)\",\"pt-BR\":\"Português (Brasil)\",\"fr-FR\":\"Français (France)\",\"da-DK\":\"Dansk\",\"fi-FI\":\"Su",
+  "new_chunk": true
+ },
+ {
+  "text": "Português (Brasil)",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/72849.js",
+  "ctx": "-CN\":\"简体中文\",\"zh-TW\":\"繁體中文\",\"ja-JP\":\"日本語\",\"es-ES\":\"Español (España)\",\"es-LA\":\"Español (Latinoamérica)\",\"pt-BR\":\"Português (Brasil)\",\"fr-FR\":\"Français (France)\",\"da-DK\":\"Dansk\",\"fi-FI\":\"Suomi\",\"nb-NO\":\"Norsk\",\"nl-NL\":\"Nede",
+  "new_chunk": true
+ },
+ {
+  "text": "Français (France)",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/72849.js",
+  "ctx": "a-JP\":\"日本語\",\"es-ES\":\"Español (España)\",\"es-LA\":\"Español (Latinoamérica)\",\"pt-BR\":\"Português (Brasil)\",\"fr-FR\":\"Français (France)\",\"da-DK\":\"Dansk\",\"fi-FI\":\"Suomi\",\"nb-NO\":\"Norsk\",\"nl-NL\":\"Nederlands\",\"sv-SE\":\"Svenska\",\"en",
+  "new_chunk": true
+ },
+ {
+  "text": "Keep yourself accountable by tracking your habits everyday. With Notion’s new button block, you can easily check off completed habits for the day with a single click. Whether you’re trying to drink more water, exercise regularly, or meditate every day, this template will help you build healthy habits with ease.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/7723.js",
+  "ctx": "— yes, books.\",id:\"templateHelpers.useCase.readingList.description\"},habitTrackerDescription:{defaultMessage:\"Keep yourself accountable by tracking your habits everyday. With Notion’s new button block, you can easily che",
+  "new_chunk": false
+ },
+ {
+  "text": "Welcome to your first project!",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "This.rspackChunknotion_next||=[]).push([[18642],{179081(e,t,o){let a=\"awesomeProject\",n=\"yourFirstMeeting\",i=[\"Welcome to your first project!\",\"Type / anywhere on this page to add content.\"],r={key:a,title:\"Your first pr",
+  "new_chunk": true
+ },
+ {
+  "text": "Tasks are pages too — everything you need to finish this one can live right here.\n\n## Notes\n- Add a due date and an assignee in the properties above\n- Break the work down into a checklist below\n\n- [ ] Write down the first step\n- [ ] Decide who is doing it",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": ")(i.join(\"\\n\"))},s=[{key:\"yourFirstTask\",title:\"Your first task\",status:\"Not started\",blocks:(0,o(117038).Gj)(`Tasks are pages too — everything you need to finish this one can live right here. ## Notes - Add a due date ",
+  "new_chunk": true
+ },
+ {
+  "text": "enable_large_popup_height_control",
+  "kind": "key",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "able_itp_optimization_ui_desktop\"); _.O(\"enable_itp_support_in_oauth\"); _.O(\"enable_large_popup_height\"); _.O(\"enable_large_popup_height_control\"); _.hf(\"enable_itp_optimization\",24); _.O(\"enable_rrm_interop\"); _.O(\"enab",
+  "new_chunk": false
+ },
+ {
+  "text": ".concat(M.tagName).concat(M.type===void 0?",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "ent||M instanceof HTMLTextAreaElement||M instanceof HTMLSelectElement||M instanceof HTMLButtonElement){var A=\"\".concat(M.tagName).concat(M.type===void 0?\"\":M.type),F=P<k?f:g,O=F.incrementAndGet(A);if(O>R||w)continue;var ",
+  "new_chunk": false
+ }
+]
