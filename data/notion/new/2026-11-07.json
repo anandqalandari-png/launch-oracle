@@ -1,0 +1,107 @@
+[
+ {
+  "text": "Thinking…",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "faultMessage:\"Reading transcript…\"},thinking:{id:\"transcriptionBlock.reasoningSteps.thinking\",defaultMessage:\"Thinking…\"}});i.d(t,{YU:()=>l},{Fp:m})},917964(e,t,i){i.d(t,{m:()=>s}),i(635790);let n=new(i(552709)).O2(\"Simp",
+  "new_chunk": false
+ },
+ {
+  "text": "blocks_v2_page",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ng_started_page_banner\":case\"set_custom_getting_started_page_banner\":case\"page_properties_limit_exceeded\":case\"blocks_v2_page\":case\"agent_profile_page\":case\"guest_upsell_banner\":case\"chrome_browser_deprecation\":case\"desk",
+  "new_chunk": false
+ },
+ {
+  "text": ",background:null==g?void 0:g.background,borderRadius:4,overflow:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "case void 0:return}}(p),f=(0,i(960253).I)(()=>({container:{position:\"relative\",width:\"100%\",alignSelf:\"stretch\",background:null==g?void 0:g.background,borderRadius:4,overflow:\"hidden\"},expandedContent:{position:\"relative",
+  "new_chunk": false
+ },
+ {
+  "text": "Your organization has reached its daily AI role drafting limit. Try again later, or create the role manually.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "0).YK)({custom_admin_role_draft_budget_exceeded:{id:\"customAdminRoles.aiDraft.budgetExceeded\",defaultMessage:\"Your organization has reached its daily AI role drafting limit. Try again later, or create the role manually.\"",
+  "new_chunk": false
+ },
+ {
+  "text": "This new content would replace an existing synced block's content everywhere it appears. To add a new reference to the synced block, leave the reference empty.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/63990.js",
+  "ctx": "prototype),this.name=\"MissingBlockInRecordMapError\",this.blockId=e}}class i extends s().Y{constructor(){super(\"This new content would replace an existing synced block's content everywhere it appears. To add a new referen",
+  "new_chunk": false
+ },
+ {
+  "text": "Ahipa Pickle",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "ity:\"ahipa-pickle\",pricing:{default:{inputRate:8,outputRate:40,cachedRate:.2,cachedWriteRate:10}},displayName:\"Ahipa Pickle\",displayNameWithProvider:\"Anthropic Ahipa Pickle\",displayGroup:\"intelligent\"},{notionName:\"achir",
+  "new_chunk": false
+ },
+ {
+  "text": "Anthropic Ahipa Pickle",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "putRate:8,outputRate:40,cachedRate:.2,cachedWriteRate:10}},displayName:\"Ahipa Pickle\",displayNameWithProvider:\"Anthropic Ahipa Pickle\",displayGroup:\"intelligent\"},{notionName:\"achira-donut\",lifecycle:\"active\",modelFamily",
+  "new_chunk": false
+ },
+ {
+  "text": "Orchard Oncall",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "yName:\"Opera Cake\",displayNameWithProvider:\"OpenAI Opera Cake\"},{...r,notionName:\"orchard-oncall\",displayName:\"Orchard Oncall\",displayNameWithProvider:\"OpenAI Orchard Oncall\"},{notionName:\"onico\",lifecycle:\"retired\",reti",
+  "new_chunk": false
+ },
+ {
+  "text": "OpenAI Orchard Oncall",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "r:\"OpenAI Opera Cake\"},{...r,notionName:\"orchard-oncall\",displayName:\"Orchard Oncall\",displayNameWithProvider:\"OpenAI Orchard Oncall\"},{notionName:\"onico\",lifecycle:\"retired\",retiredBy:\"notion\",replacementModel:\"omniberr",
+  "new_chunk": false
+ },
+ {
+  "text": "emergency_overrides_client_polling",
+  "kind": "flag",
+  "file": "app.notion.com/_assets/DeferredNotionListeners.js",
+  "ctx": "5).b.confirm()},[e]);(0,r.useEffect)(()=>{let e;if(!s)return;let r=!1,a=!0,u=()=>n(747071).default.checkGate(\"emergency_overrides_client_polling\",!0),d=t=>{clearTimeout(e),e=setTimeout(c,t)},c=async()=>{a=!1,\"hidden\"!==d",
+  "new_chunk": false
+ },
+ {
+  "text": "automation_update_page_icon_action",
+  "kind": "flag",
+  "file": "app.notion.com/_assets/97699.js",
+  "ctx": "_page_icon\")).length>+(\"canAddAction\"!==e.checkType))&&(\"canSaveAction\"===e.checkType||e.checkExperimentGate(\"automation_update_page_icon_action\"))},resolveExecutionDependencies(e){let t=\"event\"===e.automationModel.getTr",
+  "new_chunk": true
+ },
+ {
+  "text": "Edit page icon…",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/97699.js",
+  "ctx": "e:{values:[]}}}},eT=(0,a(752010).YK)({updatePageIcon:{id:\"automations.actions.updatePageIcon\",defaultMessage:\"Edit page icon…\"},updatePageIconDescription:{id:\"automations.actions.updatePageIconDescription\",defaultMessage",
+  "new_chunk": true
+ },
+ {
+  "text": "Sets the icon of the page that triggered the automation.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/97699.js",
+  "ctx": "it page icon…\"},updatePageIconDescription:{id:\"automations.actions.updatePageIconDescription\",defaultMessage:\"Sets the icon of the page that triggered the automation.\"}}),eI={type:\"update_page_icon\",invertible:!0,hasSide",
+  "new_chunk": true
+ },
+ {
+  "text": "Notetaker tabs",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/26637.js",
+  "ctx": "let r=(0,o(752010).YK)({meetingsContentViewName:{id:\"pageLayout.meetingNotesContentView.name\",defaultMessage:\"Notetaker tabs\"}});o.d(t,{$:()=>i,Q:()=>a})},333488(e,t,o){let i=(0,o(752010).YK)({PROPERTY_MODULE_MESSAGE:{id",
+  "new_chunk": false
+ },
+ {
+  "text": "Background token refresh received.",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "nction(a){if(!a.l&&(a.l=fu(Aw(a)),a.l&&a.i.client_id)){var b=a.l;a.enableTokenRefresh&&rw(b.i,function(d){_.F(\"Background token refresh received.\",\"TOKEN_CLIENT\");a.j(d.tokenResponse,!0)});var c=window.setTimeout(functio",
+  "new_chunk": false
+ }
+]

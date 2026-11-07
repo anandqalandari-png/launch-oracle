@@ -1,0 +1,226 @@
+[
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.width,X,H.stop.paint.p3Name,H.stop.canvas.height,H.stop.canvas.viewBox,H.stop.canvas.width,Y],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF generation is slower than usual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "on.image-gen-delayed-retry\",\"Retry\"),jk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF generation is slower than usual\"),Ok=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"I",
+  "new_chunk": false
+ },
+ {
+  "text": "Image generation is slower than usual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "\",\"GIF generation is slower than usual\"),Ok=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Image generation is slower than usual\"),Mk=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-descri",
+  "new_chunk": false
+ },
+ {
+  "text": "Ovaj je razgovor upravo podijeljen sa mnom. Sažmi njegov sadržaj",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "conversation.receiver-summarize-label\",\"Sažmi\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Ovaj je razgovor upravo podijeljen sa mnom. Sažmi njegov sadržaj\"),fg=e(\"lightweight-web.conversation.respons",
+  "new_chunk": false
+ },
+ {
+  "text": "Právě se mnou někdo sdílel tuto konverzaci. Shrň její obsah.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Shrnout\"),zs=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Právě se mnou někdo sdílel tuto konverzaci. Shrň její obsah.\"),fs=e(\"lightweight-web.conversation.response-co",
+  "new_chunk": false
+ },
+ {
+  "text": "Krijg gespecialiseerde hulp",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "tle\",\"Materiaal met seksueel kindermisbruik melden\"),ql=e(\"lightweight-web.csam-help-resources.support-title\",\"Krijg gespecialiseerde hulp\"),Ul=e(\"lightweight-web.csam-help-resources.title\",\"Hulpbronnen\"),Fl=e(\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "Denne samtalen ble nettopp delt med meg. Oppsummer innholdet i samtalen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ersation.receiver-summarize-label\",\"Oppsummer\"),yo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Denne samtalen ble nettopp delt med meg. Oppsummer innholdet i samtalen.\"),jo=e(\"lightweight-web.conversation",
+  "new_chunk": false
+ },
+ {
+  "text": "Šī saruna tikko tika kopīgota ar mani. Lūdzu, apkopo šīs sarunas saturu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Apkopot\"),fn=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Šī saruna tikko tika kopīgota ar mani. Lūdzu, apkopo šīs sarunas saturu\"),yn=e(\"lightweight-web.conversation.",
+  "new_chunk": false
+ },
+ {
+  "text": "Fasse diese Nachrichtenmeldung kurz für mich zusammen:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ading-image\",\"Bildidee wird geladen …\"),c=[\"lightweight-web.explore-feed.news-briefing-prompt\",[{type:0,value:\"Fasse diese Nachrichtenmeldung kurz für mich zusammen: \"},{type:1,value:\"title\"},{type:0,value:\"\\n\\nQuelle: \"",
+  "new_chunk": false
+ },
+ {
+  "text": "Most osztották meg velem ezt a beszélgetést. Foglald össze a tartalmát",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "tion.receiver-summarize-label\",\"Foglald össze\"),ur=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Most osztották meg velem ezt a beszélgetést. Foglald össze a tartalmát\"),yr=e(\"lightweight-web.conversation.r",
+  "new_chunk": false
+ },
+ {
+  "text": "Den här konversationen har precis delats med mig. Kan du sammanfatta innehållet i den?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "sation.receiver-summarize-label\",\"Sammanfatta\"),yo=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Den här konversationen har precis delats med mig. Kan du sammanfatta innehållet i den?\"),Do=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Właśnie udostępniono mi tę rozmowę. Podsumuj proszę jej treść.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "versation.receiver-summarize-label\",\"Podsumuj\"),jl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Właśnie udostępniono mi tę rozmowę. Podsumuj proszę jej treść.\"),vl=e(\"lightweight-web.conversation.response-",
+  "new_chunk": false
+ },
+ {
+  "text": "Za narek dovoli dostop do mikrofona. Preverite nastavitve brskalnika ali naprave.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ose\",\"Zapri\"),N=e(\"lightweight-web.common.dismiss\",\"Zapri\"),I=e(\"lightweight-web.dictation.permission-denied\",\"Za narek dovoli dostop do mikrofona. Preverite nastavitve brskalnika ali naprave.\"),O=e(\"lightweight-web.dict",
+  "new_chunk": false
+ },
+ {
+  "text": "Percakapan ini baru saja dibagikan kepada saya. Rangkum isi percakapan ini",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Rangkum\"),ys=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Percakapan ini baru saja dibagikan kepada saya. Rangkum isi percakapan ini\"),fs=e(\"lightweight-web.conversati",
+  "new_chunk": false
+ },
+ {
+  "text": "Cette conversation vient d’être partagée avec moi. Résume son contenu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Résumer\"),zl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Cette conversation vient d’être partagée avec moi. Résume son contenu.\"),kl=e(\"lightweight-web.conversation.r",
+  "new_chunk": false
+ },
+ {
+  "text": "Această conversație tocmai a fost partajată cu mine. Rezumă conținutul acestei conversații",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "onversation.receiver-summarize-label\",\"Rezumă\"),zg=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Această conversație tocmai a fost partajată cu mine. Rezumă conținutul acestei conversații\"),kg=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor aria-hidden=true>',1),Hr=Uo(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "l=\"currentColor\"/>'});mo(1),jo(1,!0),vi([\"click\"],[112]);var Lr=Uo('<svg width=20 height=20 viewBox=\"0 0 20 20\" fill=currentColor aria-hidden=true>',1),Hr=Uo(\"<p role=alert>\"),Or=Uo('<div data-conversation-rating><aside>",
+  "new_chunk": false
+ },
+ {
+  "text": "),Kr=Uo('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Ur=Uo(\"<!>\",0,1),Br=Uo(\"<span role=alert> \"),Vr=Uo(\"<div data-generated-file-cards><!>\"),Kr=Uo('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Wr=Uo('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Wr=Uo('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Uo('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Xr=Uo('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Uo('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),zx=Uo('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),wx=Uo(\"<div></div><!>\",0,2),jx=Uo(\"<p role=status> \"),qx=Uo(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),zx=Uo('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),Mx=Uo(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),Rx=Uo('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),Mx=Uo(\"<blockquote> \"),Ix=Uo(\"<p data-user-message-copy>\"),Cx=Uo(\"<p data-user-message-copy> \"),Rx=Uo('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),Sx=Uo('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),$x=Uo(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),Sx=Uo('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Uo(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),Sx=Uo('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Uo(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),Lx=Uo('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Nx=Uo(\"<svg aria-hidden=true fill=none><use>\",1),Lx=Uo('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Hx=Vn(111),Ox=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?Xf(e.children):",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "nt\"!==e.type||!Uf(e).includes(\"list-item-decorator\")).map(e=>\"text\"===e.type||\"raw\"===e.type?e.value:\"children\"in e?Xf(e.children):\"\").join(\"\")}function Yf(e,t){let i;(i=t[0])!==e&&(e.c=xy(t[2],e.c,e.b,i,\"b:f2ee098a\",!0)",
+  "new_chunk": false
+ },
+ {
+  "text": ",!q||!N)throw a.errorReason=q?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "pported_encoding\",Error(\"Unsupported translation stream encoding.\");L=new O}}if(o(),a.failurePhase=\"completion\",!q||!N)throw a.errorReason=q?\"empty_translation\":\"incomplete_stream\",Error(\"Translation ended before it was ",
+  "new_chunk": false
+ },
+ {
+  "text": "Dovolite dostop do mikrofona za narek",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": ". Preverite nastavitve brskalnika ali naprave.\"}],\"lightweight-web.dictation.permission-retry\":[{type:0,value:\"Dovolite dostop do mikrofona za narek\"}],\"lightweight-web.dictation.permission-retry-action\":[{type:0,value:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Public output unavailable",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/public.js",
+  "ctx": "s(c.name,t)}}let d=e([u,t(15e3)]),f=await r(c.target,{fileId:c.fileId},d);if(f.status!==`success`)throw Error(`Public output unavailable`);let p=i(f.download_url);if(!p.url||p.path)throw Error(`Unsupported public output ",
+  "new_chunk": false
+ },
+ {
+  "text": "Unsupported public output destination",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/public.js",
+  "ctx": "us!==`success`)throw Error(`Public output unavailable`);let p=i(f.download_url);if(!p.url||p.path)throw Error(`Unsupported public output destination`);let m=await fetch(p.url,{signal:d,credentials:`omit`,redirect:`error`",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof H&&Number.isFinite(H)&&H>0?H:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "mber\"!=typeof Se||!Number.isFinite(Se)||Se<=0)return;let e=Math.min(2048,Math.max(1,Math.round(Se))),t=\"number\"==typeof H&&Number.isFinite(H)&&H>0?H:\"number\"==typeof W&&Number.isFinite(W)&&W>0?W:\"number\"==typeof Oe&&Numb",
+  "new_chunk": false
+ },
+ {
+  "text": ",tickLine:!1,tickMargin:Lt?0:Ht??5,tickCount:Lt?0:void 0,axisLine:Vt??!0,width:Lt?0:Jt??Br??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "kMargin:xr,hide:!je,height:je?void 0:0,padding:la}),(0,ar.jsx)(Nt,{className:rr.Axis,dataKey:Ct,type:\"category\",tickLine:!1,tickMargin:Lt?0:Ht??5,tickCount:Lt?0:void 0,axisLine:Vt??!0,width:Lt?0:Jt??Br??\"auto\",hide:Lt,ti",
+  "new_chunk": false
+ }
+]

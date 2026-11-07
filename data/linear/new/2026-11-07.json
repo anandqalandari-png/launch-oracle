@@ -1,0 +1,1661 @@
+[
+ {
+  "text": "Custom Git branch formats",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "kDescriptionsInTheList:`lin-91617-show-check-descriptions-in-the-list`},W={\"custom-git-branch-formats\":{title:`Custom Git branch formats`,description:`Use custom branch-name templates for the workspace`,defaultValue:!1},",
+  "new_chunk": false
+ },
+ {
+  "text": "Use custom branch-name templates for the workspace",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "heck-descriptions-in-the-list`},W={\"custom-git-branch-formats\":{title:`Custom Git branch formats`,description:`Use custom branch-name templates for the workspace`,defaultValue:!1},\"project-template-dependencies\":{title:`",
+  "new_chunk": false
+ },
+ {
+  "text": "Developer tools",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "Axel WT)`,description:`Custom keyboard shortcuts / Axel WT project`,defaultValue:!1},\"developer-tools\":{title:`Developer tools`,description:`Show the developer toolbar and developer actions in production builds. Flag ove",
+  "new_chunk": false
+ },
+ {
+  "text": "Show the developer toolbar and developer actions in production builds. Flag overrides also require a Linear email domain.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "keyboard shortcuts / Axel WT project`,defaultValue:!1},\"developer-tools\":{title:`Developer tools`,description:`Show the developer toolbar and developer actions in production builds. Flag overrides also require a Linear e",
+  "new_chunk": false
+ },
+ {
+  "text": "Jira custom field sync",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "mport, and a flow that imports a project, syncs it, or both`,defaultValue:!1},\"jira-custom-field-sync\":{title:`Jira custom field sync`,description:`Sync chosen Jira custom fields through workspace label groups`,defaultVa",
+  "new_chunk": false
+ },
+ {
+  "text": "Sync chosen Jira custom fields through workspace label groups",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-boot.js",
+  "ctx": "ect, syncs it, or both`,defaultValue:!1},\"jira-custom-field-sync\":{title:`Jira custom field sync`,description:`Sync chosen Jira custom fields through workspace label groups`,defaultValue:!1},\"jira-sync-read-only-fields\":",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(n.null?mm:hm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "e)return`in`in e.id?e.id.in:e.id.nin;if(`or`in e){let t=[];for(let n of e.or)`id`in n?t.push(...n.id.in):`null`in n?t.push(n.null?mm:hm):`isMe`in n?t.push(gm):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(x",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(gm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".nin;if(`or`in e){let t=[];for(let n of e.or)`id`in n?t.push(...n.id.in):`null`in n?t.push(n.null?mm:hm):`isMe`in n?t.push(gm):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(xm):`app`in n?t.push(Sm):`isInvit",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(Sm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".push(n.null?mm:hm):`isMe`in n?t.push(gm):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(xm):`app`in n?t.push(Sm):`isInvited`in n&&t.push(bm);return t}if(`and`in e){let t=[];for(let n of e.and)if(`id`in n)t.",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?t.push(gm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "h(xm);else if(`app`in n)t.push(Sm);else if(`isInvited`in n)t.push(bm);else if(`or`in n)for(let e of n.or)`isMe`in e?t.push(gm):`active`in e||`or`in e&&e.or.some(e=>`active`in e)?t.push(xm):`app`in e?t.push(Sm):`isInvited",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?t.push(Sm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "n n)for(let e of n.or)`isMe`in e?t.push(gm):`active`in e||`or`in e&&e.or.some(e=>`active`in e)?t.push(xm):`app`in e?t.push(Sm):`isInvited`in e&&t.push(bm);return t}return[]}static createUserListFilterBlock(e){let{values:",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.estimate?[...e.estimate.or[0].in,mm]:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "`estimate`in e,getCompareOption:e=>`or`in e.estimate||`in`in e.estimate?`is`:`not`,selectedValues(e){return`or`in e.estimate?[...e.estimate.or[0].in,mm]:`and`in e.estimate?[...e.estimate.and[0].nin,mm]:`in`in e.estimate?",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.estimate?[...e.estimate.and[0].nin,mm]:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "imate||`in`in e.estimate?`is`:`not`,selectedValues(e){return`or`in e.estimate?[...e.estimate.or[0].in,mm]:`and`in e.estimate?[...e.estimate.and[0].nin,mm]:`in`in e.estimate?e.estimate.in:e.estimate.nin}},e.labels=oh({key",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.project?e.project.or[0].id.in.concat(mm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".project||`id`in e.project&&`in`in e.project.id?`is`:`not`,selectedValues(e){return`null`in e.project?[mm]:`or`in e.project?e.project.or[0].id.in.concat(mm):`and`in e.project?e.project.and[0].id.nin.concat(mm):`in`in e.p",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.project?e.project.and[0].id.nin.concat(mm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "`:`not`,selectedValues(e){return`null`in e.project?[mm]:`or`in e.project?e.project.or[0].id.in.concat(mm):`and`in e.project?e.project.and[0].id.nin.concat(mm):`in`in e.project.id?e.project.id.in:e.project.id.nin}};let c=",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.length===2?[...e.and[0].projectMilestone.id.nin,mm]:e.and[0].projectMilestone.id.nin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "urn`projectMilestone`in e?`in`in e.projectMilestone.id?e.projectMilestone.id.in:e.projectMilestone.id.nin:`and`in e?e.and.length===2?[...e.and[0].projectMilestone.id.nin,mm]:e.and[0].projectMilestone.id.nin:`or`in e?`in`",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.length===2?[...e.and[0].sourceMetadata.subType.nin,mm]:e.and[0].sourceMetadata.subType.nin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "rceMetadata`in e?`in`in e.sourceMetadata.subType?e.sourceMetadata.subType.in:e.sourceMetadata.subType.nin:`and`in e?e.and.length===2?[...e.and[0].sourceMetadata.subType.nin,mm]:e.and[0].sourceMetadata.subType.nin:`or`in ",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.or[0].id.in.concat(mm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "turn`or`in t||`id`in t&&`in`in t.id?`is`:`not`},selectedValues(e){let t=e.or[0].issue.and[0].project;return`or`in t?t.or[0].id.in.concat(mm):`and`in t?t.and[0].id.nin.concat(mm):`in`in t.id?t.id.in:t.id.nin}};function n(",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.and[0].id.nin.concat(mm):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "?`is`:`not`},selectedValues(e){let t=e.or[0].issue.and[0].project;return`or`in t?t.or[0].id.in.concat(mm):`and`in t?t.and[0].id.nin.concat(mm):`in`in t.id?t.id.in:t.id.nin}};function n(e){return r(e)}e.withPullRequestPro",
+  "new_chunk": false
+ },
+ {
+  "text": "Use only letters, numbers, hyphens, underscores, and slashes between path segments",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "ample`,githubUsername:`example`},new Set);if(!/^[a-zA-Z0-9_][a-zA-Z0-9_-]*(\\/[a-zA-Z0-9_-]+)*$/.test(n))return`Use only letters, numbers, hyphens, underscores, and slashes between path segments`}render(e,t){let n=new Set",
+  "new_chunk": false
+ },
+ {
+  "text": ",originalLines:e===void 0?[]:KB.splitIntoLines(e),modifiedSource:t??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "id 0)return;let n={original:{sourceLines:{},rows:[]},modified:{sourceLines:{},rows:[]}},r={originalSource:e??``,originalLines:e===void 0?[]:KB.splitIntoLines(e),modifiedSource:t??``,modifiedLines:t===void 0?[]:KB.splitIn",
+  "new_chunk": false
+ },
+ {
+  "text": ",modifiedLines:t===void 0?[]:KB.splitIntoLines(t),language:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "ines:{},rows:[]}},r={originalSource:e??``,originalLines:e===void 0?[]:KB.splitIntoLines(e),modifiedSource:t??``,modifiedLines:t===void 0?[]:KB.splitIntoLines(t),language:`plaintext`};return e===void 0||t===void 0?GB.proc",
+  "new_chunk": false
+ },
+ {
+  "text": ":e.slaStatus===Ja.Status.Breached?t?.compact?_i(new Date,e.slaBreachesAt,n):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "iled?`Failed by ${_i(e.completedAt,e.slaBreachesAt,n)}`:`Achieved ${_i(e.slaBreachesAt,e.completedAt,n)} early`:e.slaStatus===Ja.Status.Breached?t?.compact?_i(new Date,e.slaBreachesAt,n):`Breached by ${_i(new Date,e.slaB",
+  "new_chunk": false
+ },
+ {
+  "text": ":t?.compact?_i(e.slaBreachesAt,new Date,n):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "===Ja.Status.Breached?t?.compact?_i(new Date,e.slaBreachesAt,n):`Breached by ${_i(new Date,e.slaBreachesAt,n)}`:t?.compact?_i(e.slaBreachesAt,new Date,n):`${_i(e.slaBreachesAt,new Date,n)} remaining`}static getTooltipTex",
+  "new_chunk": false
+ },
+ {
+  "text": "Flag overrides need a Linear email address",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "e`,e[e.failingToConnect=3]=`failingToConnect`,e}({}),Dxe=class e{static#e=this.flagOverridesUnavailableReason=`Flag overrides need a Linear email address`;static canUseDeveloperTools(){return!u.IS_PRODUCTION_BUILD||C.isE",
+  "new_chunk": false
+ },
+ {
+  "text": "Failed to delete databases after the disk was full",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "eError(e);if(e instanceof Error&&Jy.isStorageFullError(e)){try{await mS.deleteAllDatabases()}catch(e){j.error(`Failed to delete databases after the disk was full`,e)}throw new sy({type:`bootstrap error`,message:`error op",
+  "new_chunk": false
+ },
+ {
+  "text": "Your disk is full, so Linear cannot save your workspace data on this device. Free up some disk space, then try again.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ",e)}throw new sy({type:`bootstrap error`,message:`error opening database`,userError:!0,userPresentableMessage:`Your disk is full, so Linear cannot save your workspace data on this device. Free up some disk space, then tr",
+  "new_chunk": false
+ },
+ {
+  "text": "):void 0,transformOrigin:l,pointerEvents:t===Kg.open?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "(_.current=!0)}}),x=da([m],p,f),S=(0,Y.jsx)(u,{style:{opacity:b.opacity,transform:l?b.scale.to(e=>`scale(${e})`):void 0,transformOrigin:l,pointerEvents:t===Kg.open?void 0:`none`,maxHeight:`var(${Ug})`,overflow:`var(${Wg}",
+  "new_chunk": false
+ },
+ {
+  "text": "Already downloading",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ownload`,image:r?(0,Y.jsx)(Rv,{variant:`down`,initialFrame:3}):(0,Y.jsx)(Qy,{}),applicable:n,disabledReason:r?`Already downloading`:void 0,execute:t}}static downloadAs(e){let{execute:t,applicable:n=!0,isDownloading:r=!1}",
+  "new_chunk": false
+ },
+ {
+  "text": "Wrap lines",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "eButtonLabel_uijb6_10`,languagePicker:`_languagePicker_uijb6_11`},zJe=2e3,Zw=16,BJe=[{option:`lineWrap`,label:`Wrap lines`},{option:`lineNumbers`,label:`Show line numbers`}],VJe=e=>{let{getPos:t,attributes:n,isQrCode:r,s",
+  "new_chunk": false
+ },
+ {
+  "text": "Show line numbers",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "nguagePicker_uijb6_11`},zJe=2e3,Zw=16,BJe=[{option:`lineWrap`,label:`Wrap lines`},{option:`lineNumbers`,label:`Show line numbers`}],VJe=e=>{let{getPos:t,attributes:n,isQrCode:r,showsQrCodeImage:i,loc:a,setIsCollapsed:o,i",
+  "new_chunk": false
+ },
+ {
+  "text": ",...LXe,\"aria-label\":i,\"aria-describedby\":k?ee:void 0,value:d??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "O,placeholder:k?void 0:i,faded:!S,afterLeadingContent:k,spellCheck:`false`,autoComplete:`off`,autoCorrect:`off`,...LXe,\"aria-label\":i,\"aria-describedby\":k?ee:void 0,value:d??``,onChange:t,onKeyDown:re,onKeyUp:u,onClick:t",
+  "new_chunk": false
+ },
+ {
+  "text": "?Yn(e,t.color.purpleBase):void 0,d:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "{let t=ni();return(0,Y.jsx)(U,{...e,children:(0,Y.jsx)(`svg`,{children:(0,Y.jsx)(`path`,{fill:e.color===`brand`?Yn(e,t.color.purpleBase):void 0,d:`M6.44179 8.00397C6.25955 8.49376 6.16846 9.13456 6.16846 9.92639C6.16846 ",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Ti?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ull]}),(0,Y.jsxs)(yj,{align:`center`,sx:HI.propertiesSection,children:[i,a]})]})},II=e=>e instanceof Rr?`issue`:e instanceof Ti?`initiative`:`project`,Cpt=e=>e instanceof Rr?(0,Y.jsx)(cg,{size:12}):e instanceof Ti?(0,Y.j",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?Co.status(e.issue):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "9858 13.8002C9.61198 13.8002 9.29858 13.4868 9.29858 13.1002Z`})]})})}var sL=q(function(e){let t=ni(),n=`issue`in e?Co.status(e.issue):`status`in e?e.status:void 0,r={style:e.style};switch(n){case Yp.Status.Breached:retu",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Code uses this key to sign your commits",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "`,`ssh`],value:Ks.boolean()}),commitSigningKey:Ks.entry({conditional:!0,name:`Commit signing key`,description:`Linear Code uses this key to sign your commits`,keywords:[`gpg`,`ssh`,`signature`,`verified`,`github`,`privat",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0:vAt.isHttpUrl(n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ValidationError(t){let n=e.normalizeDeveloperUrl(t.developerUrl);return n.length===0?t.publicEnabled?`required`:void 0:vAt.isHttpUrl(n)?void 0:`invalid`}},yAt=`https://linear.app/developers`,bAt=`${yAt}/oauth-2-0-authent",
+  "new_chunk": false
+ },
+ {
+  "text": ",n=wp(e)&&/already exists/i.test(e.userPresentableMessage??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "GitHub integration`,{error:e});let t=wp(e)?e.userPresentableMessage:`Could not create stub GitHub integration.`,n=wp(e)&&/already exists/i.test(e.userPresentableMessage??``)?`${t} Refresh local database if you still can'",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching subscribers",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "nitiativesEnabled},key:`project`},sBt={...qd.subscribers,id:V(),name:`Subscribers`,searchNoResultsPlaceholder:`No matching subscribers`,image:(0,Y.jsx)(rL,{}),imageForValues(e,t){return XF.getUserImageForValues(e,t)},lab",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching users",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "Permissions),key:`hasSharedUsers`},lBt={...qd.sharedWith,id:V(),name:`Shared with`,searchNoResultsPlaceholder:`No matching users`,image:(0,Y.jsx)(IF,{}),imageForValues(e,t){return XF.getUserImageForValues(e,t)},label(e,t",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching leads",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "eturn Array.from(t.values())}var xBt={...qd.projectLead,id:V(),name:`Project lead`,searchNoResultsPlaceholder:`No matching leads`,image:(0,Y.jsx)(sv,{}),imageForValues(e,t){return XF.getUserImageForValues(e,t)},label(e,t",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching assignees",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",applicable(e){return e.teams.length>1}},hU={...qd.assignee,id:V(),name:`Assignee`,searchNoResultsPlaceholder:`No matching assignees`,searchInput:`always-show`,image:(0,Y.jsx)(eL,{}),imageForValues(e,t){return XF.getUser",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching agents",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ionsAsync(e){return Qmt(e)},key:`assignee`},gU={...qd.delegate,id:V(),name:`Agent`,searchNoResultsPlaceholder:`No matching agents`,searchInput:`always-show`,image:(0,Y.jsx)(Jh,{}),imageForValues(e,t){return XF.getUserIma",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching loops",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "lass:rm,blockDefinition:qd.priority}),WBt={...qd.createdViaLoop,id:V(),name:`Loop`,searchNoResultsPlaceholder:`No matching loops`,image:(0,Y.jsx)(lv,{}),imageForValues(e,t){let n=e.length===1?t.currentUser.organization.a",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching owners",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ".location.pathname)!==`teamInitiativesList`}),CVt={...Uc.owner,id:V(),name:`Owner`,searchNoResultsPlaceholder:`No matching owners`,image:(0,Y.jsx)(sv,{}),imageForValues(e,t){return XF.getUserImageForValues(e,t)},label(e,",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching creators",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "r`)}].concat(ZF(e.teams,e.currentUser))}},wVt={...Uc.creator,id:V(),name:`Creator`,searchNoResultsPlaceholder:`No matching creators`,image:(0,Y.jsx)(zF,{}),imageForValues(e,t){return XF.getUserImageForValues(e,t)},label(",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,className:s,style:c,sx:[XKt.panel,!n&&!!i&&uf[t??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "tBorder:a,skipElevation:o,className:s,style:c,sx:l,...u}=e,d=(0,Y.jsx)(X,{...u,\"data-highlight-border\":a?`true`:void 0,className:s,style:c,sx:[XKt.panel,!n&&!!i&&uf[t??`bgBorderFaint`],!!i&&!r&&ZKt[i],a!==void 0&&XKt.hig",
+  "new_chunk": false
+ },
+ {
+  "text": "Some checks",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "r=e.some(e=>e.status===qp.canceled);if(t.length>0){let e=t.every(e=>e.isRequired===!1)?`Some optional checks`:`Some checks`;return n&&r?`${e} are still running, some have failed, and others were canceled`:n?`${e} are sti",
+  "new_chunk": false
+ },
+ {
+  "text": "):ZJ.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "itDisabledReason(n,t)??(ZJ.canEditWorkflow(n,t)?void 0:`You do not have permission to reconnect this connector`):ZJ.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:`You do not have permission to reconnect this",
+  "new_chunk": false
+ },
+ {
+  "text": ":l.hasPermission(Ul.teamManagement,n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "is connector`}let l=t.team;return l?l.isReadOnly?`You cannot reconnect MCP connectors in ${l.isReadOnly} teams`:l.hasPermission(Ul.teamManagement,n)?void 0:`You do not have permission to reconnect this connector`:n.hasPe",
+  "new_chunk": false
+ },
+ {
+  "text": ":n.hasPermission(H.integrationCreation)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ly} teams`:l.hasPermission(Ul.teamManagement,n)?void 0:`You do not have permission to reconnect this connector`:n.hasPermission(H.integrationCreation)?void 0:`You do not have permission to reconnect this connector`}var V",
+  "new_chunk": false
+ },
+ {
+  "text": "Not important",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "=void 0,this.bodyData=void 0}},xon={id:V(),name:e=>e.targetedModelsOfType(pr).some(e=>e.priority.isImportant)?`Not important`:`Mark as important`,group:OO,image:e=>e.targetedModelsOfType(pr).some(e=>e.priority.isImportan",
+  "new_chunk": false
+ },
+ {
+  "text": ",detail:(e instanceof ru?e.userPresentableMessage:e.message)??e.message,asyncId:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "})}let s=r.length===0&&o?[o]:r;c&&pQ.cache.set(c,s),yield[...s]}catch(e){return yield[{name:`An error occurred`,detail:(e instanceof ru?e.userPresentableMessage:e.message)??e.message,asyncId:`error`,skipFilterScoring:!0,",
+  "new_chunk": false
+ },
+ {
+  "text": "Why am I seeing this?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ult:e,...t}){return(0,Y.jsxs)(Y.Fragment,{children:[(0,Y.jsx)(AL,{sx:X1.modalHeader,onRequestClose:e,children:`Why am I seeing this?`}),(0,Y.jsx)(jL,{sx:X1.modalContent,children:(0,Y.jsx)(fwn,{...t,onResult:e})})]})}),fw",
+  "new_chunk": false
+ },
+ {
+  "text": "You’re mentioned in this update.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "son:e,project:t,initiative:n,team:r,data:i,onResult:a})=>{let o=NA(),s,c,l=[];switch(e){case Qo.userMention:s=`You’re mentioned in this update.`;break;case Qo.userAuthor:s=`You’re the author of this update.`;break;case Q",
+  "new_chunk": false
+ },
+ {
+  "text": "You’re the author of this update.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "o=NA(),s,c,l=[];switch(e){case Qo.userMention:s=`You’re mentioned in this update.`;break;case Qo.userAuthor:s=`You’re the author of this update.`;break;case Qo.initiativeOwner:s=(0,Y.jsxs)(Y.Fragment,{children:[`As an ow",
+  "new_chunk": false
+ },
+ {
+  "text": "As an owner of",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "Author:s=`You’re the author of this update.`;break;case Qo.initiativeOwner:s=(0,Y.jsxs)(Y.Fragment,{children:[`As an owner of `,(0,Y.jsx)(J1,{initiative:n}),`, you’re automatically subscribed to updates`,n?` on this init",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",362,363,364,365,366,338,367,368,369,370,371,372,373,374,293,375,376,377]),import.meta.url)},LinearCode:{name:`Linear Code`,icon:(0,Y.jsx)(RE,{}),keywords:`cloud coding agent coding sessions pull requests environments`,p",
+  "new_chunk": false
+ },
+ {
+  "text": "Detach feature flags…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "&window.open(t.externalUrl,`_blank`)}},w0={id:V(),name:e=>{let t=e.targetedModelsOfType(Mr);return t.length>1?`Detach feature flags…`:e.isContextualMenu?`Detach feature flag…`:t[0]?.issue?`Detach feature flag from issue…",
+  "new_chunk": false
+ },
+ {
+  "text": "Feature flags are still rolling out",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "cleanupPath:lDn(e)})).filter(e=>e.cleanupPath!==void 0),r=t.length-n.length;if(n.length===0){new K(I.info,r>1?`Feature flags are still rolling out`:`Feature flag is still rolling out`,`Remove ${r>1?`them`:`it`} once full",
+  "new_chunk": false
+ },
+ {
+  "text": "Copy feature flag keys",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ble:e=>N.isEnabled(N.featureFlags)&&e.hasTargetedModelsOfType(Mr),name:e=>e.targetedModelsOfType(Mr).length>1?`Copy feature flag keys`:`Copy feature flag key`,group:BO,execute:e=>{let t=e.targetedModelsOfType(Mr);if(t.le",
+  "new_chunk": false
+ },
+ {
+  "text": "The flags",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ed instead.`:``,i=r.length>1;if(await new Ms({title:`Detach ${ga(`feature flag`,r.length)}?`,description:`${i?`The flags`:`The flag`} will not be deleted in ${e.join(` or `)}. ${i?`They stay`:`It stays`} in the workspace",
+  "new_chunk": false
+ },
+ {
+  "text": "The flag",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":``,i=r.length>1;if(await new Ms({title:`Detach ${ga(`feature flag`,r.length)}?`,description:`${i?`The flags`:`The flag`} will not be deleted in ${e.join(` or `)}. ${i?`They stay`:`It stays`} in the workspace’s flag list",
+  "new_chunk": false
+ },
+ {
+  "text": "They stay",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ure flag`,r.length)}?`,description:`${i?`The flags`:`The flag`} will not be deleted in ${e.join(` or `)}. ${i?`They stay`:`It stays`} in the workspace’s flag list and can be attached again.${t}`,confirmButtonTitle:`Detac",
+  "new_chunk": false
+ },
+ {
+  "text": "It stays",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "length)}?`,description:`${i?`The flags`:`The flag`} will not be deleted in ${e.join(` or `)}. ${i?`They stay`:`It stays`} in the workspace’s flag list and can be attached again.${t}`,confirmButtonTitle:`Detach`}).show()!",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,group:RO,image:null,skipFilterScoring:!0,actionVerb:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ting:{hoist:!0},subActions:()=>[{name:`Set channel name to `,detail:e=>e.searchInput?`#${e.searchInput.trim()}`:void 0,group:RO,image:null,skipFilterScoring:!0,actionVerb:`Set`,hideInMenuRoot:!0,applicable:e=>!!e.searchI",
+  "new_chunk": false
+ },
+ {
+  "text": "Automatically capture customer requests from Slack conversations as customer signals in Linear. Use them to see what customers are asking for and inform your product direction.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "!==e)})},h=()=>{s.current=!0,a(!1)};return(0,Y.jsxs)(Bz,{isSubsection:!0,title:`Customer signals`,description:`Automatically capture customer requests from Slack conversations as customer signals in Linear. Use them to s",
+  "new_chunk": false
+ },
+ {
+  "text": "No channels",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "s)(Wz,{visible:!0,sx:C6.accessory,children:[n&&c===0?(0,Y.jsx)(B,{variant:`small`,color:`labelMuted`,children:`No channels`}):(0,Y.jsx)(Mv,{size:`small`,variant:`secondary`,icon:(0,Y.jsx)(kJe,{isExpanded:!!l}),rightAlign",
+  "new_chunk": false
+ },
+ {
+  "text": "Preview issue",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "-between`,gap:8,children:[(0,Y.jsx)(B,{variant:`small`,children:`Example`}),(0,Y.jsx)(DR,{action:{id:m$n,name:`Preview issue`,group:Q,subActionPlaceholder:`Search for an issue to preview…`,searchInput:`always-show`,searc",
+  "new_chunk": false
+ },
+ {
+  "text": "Search for an issue to preview…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "t:`small`,children:`Example`}),(0,Y.jsx)(DR,{action:{id:m$n,name:`Preview issue`,group:Q,subActionPlaceholder:`Search for an issue to preview…`,searchInput:`always-show`,searchNoResultsPlaceholder:e=>e.searchInput?.trim(",
+  "new_chunk": false
+ },
+ {
+  "text": "Type to search for an issue",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": " preview…`,searchInput:`always-show`,searchNoResultsPlaceholder:e=>e.searchInput?.trim()?`No matching issues`:`Type to search for an issue`,recalculateOnInput:!0,execute:()=>[nR(e=>a(e),{key:`gitBranchFormatPreview`,incl",
+  "new_chunk": false
+ },
+ {
+  "text": "Change issue",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "pDisabled:!0,noAriaLabel:!0,children:(0,Y.jsx)(Mv,{type:`button`,variant:`borderless`,size:`small`,children:l?`Change issue`:`Choose issue`})})]}),l?(0,Y.jsx)(p$n,{issue:l,template:t},l.id):(0,Y.jsx)(O6,{muted:!0,childre",
+  "new_chunk": false
+ },
+ {
+  "text": "Choose issue",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "AriaLabel:!0,children:(0,Y.jsx)(Mv,{type:`button`,variant:`borderless`,size:`small`,children:l?`Change issue`:`Choose issue`})})]}),l?(0,Y.jsx)(p$n,{issue:l,template:t},l.id):(0,Y.jsx)(O6,{muted:!0,children:s.loaded?`Cho",
+  "new_chunk": false
+ },
+ {
+  "text": "Choose an issue to see its branch name",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ue`:`Choose issue`})})]}),l?(0,Y.jsx)(p$n,{issue:l,template:t},l.id):(0,Y.jsx)(O6,{muted:!0,children:s.loaded?`Choose an issue to see its branch name`:`Loading a recent issue…`})]})}),p$n=Yv(function(e){let{issue:t,templ",
+  "new_chunk": false
+ },
+ {
+  "text": "Loading a recent issue…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",{issue:l,template:t},l.id):(0,Y.jsx)(O6,{muted:!0,children:s.loaded?`Choose an issue to see its branch name`:`Loading a recent issue…`})]})}),p$n=Yv(function(e){let{issue:t,template:n}=e;return Sv(t.labels.hydrate()),(0",
+  "new_chunk": false
+ },
+ {
+  "text": "Enter a valid template to see the branch name",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "con:(0,Y.jsx)(lN,{label:e}),iconSize:`regular`,text:e.name},e.id))]}),n.error?(0,Y.jsx)(O6,{muted:!0,children:`Enter a valid template to see the branch name`}):(0,Y.jsx)(O6,{children:t.suggestedBranchName(n)})]})},{fallb",
+  "new_chunk": false
+ },
+ {
+  "text": "Loading the issue’s labels…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ranch name`}):(0,Y.jsx)(O6,{children:t.suggestedBranchName(n)})]})},{fallback:(0,Y.jsx)(O6,{muted:!0,children:`Loading the issue’s labels…`}),hydrationErrorFallback:()=>(0,Y.jsx)(O6,{muted:!0,children:`Couldn’t load the ",
+  "new_chunk": false
+ },
+ {
+  "text": "Couldn’t load the issue’s labels",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "{muted:!0,children:`Loading the issue’s labels…`}),hydrationErrorFallback:()=>(0,Y.jsx)(O6,{muted:!0,children:`Couldn’t load the issue’s labels`})});function O6(e){let{children:t,muted:n}=e;return(0,Y.jsxs)(X,{align:`cen",
+  "new_chunk": false
+ },
+ {
+  "text": "Branch name preview",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "k6.card,k6.branch],children:[(0,Y.jsx)(FE,{size:16,color:`labelMuted`}),(0,Y.jsx)(B,{as:`output`,\"aria-label\":`Branch name preview`,variant:`small`,color:n?`labelMuted`:`labelTitle`,selectable:!0,sx:k6.branchName,childre",
+  "new_chunk": false
+ },
+ {
+  "text": "Save format",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "cePermission:H.workspaceSettings,children:(0,Y.jsx)(Mv,{type:`submit`,variant:`primary`,disabled:!!c,children:`Save format`})})]})]})}var y$n=`branch-format-template-input`,b$n=`branch-format-error`,x$n=`branch-format-he",
+  "new_chunk": false
+ },
+ {
+  "text": "Issue identifier",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "r y$n=`branch-format-template-input`,b$n=`branch-format-error`,x$n=`branch-format-help`,S$n={identifier:{name:`Issue identifier`,description:`Required for issue linking · eng-123`},title:{name:`Issue title`,description:`",
+  "new_chunk": false
+ },
+ {
+  "text": "Required for issue linking · eng-123",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "nput`,b$n=`branch-format-error`,x$n=`branch-format-help`,S$n={identifier:{name:`Issue identifier`,description:`Required for issue linking · eng-123`},title:{name:`Issue title`,description:`Lowercase with hyphens · fix-lo",
+  "new_chunk": false
+ },
+ {
+  "text": "Lowercase with hyphens · fix-login-page",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":`Issue identifier`,description:`Required for issue linking · eng-123`},title:{name:`Issue title`,description:`Lowercase with hyphens · fix-login-page`},username:{name:`Linear username`,description:`Lowercase username wi",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear username",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "g · eng-123`},title:{name:`Issue title`,description:`Lowercase with hyphens · fix-login-page`},username:{name:`Linear username`,description:`Lowercase username with hyphens`},githubUsername:{name:`GitHub username`,descri",
+  "new_chunk": false
+ },
+ {
+  "text": "Lowercase username with hyphens",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ue title`,description:`Lowercase with hyphens · fix-login-page`},username:{name:`Linear username`,description:`Lowercase username with hyphens`},githubUsername:{name:`GitHub username`,description:`Uses your Linear userna",
+  "new_chunk": false
+ },
+ {
+  "text": "GitHub username",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "n-page`},username:{name:`Linear username`,description:`Lowercase username with hyphens`},githubUsername:{name:`GitHub username`,description:`Uses your Linear username if unavailable`}},C$n=[...Cr.variables.map(e=>({...S$",
+  "new_chunk": false
+ },
+ {
+  "text": "Uses your Linear username if unavailable",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "r username`,description:`Lowercase username with hyphens`},githubUsername:{name:`GitHub username`,description:`Uses your Linear username if unavailable`}},C$n=[...Cr.variables.map(e=>({...S$n[e],token:`{{${e}}}`})),{name",
+  "new_chunk": false
+ },
+ {
+  "text": ",description:r?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "Focus:`#branch-format-control`});e!==void 0&&a(e)};return(0,Y.jsx)(cB,{id:`branch-format`,title:`Branch format`,description:r?void 0:`Example: ${i}`,footer:r?(0,Y.jsxs)(X,{column:!0,gap:2,children:[(0,Y.jsx)(B,{variant:`",
+  "new_chunk": false
+ },
+ {
+  "text": "Branch format",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "=ca(N.customGitBranchFormats);return(0,Y.jsxs)(Y.Fragment,{children:[(0,Y.jsx)(Gz,{header:(0,Y.jsx)(Kz,{title:`Branch format`,description:(0,Y.jsxs)(Y.Fragment,{children:[t?`Set the branch name format for your workspace.",
+  "new_chunk": false
+ },
+ {
+  "text": "Set the branch name format for your workspace. Copy branch names from issues with the",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "dren:[(0,Y.jsx)(Gz,{header:(0,Y.jsx)(Kz,{title:`Branch format`,description:(0,Y.jsxs)(Y.Fragment,{children:[t?`Set the branch name format for your workspace. Copy branch names from issues with the `:`Copy a branch name f",
+  "new_chunk": false
+ },
+ {
+  "text": "Copy a branch name for an issue using the",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ragment,{children:[t?`Set the branch name format for your workspace. Copy branch names from issues with the `:`Copy a branch name for an issue using the `,(0,Y.jsx)(B,{variant:`miniPlus`,color:`labelTitle`,children:`Copy",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Code can’t be toggled",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "cute:async e=>{let t=e.organization;A(()=>{t.codingAgentEnabled=!t.codingAgentEnabled,t.save(!1,{offlineError:`Linear Code can’t be toggled`})})}},l2n={checkMarkIcon:{kzqmXN:`sx-6jxa94`,$$css:!0}},u2n=class{static async ",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"aria-expanded\":ee,\"aria-controls\":ee?o:void 0,\"aria-activedescendant\":te?Rar(o,te):void 0,autoComplete:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "id)),(0,Y.jsx)(`input`,{id:Kar,type:`text`,role:`combobox`,\"aria-label\":`Add people`,\"aria-autocomplete\":`list`,\"aria-expanded\":ee,\"aria-controls\":ee?o:void 0,\"aria-activedescendant\":te?Rar(o,te):void 0,autoComplete:`off",
+  "new_chunk": false
+ },
+ {
+  "text": "Change pull request owner…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "{ocr(e,t,!e.displayExternalLabels.some(e=>e.id===t.id))}}}var lcr={id:V(),name:e=>e.isContextualMenu?`Owner…`:`Change pull request owner…`,image:(0,Y.jsx)(gZ,{}),group:AO,keywords:`responsible hand over assign author`,se",
+  "new_chunk": false
+ },
+ {
+  "text": "Remove me as owner",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "bActions:()=>gr.create(async e=>(await e.organization.allUsers.hydrate(),pcr(e)))},ucr={id:V(),name:e=>mcr(e)?`Remove me as owner`:`Make me owner`,image:(0,Y.jsx)(iJt,{}),group:AO,applicable:e=>{let t=g7(e);return t?mcr(",
+  "new_chunk": false
+ },
+ {
+  "text": "Make me owner",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "e(async e=>(await e.organization.allUsers.hydrate(),pcr(e)))},ucr={id:V(),name:e=>mcr(e)?`Remove me as owner`:`Make me owner`,image:(0,Y.jsx)(iJt,{}),group:AO,applicable:e=>{let t=g7(e);return t?mcr(e)?t.assigneeAuthor!=",
+  "new_chunk": false
+ },
+ {
+  "text": "Remove owner override",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "==void 0:t.canBeOwnedBy(e.user):!1},execute:e=>{let t=g7(e);t&&hcr(t,mcr(e)?void 0:e.user)}},dcr={id:V(),name:`Remove owner override`,image:(0,Y.jsx)(Zy,{}),group:AO,applicable:e=>g7(e)?.assigneeAuthor!==void 0,execute:e",
+  "new_chunk": false
+ },
+ {
+  "text": "Original author",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ")return[];let n=e=>hcr(t,e),r=t.creator??t.externalCreator?.value,i={...r?{...gI(e,r),actionVerb:`Set`,detail:`Original author`}:{name:`No owner`,keywords:`unassigned reset clear original author`,image:(0,Y.jsx)(wM,{})},",
+  "new_chunk": false
+ },
+ {
+  "text": "Failed to change owner",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "eturn t?.assigneeAuthor===e.user||t?.creator===e.user}function hcr(e,t){e.setOwner(t).catch(e=>{new K(I.error,`Failed to change owner`,Ur(e)).show()})}var gcr={id:V(),name:e=>{let t=ycr(e)?`Change snooze`:`Snooze`;return",
+  "new_chunk": false
+ },
+ {
+  "text": "Change snooze",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ner(t).catch(e=>{new K(I.error,`Failed to change owner`,Ur(e)).show()})}var gcr={id:V(),name:e=>{let t=ycr(e)?`Change snooze`:`Snooze`;return e.isContextualMenu?`${t}…`:`${t} ${(0,Wh.default)(`pull request`,e.targetedMod",
+  "new_chunk": false
+ },
+ {
+  "text": "),ne=!w?.bodyData||mp(Yl(w.bodyData)),re=w&&w instanceof gm?!k?.trim():!0,ie=ne&&re,ae=ap(ie),oe=ap(v),se=r?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "gify(y)!==JSON.stringify(w.bodyData)&&(T(y,b),d(e=>e+1)))},[y]);let[k,te]=J.useState(w instanceof gm?w.title:``),ne=!w?.bodyData||mp(Yl(w.bodyData)),re=w&&w instanceof gm?!k?.trim():!0,ie=ne&&re,ae=ap(ie),oe=ap(v),se=r?`",
+  "new_chunk": false
+ },
+ {
+  "text": ":w instanceof gm?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "w?.bodyData||mp(Yl(w.bodyData)),re=w&&w instanceof gm?!k?.trim():!0,ie=ne&&re,ae=ap(ie),oe=ap(v),se=r?`comment`:w instanceof gm?`post`:`update`,ce=a??i,le=e=>{T(e,b),h(e,Bur({draftUpdate:w,isCommentMode:r}),w),d(e=>e+1)}",
+  "new_chunk": false
+ },
+ {
+  "text": ":p.labelForType(t),s.isEnabled(s.viewFacetUnification)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/RouteInfoResolvers.js",
+  "ctx": "ewType?\":async({team:e,viewType:t},n)=>q(e,S,s.isEnabled(s.viewFacetUnification)?`${p.labelForType(t)} › Views`:p.labelForType(t),s.isEnabled(s.viewFacetUnification)?void 0:`Views`,n),\"/:orgKey/team/:teamKey/dashboards\":",
+  "new_chunk": false
+ },
+ {
+  "text": "&&t?.slackSyncMetadata?.commentSource===Ie.Slack,r=e instanceof P?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentCommentElicitationReplyInput.js",
+  "ctx": ":`purpleText`,children:`linked`})}var Fn=W(function({comment:e,sourceMetadata:t}){let n=t?.type===`integration`&&t?.slackSyncMetadata?.commentSource===Ie.Slack,r=e instanceof P?`labelFaint`:`labelMuted`,i=T(O.rootMessage",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,tooltipContentFactory:r.interactiveLabelTooltipContent,tooltipInteractive:!!r.interactiveLabelTooltipContent,targets:i.metaKey?[n,t]:e.parent?[t,e.parent]:[t],menuPosition:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/LabelsBadges.js",
+  "ctx": "LabelAction:r.changeLabelAction,\"aria-label\":e.parent?`${e.parent.name}: ${e.labels.map(e=>e.name).join(`, `)}`:void 0,tooltipContentFactory:r.interactiveLabelTooltipContent,tooltipInteractive:!!r.interactiveLabelTooltip",
+  "new_chunk": false
+ },
+ {
+  "text": "Attaching evidence…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "),SubmitEvidence:q({name:`SubmitEvidence`,args:s({summary:n().optional()}),display:{icon:j.GitHub,activeLabel:`Attaching evidence…`,doneLabel:`Attached evidence`,detail:({args:e})=>e.summary,repeatedLabel:`Attaching {cou",
+  "new_chunk": false
+ },
+ {
+  "text": "Attached evidence",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "Evidence`,args:s({summary:n().optional()}),display:{icon:j.GitHub,activeLabel:`Attaching evidence…`,doneLabel:`Attached evidence`,detail:({args:e})=>e.summary,repeatedLabel:`Attaching {count} evidence reports…`}}),ReadFi",
+  "new_chunk": false
+ },
+ {
+  "text": "Removing from Workbench…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "s({operation:i([`removed`,`alreadyArchived`,`notInWorkbench`]).optional()}),display:{icon:j.Write,activeLabel:`Removing from Workbench…`,doneLabel:({result:e})=>e?.operation===`alreadyArchived`?`Already archived in Workb",
+  "new_chunk": false
+ },
+ {
+  "text": "Already archived in Workbench",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "{icon:j.Write,activeLabel:`Removing from Workbench…`,doneLabel:({result:e})=>e?.operation===`alreadyArchived`?`Already archived in Workbench`:e?.operation===`notInWorkbench`?`Not in Workbench`:`Removed from Workbench`,re",
+  "new_chunk": false
+ },
+ {
+  "text": "Not in Workbench",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "{result:e})=>e?.operation===`alreadyArchived`?`Already archived in Workbench`:e?.operation===`notInWorkbench`?`Not in Workbench`:`Removed from Workbench`,repeatedLabel:`Removing {count} items from Workbench…`}}),SearchDo",
+  "new_chunk": false
+ },
+ {
+  "text": "Removed from Workbench",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useLinearAgentItems.js",
+  "ctx": "ration===`alreadyArchived`?`Already archived in Workbench`:e?.operation===`notInWorkbench`?`Not in Workbench`:`Removed from Workbench`,repeatedLabel:`Removing {count} items from Workbench…`}}),SearchDocumentation:q({name",
+  "new_chunk": false
+ },
+ {
+  "text": "Failed to load model linked from an agent message",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useHydrateModelsInMarkdown.js",
+  "ctx": "r(let i of n){let n=u.webUrlFromDesktopLink(i),a=e.loaderFor(t,n);!a||r.has(n)||(r.add(n),a().catch(e=>y.info(`Failed to load model linked from an agent message`,{href:n,error:e})).finally(()=>r.delete(n)))}}static loade",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear found no problems",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestGoToDefinitionContext.js",
+  "ctx": "children:[(0,Q.jsx)(Y,{title:(0,Q.jsx)(Sl,{}),maxWidth:300,position:`bottom-start`,role:`button`,\"aria-label\":`Linear found no problems`,tabIndex:0,clickToOpen:!0,triggerProps:{\"aria-describedby\":e},onKeyDown:e=>{e.targe",
+  "new_chunk": false
+ },
+ {
+  "text": "in r?o(void 0,r.common.length,r.common.length):(o(r.removed?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodeReviewMarkdownPreview.js",
+  "ctx": "sh({side:e,oldFrom:i,oldTo:i+t,newFrom:a,newTo:a+n}),i+=t,a+=n)};for(let r of this.wordChanges(t(e,n)))`common`in r?o(void 0,r.common.length,r.common.length):(o(r.removed?`removed`:void 0,r.removed.length,0),o(r.added?`a",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,r.removed.length,0),o(r.added?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodeReviewMarkdownPreview.js",
+  "ctx": "let r of this.wordChanges(t(e,n)))`common`in r?o(void 0,r.common.length,r.common.length):(o(r.removed?`removed`:void 0,r.removed.length,0),o(r.added?`added`:void 0,0,r.added.length));return r}static wordChanges(e){let t=",
+  "new_chunk": false
+ },
+ {
+  "text": "Only whitespace changes",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FileDiffBody.js",
+  "ctx": "div`,{className:`sx-1osaytk sx-1n2onr6`,children:Ut===`whitespace`?(0,Q.jsx)(Do,{file:n,pullRequest:i,message:`Only whitespace changes`,onCleared:ee}):(0,Q.jsx)(Lo,{onShowAllChanges:ee})});let wn=Fe?.deletion&&Re?.target",
+  "new_chunk": false
+ },
+ {
+  "text": "Line endings changed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestReviewFindingTags.js",
+  "ctx": "ibeLineEndingChanges(t){let{lineEnding:n,finalNewline:r}=t,i=e.lineEndingNames,a=[];return n===`mixed`?a.push(`Line endings changed`):n&&a.push(`Line endings changed from ${i[n.from]} to ${i[n.to]}`),r&&a.push(`Newline $",
+  "new_chunk": false
+ },
+ {
+  "text": ",id:ee,date:e.createdAt,history:void 0,actorIdOrApplicationName:(h?n?.id:m?.id)||n?.id||(e.sourceMetadata?jt(e.sourceMetadata):void 0),url:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueCommentsAndHistory.js",
+  "ctx": "=_!=null&&ge(_)&&_.agentAutomationRunMetadata==null?(0,N.jsx)(On,{metadata:_}):null;return{type:`issue-created`,id:ee,date:e.createdAt,history:void 0,actorIdOrApplicationName:(h?n?.id:m?.id)||n?.id||(e.sourceMetadata?jt(",
+  "new_chunk": false
+ },
+ {
+  "text": "Problem loading issue description",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueDetailsPaneSidebar.js",
+  "ctx": "=e(b()),Y=h(),Fu=2*it.MINUTE,Iu=W(function(e){return Lu(e)},{hydrationErrorFallback:{action:`showError`,title:`Problem loading issue description`,actions:[`retry`]}});function Lu(e){let{issue:t,editorRef:n,titleRef:r,has",
+  "new_chunk": false
+ },
+ {
+  "text": ",optionHint:t instanceof ys&&t.hasParentDefinition?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueDetailsPaneSidebar.js",
+  "ctx": "n})}):null}return(0,Y.jsx)(ai,{children:(0,Y.jsx)(bi,{viewPreferences:t.viewPreferences,ordering:`viewOrdering`,optionHint:t instanceof ys&&t.hasParentDefinition?`add as sub-issue`:void 0,children:(0,Y.jsx)(Bf,{provider:",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:t===void 0?f:c.value,placeholder:m,\"aria-label\":",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useUsageLimitTableFilter.js",
+  "ctx": "ren:[(0,V.jsx)(`input`,{ref:s,...n([ee.smallPlus,Q.input,h&&Q.inputOverridden]),type:`text`,inputMode:`numeric`,value:t===void 0?f:c.value,placeholder:m,\"aria-label\":`Limit for ${e.displayName} in US dollars`,onFocus:g,o",
+  "new_chunk": false
+ },
+ {
+  "text": "Workbench grouping",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "`},{value:`project`,label:`Project`},{value:`date`,label:`Date`},{value:`status`,label:`Status`}],actionLabel:`Workbench grouping`,keyboardShortcut:null}),{orderingMenu:a}=ot({currentOrdering:e.workbenchOrdering,currentG",
+  "new_chunk": false
+ },
+ {
+  "text": "Workbench ordering",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "ouping:e.workbenchGrouping,onOrderingChange:t=>{e.workbenchOrdering=t},orderingOptions:xn,orderingActionLabel:`Workbench ordering`,disableKeyboardShortcut:!0});return(0,z.jsx)(it,{viewOptionsPopover:t,trigger:(0,z.jsx)(z",
+  "new_chunk": false
+ },
+ {
+  "text": "Hide idle sessions",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "dren:[i,a,(0,z.jsxs)(E.Row,{align:`center`,justify:`space-between`,children:[(0,z.jsx)(E.Label,{id:r,children:`Hide idle sessions`}),(0,z.jsx)(E.SelectButton,{\"aria-labelledby\":r,value:I.hiding(e),onChange:t=>{let n=Sn.f",
+  "new_chunk": false
+ },
+ {
+  "text": "Show archived",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": ")]}),(0,z.jsxs)(E.Row,{align:`center`,justify:`space-between`,children:[(0,z.jsx)(E.Label,{htmlFor:n,children:`Show archived`}),(0,z.jsx)(Pe,{id:n,checked:e.workbenchShowArchived,onChange:t=>{e.workbenchShowArchived=t.ta",
+  "new_chunk": false
+ },
+ {
+  "text": "Next day",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "ivity`},{value:`manual`,label:`Manual`}],Sn=[{value:`immediately`,label:`Immediately`},{value:`nextDay`,label:`Next day`},{value:`threeDays`,label:`After 3 days`},{value:`week`,label:`After a week`},{value:`never`,label:",
+  "new_chunk": false
+ },
+ {
+  "text": "After 3 days",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "`}],Sn=[{value:`immediately`,label:`Immediately`},{value:`nextDay`,label:`Next day`},{value:`threeDays`,label:`After 3 days`},{value:`week`,label:`After a week`},{value:`never`,label:`Never`}],$={header:{k1xSpc:`sx-78zum",
+  "new_chunk": false
+ },
+ {
+  "text": "After a week",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchSidebar.js",
+  "ctx": "Immediately`},{value:`nextDay`,label:`Next day`},{value:`threeDays`,label:`After 3 days`},{value:`week`,label:`After a week`},{value:`never`,label:`Never`}],$={header:{k1xSpc:`sx-78zum5`,kGNEyG:`sx-6s0dn4`,kZKoxP:`sx-bxr",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching authors",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FeedItemFilterBlocks.js",
+  "ctx": "ext.searchInputLength===0,includeMyTeams:!0})},X={...d.author,id:s(),name:`Author`,searchNoResultsPlaceholder:`No matching authors`,image:(0,z.jsx)(C,{}),imageForValues:(e,t)=>g.getUserImageForValues(e,t),label:(e,t)=>g.",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.authorFilterValues?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestFilterBlocks.js",
+  "ctx": "match:e=>m.creator.match(e)||`authorFilterValues`in e,getCompareOption(e){return`authorFilterValues`in e?`some`in e.authorFilterValues?`is`:`not`:m.creator.getCompareOption(e)},selectedValues(e){return`authorFilterValues",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching reviewers",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestFilterBlocks.js",
+  "ctx": "[n,...r]:[n,...await bt(e,t),...r]}},L={...m.reviewerUsers,id:u(),name:`Reviewers`,searchNoResultsPlaceholder:`No matching reviewers`,image:(0,j.jsx)(Be,{}),imageForValues(e,t){return y.getUserImageForValues(e,t)},label(",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching GitHub teams",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestFilterBlocks.js",
+  "ctx": ",e.currentUser))}},R={...m.reviewerGithubTeams,id:u(),name:`GitHub team reviewers`,searchNoResultsPlaceholder:`No matching GitHub teams`,image:(0,j.jsx)(_,{}),applicable:()=>!0,imageForValues(e,t){return _t(e,t)},label(e",
+  "new_chunk": false
+ },
+ {
+  "text": "GitHub labels",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestFilterBlocks.js",
+  "ctx": "{return vt(e,t)},async optionsAsync(e){return await W(e).hydrate(),ht(e)}},z={...m.externalLabels,id:u(),name:`GitHub labels`,searchNoResultsPlaceholder:`No matching labels`,image:(0,j.jsx)(x,{}),applicable(e){return te.",
+  "new_chunk": false
+ },
+ {
+  "text": ",initialContent:a,onSubmit:Be,onQueueSubmit:Ve?He:void 0,onChange:ze,onArrowKey:We,onEmptySubmit:p,onEmptyEnter:ee,onEmptyBackspace:m,onTab:Ge,disabled:Z,placeholder:I??Ne,aiConversationId:ye,hasUnsentAnswers:N,submitDisabled:F||n&&!i,submitDisabledReason:I,prioritySlashActions:X,size:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentPanelInput.js",
+  "ctx": "f:Ee,embedded:e.embedded,editorInsetEnd:e.editorInsetEnd,...e.editor,\"aria-label\":`Send a message to Linear AI`,initialContent:a,onSubmit:Be,onQueueSubmit:Ve?He:void 0,onChange:ze,onArrowKey:We,onEmptySubmit:p,onEmptyEnt",
+  "new_chunk": false
+ },
+ {
+  "text": ",initialContent:a,onSubmit:Q,onQueueSubmit:Ae?Me:void 0,onChange:ke,onArrowKey:Pe,onEmptySubmit:ee,onEmptyBackspace:m,onTab:Fe,disabled:U,placeholder:j??K,aiConversationId:ge,hasUnsentAnswers:k,submitDisabled:_e||n&&!i,submitDisabledReason:j,prioritySlashActions:we,size:V?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentPanelInput.js",
+  "ctx": "f:be,embedded:e.embedded,editorInsetEnd:e.editorInsetEnd,...e.editor,\"aria-label\":`Send a message to Linear AI`,initialContent:a,onSubmit:Q,onQueueSubmit:Ae?Me:void 0,onChange:ke,onArrowKey:Pe,onEmptySubmit:ee,onEmptyBac",
+  "new_chunk": false
+ },
+ {
+  "text": "Switch to Local",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/LinearAgentCodingOptions.js",
+  "ctx": "talog(d,e),e=>a.onChange(e,{isComplete:!0})):[]]})}:void 0,[a,d]),Y=!d&&!S,X=B.useMemo(()=>f&&o?{id:be,name:Y?`Switch to Local`:`Switch to Cloud`,image:Y?(0,H.jsx)(U,{}):(0,H.jsx)(fe,{}),group:$,keyboardShortcut:{key:`e`",
+  "new_chunk": false
+ },
+ {
+  "text": "Switch to Cloud",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/LinearAgentCodingOptions.js",
+  "ctx": "Change(e,{isComplete:!0})):[]]})}:void 0,[a,d]),Y=!d&&!S,X=B.useMemo(()=>f&&o?{id:be,name:Y?`Switch to Local`:`Switch to Cloud`,image:Y?(0,H.jsx)(U,{}):(0,H.jsx)(fe,{}),group:$,keyboardShortcut:{key:`e`,mod:!0,shift:!0,r",
+  "new_chunk": false
+ },
+ {
+  "text": ",shortcut:Z,badge:ve,isSelected:d!==void 0||S,menuAction:S?void 0:q,menuLabel:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/LinearAgentCodingOptions.js",
+  "ctx": "ion:V,menuLabel:`Cloud: ${A}`,menuPosition:_,onSelect:W}),(0,H.jsx)(pe,{location:`local`,tooltip:`Local · ${j}`,shortcut:Z,badge:ve,isSelected:d!==void 0||S,menuAction:S?void 0:q,menuLabel:`Local: ${j}`,menuPosition:_,on",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.initiative?e.initiative.or[0].id.in.concat(c):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "ion:e=>`or`in e.initiative||`id`in e.initiative&&`in`in e.initiative.id?`is`:`not`,selectedValues(e){return`or`in e.initiative?e.initiative.or[0].id.in.concat(c):`and`in e.initiative?e.initiative.and[0].id.nin.concat(c):",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.initiative?e.initiative.and[0].id.nin.concat(c):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "e.initiative.id?`is`:`not`,selectedValues(e){return`or`in e.initiative?e.initiative.or[0].id.in.concat(c):`and`in e.initiative?e.initiative.and[0].id.nin.concat(c):`in`in e.initiative.id?e.initiative.id.in:e.initiative.i",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.document?e.document.or[0].id.in.concat(c):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "areOption:e=>`or`in e.document||`id`in e.document&&`in`in e.document.id?`is`:`not`,selectedValues(e){return`or`in e.document?e.document.or[0].id.in.concat(c):`and`in e.document?e.document.and[0].id.nin.concat(c):`in`in e",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.document?e.document.and[0].id.nin.concat(c):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "in`in e.document.id?`is`:`not`,selectedValues(e){return`or`in e.document?e.document.or[0].id.in.concat(c):`and`in e.document?e.document.and[0].id.nin.concat(c):`in`in e.document.id?e.document.id.in:e.document.id.nin}},ve",
+  "new_chunk": false
+ },
+ {
+  "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(y.teamProjectStatuses)?ee.availabilityMessageForFeature(y.teamProjectStatuses):void 0,title:i>0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/SetParentTeamForm.js",
+  "ctx": "ffectiveHierarchySettings.requireProjectStatusInheritance?`The parent team requires project status inheritance`:s&&t.inheritProjectStatuses&&!t.organization.canAccess(y.teamProjectStatuses)?ee.availabilityMessageForFeatu",
+  "new_chunk": false
+ },
+ {
+  "text": "):N.hasPermissionToManageWorkflowDefinition(t,n,r.type)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useAddMcpConnectorAction.js",
+  "ctx": "ledReason(t,e)??(N.canEditWorkflow(t,e)?void 0:`You do not have permission to add MCP connectors for this loop`):N.hasPermissionToManageWorkflowDefinition(t,n,r.type)?void 0:`You do not have permission to add MCP connect",
+  "new_chunk": false
+ },
+ {
+  "text": ":t.hasPermission(y.integrationCreation)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useAddMcpConnectorAction.js",
+  "ctx": "n n?n.hasPermission(v.teamManagement,t)?void 0:`You do not have permission to add MCP connectors for this team`:t.hasPermission(y.integrationCreation)?void 0:`You do not have permission to add MCP connectors for this wor",
+  "new_chunk": false
+ },
+ {
+  "text": ",noMinWidth:!0,gap:6,justify:l?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentSessionPanel.js",
+  "ctx": ",F.jsx)(R,{}):null]}):void 0,sx:l&&V.detailHeader,children:(0,F.jsxs)(o,{align:`flex-start`,alignSelf:`stretch`,noMinWidth:!0,gap:6,justify:l?void 0:`space-between`,sx:[V.panelLeftFlex,l&&V.detailTitle],children:[(0,F.js",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Ie?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CollaborativeEditor.js",
+  "ctx": "lueType:typeof t,diagnosticsFailed:!0}}if(i)try{Te.info(nn,i)}catch{}}};function sn(e){return e==null?`nullish`:e instanceof Ie?`documentContent`:e instanceof B?`model`:e instanceof Se?`lazy`:e instanceof Promise?`promis",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Se?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CollaborativeEditor.js",
+  "ctx": "n,i)}catch{}}};function sn(e){return e==null?`nullish`:e instanceof Ie?`documentContent`:e instanceof B?`model`:e instanceof Se?`lazy`:e instanceof Promise?`promise`:typeof e==`object`&&typeof e.then==`function`?`thenabl",
+  "new_chunk": false
+ },
+ {
+  "text": "?se:void 0,tooltipLabel:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": "sActive:l===`ship`&&!C,animationProps:$p,keyboardShortcut:null,copiedLabel:`Ship`,state:R,onClick:C&&l===`ship`?se:void 0,tooltipLabel:`ship`,disableDrag:!0}):null,f&&(0,Q.jsx)(yc,{path:F,label:`Guide`,isActive:c&&!C,ani",
+  "new_chunk": false
+ },
+ {
+  "text": "Ownership returned to the original author",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": "en:[(0,Q.jsx)(Uu,{data:i}),` returned the ownership to the original author`]}):(0,Q.jsx)(Q.Fragment,{children:`Ownership returned to the original author`}):o?(0,Q.jsxs)(Q.Fragment,{children:[`Ownership passed to `,(0,Q.j",
+  "new_chunk": false
+ },
+ {
+  "text": "Ownership passed to",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": ",Q.jsx)(Q.Fragment,{children:`Ownership returned to the original author`}):o?(0,Q.jsxs)(Q.Fragment,{children:[`Ownership passed to `,(0,Q.jsx)(Uu,{data:o})]}):i?(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(Uu,{data:i}),` c",
+  "new_chunk": false
+ },
+ {
+  "text": "Owner changed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": "0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(Uu,{data:i}),` changed the owner`]}):(0,Q.jsx)(Q.Fragment,{children:`Owner changed`}),{type:`owner-change`,entry:{type:`activity`,key:`owner-${t.at}`,summaryItem:{action:`changed",
+  "new_chunk": false
+ },
+ {
+  "text": "&&d!=null?o.current?.getBoundingClientRect().right:void 0,E=T==null?kt.mainPageMargin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useDiffFilesQuery.js",
+  "ctx": "eRef(null),y=Z.useRef(null),b=Z.useRef(null),x=Z.useRef(null),C=Z.useRef(``),{visibility:w}=m,T=i&&w!==`closed`&&d!=null?o.current?.getBoundingClientRect().right:void 0,E=T==null?kt.mainPageMargin:`calc(100vw - ${T}px)`,",
+  "new_chunk": false
+ },
+ {
+  "text": ",onChange:m,onBlur:h,onReadyStateChange:d.setReady,readonly:!u,additionalExtensions:r?[r]:void 0,disableReadonlyTodos:!0,readonlyTooltip:!l&&t.isSyncedWithGitHub?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestTitleInput.js",
+  "ctx": "tadata:Re(t),\"aria-label\":`${t.kindName.capitalize()} description`,parent:`page`,placeholder:`Add description…`,onChange:m,onBlur:h,onReadyStateChange:d.setReady,readonly:!u,additionalExtensions:r?[r]:void 0,disableReado",
+  "new_chunk": false
+ },
+ {
+  "text": "Written for an earlier version",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "meta:i.isOutdated?(0,H.jsx)(y,{variant:`mini`,color:`labelMuted`,children:r?`Updating for the latest changes`:`Written for an earlier version`}):null,children:(0,H.jsx)(T,{column:!0,gap:8,children:i.text.split(/\\n\\s*\\n/)",
+  "new_chunk": false
+ },
+ {
+  "text": "Customer request on",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "}),(0,H.jsxs)(y,{as:`figcaption`,variant:`mini`,color:`labelMuted`,children:[t.need?n?`Request from ${n} on `:`Customer request on `:`From `,(0,H.jsx)(Gt,{to:_e(t.issue),sx:hr.sourceLink,children:t.issue.identifier})]})]",
+  "new_chunk": false
+ },
+ {
+  "text": "This PR has no evidence",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "):[],s=i?F.hasResults(i):!1;return(0,H.jsxs)(T,{ref:n,column:!0,gap:24,children:[s?null:(0,H.jsx)(W,{children:`This PR has no evidence`}),i&&a&&a.state!==`current`?(0,H.jsx)(mn,{pullRequest:t,freshness:a,evidence:i}):nul",
+  "new_chunk": false
+ },
+ {
+  "text": "Show all checks",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": ":[c?(0,H.jsx)(`button`,{type:`button`,\"aria-expanded\":n,\"aria-controls\":i,\"aria-label\":n?`Hide passed checks`:`Show all checks`,onClick:()=>r(!n),...o([zr,x.buttonReset,Y.header,Y.headerButton]),children:p}):(0,H.jsx)(`d",
+  "new_chunk": false
+ },
+ {
+  "text": "All checks completed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "eturn`Some checks are still running`;case _.passed:return e.some(e=>e.status===S.success)?`All checks passed`:`All checks completed`;case _.none:default:return`No checks`}}function Kr(e){if(De.hasPendingChecks(e))return;",
+  "new_chunk": false
+ },
+ {
+  "text": "Resolve comments with agent",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "belMuted`,\"aria-hidden\":!0}),r=(0,H.jsx)(Bt,{size:12,color:`labelMuted`,\"aria-hidden\":!0}),i={action:ot,title:`Resolve comments with agent`,icon:n},a={action:Ue,title:`Add reviewer`,icon:r};switch(e){case`context`:return",
+  "new_chunk": false
+ },
+ {
+  "text": "Resolve checks with agent",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ShipReviewPrototype.js",
+  "ctx": "turn t.hasConflicts?[{action:Le,title:`Fix conflicts with agent`,icon:n}]:t.hasFailedChecks?[{action:Ht,title:`Resolve checks with agent`,icon:n}]:[];case`agentReview`:return I.openAgentItemCount(t)>0?[i]:[];case`humanRe",
+  "new_chunk": false
+ },
+ {
+  "text": "Started by a Slack message",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "essage`||t.content.length<2||!r)return{instructions:t};let i={type:`doc`,content:[r]};return fe(i).startsWith(`Started by a Slack message`)?{instructions:{...t,content:t.content.slice(0,-1)},trigger:i,...n.source.author?",
+  "new_chunk": false
+ },
+ {
+  "text": "Posted in",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "[`updated`,`Updated`],[`commented`,`Commented on`],[`restored`,`Restored`],[`deleted`,`Deleted`]],Ai=[[`post`,`Posted in`],[`reply`,`Replied in`],[`directMessage`,`Messaged`]],ji=G(function(e){let{changes:t}=e,n=V(),r=J.",
+  "new_chunk": false
+ },
+ {
+  "text": "Replied in",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "[`commented`,`Commented on`],[`restored`,`Restored`],[`deleted`,`Deleted`]],Ai=[[`post`,`Posted in`],[`reply`,`Replied in`],[`directMessage`,`Messaged`]],ji=G(function(e){let{changes:t}=e,n=V(),r=J.useMemo(()=>t.map(e=>{",
+  "new_chunk": false
+ },
+ {
+  "text": "Run trigger",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "w sx-1ortyqp`,children:(0,Y.jsx)(On,{content:{type:`doc`,content:[{type:`paragraph`,content:t}]},\"aria-label\":`Run trigger`,metadata:void 0,mount:`immediate`})})}function ca(e){let{conversation:t,workflowDefinition:n}=e;",
+  "new_chunk": false
+ },
+ {
+  "text": "Pull request from an external contributor",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "alPullRequestAuthor`)return S({variant:`detailed`,title:t.untrustedSourceReason===`externalPullRequestAuthor`?`Pull request from an external contributor`:`Activity from an untrusted source`,description:t.markdown??`The c",
+  "new_chunk": false
+ },
+ {
+  "text": "Activity from an untrusted source",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "iled`,title:t.untrustedSourceReason===`externalPullRequestAuthor`?`Pull request from an external contributor`:`Activity from an untrusted source`,description:t.markdown??`The content that triggered this run came from an ",
+  "new_chunk": false
+ },
+ {
+  "text": "The content that triggered this run came from an untrusted source",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "thor`?`Pull request from an external contributor`:`Activity from an untrusted source`,description:t.markdown??`The content that triggered this run came from an untrusted source`,action:c?(0,Y.jsx)(xn,{variant:`secondary`",
+  "new_chunk": false
+ },
+ {
+  "text": "Continue run",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "om an untrusted source`,action:c?(0,Y.jsx)(xn,{variant:`secondary`,size:`medium`,loading:l,onClick:c,children:`Continue run`}):void 0});if(t.retryResolution?.status===`scheduled`)return(0,Y.jsx)(er,{variant:`warning`,ico",
+  "new_chunk": false
+ },
+ {
+  "text": "Run rescheduled",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "s===`scheduled`)return(0,Y.jsx)(er,{variant:`warning`,icon:(0,Y.jsx)(jr,{color:`currentColor`,size:14}),title:`Run rescheduled`,description:Aa(`This issue was marked as trusted and a new run was scheduled.`,o),action:(0,",
+  "new_chunk": false
+ },
+ {
+  "text": "This issue was marked as trusted and a new run was scheduled.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "r,{variant:`warning`,icon:(0,Y.jsx)(jr,{color:`currentColor`,size:14}),title:`Run rescheduled`,description:Aa(`This issue was marked as trusted and a new run was scheduled.`,o),action:(0,Y.jsx)(hn,{variant:`secondary`,si",
+  "new_chunk": false
+ },
+ {
+  "text": "View new run",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "),action:(0,Y.jsx)(hn,{variant:`secondary`,size:`medium`,to:Ie(r,t.retryResolution.aiConversationId),children:`View new run`})});if(t.retryResolution?.status===`notScheduled`)return S({variant:`detailed`,title:`Issue mar",
+  "new_chunk": false
+ },
+ {
+  "text": "Issue marked as trusted",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": ",children:`View new run`})});if(t.retryResolution?.status===`notScheduled`)return S({variant:`detailed`,title:`Issue marked as trusted`,description:`This run couldn’t be rescheduled because the loop is no longer availabl",
+  "new_chunk": false
+ },
+ {
+  "text": "This run couldn’t be rescheduled because the loop is no longer available or eligible.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "yResolution?.status===`notScheduled`)return S({variant:`detailed`,title:`Issue marked as trusted`,description:`This run couldn’t be rescheduled because the loop is no longer available or eligible.`});if(a?.trusted===!0)r",
+  "new_chunk": false
+ },
+ {
+  "text": "The failed run is being checked for rescheduling.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "e or eligible.`});if(a?.trusted===!0)return S({variant:`detailed`,title:`Issue marked as trusted`,description:`The failed run is being checked for rescheduling.`});let e=qe.getTrustedSourcesMode(u.organization)===m.allow",
+  "new_chunk": false
+ },
+ {
+  "text": "Trust issue and retry",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "&&!a.isReadOnly?(0,Y.jsx)(xn,{variant:`secondary`,size:`medium`,disabled:u.guest,loading:d,onClick:x,children:`Trust issue and retry`}):void 0;if(t.untrustedSourceReason===`deactivatedUser`)return S({variant:`detailed`,t",
+  "new_chunk": false
+ },
+ {
+  "text": "Issue filed by a deactivated user",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "t issue and retry`}):void 0;if(t.untrustedSourceReason===`deactivatedUser`)return S({variant:`detailed`,title:`Issue filed by a deactivated user`,description:s?`Loop did not run because the issue was created by someone w",
+  "new_chunk": false
+ },
+ {
+  "text": "Loop did not run because the issue was created by someone who is not an active workspace member. Their account was deactivated when this run started. Trust the issue to run the loop.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentAutomationConversation.js",
+  "ctx": "ason===`deactivatedUser`)return S({variant:`detailed`,title:`Issue filed by a deactivated user`,description:s?`Loop did not run because the issue was created by someone who is not an active workspace member. Their accoun",
+  "new_chunk": false
+ },
+ {
+  "text": ",s.source instanceof u?s.source.name:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageSuggestionAutomationRules.js",
+  "ctx": "}),!o&&s&&s?.action!==U.suggest&&(0,G.jsxs)(m,{variant:`mini`,color:`labelMuted`,children:[`Inherited from`,` `,s.source instanceof u?s.source.name:`workspace`]})]}),(0,G.jsxs)(D,{align:`center`,gap:6,children:[(0,G.jsx)",
+  "new_chunk": false
+ },
+ {
+  "text": ",n instanceof u?n.name:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageSuggestionAutomationRules.js",
+  "ctx": "led:a||i}),i&&(0,G.jsxs)(m,{variant:`mini`,color:`labelMuted`,style:{paddingLeft:4},children:[`Inherited from `,n instanceof u?n.name:`workspace`]})]}),(0,G.jsxs)(D,{align:`center`,gap:6,children:[i?(0,G.jsxs)(D,{align:`",
+  "new_chunk": false
+ },
+ {
+  "text": ",disabled:!y,disabledReason:y?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/McpConnectorList.js",
+  "ctx": "rkspace`:`Agent MCP access disabled in this workspace`,buttonLabel:`Configure`,href:`${h(o.organization)}#${q}`,disabled:!y,disabledReason:y?void 0:`You do not have permission to configure MCP connectors for this workspa",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable Code Intelligence or Linear Code to let loops read code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/RepositoryAccessList.js",
+  "ctx": "let{repository:t,disabled:n,readDisabled:r,writeDisabled:i,onValueChange:a}=e,[s,c]=A.useState(!1),l=r&&i,u=r?`Enable Code Intelligence or Linear Code to let loops read code`:void 0,d=i?`Enable Linear Code to let loops w",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable Linear Code to let loops write code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/RepositoryAccessList.js",
+  "ctx": "e,[s,c]=A.useState(!1),l=r&&i,u=r?`Enable Code Intelligence or Linear Code to let loops read code`:void 0,d=i?`Enable Linear Code to let loops write code`:void 0,f=l?(0,j.jsx)(o,{variant:`small`,color:`labelMuted`,childr",
+  "new_chunk": false
+ },
+ {
+  "text": "Write requires Linear Code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/RepositoryAccessList.js",
+  "ctx": "e}return(0,j.jsx)(b,{disabled:s,title:l?`Requires Code Intelligence or Linear Code`:i&&t.access===`readWrite`?`Write requires Linear Code`:void 0,children:(0,j.jsxs)(x,{onOpenChange:c,align:`end`,disabled:n,\"aria-label\":",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:Pe,onValueChange:Ae,options:Ne,disabledReason:W.canAccess(d.privateTeams)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CreateTeamForm.js",
+  "ctx": "e,{feature:d.privateTeams,title:`Change team access`,children:(0,R.jsx)(T,{id:`privateTeam`,title:`Team access`,value:Pe,onValueChange:Ae,options:Ne,disabledReason:W.canAccess(d.privateTeams)?void 0:`Your workspace doesn",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Code settings can’t be changed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CommitSigningWorkspaceSetting.js",
+  "ctx": "gAgentSettings,commitSigningEnabled:l.codingAgentSettings?.commitSigningEnabled!==!0},l.save(!1,{offlineError:`Linear Code settings can’t be changed`})})},[l]),m=a.isEnabled(a.gitlabCodingSessions)&&i.gitLabCodeAccessInt",
+  "new_chunk": false
+ },
+ {
+  "text": ",paragraphs:c,primaryAction:s?Se:void 0,primaryActionTargets:s?[s]:void 0,primaryLabel:s?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CyclePage.js",
+  "ctx": "le currently, and no next cycle is scheduled.`];return(0,G.jsx)(R,{icon:(0,G.jsx)($,{}),title:`No active cycle`,paragraphs:c,primaryAction:s?Se:void 0,primaryActionTargets:s?[s]:void 0,primaryLabel:s?`Go to previous cycl",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,secondaryAction:je,secondaryActionTargets:[t],secondaryLabel:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CyclePage.js",
+  "ctx": ",paragraphs:c,primaryAction:s?Se:void 0,primaryActionTargets:s?[s]:void 0,primaryLabel:s?`Go to previous cycle`:void 0,secondaryAction:je,secondaryActionTargets:[t],secondaryLabel:`Go to cycles`})}),st=P(function(e){let{",
+  "new_chunk": false
+ },
+ {
+  "text": ",promptRules:s,disabled:!f,disabledReason:f?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AccountAgentsSettingsPage.js",
+  "ctx": ",marginBottom:-12},children:(0,J.jsx)(V,{placeholder:`Enter personal guidance for the Linear Agent (optional)…`,promptRules:s,disabled:!f,disabledReason:f?void 0:`Enable Linear Agent to configure guidance`,hideAuthor:!0}",
+  "new_chunk": false
+ },
+ {
+  "text": ",avatarUrl:xe.value??void 0,title:U.value??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AccountProfileSettingsPage.js",
+  "ctx": "),U=K(Y.profileDetails.title),xe=K(Y.profileDetails.avatar),Se=be(),J={displayName:B.value??``,name:z.value??``,avatarUrl:xe.value??void 0,title:U.value??``},we=e=>{e.key.length===1&&!e.key.match(y.displayNameValidationR",
+  "new_chunk": false
+ },
+ {
+  "text": "Users in your workspace can now request approval for this application again",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/OauthClientApprovalActions.js",
+  "ctx": "enial`}).show().then(async r=>{if(r===i.confirm)try{e.delete(),new d(n.success,`Denial cleared for ${t.name}`,`Users in your workspace can now request approval for this application again`).show()}catch{new d(n.error,`Fai",
+  "new_chunk": false
+ },
+ {
+  "text": ",verificationEmail:l?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useClaudeMcpEmaIssuer.js",
+  "ctx": "ddress ending in @${e.name}`)),n},l=i===c.saml;return(0,K.jsx)(z,{validationSchema:l?Y:J,initialValues:{name:``,verificationEmail:l?void 0:``},onSubmit:r,validate:o,children:e=>(0,K.jsxs)(F,{onSubmit:e.handleSubmit,child",
+  "new_chunk": false
+ },
+ {
+  "text": ",t instanceof kt?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationPage.js",
+  "ctx": ")?.failed(`publish`,t instanceof kt?`offline`:`save_error`),new j(x.error,`Failed to ${w?`create`:`save`} loop`,t instanceof kt?`You cannot save a loop while offline.`:we(t)?t.userPresentableMessage:void 0).show()))}fina",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"aria-describedby\":!f&&Be?lt:void 0,className:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationPage.js",
+  "ctx": "assName:`sx-78zum5 sx-dt5ytf sx-1rzw5jd`,children:[(0,X.jsx)(`fieldset`,{disabled:z,\"aria-label\":`Loop trigger`,\"aria-describedby\":!f&&Be?lt:void 0,className:`sx-euugli sx-1ghz6dp sx-1717udv sx-c342km`,children:(0,X.jsxs",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:r.length===1?yt.statusLabel(r[0],void 0):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": "...o.current.filter,status:e.length?{in:e}:void 0}});s.push({name:`Status`,operator:r.length>1?`is any of`:`is`,value:r.length===1?yt.statusLabel(r[0],void 0):`${r.length} statuses`,active:r.length>0,action:{...X.createP",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable Linear Code in workspace settings to allow loops to write code and pull requests",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": "ccess($e.codingSessions)?e.isCodingAgentEnabled?`Allow Read & write access to repositories in Loops settings`:`Enable Linear Code in workspace settings to allow loops to write code and pull requests`:`Upgrade your plan t",
+  "new_chunk": false
+ },
+ {
+  "text": "Upgrade your plan to enable Linear Code and allow loops to write code and pull requests",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": " in Loops settings`:`Enable Linear Code in workspace settings to allow loops to write code and pull requests`:`Upgrade your plan to enable Linear Code and allow loops to write code and pull requests`:!e.canAccess($e.code",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable Code Intelligence or Linear Code in workspace settings to allow loops to read code and pull requests",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": "de and pull requests`:!(e.codeIntelligenceEnabled&&e.canAccess($e.codeIntelligence))&&!e.isCodingAgentEnabled?`Enable Code Intelligence or Linear Code in workspace settings to allow loops to read code and pull requests`:",
+  "new_chunk": false
+ },
+ {
+  "text": ",children:k||e instanceof j?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DraftsPage.js",
+  "ctx": "assName:`sx-b3r6kr sx-1iyjqo2 sx-1n4lwwq sx-16055dl`,children:z?(0,Y.jsx)(b,{variant:`small`,color:`labelFaint`,children:k||e instanceof j?`Add description…`:Ee.getPlaceholder(oe)}):B})),(0,Y.jsx)(ve,{ref:r,tabIndex:C?vo",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"data-open\":!a,\"aria-expanded\":!a,\"aria-controls\":a?void 0:c,\"aria-label\":a?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DocumentsPage.js",
+  "ctx": "ldren:[(0,J.jsxs)(`div`,{className:`sx-78zum5 sx-6s0dn4 sx-17d4w8g`,children:[(0,J.jsx)(`button`,{type:`button`,\"data-open\":!a,\"aria-expanded\":!a,\"aria-controls\":a?void 0:c,\"aria-label\":a?`Expand pinned documents`:`Colla",
+  "new_chunk": false
+ },
+ {
+  "text": "A count in the mutation is larger than 65,535",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": ",t.length=0,t}u8(e){this.ensure(1),this.bytes[this.length]=e,this.length+=1}u16(e){if(e>65535)throw TypeError(`A count in the mutation is larger than 65,535`);this.ensure(2),this.view.setUint16(this.length,e,!0),this.len",
+  "new_chunk": false
+ },
+ {
+  "text": "The database owner failed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "istener(`abort`,o,{once:!0})})}async request(e,t,n,r){if(this.failure)throw await this.failure,new d(`CLOSED`,`The database owner failed`);if(Kn.some(t=>t===e)){let r=this.controlTail.then(()=>this.owner.channel.request(",
+  "new_chunk": false
+ },
+ {
+  "text": "The database owner failed during closure",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "ure){this.closeFailure=n,L(n,{database:this.name,source:`owner`,restarting:!1});let e=new d(`LEADERSHIP_LOST`,`The database owner failed during closure`,{cause:n});this.send({kind:`leave`,sender:this.id}),this.changeOwne",
+  "new_chunk": false
+ },
+ {
+  "text": "A newer postindex release owns the database. Reload this tab.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "f(this.host)break;if(!Yn(e)){if(Xn(e)){this.requestUpgrade(e.sender);break}this.fail(new d(`VERSION_MISMATCH`,`A newer postindex release owns the database. Reload this tab.`));break}this.capabilities=Zn(e),this.install(e",
+  "new_chunk": false
+ },
+ {
+  "text": "A newer postindex release needs the database. Reload this tab.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "(e));break;case`close-database`:if(e.protocol!==void 0){if(e.protocol<=I)break;let t=new d(`VERSION_MISMATCH`,`A newer postindex release needs the database. Reload this tab.`);if(!this.opened){this.fail(t);break}this.clo",
+  "new_chunk": false
+ },
+ {
+  "text": "An older postindex tab did not release the database. Reload the other tabs.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "de(e){this.upgrading||(this.upgrading=!0,this.upgradeTimer=setTimeout(()=>{this.fail(new d(`VERSION_MISMATCH`,`An older postindex tab did not release the database. Reload the other tabs.`))},this.controls?.ownerHandoverT",
+  "new_chunk": false
+ },
+ {
+  "text": "The new database owner did not complete startup before the deadline",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": "upgradeTimer&&clearTimeout(this.upgradeTimer),this.upgradeTimer=setTimeout(()=>{let e=new d(`LEADERSHIP_LOST`,`The new database owner did not complete startup before the deadline`);this.openingOwner?.abort(e),this.fail(e",
+  "new_chunk": false
+ },
+ {
+  "text": "?e.url:e.url.href,t).href,headers:Pi(new Headers(e.headers??[])),credentials:e.credentials??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/dist.js",
+  "ctx": ":e.referrerPolicy}:{}}}let t=typeof location>`u`?void 0:location.href;return{url:new URL(typeof e.url==`string`?e.url:e.url.href,t).href,headers:Pi(new Headers(e.headers??[])),credentials:e.credentials??`same-origin`,mod",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,onSubmit:pe,minNumRows:1,maxNumRows:12,textSize:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FastIssueCreateEditor.js",
+  "ctx": "s:c,isVisible:c,initialContent:u,onChange:d,editor:R,isGenerating:!1,disabledReason:k?`Starting local session…`:void 0,onSubmit:pe,minNumRows:1,maxNumRows:12,textSize:`regular`,placeholder:`What would you like to work on",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,variant:m?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FastIssueCreateEditor.js",
+  "ctx": "aderRightHandSlot:k?(0,Z.jsx)(K,{action:me,handleKeyboardShortcuts:`click`,children:(0,Z.jsx)(G,{size:m?`small`:void 0,variant:m?`muted`:void 0,\"aria-expanded\":n,\"aria-label\":n?`Collapse`:`Expand`,children:n?(0,Z.jsx)(nt",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLength:n instanceof T?g.maxNameLength:_.maxNameLength,\"aria-label\":",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkspaceCustomersSettingsPage.js",
+  "ctx": "))}})}):null,(0,G.jsx)(H,{name:`name`,children:({field:t})=>(0,G.jsx)(we,{autoComplete:`off`,placeholder:`Name`,maxLength:n instanceof T?g.maxNameLength:_.maxNameLength,\"aria-label\":`Name`,ref:l,...t,onChange:async n=>{a",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLength:n instanceof T?g.maxDescriptionLength:_.maxDescriptionLength,\"aria-label\":",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkspaceCustomersSettingsPage.js",
+  "ctx": ",G.jsx)(H,{name:`description`,children:({field:t})=>(0,G.jsx)(we,{autoComplete:`off`,placeholder:`Description…`,maxLength:n instanceof T?g.maxDescriptionLength:_.maxDescriptionLength,\"aria-label\":`Description`,...t,onCha",
+  "new_chunk": false
+ },
+ {
+  "text": ",showTabs:ne,activeTab:c?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationRunsPage.js",
+  "ctx": "(0,Z.jsx)(W,{mainGroup:!0,model:e}),(0,Z.jsx)(_t,{parent:y,workflowDefinition:e,subPage:ne?void 0:`Run history`,showTabs:ne,activeTab:c?void 0:`runs`,actions:E,navigationControls:_,hideAgentPicker:te,subscriptionControl:",
+  "new_chunk": false
+ },
+ {
+  "text": "Read failed:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DeveloperToolbar.js",
+  "ctx": "bases`]})]}),(0,H.jsx)(`span`,{className:`sx-1iyjqo2`}),i?(0,H.jsxs)(`span`,{className:`sx-1yrz30c`,children:[`Read failed: `,i.message]}):(0,H.jsxs)(`span`,{className:`sx-d5ldbw sx-ss6m8b`,children:[`Updated `,X.time(p[",
+  "new_chunk": false
+ },
+ {
+  "text": "Read stats again",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DeveloperToolbar.js",
+  "ctx": "ss6m8b`,children:[`Updated `,X.time(p[0]?.capturedAt??new Date().toISOString())]}),(0,H.jsx)(at,{\"aria-label\":`Read stats again`,onClick:a,children:(0,H.jsx)(kt,{})})]}),m&&o.status!==`idle`&&o.database===m.name&&(0,H.js",
+  "new_chunk": false
+ },
+ {
+  "text": "The version of the contract between tabs that share a database: engine commands, route messages, and the binary formats that cross tabs.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": " source: \"packages/postindex/src/shared/limits-typescript.ts#L12::ROUTE_PROTOCOL_VERSION\", description: \"The version of the contract between tabs that share a database: engine commands, route messages, and the bina",
+  "new_chunk": false
+ },
+ {
+  "text": "It changes only when tabs on adjacent releases cannot understand each other, so a Wasm-only change does not break mixed-release tabs. `pnpm route:contract` enforces it.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "t share a database: engine commands, route messages, and the binary formats that cross tabs.\", rationale: \"It changes only when tabs on adjacent releases cannot understand each other, so a Wasm-only change does not b",
+  "new_chunk": false
+ },
+ {
+  "text": "The encoded mutation bytes after which the client starts a new WAL frame for the writes of one microtask.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": " source: \"packages/postindex/src/shared/limits-typescript.ts#L58::WRITE_FRAME_TARGET_BYTES\", description: \"The encoded mutation bytes after which the client starts a new WAL frame for the writes of one microtask.\", ",
+  "new_chunk": false
+ },
+ {
+  "text": "The mutation count after which the client starts a new WAL frame for the writes of one microtask.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "ce: \"packages/postindex/src/shared/limits-typescript.ts#L63::WRITE_FRAME_TARGET_OPERATIONS\", description: \"The mutation count after which the client starts a new WAL frame for the writes of one microtask.\", ratio",
+  "new_chunk": false
+ },
+ {
+  "text": "A small upsert needs about 6 KB in the Rust HOT memory estimate, so 10,000 mutations stay far below `HOT_RESIDENT_BYTES`. The value is the first guess of the encoded document writes RFC.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "utation count after which the client starts a new WAL frame for the writes of one microtask.\", rationale: \"A small upsert needs about 6 KB in the Rust HOT memory estimate, so 10,000 mutations stay far below `HOT_RESI",
+  "new_chunk": false
+ },
+ {
+  "text": "Version 59 adds INSPECT_FILE, and the DUMP response adds the stored term and posting membership counts of each index.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "l_generated.rs#L5::PROTOCOL_VERSION\", description: \"The current engine protocol version.\", rationale: \"Version 59 adds INSPECT_FILE, and the DUMP response adds the stored term and posting membership counts of eac",
+  "new_chunk": false
+ },
+ {
+  "text": "Mismatched request ID",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "status, requestId, payload, expectedRequestId) { if (requestId >>> 0 !== expectedRequestId) throw new Error(\"Mismatched request ID\"); if (status !== 0) { throw new WasmProtocolError( status, `postinde",
+  "new_chunk": false
+ },
+ {
+  "text": "The file is read-only",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "nction blobFile(file) { const reader = new FileReaderSync(); const readOnly = () => { throw new Error(\"The file is read-only\"); }; return { getSize: () => file.size, read(buffer, options) { cons",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid mutation count",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "= cursor.u32(); const mutations = []; if (count > Math.floor(cursor.remaining() / 4)) throw new Error(\"Invalid mutation count\"); for (let index = 0; index < count; index += 1) mutations.push(decodeMutation(cu",
+  "new_chunk": false
+ },
+ {
+  "text": "Debug limits must be safe integers",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/postindex.js",
+  "ctx": "minimum, maximum) { if (value == null) return fallback; if (!Number.isSafeInteger(value)) throw new Error(\"Debug limits must be safe integers\"); return Math.max(minimum, Math.min(maximum, value)); } // src/worker/",
+  "new_chunk": false
+ },
+ {
+  "text": "Latest exchange and questions",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkbenchOverviewPage.js",
+  "ctx": "!0,sx:[Q.scroll,Q.scrollFade,a&&Q.scrollFadeTimeline],style:a?Qe:void 0,tabIndex:0,role:`region`,\"aria-label\":`Latest exchange and questions`,children:(0,Z.jsx)(`div`,{ref:r,className:`sx-78zum5 sx-dt5ytf sx-2lah0s sx-ou",
+  "new_chunk": false
+ },
+ {
+  "text": ",p=n.isLinearAgentAccessible,m=u(d.workspaceManagedSettingsV1)&&i,h=n.agentAutomationEnabled?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkflowAgentAutomationSettingsPage.js",
+  "ctx": "geCredits(e),f=`loops-settings-usage-summary:${n.id}:${e.timezone??`UTC`}:${e.settings.firstDayOfWeekAsNumber}`,p=n.isLinearAgentAccessible,m=u(d.workspaceManagedSettingsV1)&&i,h=n.agentAutomationEnabled?void 0:`Requires",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable Linear Code web access",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingSessionWebAccessRestriction.js",
+  "ctx": "rt{Ho as a}from\"./startup-root-vendor.BbUGq0A3.js\";var o=e(t()),s=n(),c={id:`coding-session-web-access`,title:`Enable Linear Code web access`,description:`Workspace content may be sent to external services. Web access is",
+  "new_chunk": false
+ },
+ {
+  "text": "Workspace content may be sent to external services. Web access is unavailable for Linear Code while HIPAA compliance is enabled.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingSessionWebAccessRestriction.js",
+  "ctx": "A3.js\";var o=e(t()),s=n(),c={id:`coding-session-web-access`,title:`Enable Linear Code web access`,description:`Workspace content may be sent to external services. Web access is unavailable for Linear Code while HIPAA com",
+  "new_chunk": false
+ },
+ {
+  "text": "Create reusable environments for Linear Code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": ";_t.displayName=`CodingEnvironmentsSection`;var vt={id:`coding-environments`,title:`Environments`,description:`Create reusable environments for Linear Code`,keywords:`cloud coding agent coding sessions environments repos",
+  "new_chunk": false
+ },
+ {
+  "text": "No Linear Code model is available with the workspace's AI provider restrictions",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": "referenceCompatible(e.value,C));if(t)return[...e,t]}return e},[C,j,N]),ie=L?X.modelDescription(N,`workspace`):`No Linear Code model is available with the workspace's AI provider restrictions`,se=Z.useCallback(e=>{if(e!==",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Code requires Linear Agent to be enabled",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": "})})},[i]);return(0,Q.jsxs)(ae,{children:[o&&!i.linearAgentEnabled?(0,Q.jsxs)(he,{variant:`warning`,children:[`Linear Code requires Linear Agent to be enabled`,` `,(0,Q.jsx)(Ge,{to:te(i,`agent`),children:`Open Linear Age",
+  "new_chunk": false
+ },
+ {
+  "text": ",options:U,selectPlaceholder:L?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": "(dt,{id:$.sections.general.items.model.id,title:$.sections.general.items.model.title,description:ie,value:N??``,options:U,selectPlaceholder:L?void 0:`Unavailable`,onValueChange:ce,disabled:G,disabledReason:W}),g&&!M.isAu",
+  "new_chunk": false
+ },
+ {
+  "text": "Enable code access to start using Linear Code",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": "variant:`smallPlus`,color:`labelMuted`,children:r?`Enable automatic reload for usage beyond included credits`:`Enable code access to start using Linear Code`})]}),r?(0,Q.jsx)(Oe,{size:`small`,variant:`borderless`,onClick",
+  "new_chunk": false
+ },
+ {
+  "text": ",maskImage:g?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TeamHomePage.js",
+  "ctx": ",{isOpen:!g,initialHeight:`auto`,inert:g||void 0,style:{marginLeft:-8,paddingLeft:8,overflow:g?void 0:`visible`,maskImage:g?void 0:`none`,WebkitMaskImage:g?void 0:`none`},children:(0,X.jsx)(`div`,{className:`sx-78zum5 sx",
+  "new_chunk": false
+ },
+ {
+  "text": ",WebkitMaskImage:g?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TeamHomePage.js",
+  "ctx": "`auto`,inert:g||void 0,style:{marginLeft:-8,paddingLeft:8,overflow:g?void 0:`visible`,maskImage:g?void 0:`none`,WebkitMaskImage:g?void 0:`none`},children:(0,X.jsx)(`div`,{className:`sx-78zum5 sx-dt5ytf sx-1cy8zhl sx-167g",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"aria-activedescendant\":_===null?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/Onboarding.js",
+  "ctx": "sxs)(`div`,{ref:re,tabIndex:c?-1:0,role:`listbox`,\"aria-multiselectable\":`true`,\"aria-orientation\":`horizontal`,\"aria-activedescendant\":_===null?void 0:`email-chip-option-${_}`,\"aria-disabled\":c,...o([$e.field,c&&$e.fiel",
+  "new_chunk": false
+ }
+]

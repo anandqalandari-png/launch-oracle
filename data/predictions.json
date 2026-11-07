@@ -286,7 +286,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.45,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-05",
@@ -297,6 +297,11 @@
     "date": "2026-11-06",
     "confidence": 0.45,
     "note": "New inference settings let admins connect Amazon Bedrock or a custom endpoint, and an OpenAI key for Codex, for coding agents."
+   },
+   {
+    "date": "2026-11-07",
+    "confidence": 0.55,
+    "note": "A commit signing key setting and a commitSigningEnabled workspace setting are now visible, which corroborates the signed-commits part."
    }
   ],
   "evidence": [
@@ -346,6 +351,18 @@
     "text": "OpenAI API key",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Code uses this key to sign your commits",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Code settings can’t be changed",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
     "new_chunk": false
    }
   ],
@@ -421,7 +438,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 120,
   "deadline": "2027-03-05",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-05",
@@ -432,6 +449,11 @@
     "date": "2026-11-06",
     "confidence": 0.4,
     "note": "Workbench folder create, rename, move and delete actions show the Workbench is being built out."
+   },
+   {
+    "date": "2026-11-07",
+    "confidence": 0.5,
+    "note": "Agent tools can now remove items from the Workbench as well as add them. Workbench view options (grouping, ordering, show archived) are also in the code, so the feature looks near release."
    }
   ],
   "evidence": [
@@ -463,6 +485,30 @@
     "text": "Move Workbench item",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Removing from Workbench…",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Removed from Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Already archived in Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Workbench grouping",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
     "new_chunk": false
    }
   ],
@@ -550,6 +596,11 @@
     "date": "2026-11-06",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-07",
+    "confidence": 0.4,
+    "note": "A 'Set up purchase' header and 'Approved authorization' approve/deny/yes_no confirmation copy suggest a purchase-setup and authorization flow."
    }
   ],
   "evidence": [
@@ -557,6 +608,18 @@
     "text": "Get a notification to confirm final purchase or choose to let Gemini buy automatically",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Set up purchase",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Approved authorization",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
     "new_chunk": true
    }
   ],
@@ -644,12 +707,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 75,
   "deadline": "2027-01-20",
-  "confidence": 0.3,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-07",
+    "confidence": 0.6,
+    "note": "New strings show quiz customization: question count up to 50, multiple choice, true or false and fill in the blank formats, difficulty, and a growth-areas focus. A 'Keep Learning' section offers flashcards and a study guide after a quiz. Th"
    }
   ],
   "evidence": [
@@ -675,6 +743,42 @@
     "text": "Don't give up! Review the material and try again.",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "How many questions do you want?",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Enter a number up to 50",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Change quiz format",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Fill in the blank",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Create a complete set of flashcards from all your quiz material. Good for quick review and mastering key concepts.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Take another quiz",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
     "new_chunk": true
    }
   ],
@@ -1566,6 +1670,668 @@
    "rollout_guess": "Likely a staged Agent rollout.",
    "open_questions": [
     "Where is the entry point?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-07-gif-generation-in-chatgpt-image-creation",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "GIF generation in ChatGPT image creation",
+  "one_liner": "Ask ChatGPT to generate animated GIFs, with a dedicated slow-generation notice and retry when the job is delayed.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 75,
+  "deadline": "2027-01-21",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "GIF generation is slower than usual",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Image generation is slower than usual",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users can only generate still images in chat. Animated output needs a separate flow, and it takes longer, so users need feedback when it is delayed.",
+   "users": "Users of ChatGPT image generation, including logged-out and free users, since the strings come from the lightweight-web bundle.",
+   "what": "Generation of animated GIFs from prompts. The delayed-generation UI has a GIF-specific title next to the existing image one, which suggests GIFs are a distinct output type with their own latency handling.",
+   "how_it_appears": "Inline in the conversation as a delayed-state card for in-progress image-gen jobs. The key `lightweight-web.conversation.image-gen-delayed-slowdown-gif-title` sits next to the existing `image-gen-delayed-retry` and `image-gen-delayed-slowdown-title` keys, with a Retry action and a later success message.",
+   "rollout_guess": "Inferred: gradual rollout to paid users first, possibly followed by free users, announced alongside an image-model update.",
+   "open_questions": [
+    "Is GIF generation a separate model or a post-processing step on image generation?",
+    "Which plans get access at launch, and is there a usage limit?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-07",
+   "ship_date": "2026-11-04",
+   "why": "was already public when forecast",
+   "source": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "quote": "GIF creation is rolling out in ChatGPT. Ask for a looping animation, or upload a sketch and ask ChatGPT to make the character wave.",
+   "prd_match": 4,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "gemini-2026-11-07-live-voice-conversations-on-web-embedded",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Live voice conversations on web / embedded Gemini",
+  "one_liner": "Users talk to Gemini by voice in the browser or an embedded surface, with a live conversation appearing in the sidebar.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Live conversation",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "WebAudio AudioContext is not supported in this browser.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "WebChannel bridge is unavailable in this environment.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Failed to open Live WebChannel session.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Invalid Opus packet TOC header.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Gemini Live voice is mostly a mobile experience, so desktop and browser users cannot hold real-time spoken conversations.",
+   "users": "Desktop web users, and possibly users of an embedded host such as Chrome.",
+   "what": "A real-time voice session that captures the microphone through WebAudio, streams Opus audio over a WebChannel, and shows up as a pending 'Live conversation' in the chat sidebar.",
+   "how_it_appears": "A Live or voice button in the web app or embedded Gemini panel. A session adds a pending 'Live conversation' entry to the history sidebar.",
+   "rollout_guess": "Likely a staged rollout starting with a host-bridged environment (the WebChannel bridge error suggests an embedded surface), then wider web.",
+   "open_questions": [
+    "Is this the standalone gemini.google.com site or an embedded host such as Chrome?",
+    "Will it include camera or screen sharing?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-07-event-triggered-scheduled-tasks",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Event-triggered scheduled tasks",
+  "one_liner": "Users set up Gemini tasks that start at a chosen time or when a matching email arrives, and can give them an end time.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": ",p=j(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?N.SPECIFIC:N.IMMEDIATELY,g=j(e.endTime),_=g===void 0?ue(t,1):new Date(g),v=g===void 0?P.NEVER:P.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": ",status:1,pinned:!1,frb:void 0,fSb:new Date,aJa:",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users have to start every agentic task manually instead of having it run on a schedule or in response to events.",
+   "users": "Power users and agent or task users, likely on paid tiers.",
+   "what": "A task or goal setup with start options of immediately or at a specific time, end options of never or at a specific time, and trigger types including a Gmail email query and another 'electric' query trigger.",
+   "how_it_appears": "A task or goal creation form, with placeholder goals shown as 'Initializing task…' in a task list.",
+   "rollout_guess": "Probably tied to an agent launch and rolled out to subscribers first.",
+   "open_questions": [
+    "What is the 'electric' trigger?",
+    "Is this the existing Scheduled Actions feature or a new agent product?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-07-automation-action-edit-page-icon",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Automation action: Edit page icon",
+  "one_liner": "Database automations can set the icon of the page that triggered them, as a new 'Edit page icon…' action.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 60,
+  "deadline": "2027-01-06",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "automation_update_page_icon_action",
+    "kind": "flag",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Edit page icon…",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Sets the icon of the page that triggered the automation.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Database automations can edit properties but cannot change a page's icon, so icons have to be set by hand or stay inconsistent with page status.",
+   "users": "Teams that use database automations, such as project trackers and CRM-style databases.",
+   "what": "A new automation action, 'Edit page icon…', which sets the icon of the page that triggered the automation. The action type is update_page_icon and it is gated by the experiment flag automation_update_page_icon_action.",
+   "how_it_appears": "In the database automation builder's action picker, next to the existing actions such as edit property and add page to.",
+   "rollout_guess": "Gradual rollout behind an experiment gate, then a mention in release notes or the automations docs.",
+   "open_questions": [
+    "Can the action pick from emoji, uploaded icons and Notion icons, or only one kind?",
+    "Is it available on all paid plans or only some?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-07-ai-drafted-custom-admin-roles",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "AI-drafted custom admin roles",
+  "one_liner": "Enterprise admins can have AI draft a custom admin role, with a daily per-organization drafting limit.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Your organization has reached its daily AI role drafting limit. Try again later, or create the role manually.",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Building a custom admin role means working through many individual permissions, which is slow and error-prone.",
+   "users": "Enterprise workspace and organization admins.",
+   "what": "An AI drafting flow in the custom admin roles settings. The admin describes the role and AI proposes the permissions. A daily budget limits usage per organization, and the error copy points to manual creation as the fallback.",
+   "how_it_appears": "In Settings, in the custom admin roles creation flow, as an AI draft option.",
+   "rollout_guess": "Enterprise only, probably a quiet rollout or a short mention in release notes.",
+   "open_questions": [
+    "Is the feature already live for some customers, given that the budget error exists?",
+    "Will it be announced publicly or just appear in the settings UI?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-workspace-git-branch-name-format",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Workspace Git branch name format",
+  "one_liner": "Workspace admins can set a custom branch-name template, with variables like issue identifier, title and usernames, and preview it against a real issue.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 60,
+  "deadline": "2027-01-06",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Custom Git branch formats",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Use custom branch-name templates for the workspace",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Set the branch name format for your workspace. Copy branch names from issues with the",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose an issue to see its branch name",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Save format",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Teams with branch naming conventions have to rename the branches Linear suggests.",
+   "users": "Workspace admins, and engineers who copy branch names from issues.",
+   "what": "A workspace-level template built from variables (issue identifier, title, Linear username, GitHub username). It is validated, previewed against a chosen issue, and saved.",
+   "how_it_appears": "Workspace settings, in a 'Branch format' section with a template input, an example, and an issue picker for the preview.",
+   "rollout_guess": "Currently behind the internal flag 'custom-git-branch-formats' (default false). Likely a gradual rollout, then a changelog entry.",
+   "open_questions": [
+    "Is it available on all plans?",
+    "Can individual users still override the workspace format?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-pull-request-ownership-override-in-revie",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request ownership override in Reviews",
+  "one_liner": "Change or claim the owner of a pull request in Linear Reviews, with the ownership history shown on the PR.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 60,
+  "deadline": "2027-01-06",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Change pull request owner…",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Make me owner",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Remove owner override",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Ownership passed to",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Ownership returned to the original author",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "The PR author is not always the person responsible for it, for example when work is handed over or opened by a bot or agent.",
+   "users": "Engineers and reviewers using Linear Reviews.",
+   "what": "Reassign a PR to another user or to yourself, reset to the original author, and log owner changes in the activity feed.",
+   "how_it_appears": "Command menu actions on a pull request and 'Owner changed' entries in PR activity.",
+   "rollout_guess": "Ships with the Reviews rollout.",
+   "open_questions": [
+    "Does the owner get the review-request notifications?",
+    "Is the owner synced back to GitHub?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-pull-request-evidence",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request evidence",
+  "one_liner": "Agents attach evidence reports to a pull request, and Reviews shows them with a freshness state.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 75,
+  "deadline": "2027-01-21",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Attaching evidence…",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Attached evidence",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "This PR has no evidence",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Written for an earlier version",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers cannot easily tell whether an agent-authored change was actually verified.",
+   "users": "PR reviewers and authors of agent-written code.",
+   "what": "A SubmitEvidence agent tool attaches summaries or evidence to a PR. Reviews shows evidence and marks it stale when the PR changes after it was written.",
+   "how_it_appears": "An evidence section in the Reviews PR view, next to the checks list.",
+   "rollout_guess": "Part of the Linear Reviews and agent rollout.",
+   "open_questions": [
+    "What counts as evidence: test output, screenshots, or logs?",
+    "Who can trigger regeneration?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-trusted-source-handling-for-loops",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Trusted-source handling for Loops",
+  "one_liner": "Loops skip runs triggered by untrusted sources such as external PR authors or deactivated users. A person can trust the issue and retry the run.",
+  "category": "expansion",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 60,
+  "deadline": "2027-01-06",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Trust issue and retry",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Issue marked as trusted",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Pull request from an external contributor",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Activity from an untrusted source",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Issue filed by a deactivated user",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Automations running on content from outside contributors are a prompt-injection and abuse risk.",
+   "users": "Workspace admins and Loop authors.",
+   "what": "Loop runs triggered by untrusted content pause with an explanation. A member can mark the issue as trusted, which reschedules the run, and a workspace-level trusted sources mode controls the policy.",
+   "how_it_appears": "Banners on a Loop run page, plus a trusted-sources setting in Loops settings.",
+   "rollout_guess": "Likely ships alongside Loops hardening.",
+   "open_questions": [
+    "What are the default trusted-sources modes?",
+    "Does this apply to Slack-triggered Loops?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-local-and-cloud-linear-code-sessions",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Local and cloud Linear Code sessions",
+  "one_liner": "Switch a Linear Code coding session between running locally and running in the cloud.",
+  "category": "new_feature",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Switch to Local",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Switch to Cloud",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Cloud-only coding sessions cannot use a developer's local checkout or environment.",
+   "users": "Engineers using Linear Code from the desktop app.",
+   "what": "A location toggle (Cloud or Local) on the coding session composer, with a keyboard shortcut and a labelled local state.",
+   "how_it_appears": "A Cloud/Local segmented control in the session header and a command menu action.",
+   "rollout_guess": "Probably desktop app first.",
+   "open_questions": [
+    "Is local mode desktop-only?",
+    "Which agents or runtimes run locally?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-feature-flag-management-on-issues",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Feature flag management on issues",
+  "one_liner": "Attach feature flags to issues, copy flag keys, detach flags, and get cleanup prompts once a flag is fully rolled out.",
+  "category": "integration",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Detach feature flags…",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Copy feature flag keys",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Feature flags are still rolling out",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Feature flags and the issues that introduced them drift apart, which leaves stale flags in the code.",
+   "users": "Engineering teams using feature-flag providers.",
+   "what": "A workspace flag list where flags are attached to issues or projects. Actions let you detach a flag or copy its key, and cleanup is offered once a flag is fully rolled out.",
+   "how_it_appears": "Command menu actions on issues and projects, gated by a featureFlags workspace feature.",
+   "rollout_guess": "Likely an early-access or integration launch.",
+   "open_questions": [
+    "Which flag providers are supported?",
+    "Is it tied to a plan?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-07-jira-custom-field-sync",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Jira custom field sync",
+  "one_liner": "Sync chosen Jira custom fields into Linear through workspace label groups.",
+  "category": "integration",
+  "created": "2026-11-07",
+  "first_evidence": "2026-11-07",
+  "window_days": 90,
+  "deadline": "2027-02-05",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-07",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Jira custom field sync",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Sync chosen Jira custom fields through workspace label groups",
+    "kind": "copy",
+    "first_seen": "2026-11-07",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Jira custom field data is lost when Jira projects sync to Linear.",
+   "users": "Teams migrating from or syncing with Jira.",
+   "what": "Admins choose Jira custom fields to map to workspace label groups, and values sync as labels.",
+   "how_it_appears": "Jira integration settings.",
+   "rollout_guess": "Flagged alongside the other Jira sync work and likely to ship with it.",
+   "open_questions": [
+    "Are the mappings two-way?",
+    "Which field types are supported?"
    ]
   },
   "status": "open",
