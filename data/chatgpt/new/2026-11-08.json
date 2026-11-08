@@ -1,0 +1,534 @@
+[
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.width,Y,H.stop.paint.p3Name,H.stop.canvas.height,H.stop.canvas.viewBox,H.stop.canvas.width,Z],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF-generering tager længere tid end normalt",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "mage-gen-delayed-retry\",\"Prøv igen\"),Vy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF-generering tager længere tid end normalt\"),Ly=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-",
+  "new_chunk": false
+ },
+ {
+  "text": "Billedgenerering tager længere tid end normalt",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "nerering tager længere tid end normalt\"),Ly=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Billedgenerering tager længere tid end normalt\"),By=e(\"lightweight-web.conversation.image-gen-delayed-succeed",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF-generering tar lengre tid enn vanlig",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "age-gen-delayed-retry\",\"Prøv igjen\"),Vy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF-generering tar lengre tid enn vanlig\"),By=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-titl",
+  "new_chunk": false
+ },
+ {
+  "text": "Bildegenerering tar lengre tid enn vanlig",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "F-generering tar lengre tid enn vanlig\"),By=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Bildegenerering tar lengre tid enn vanlig\"),Ny=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-de",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF-Erstellung dauert länger als üblich",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "n-delayed-retry\",\"Erneut versuchen\"),Fy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF-Erstellung dauert länger als üblich\"),Ky=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title",
+  "new_chunk": false
+ },
+ {
+  "text": "Die Bildgenerierung dauert länger als üblich",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "IF-Erstellung dauert länger als üblich\"),Ky=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Die Bildgenerierung dauert länger als üblich\"),Ly=e(\"lightweight-web.conversation.image-gen-delayed-succeeded",
+  "new_chunk": false
+ },
+ {
+  "text": "Quá trình tạo GIF đang chậm hơn bình thường",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": ".image-gen-delayed-retry\",\"Thử lại\"),Mf=t(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Quá trình tạo GIF đang chậm hơn bình thường\"),Af=t(\"lightweight-web.conversation.image-gen-delayed-slowdown-t",
+  "new_chunk": false
+ },
+ {
+  "text": "Generowanie GIF-ów trwa dłużej niż zwykle",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "on.image-gen-delayed-retry\",\"Ponów\"),Aj=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Generowanie GIF-ów trwa dłużej niż zwykle\"),Uj=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-tit",
+  "new_chunk": false
+ },
+ {
+  "text": "Generowanie obrazów trwa dłużej niż zwykle",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "erowanie GIF-ów trwa dłużej niż zwykle\"),Uj=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generowanie obrazów trwa dłużej niż zwykle\"),Lj=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-d",
+  "new_chunk": false
+ },
+ {
+  "text": "Vytváranie súborov GIF trvá dlhšie než zvyčajne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "en-delayed-retry\",\"Zopakovať pokus\"),Dz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Vytváranie súborov GIF trvá dlhšie než zvyčajne\"),Kz=e(\"lightweight-web.conversation.image-gen-delayed-slowdo",
+  "new_chunk": false
+ },
+ {
+  "text": "Generovanie obrázkov trvá dlhšie než zvyčajne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "e súborov GIF trvá dlhšie než zvyčajne\"),Kz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generovanie obrázkov trvá dlhšie než zvyčajne\"),Mz=e(\"lightweight-web.conversation.image-gen-delayed-succeede",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF kūrimas trunka ilgiau nei įprastai",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "-delayed-retry\",\"Bandyti dar kartą\"),Ef=i(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF kūrimas trunka ilgiau nei įprastai\"),Of=i(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Vaizdų generavimas trunka ilgiau nei įprastai",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "GIF kūrimas trunka ilgiau nei įprastai\"),Of=i(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Vaizdų generavimas trunka ilgiau nei įprastai\"),Rf=i(\"lightweight-web.conversation.image-gen-delayed-succeede",
+  "new_chunk": false
+ },
+ {
+  "text": "Izrada GIF-ova traje dulje nego inače",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "en-delayed-retry\",\"Pokušaj ponovno\"),Rz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Izrada GIF-ova traje dulje nego inače\"),Sz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Generiranje slika traje dulje nego inače",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "\"Izrada GIF-ova traje dulje nego inače\"),Sz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generiranje slika traje dulje nego inače\"),Hz=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-des",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF izveide aizņem ilgāku laiku nekā parasti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "en-delayed-retry\",\"Mēģināt vēlreiz\"),Df=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF izveide aizņem ilgāku laiku nekā parasti\"),Ef=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-",
+  "new_chunk": false
+ },
+ {
+  "text": "Attēlu ģenerēšana notiek lēnāk nekā parasti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "veide aizņem ilgāku laiku nekā parasti\"),Ef=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Attēlu ģenerēšana notiek lēnāk nekā parasti\"),Of=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-",
+  "new_chunk": false
+ },
+ {
+  "text": "A GIF-ek készítése a szokásosnál tovább tart",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "en-delayed-retry\",\"Újrapróbálkozás\"),Fy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"A GIF-ek készítése a szokásosnál tovább tart\"),Vy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-",
+  "new_chunk": false
+ },
+ {
+  "text": "A képgenerálás a szokásosnál tovább tart",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "ek készítése a szokásosnál tovább tart\"),Vy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"A képgenerálás a szokásosnál tovább tart\"),Dy=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-des",
+  "new_chunk": false
+ },
+ {
+  "text": "Generarea de GIF-uri durează mai mult decât de obicei",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "age-gen-delayed-retry\",\"Reîncearcă\"),Ez=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Generarea de GIF-uri durează mai mult decât de obicei\"),Vz=e(\"lightweight-web.conversation.image-gen-delayed-",
+  "new_chunk": false
+ },
+ {
+  "text": "Generarea de imagini durează mai mult decât de obicei",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "F-uri durează mai mult decât de obicei\"),Vz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generarea de imagini durează mai mult decât de obicei\"),Fz=e(\"lightweight-web.conversation.image-gen-delayed-",
+  "new_chunk": false
+ },
+ {
+  "text": "La generación de GIF está tardando más de lo habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "age-gen-delayed-retry\",\"Reintentar\"),Mk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"La generación de GIF está tardando más de lo habitual\"),Rk=e(\"lightweight-web.conversation.image-gen-delayed-",
+  "new_chunk": false
+ },
+ {
+  "text": "La generación de imágenes está tardando más de lo habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "e GIF está tardando más de lo habitual\"),Rk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"La generación de imágenes está tardando más de lo habitual\"),Ok=e(\"lightweight-web.conversation.image-gen-del",
+  "new_chunk": false
+ },
+ {
+  "text": "Ustvarjanje GIF-ov traja dlje kot običajno",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "-gen-delayed-retry\",\"Poskusi znova\"),Zz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Ustvarjanje GIF-ov traja dlje kot običajno\"),Uz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-ti",
+  "new_chunk": false
+ },
+ {
+  "text": "Ustvarjanje slik traja dlje kot običajno",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "arjanje GIF-ov traja dlje kot običajno\"),Uz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Ustvarjanje slik traja dlje kot običajno\"),Kz=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-des",
+  "new_chunk": false
+ },
+ {
+  "text": "Kuunda GIF kunachukua muda mrefu kuliko kawaida",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ge-gen-delayed-retry\",\"Jaribu tena\"),Jf=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Kuunda GIF kunachukua muda mrefu kuliko kawaida\"),Zf=a(\"lightweight-web.conversation.image-gen-delayed-slowdo",
+  "new_chunk": false
+ },
+ {
+  "text": "Utengenezaji wa picha unachukua muda mrefu kuliko kawaida",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "F kunachukua muda mrefu kuliko kawaida\"),Zf=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Utengenezaji wa picha unachukua muda mrefu kuliko kawaida\"),Ef=a(\"lightweight-web.conversation.image-gen-dela",
+  "new_chunk": false
+ },
+ {
+  "text": "Samaynta GIF-yada ayaa qaadanaysa waqti ka badan sidii caadiga ahayd",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "-gen-delayed-retry\",\"Dib isugu day\"),Of=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Samaynta GIF-yada ayaa qaadanaysa waqti ka badan sidii caadiga ahayd\"),zf=a(\"lightweight-web.conversation.ima",
+  "new_chunk": false
+ },
+ {
+  "text": "Soo-saarista sawirradu way ka gaabis badan tahay sidii caadiga ahayd",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ysa waqti ka badan sidii caadiga ahayd\"),zf=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Soo-saarista sawirradu way ka gaabis badan tahay sidii caadiga ahayd\"),Ff=a(\"lightweight-web.conversation.ima",
+  "new_chunk": false
+ },
+ {
+  "text": "Kreiranje GIF-ova traje duže nego inače",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "gen-delayed-retry\",\"Pokušaj ponovo\"),Kz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Kreiranje GIF-ova traje duže nego inače\"),Sz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title",
+  "new_chunk": false
+ },
+ {
+  "text": "Generiranje slika traje duže nego inače",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "reiranje GIF-ova traje duže nego inače\"),Sz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generiranje slika traje duže nego inače\"),Bz=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-desc",
+  "new_chunk": false
+ },
+ {
+  "text": "Penjanaan GIF lebih perlahan daripada biasa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "ge-gen-delayed-retry\",\"Cuba semula\"),If=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Penjanaan GIF lebih perlahan daripada biasa\"),Ef=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-t",
+  "new_chunk": false
+ },
+ {
+  "text": "Penjanaan imej lebih perlahan daripada biasa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "naan GIF lebih perlahan daripada biasa\"),Ef=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Penjanaan imej lebih perlahan daripada biasa\"),Of=a(\"lightweight-web.conversation.image-gen-delayed-succeeded",
+  "new_chunk": false
+ },
+ {
+  "text": "Mas mabagal kaysa karaniwan ang paggawa ng GIF",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "e-gen-delayed-retry\",\"Subukan ulit\"),Bf=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Mas mabagal kaysa karaniwan ang paggawa ng GIF\"),Ef=a(\"lightweight-web.conversation.image-gen-delayed-slowdow",
+  "new_chunk": false
+ },
+ {
+  "text": "Mas mabagal kaysa karaniwan ang image generation",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "gal kaysa karaniwan ang paggawa ng GIF\"),Ef=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Mas mabagal kaysa karaniwan ang image generation\"),Of=a(\"lightweight-web.conversation.image-gen-delayed-succe",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF-kuvien luominen kestää tavallista kauemmin",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "en-delayed-retry\",\"Yritä uudelleen\"),Yj=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF-kuvien luominen kestää tavallista kauemmin\"),Oj=e(\"lightweight-web.conversation.image-gen-delayed-slowdow",
+  "new_chunk": false
+ },
+ {
+  "text": "Kuvien luonti on tavallista hitaampaa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "en luominen kestää tavallista kauemmin\"),Oj=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Kuvien luonti on tavallista hitaampaa\"),Ij=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-descri",
+  "new_chunk": false
+ },
+ {
+  "text": "Afbeelding opnieuw laden",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "tweight-web.conversation.retry\",\"Opnieuw proberen\"),Pl=e(\"lightweight-web.conversation.retry-generated-image\",\"Afbeelding opnieuw laden\"),Gl=e(\"lightweight-web.conversation.retry-upload-blocked\",\"Wacht tot de upload is v",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF's maken duurt langer dan normaal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "n-delayed-retry\",\"Opnieuw proberen\"),Ey=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF's maken duurt langer dan normaal\"),Ny=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Afbeeldingen genereren duurt langer dan normaal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": ",\"GIF's maken duurt langer dan normaal\"),Ny=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Afbeeldingen genereren duurt langer dan normaal\"),Sy=e(\"lightweight-web.conversation.image-gen-delayed-succee",
+  "new_chunk": false
+ },
+ {
+  "text": "A geração de GIFs está mais lenta que o normal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "n-delayed-retry\",\"Tentar novamente\"),Ik=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"A geração de GIFs está mais lenta que o normal\"),Bk=e(\"lightweight-web.conversation.image-gen-delayed-slowdow",
+  "new_chunk": false
+ },
+ {
+  "text": "A geração de imagens está mais lenta que o normal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "o de GIFs está mais lenta que o normal\"),Bk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"A geração de imagens está mais lenta que o normal\"),Mk=e(\"lightweight-web.conversation.image-gen-delayed-succ",
+  "new_chunk": false
+ },
+ {
+  "text": "La creazione di GIF richiede più tempo del solito",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": ".image-gen-delayed-retry\",\"Riprova\"),Nz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"La creazione di GIF richiede più tempo del solito\"),Ez=e(\"lightweight-web.conversation.image-gen-delayed-slow",
+  "new_chunk": false
+ },
+ {
+  "text": "La generazione di immagini è più lenta del solito",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "e di GIF richiede più tempo del solito\"),Ez=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"La generazione di immagini è più lenta del solito\"),Lz=e(\"lightweight-web.conversation.image-gen-delayed-succ",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF-ide loomine võtab tavalisest kauem aega",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "-gen-delayed-retry\",\"Proovi uuesti\"),Oy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF-ide loomine võtab tavalisest kauem aega\"),Dy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-t",
+  "new_chunk": false
+ },
+ {
+  "text": "Pildi genereerimine võtab tavalisest kauem aega",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "de loomine võtab tavalisest kauem aega\"),Dy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Pildi genereerimine võtab tavalisest kauem aega\"),Iy=e(\"lightweight-web.conversation.image-gen-delayed-succee",
+  "new_chunk": false
+ },
+ {
+  "text": "GIF oluşturmak normalden uzun sürüyor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "e-gen-delayed-retry\",\"Yeniden dene\"),Of=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"GIF oluşturmak normalden uzun sürüyor\"),Mf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Görsel oluşturma normalden daha uzun sürüyor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "\"GIF oluşturmak normalden uzun sürüyor\"),Mf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Görsel oluşturma normalden daha uzun sürüyor\"),Rf=e(\"lightweight-web.conversation.image-gen-delayed-succeeded",
+  "new_chunk": false
+ },
+ {
+  "text": "Pembuatan GIF lebih lambat dari biasanya",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "mage-gen-delayed-retry\",\"Coba lagi\"),Of=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Pembuatan GIF lebih lambat dari biasanya\"),Lf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-titl",
+  "new_chunk": false
+ },
+ {
+  "text": "Pembuatan gambar lebih lambat dari biasanya",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "mbuatan GIF lebih lambat dari biasanya\"),Lf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Pembuatan gambar lebih lambat dari biasanya\"),Ef=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-",
+  "new_chunk": false
+ },
+ {
+  "text": "A criação de GIFs está a demorar mais do que o habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "en-delayed-retry\",\"Voltar a tentar\"),Mk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"A criação de GIFs está a demorar mais do que o habitual\"),Vk=e(\"lightweight-web.conversation.image-gen-delaye",
+  "new_chunk": false
+ },
+ {
+  "text": "A geração de imagens está mais lenta do que o habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": " está a demorar mais do que o habitual\"),Vk=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"A geração de imagens está mais lenta do que o habitual\"),Rk=e(\"lightweight-web.conversation.image-gen-delayed",
+  "new_chunk": false
+ },
+ {
+  "text": "Gerð GIF-mynda tekur lengri tíma en venjulega",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ge-gen-delayed-retry\",\"Reyna aftur\"),Fy=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Gerð GIF-mynda tekur lengri tíma en venjulega\"),Ay=e(\"lightweight-web.conversation.image-gen-delayed-slowdown",
+  "new_chunk": false
+ },
+ {
+  "text": "Myndgerð tekur lengri tíma en venjulega",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "F-mynda tekur lengri tíma en venjulega\"),Ay=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Myndgerð tekur lengri tíma en venjulega\"),Dy=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-desc",
+  "new_chunk": false
+ },
+ {
+  "text": "Det tar längre tid än vanligt att skapa GIF-bilder",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ge-gen-delayed-retry\",\"Försök igen\"),Ky=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Det tar längre tid än vanligt att skapa GIF-bilder\"),By=e(\"lightweight-web.conversation.image-gen-delayed-slo",
+  "new_chunk": false
+ },
+ {
+  "text": "Bildgenereringen tar längre tid än vanligt",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "re tid än vanligt att skapa GIF-bilder\"),By=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Bildgenereringen tar längre tid än vanligt\"),Oy=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-d",
+  "new_chunk": false
+ },
+ {
+  "text": "La generació de GIF és més lenta del que és habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "-delayed-retry\",\"Torna-ho a provar\"),Mx=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"La generació de GIF és més lenta del que és habitual\"),Ox=e(\"lightweight-web.conversation.image-gen-delayed-s",
+  "new_chunk": false
+ },
+ {
+  "text": "La generació d'imatges és més lenta de l'habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "e GIF és més lenta del que és habitual\"),Ox=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"La generació d'imatges és més lenta de l'habitual\"),Rx=e(\"lightweight-web.conversation.image-gen-delayed-succ",
+  "new_chunk": false
+ },
+ {
+  "text": "Acaban de compartir esta conversación conmigo. Resume su contenido.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "nversation.receiver-summarize-label\",\"Resumir\"),kl=e(\"lightweight-web.conversation.receiver-summarize-prompt\",\"Acaban de compartir esta conversación conmigo. Resume su contenido.\"),Cl=e(\"lightweight-web.conversation.resp",
+  "new_chunk": false
+ },
+ {
+  "text": "La création de GIF prend plus de temps que d’habitude",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "mage-gen-delayed-retry\",\"Réessayer\"),Sz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"La création de GIF prend plus de temps que d’habitude\"),Lz=e(\"lightweight-web.conversation.image-gen-delayed-",
+  "new_chunk": false
+ },
+ {
+  "text": "La génération d’images est plus lente que d’habitude",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "GIF prend plus de temps que d’habitude\"),Lz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"La génération d’images est plus lente que d’habitude\"),Oz=e(\"lightweight-web.conversation.image-gen-delayed-s",
+  "new_chunk": false
+ },
+ {
+  "text": "Krijimi i GIF-eve po zgjat më shumë se zakonisht",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": ".image-gen-delayed-retry\",\"Riprovo\"),Lf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Krijimi i GIF-eve po zgjat më shumë se zakonisht\"),Rf=e(\"lightweight-web.conversation.image-gen-delayed-slowd",
+  "new_chunk": false
+ },
+ {
+  "text": "Gjenerimi i imazheve po zgjat më shumë se zakonisht",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "GIF-eve po zgjat më shumë se zakonisht\"),Rf=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Gjenerimi i imazheve po zgjat më shumë se zakonisht\"),If=e(\"lightweight-web.conversation.image-gen-delayed-su",
+  "new_chunk": false
+ },
+ {
+  "text": "Vytváření GIFů trvá déle než obvykle",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "e-gen-delayed-retry\",\"Zkusit znovu\"),Az=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Vytváření GIFů trvá déle než obvykle\"),Mz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Generování obrázků trvá déle než obvykle",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": ",\"Vytváření GIFů trvá déle než obvykle\"),Mz=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"Generování obrázků trvá déle než obvykle\"),Ez=e(\"lightweight-web.conversation.image-gen-delayed-succeeded-des",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor aria-hidden=true>',1),Hr=Fo(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "l=\"currentColor\"/>'});mo(1),jo(1,!0),vi([\"click\"],[112]);var Lr=Fo('<svg width=20 height=20 viewBox=\"0 0 20 20\" fill=currentColor aria-hidden=true>',1),Hr=Fo(\"<p role=alert>\"),Or=Fo('<div data-conversation-rating><aside>",
+  "new_chunk": false
+ },
+ {
+  "text": "),Br=Fo('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Fr=Fo(\"<!>\",0,1),Ur=Fo(\"<span role=alert> \"),Kr=Fo(\"<div data-generated-file-cards><!>\"),Br=Fo('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Wr=Fo('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Wr=Fo('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Fo('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Xr=Fo('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Zr=Fo('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),zx=Fo('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),wx=Fo(\"<div></div><!>\",0,2),jx=Fo(\"<p role=status> \"),qx=Fo(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),zx=Fo('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),Mx=Fo(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),Rx=Fo('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),Mx=Fo(\"<blockquote> \"),Ix=Fo(\"<p data-user-message-copy>\"),Cx=Fo(\"<p data-user-message-copy> \"),Rx=Fo('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),Nx=Fo('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),$x=Fo(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),Nx=Fo('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Sx=Fo(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),Nx=Fo('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Sx=Fo(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),Lx=Fo('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Sx=Fo(\"<svg aria-hidden=true fill=none><use>\",1),Lx=Fo('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Hx=Kn(111),Ox=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": ",tickLine:!1,tickMargin:Lt?0:Vt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Jt??Br??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "kMargin:xr,hide:!je,height:je?void 0:0,padding:la}),(0,ar.jsx)(Nt,{className:rr.Axis,dataKey:Ct,type:\"category\",tickLine:!1,tickMargin:Lt?0:Vt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Jt??Br??\"auto\",hide:Lt,ti",
+  "new_chunk": false
+ }
+]

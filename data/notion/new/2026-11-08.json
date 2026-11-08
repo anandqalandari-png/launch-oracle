@@ -1,0 +1,51 @@
+[
+ {
+  "text": "Dismiss Notetaker block header",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "otetakerDismissButtonLabel:{id:\"TranscriptionBlockHeader.actions.dismiss.label.notetakerCopy\",defaultMessage:\"Dismiss Notetaker block header\"}}),o={icon:{flexShrink:0,width:\"1.375em\",height:\"1.375em\",fill:i(632079).Tj.ic",
+  "new_chunk": false
+ },
+ {
+  "text": "You’re out of free Notetaker minutes",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "sTooltip:{id:\"dictation.transcriptionBlock.recordingButton.outOfFreeMinutesTooltip.notetaker\",defaultMessage:\"You’re out of free Notetaker minutes\"},billingIssueTooltip:{id:\"dictation.transcriptionBlock.recordingButton.b",
+  "new_chunk": false
+ },
+ {
+  "text": "Notetaker is unavailable because of a billing issue. A workspace owner can resolve this in billing settings.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "IssueTooltip:{id:\"dictation.transcriptionBlock.recordingButton.billingIssueTooltip.notetaker\",defaultMessage:\"Notetaker is unavailable because of a billing issue. A workspace owner can resolve this in billing settings.\"}",
+  "new_chunk": false
+ },
+ {
+  "text": "Notetaker isn’t available in this workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ip:{id:\"dictation.transcriptionBlock.recordingButton.unavailableInWorkspaceTooltip.notetaker\",defaultMessage:\"Notetaker isn’t available in this workspace\"},transcriptionDisabledTooltip:{id:\"dictation.transcriptionBlock.r",
+  "new_chunk": false
+ },
+ {
+  "text": "Notetaker is not available in this workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "tip:{id:\"dictation.transcriptionBlock.recordingButton.transcriptionDisabledTooltip.notetaker\",defaultMessage:\"Notetaker is not available in this workspace\"}});i.d(t,{},{Gk:o,Kq:c,Ls:n,VS:s,Yi:a,bu:d,ef:r,ne:u,rF:l})},347",
+  "new_chunk": false
+ },
+ {
+  "text": "Add Notetaker",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/use-meeting.js",
+  "ctx": "ltMessage:\"Add AI Meeting Notes\"},addNotetaker:{id:\"aiMeetingNotes.toast.action.addNotetaker\",defaultMessage:\"Add Notetaker\"}});function l(){let e=(0,i(633636).wM)(),t=(0,i(752010).tz)(),n=(0,i(533992).v3)(),{isEligible:",
+  "new_chunk": false
+ },
+ {
+  "text": "Error executing callback for request",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": ",\"MESSAGE_DISPATCHER\")}}}finally{_.Ad(h, k)}}else if(l=c.wa.get(d)){g=!0;c.wa.delete(d);try{l(f)}catch(n){_.E(\"Error executing callback for request \"+d+\": \"+n,\"MESSAGE_DISPATCHER\")}}g||_.E(\"No listener or callback regist",
+  "new_chunk": false
+ }
+]

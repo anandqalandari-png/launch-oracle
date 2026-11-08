@@ -2,3 +2,4 @@
 {"date": "2026-11-05", "app": "claude", "baseline": false, "files": 0, "bytes": 0, "strings": 0, "new": 0, "new_files": 0, "ok": false, "blocked": true, "errors": ["blocked by bot check (js.hcaptcha.com)"]}
 {"date": "2026-11-06", "app": "claude", "baseline": false, "files": 0, "bytes": 0, "strings": 0, "new": 0, "new_files": 0, "ok": false, "blocked": true, "errors": ["blocked by bot check (claude.ai)"]}
 {"date": "2026-11-07", "app": "claude", "baseline": false, "files": 0, "bytes": 0, "strings": 0, "new": 0, "new_files": 0, "ok": false, "blocked": true, "errors": ["blocked by bot check (claude.ai)"]}
+{"date": "2026-11-08", "app": "claude", "baseline": false, "files": 0, "bytes": 0, "strings": 0, "new": 0, "new_files": 0, "ok": false, "blocked": true, "errors": ["blocked by bot check (claude.ai)"]}
