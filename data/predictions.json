@@ -537,12 +537,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 45,
   "deadline": "2026-12-21",
-  "confidence": 0.5,
+  "confidence": 0.7,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-09",
+    "confidence": 0.7,
+    "note": "Migration-status copy for both owners (MIGRATED_OWNER) and recipients (MIGRATED_RECIPIENT) shows Gems being converted into skills that users must review and install. The 'will lose access soon' wording suggests the migration is near."
    }
   ],
   "evidence": [
@@ -562,6 +567,24 @@
     "text": "Skills settings page",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": true
+   },
+   {
+    "text": "Review and install it in Skills to keep using it. People you shared this Gem with can now find it in their skills.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "The owner shared it with you as a skill. Review and install it in Skills to keep using it.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Review and install it in Skills to keep using it.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
     "new_chunk": true
    }
   ],
@@ -978,7 +1001,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-06",
@@ -989,6 +1012,11 @@
     "date": "2026-11-08",
     "confidence": 0.55,
     "note": "New Notetaker-branded variants of the AI Meeting Notes recording-button tooltips (unavailable in workspace, out of free minutes, billing issue) and the toast action 'Add Notetaker' show that Notetaker naming is spreading through the meeting"
+   },
+   {
+    "date": "2026-11-09",
+    "confidence": 0.5,
+    "note": "The new aria label sits under the meetingNotesOnboardingV2 message namespace. This confirms the onboarding v2 flow is being built with Notetaker branding, though it adds nothing on the auto-filing suggestions."
    }
   ],
   "evidence": [
@@ -1044,6 +1072,12 @@
     "text": "You’re out of free Notetaker minutes",
     "kind": "copy",
     "first_seen": "2026-11-08",
+    "new_chunk": false
+   },
+   {
+    "text": "Set up Notetaker",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
     "new_chunk": false
    }
   ],
@@ -1326,6 +1360,11 @@
     "date": "2026-11-06",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-09",
+    "confidence": 0.5,
+    "note": "The 'dashboard-snapshots-ui' flag description now includes a 28-day comparison option, and a 'No change' state is present, so the UI is clearly being built out."
    }
   ],
   "evidence": [
@@ -1357,6 +1396,12 @@
     "text": "Lower is better",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Compare issue insight widgets on dashboards to their daily snapshot from 7 days, 28 days, 30 days, 90 days or 1 year ago",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
     "new_chunk": false
    }
   ],
@@ -2100,12 +2145,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 75,
   "deadline": "2027-01-21",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-09",
+    "confidence": 0.55,
+    "note": "A detailed evidence report schema now includes environments, metrics, scenarios, before and after runs, and attachments, which points to a mature feature."
    }
   ],
   "evidence": [
@@ -2131,6 +2181,24 @@
     "text": "Written for an earlier version",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "The agent that ran the checks: claude, codex, linear, pi, opencode, or another name",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Proof for a step: a screenshot, a recording, a code sample, or a link",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Each case the agent tested and its runs",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
     "new_chunk": false
    }
   ],
@@ -2271,12 +2339,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.3,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-09",
+    "confidence": 0.4,
+    "note": "Feature flag controls also appear on projects, so the feature is wider than issues."
    }
   ],
   "evidence": [
@@ -2296,6 +2369,18 @@
     "text": "Feature flags are still rolling out",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Add feature flag to the project",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "No feature flag",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
     "new_chunk": false
    }
   ],
@@ -2426,5 +2511,394 @@
    "prd_match": 3,
    "by": "grader"
   }
+ },
+ {
+  "id": "gemini-2026-11-09-skills-library-with-install-share-and-dr",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Skills library with install, share and Drive upload",
+  "one_liner": "Users can create or add skills, install or uninstall them, share them with others, and upload skill files to Drive from a Skills page.",
+  "category": "new_feature",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 45,
+  "deadline": "2026-12-24",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Skill added and installed",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Skill installed",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Skill uninstalled",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "This skill can’t be shared",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Uploading skill to Drive... this may take a moment.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "assistant_lamda_ClientSetManagedSkillEnabledResponse",
+    "kind": "key",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users have no way to manage reusable custom capabilities, such as installing, sharing and storing them, beyond Gems.",
+   "users": "Gemini power users, Gem creators, and teams or people who share custom assistants.",
+   "what": "A Skills area where users create or add skills and toggle them on or off (installed or uninstalled). Skills can be shared, with a restriction when they contain NotebookLM content, and skill files can be uploaded to Drive. There is also a managed-skills enable mutation.",
+   "how_it_appears": "A /skills page navigated to from toast notifications such as 'Manage', plus share dialogs and snackbars.",
+   "rollout_guess": "Likely launches together with the Gems-to-Skills migration, with enterprise and managed skills possibly following.",
+   "open_questions": [
+    "Is this the same launch as the Gems-to-Skills migration?",
+    "Are managed skills admin-controlled for Workspace?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-09-agent-task-list-with-status-filters-and-",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Agent task list with status filters and batch actions",
+  "one_liner": "Users can filter their agent tasks by Ready, Needs attention or In progress, select several, and delete, pin or add them to a project in bulk.",
+  "category": "new_feature",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 75,
+  "deadline": "2027-01-23",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Batch actions",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Exit selection",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Add to project",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Long-running agent tasks pile up with no way to triage or organise them.",
+   "users": "Users of Gemini's agentic task features.",
+   "what": "A task list with status filters and a multi-select mode offering Delete, Pin and Add to project. Inferred: it is tied to the 'remy' goal/task system, which has a placeholder 'Initializing task…' state.",
+   "how_it_appears": "A task or goal list in the sidebar or a tasks page, with a selection toolbar.",
+   "rollout_guess": "Probably ships with the agent task feature, which has not launched yet, so timing depends on that.",
+   "open_questions": [
+    "Is the task list tied to the Remy/Agent launch?",
+    "Do the Add to project and Pin actions apply to chats as well?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-09-pull-request-merge-bypass",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request merge bypass",
+  "one_liner": "Reviews offers a \"Bypass & merge\" button to people whom GitHub allows to merge a pull request despite unmet branch rules.",
+  "category": "new_feature",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 60,
+  "deadline": "2027-01-08",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Pull request merge bypass",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Offer Bypass & merge to people whom GitHub lets merge a pull request past its branch rules",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Bypass & merge",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "This pull request doesn't meet the rules for",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Admins who can override branch protection on GitHub must leave Linear to merge a pull request that fails the rules.",
+   "users": "Repository admins and others with GitHub bypass permission who use Linear Reviews.",
+   "what": "When a pull request fails its branch rules, people GitHub allows to bypass them see a \"Bypass & merge\" action. The unmet rules are listed with a note that GitHub lets them merge anyway as an admin.",
+   "how_it_appears": "The merge button in the Reviews pull request view. The blockers list includes entries such as 'No approving review' and 'A reviewer requested changes'.",
+   "rollout_guess": "Behind the 'pull-request-merge-bypass' flag. It is likely to ship quietly as part of Reviews updates.",
+   "open_questions": [
+    "Is a confirmation step required before bypassing?",
+    "Is bypass limited to GitHub admins?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-09-origin-integration-and-code-review",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Origin integration and code review",
+  "one_liner": "Connect Origin to a workspace, sync its pull request status, and read and review its pull request code in Linear's Diffs view.",
+  "category": "integration",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 90,
+  "deadline": "2027-02-07",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Origin code review",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Read Origin pull request code in Linear's Diffs view and review it there. Origin pull request status syncs without this flag.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Teams using Origin for code hosting cannot review its pull requests inside Linear Reviews.",
+   "users": "Workspaces that use Origin as their code host.",
+   "what": "A workspace can connect Origin. Its pull request status syncs into Linear, and with the code review flag the code can be read and reviewed in the Diffs view.",
+   "how_it_appears": "Integrations settings and Reviews or Diffs. The flag description for the 'origin' flag reads 'Show the Origin integration and let a workspace connect it.'",
+   "rollout_guess": "A gradual rollout starting with the integration and the status sync, with code review gated separately.",
+   "open_questions": [
+    "Is Origin a first-party or partner product?",
+    "Is the integration public at launch?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-09-triage-autopilot",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Triage autopilot",
+  "one_liner": "Show the progress and result of an automatic triage run on the Triage Intelligence card of issues in triage.",
+  "category": "new_feature",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 90,
+  "deadline": "2027-02-07",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Triage autopilot UI",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Show the triage autopilot's progress and result on the Triage Intelligence card of issues in triage",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Ask Agent about this assessment",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Triage requires manual work to classify and route incoming issues.",
+   "users": "Teams that use Triage and Triage Intelligence.",
+   "what": "An autopilot triages incoming issues and shows its progress and result on the Triage Intelligence card. A related assessment card classifies items as bug, feature request or other, with a confidence level.",
+   "how_it_appears": "The Triage Intelligence card on issues in triage.",
+   "rollout_guess": "Only the UI flag is visible, so the backend may already be in internal testing. Expect a staged rollout.",
+   "open_questions": [
+    "Can the autopilot act without human approval?",
+    "Is it limited to certain plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-09-new-project-resources-section",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "New project resources section",
+  "one_liner": "Project and initiative resources appear in a new Resources section, using the same rows as a document's pages.",
+  "category": "new_feature",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 75,
+  "deadline": "2027-01-23",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "New project resources section",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Show project and initiative resources in the new Resources section, with the same rows as a document's pages",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Project and initiative resources are shown differently from nested document pages.",
+   "users": "Anyone who uses projects, initiatives and documents.",
+   "what": "A unified Resources section lists resources in the same row style as nested pages. It sits alongside a flag that lets documents nest under other documents.",
+   "how_it_appears": "Project and initiative overview pages.",
+   "rollout_guess": "Part of the nested-documents work, likely shipped together.",
+   "open_questions": [
+    "Will existing resource links migrate?",
+    "Is it tied to the nested documents flag?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-09-workspace-default-insight-configuration",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Workspace default insight configuration",
+  "one_liner": "Save the current insights configuration as the default view for everyone in the workspace, or reset it.",
+  "category": "expansion",
+  "created": "2026-11-09",
+  "first_evidence": "2026-11-09",
+  "window_days": 60,
+  "deadline": "2027-01-08",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-09",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Save current insight…",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Publishing the configuration will make it the default for this view for everyone in the workspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Reset current insight to default",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Set default for everyone",
+    "kind": "copy",
+    "first_seen": "2026-11-09",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Each person must configure Insights views individually.",
+   "users": "Workspace admins and insights users.",
+   "what": "A person saves the current insight configuration as the default for the whole workspace, and can reset it to the default.",
+   "how_it_appears": "The command menu and the Insights view header.",
+   "rollout_guess": "Likely a small addition to Insights.",
+   "open_questions": [
+    "Is publishing admin-only?",
+    "Is it per view type?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
  }
 ]

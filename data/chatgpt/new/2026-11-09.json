@@ -1,0 +1,51 @@
+[
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,P.send.paint.p3Name,P.send.canvas.height,P.send.canvas.viewBox,P.send.canvas.width,X,P.stop.paint.p3Name,P.stop.canvas.height,P.stop.canvas.viewBox,P.stop.canvas.width,Y],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,P.send.paint.p3Name,P.send.canvas.height,P.send.canvas.viewBox,P.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "La generació d'imatges és més lenta del que és habitual",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "e GIF és més lenta del que és habitual\"),Ox=e(\"lightweight-web.conversation.image-gen-delayed-slowdown-title\",\"La generació d'imatges és més lenta del que és habitual\"),Rx=e(\"lightweight-web.conversation.image-gen-delaye",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,x=d===BA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===g){let e,i,k,b,v,x,y,w,j,S,C,N,E,I=Gy(UA);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===BA.EnterActive?\"\":void 0,y=d===BA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Ly(mx(lL.gro",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,y=d===BA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": ",N,E,I=Gy(UA);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===BA.EnterActive?\"\":void 0,y=d===BA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Ly(mx(lL.groupItem,!p.reduced&&lL.block,s.w",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,f=a===BA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "i,p=t.slots[0],m=null;if(void 0===p){let e,i,m,h,f,g,k,b,v,x=Gy(YA);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===BA.EnterActive?\"\":void 0,g=a===BA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Ly(mx(lL.con",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,g=a===BA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===p){let e,i,m,h,f,g,k,b,v,x=Gy(YA);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===BA.EnterActive?\"\":void 0,g=a===BA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Ly(mx(lL.content,lL.noShrink,o.composite&&l",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof m.color&&EB.has(m.color)?m.color:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===n[0]&&Fw(n[1],a)&&Fw(n[2],c)?n[3]:Mx(n,0,Xa(p,f),a,c)),k=\"md\"===m.size||\"lg\"===m.size?m.size:\"sm\",b=\"string\"==typeof m.color&&EB.has(m.color)?m.color:\"secondary\",v=null!=m.color&&!(\"string\"==typeof m.color&&EB.has(m.c",
+  "new_chunk": false
+ }
+]

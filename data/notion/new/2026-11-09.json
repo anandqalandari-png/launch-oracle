@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Blank app shell. Used for prewarmed desktop tabs that mount the app before the user navigates anywhere.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "),Promise.resolve()},render:({routerState:e})=>(0,l.jsx)(ey,{route:e.route})},blank:{name:\"blank\",description:\"Blank app shell. Used for prewarmed desktop tabs that mount the app before the user navigates anywhere.\",owne",
+  "new_chunk": false
+ },
+ {
+  "text": "Custom agent page for viewing and interacting with a workflow",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "ktop-infra\",render:({routerState:e})=>(0,l.jsx)(n(865264).z,{route:e.route})},agent:{name:\"agent\",description:\"Custom agent page for viewing and interacting with a workflow\",owner:\"ai\",guardrails:({routerState:{route:e}}",
+  "new_chunk": false
+ },
+ {
+  "text": "Try Notetaker",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10339.js",
+  "ctx": "es\"},useCaseLandingNotetakerTitle:{id:\"oracle.thread.onboarding.useCaseLandingNotetakerTitle\",defaultMessage:\"Try Notetaker\"},amerEnterpriseUserUnboxingTitle:{id:\"oracle.thread.onboarding.amerEnterpriseUserUnboxingTitle\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Start Notetaker for your upcoming events, schedule events via Notion AI, and more.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/22760.js",
+  "ctx": " AI, and more.\"},notetakerSubtitle:{id:\"notionCalendar.disambiguationModal.notetakerSubtitle\",defaultMessage:\"Start Notetaker for your upcoming events, schedule events via Notion AI, and more.\"}});function p({onProviderS",
+  "new_chunk": false
+ },
+ {
+  "text": "Set up Notetaker",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "et up AI Meeting Notes\"},notetakerAriaLabel:{id:\"meetingNotesOnboardingV2.notetakerAriaLabel\",defaultMessage:\"Set up Notetaker\"},calendarTitle:{id:\"meetingNotesOnboardingV2.calendarTitle\",defaultMessage:\"Connect your cal",
+  "new_chunk": false
+ },
+ {
+  "text": "Try Notetaker.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/72849.js",
+  "ctx": "t:e=>({title:e.isNotetakerCopyEnabled?(0,n.jsx)(i(752010).sA,{id:\"signupPage.notetaker.title\",defaultMessage:\"Try Notetaker.\"}):(0,n.jsx)(i(752010).sA,{id:\"signupPage.meetingNotes.title\",defaultMessage:\"Try AI Meeting No",
+  "new_chunk": false
+ }
+]
