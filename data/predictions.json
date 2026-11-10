@@ -286,7 +286,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-05",
@@ -302,6 +302,11 @@
     "date": "2026-11-07",
     "confidence": 0.55,
     "note": "A commit signing key setting and a commitSigningEnabled workspace setting are now visible, which corroborates the signed-commits part."
+   },
+   {
+    "date": "2026-11-10",
+    "confidence": 0.5,
+    "note": "Strings show the full Claude organization linking flow for coding inference, including errors and switching back to Linear credits. This supports the inference-provider part."
    }
   ],
   "evidence": [
@@ -363,6 +368,30 @@
     "text": "Linear Code settings can’t be changed",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Linking your Claude organization",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Claude organization linked",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "This Claude organization is already linked to another Linear workspace. Contact Linear support to move it.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Switch and disconnect",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
     "new_chunk": false
    }
   ],
@@ -2339,7 +2368,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-07",
@@ -2350,6 +2379,11 @@
     "date": "2026-11-09",
     "confidence": 0.4,
     "note": "Feature flag controls also appear on projects, so the feature is wider than issues."
+   },
+   {
+    "date": "2026-11-10",
+    "confidence": 0.45,
+    "note": "More feature-flag UI: rollout stage changes in activity and a flag search command."
    }
   ],
   "evidence": [
@@ -2381,6 +2415,18 @@
     "text": "No feature flag",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "feature-flag-rollout-stage-change",
+    "kind": "key",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Search feature flags…",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
     "new_chunk": false
    }
   ],
@@ -2806,12 +2852,17 @@
   "first_evidence": "2026-11-09",
   "window_days": 75,
   "deadline": "2027-01-23",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-09",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-10",
+    "confidence": 0.55,
+    "note": "New resources UI with sections that can be created and renamed, and workspace and team resources variants."
    }
   ],
   "evidence": [
@@ -2825,6 +2876,24 @@
     "text": "Show project and initiative resources in the new Resources section, with the same rows as a document's pages",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Add document or link",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   },
+   {
+    "text": "No resources yet",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   },
+   {
+    "text": "Workspace resources",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
     "new_chunk": false
    }
   ],
@@ -2896,6 +2965,743 @@
    "open_questions": [
     "Is publishing admin-only?",
     "Is it per view type?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-10-gif-generation-in-chat",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "GIF generation in chat",
+  "one_liner": "Ask ChatGPT to create animated GIFs, with a 'taking longer than usual' notice when generation is slow.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 45,
+  "deadline": "2026-12-25",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Generovanie GIF-u trvá dlhšie ako zvyčajne",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Die GIF-Erstellung dauert länger als üblich",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Generiranje GIF-a je sporije nego inače",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "GIF ģenerēšana ir lēnāka nekā parasti",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users can only generate still images and cannot ask for short animated loops or reactions.",
+   "users": "Logged-in ChatGPT users who already use image generation.",
+   "what": "GIF generation alongside image generation. The same delayed-generation states (slowdown title, retry, succeeded) are being given a GIF-specific variant.",
+   "how_it_appears": "In the conversation view, as a delayed-generation banner. The key is lightweight-web.conversation.image-gen-delayed-slowdown-gif-title, next to the existing image-gen-delayed-slowdown-title.",
+   "rollout_guess": "Inferred: the error and delay copy is usually finished near launch, so a staged rollout to paid users first is likely.",
+   "open_questions": [
+    "Is GIF generation already live for some users?",
+    "Is it available on free plans or only paid ones?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-10",
+   "ship_date": "2026-11-04",
+   "why": "was already public when forecast",
+   "source": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "quote": "GIF creation is rolling out in ChatGPT. Ask for a looping animation, or upload a sketch and ask ChatGPT to make the character wave.",
+   "prd_match": 4,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "chatgpt-2026-11-10-multi-city-flight-search",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Multi-city flight search",
+  "one_liner": "Search and compare multi-city itineraries of 2–4 flights inside ChatGPT.",
+  "category": "expansion",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "One trip, 2–4 flights. Passenger counts and cabin apply to every flight.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Add 2–4 flights, each with a route and a date in trip order.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Add stop",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Flight search is limited to one-way and round trips, so complex trips cannot be planned.",
+   "users": "Travelers planning itineraries with several legs.",
+   "what": "A multi-city mode in the flight search widget. Users add and remove flights, each with a route and date, while passenger and cabin settings are shared across the trip.",
+   "how_it_appears": "A flight search form or widget in the conversation, with a 'Multi-city' option, an 'Add stop' button, and a flight-reveal results view.",
+   "rollout_guess": "Inferred: a gradual rollout of an update to an existing flight search surface.",
+   "open_questions": [
+    "Is the flight widget already public for all users?",
+    "Will booking happen in ChatGPT or via partner handoff?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-10-writing-follow-up-suggestions",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Writing follow-up suggestions",
+  "one_liner": "After ChatGPT drafts text, it shows suggested follow-up actions such as style variants that refine the current draft.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Use the current draft below:",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Invalid writing followup suggestions assignment",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Refining a draft requires users to write their own follow-up prompts.",
+   "users": "Users writing emails, documents and other text in ChatGPT.",
+   "what": "Suggested follow-up chips under writing responses. Each has a title and a prompt that embeds the current draft, up to 3 at a time. It is gated by a writingFollowupSuggestionsEnabled assignment and driven by suggested_followups metadata.",
+   "how_it_appears": "Below an assistant message, in a 'writing follow-up suggestions' surface with grouped labels.",
+   "rollout_guess": "Inferred: an A/B experiment first, given the experiment-assignment validation.",
+   "open_questions": [
+    "Will it appear only for writing intents?",
+    "Is this a general rollout or a limited test?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-10-notetaker-transcription-disclosure-and-s",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Notetaker transcription disclosure and stop notices in meeting chat",
+  "one_liner": "When Notion Notetaker starts or stops transcribing, it posts a message in the meeting chat so participants know.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "I’m using https://notion.com/notetaker to transcribe this meeting.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "I’ve stopped transcribing with Notion Notetaker.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Participants in a meeting may not know it is being transcribed, which creates consent and compliance concerns.",
+   "users": "People who use Notion AI Meeting Notes or Notetaker on video calls, and the other participants on those calls.",
+   "what": "Under the id prefix transcription.consentActions, there are two chat messages. One discloses that transcription is happening and links to notion.com/notetaker. The other announces that transcription has stopped. A third key, defaultConsentMessage, sits next to them. Inferred: Notion sends these automatically or on a button press into the Zoom, Meet or Teams chat.",
+   "how_it_appears": "As chat messages posted into the third-party meeting chat when transcription starts or stops. Inferred: a consent-actions control in the meeting notes block or transcription UI sends them.",
+   "rollout_guess": "Inferred: it may already be live in part, because the chunk is not new. A visible consent-actions control, if one is added, would probably roll out gradually and be mentioned in meeting notes release notes.",
+   "open_questions": [
+    "Is this already live for desktop or mobile transcription without a public announcement?",
+    "Is the message sent automatically or only when the user chooses to send it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-fork-agent-chats",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Fork Agent chats",
+  "one_liner": "Branch a private Agent chat from any of its responses into a new private chat.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Fork a private Agent chat from one of its responses into a new private chat.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Branch chat from here",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not fork chat",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Exploring an alternative direction in a long Agent conversation means losing or polluting the original thread.",
+   "users": "Linear Agent users who chat privately with the agent.",
+   "what": "A \"Branch chat from here\" action on an Agent response creates a new private chat that continues from that point. Gated by the `agent-chat-fork` flag, default off.",
+   "how_it_appears": "Message action menu in Agent chats.",
+   "rollout_guess": "Flag-gated internal testing, then a general release alongside Agent updates.",
+   "open_questions": [
+    "Does the fork copy attachments and context?",
+    "Is it available in coding sessions or only in chats?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-issue-build-button",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Issue Build button",
+  "one_liner": "Start a coding agent on an issue with a Build button, in place of delegating it.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Show the Build button on issues, which starts an agent on the issue in place of delegation.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose build agent",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Build repository",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Build environment",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Unable to build",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Delegating an issue to an agent and starting coding work are separate steps.",
+   "users": "Teams using Linear's coding agents or other agents on issues.",
+   "what": "A Build action on issues starts an agent session. The user picks the build agent, model, repository and cloud environment. Gated by the `issue-build` flag, default off.",
+   "how_it_appears": "Issue header or create menu, with a \"Create options\" menu that includes create-and-build, and a \"Build in this chat\" variant.",
+   "rollout_guess": "Flag-gated rollout as part of the Linear Code and agent push.",
+   "open_questions": [
+    "Does Build fully replace delegation or sit next to it?",
+    "Which agents besides Linear's own are supported?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-project-autopilot",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Project autopilot",
+  "one_liner": "Turn on a background agent for a project that keeps its own conversation and sub-agents and can be reset.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 90,
+  "deadline": "2027-02-08",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Enable project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "This stops any response in progress and deletes project autopilot’s conversation, its sub-agents and its channel subscription. Project autopilot then turns on again with a new conversation.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Configure project autopilot…",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Reset project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Keeping a project moving requires manual coordination across issues and updates.",
+   "users": "Project leads and teams using Linear Agent.",
+   "what": "A per-project agent (`project-agent` flag) that coordinates work in the background, has its own conversation, sub-agents and channel subscription (for example Slack), and can be enabled, disabled, configured or reset. It is off while the project is archived.",
+   "how_it_appears": "Command menu actions on projects, with a configuration page.",
+   "rollout_guess": "Flag-gated rollout, possibly as an Agent add-on.",
+   "open_questions": [
+    "Which actions can the agent take without approval?",
+    "Is it priced as agent credits?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-pull-request-autopilot",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request Autopilot",
+  "one_liner": "Engage Autopilot on a pull request so it fixes failing checks, conflicts and review comments until the PR is ready.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Pull request Autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Lets people engage Autopilot on a pull request, which fixes failing checks and conflicts until the pull request is ready. While it is off, Autopilot takes no action.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Pull requests stall on CI failures, merge conflicts and review feedback.",
+   "users": "Developers using Linear Reviews.",
+   "what": "An Autopilot agent that people engage on a pull request. It resolves checks, conflicts and review comments.",
+   "how_it_appears": "Linear Reviews pull request view.",
+   "rollout_guess": "Flag-gated with the Reviews and agent work.",
+   "open_questions": [
+    "Does it push commits automatically?",
+    "What approval does it need?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-insight-embeds-in-documents-and-descript",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Insight embeds in documents and descriptions",
+  "one_liner": "Embed live insights in documents and in project and initiative descriptions.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 75,
+  "deadline": "2027-01-24",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Embed insights in documents and in project and initiative descriptions",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Insight embeds",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "This kind of insight can't be shown in documents yet",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Insights are not included in your workspace's plan",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Insight charts live only on the insights and dashboard pages, separate from the written context around them.",
+   "users": "Teams writing status docs, project and initiative descriptions.",
+   "what": "An insight node in the editor that renders a configured insight, with an edit action, an unsupported-type message and a plan-gating message. Gated by the `insights-embed` flag.",
+   "how_it_appears": "Editor slash menu and block in documents, projects and initiatives.",
+   "rollout_guess": "Flag-gated, then released to plans that include Insights.",
+   "open_questions": [
+    "Which insight types are supported at launch?",
+    "Do embeds refresh live?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-pull-request-review-insights-with-agent-",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request review insights with agent metrics",
+  "one_liner": "Measure pull request flow in Insights: time to first review, time to approval, merge wait and time in draft, with agent reviews separated from human ones.",
+  "category": "expansion",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 75,
+  "deadline": "2027-01-24",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Time to first agent review",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Time to agent approval",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Time from ready for review to the first approval by an agent or a bot",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Merge wait",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Time in draft",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Teams can't see how agent and human review affect pull request cycle time.",
+   "users": "Engineering managers and leads.",
+   "what": "Pull request insights with measures (count, lines changed, time to merge, age, review and approval times) and dimensions such as author, merger, reviewer, size, origin and repository.",
+   "how_it_appears": "Insights and dashboards.",
+   "rollout_guess": "Possibly already partially rolled out; the new strings add agent-specific measures.",
+   "open_questions": [
+    "Is the base pull request insights feature already public?",
+    "Which plans get it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-workbench-folders",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Workbench folders",
+  "one_liner": "Organize Workbench chats and sessions in personal folders.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 60,
+  "deadline": "2027-01-09",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Workbench folders",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Organize Workbench chats and sessions in personal folders. While off, existing folders keep their contents, which show at the top level of the Workbench.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "The Workbench accumulates many chats and sessions with no way to group them.",
+   "users": "Heavy Agent and coding session users.",
+   "what": "Personal folders for Workbench chats and sessions, behind the `workbench-folders` flag. Existing folders stay when the flag is off.",
+   "how_it_appears": "Workbench navigation.",
+   "rollout_guess": "Ships with the Workbench navigation changes.",
+   "open_questions": [
+    "Can folders be shared with the team?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-home-page-redesign-and-workspace-home",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Home page redesign and workspace home",
+  "one_liner": "A redesigned home page with a metadata line, pinned document cards and more columns, plus a documents overview page.",
+  "category": "expansion",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 75,
+  "deadline": "2027-01-24",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Try the home page redesign: a metadata line under the title, pinned document cards and more columns, without the right column",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Documents page as an overview with pinned cards, lists and recent documents.",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Workspace home",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Add document to workspace home…",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Pinned documents",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Team and workspace landing pages don't surface the key documents and recent work.",
+   "users": "All members, especially document and project authors.",
+   "what": "Workspace home and team overview pages that show pinned documents and sections, recently worked-on items, and an overview-style Documents page. Documents can be added to workspace home or a team overview.",
+   "how_it_appears": "Workspace and team home pages and the Documents page.",
+   "rollout_guess": "Flag-gated, released with the new team sidebar and page headers.",
+   "open_questions": [
+    "Is the right column removed for everyone?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-10-customer-signals",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Customer signals",
+  "one_liner": "A Signals area lists customer signals with details, behind a permission and plan check.",
+  "category": "new_feature",
+  "created": "2026-11-10",
+  "first_evidence": "2026-11-10",
+  "window_days": 120,
+  "deadline": "2027-03-10",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-10",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Signals are unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   },
+   {
+    "text": "You don’t have access to customer signals",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   },
+   {
+    "text": "All signals link copied",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   },
+   {
+    "text": "Signal details",
+    "kind": "copy",
+    "first_seen": "2026-11-10",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Customer feedback signals can't be browsed in one place in Linear.",
+   "users": "Product teams using Customers.",
+   "what": "A Signals page with an all-signals tab and a signal detail sidebar, gated by a `customerSignals` feature.",
+   "how_it_appears": "Customers section with a /signal/:signalId route.",
+   "rollout_guess": "Gated rollout to Customers plans.",
+   "open_questions": [
+    "How are signals created and sourced?",
+    "Is this part of Customer Requests?"
    ]
   },
   "status": "open",

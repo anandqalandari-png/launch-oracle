@@ -1,0 +1,23 @@
+[
+ {
+  "text": "I’m using https://notion.com/notetaker to transcribe this meeting.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/23555.js",
+  "ctx": "etakerChatDisclosureMessage:{id:\"transcription.consentActions.notetakerChatDisclosureMessage\",defaultMessage:\"I’m using https://notion.com/notetaker to transcribe this meeting.\"},chatStopNoticeMessage:{id:\"transcription.",
+  "new_chunk": false
+ },
+ {
+  "text": "I’ve stopped transcribing with Notion Notetaker.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/23555.js",
+  "ctx": "etakerChatStopNoticeMessage:{id:\"transcription.consentActions.notetakerChatStopNoticeMessage\",defaultMessage:\"I’ve stopped transcribing with Notion Notetaker.\"},defaultConsentMessage:{id:\"transcription.consentActions.def",
+  "new_chunk": false
+ },
+ {
+  "text": ".concat($.tagName).concat($.type===void 0?",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "ent||$ instanceof HTMLTextAreaElement||$ instanceof HTMLSelectElement||$ instanceof HTMLButtonElement){var A=\"\".concat($.tagName).concat($.type===void 0?\"\":$.type),O=D<k?f:g,B=O.incrementAndGet(A);if(B>E||P)continue;var ",
+  "new_chunk": false
+ }
+]
