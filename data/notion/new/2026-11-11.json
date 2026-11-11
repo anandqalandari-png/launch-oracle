@@ -1,0 +1,212 @@
+[
+ {
+  "text": "===t.source)&&(d+=1),this.recomputeSchedule=(null==t?void 0:t.recomputeSchedule)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/ClientFramework.js",
+  "ctx": "chedule.trailing}),this.lastState=t.recomputeSchedule.initialValue),(\"useComputedStore\"===t.source||\"Component\"===t.source)&&(d+=1),this.recomputeSchedule=(null==t?void 0:t.recomputeSchedule)??\"lazy\"}getState(){return(n(",
+  "new_chunk": false
+ },
+ {
+  "text": "Too many rows to change at once. Select fewer than {limit, number} rows and try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": " were no rows to change.\"},errorTooManyRows:{id:\"bulkActionProgressSnackbar.errorTooManyRows\",defaultMessage:\"Too many rows to change at once. Select fewer than {limit, number} rows and try again.\"},errorOffline:{id:\"bul",
+  "new_chunk": false
+ },
+ {
+  "text": "Still there? – {title}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "titleWithTranscriptionIdlePrefix:{id:\"documentTitleListener.titleWithTranscriptionIdlePrefix\",defaultMessage:\"Still there? – {title}\"},developersTitle:{id:\"documentTitleListener.developers.title\",defaultMessage:\"Notion D",
+  "new_chunk": false
+ },
+ {
+  "text": "Thinking about how to refer to people",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "({referringToPeople:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.referringToPeople\",defaultMessage:\"Thinking about how to refer to people\"},findingActionItems:{id:\"transcriptionBlock.reasoningSteps.summaryProgr",
+  "new_chunk": false
+ },
+ {
+  "text": "Finding action items",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "findingActionItems:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.findingActionItems\",defaultMessage:\"Finding action items\"},finalizingSummary:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.finalizingSumm",
+  "new_chunk": false
+ },
+ {
+  "text": "Finalizing summary",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "},finalizingSummary:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.finalizingSummary\",defaultMessage:\"Finalizing summary\"}}),s=[\"referringToPeople\",\"findingActionItems\",\"finalizingSummary\"];function d(){var e;let",
+  "new_chunk": false
+ },
+ {
+  "text": "Free up space to keep uploading.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "storageFullNextStepWithoutUpgrade:{id:\"uploadActions.storageLimit.fullNextStepWithoutUpgrade\",defaultMessage:\"Free up space to keep uploading.\"},storageFullNextStepForFileWithoutUpgrade:{id:\"uploadActions.storageLimit.fu",
+  "new_chunk": false
+ },
+ {
+  "text": "Free up space to upload “{fileName}”.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "tStepForFileWithoutUpgrade:{id:\"uploadActions.storageLimit.fullNextStepForFileWithoutUpgrade\",defaultMessage:\"Free up space to upload “{fileName}”.\"},storageLimitAction:{id:\"uploadActions.storageLimit.action\",defaultMess",
+  "new_chunk": false
+ },
+ {
+  "text": "{percentUsed}% of storage used",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "used · You can keep editing.\"},warningBannerShort:{id:\"fileStorageLimit.banner.warning.short\",defaultMessage:\"{percentUsed}% of storage used\"},uploadsPausingBannerShort:{id:\"fileStorageLimit.banner.uploadsPausing.short\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Uploads pause in {dayCount, plural, one {1 day} other {# days}}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "f storage used\"},uploadsPausingBannerShort:{id:\"fileStorageLimit.banner.uploadsPausing.short\",defaultMessage:\"Uploads pause in {dayCount, plural, one {1 day} other {# days}}\"},blockedBannerShort:{id:\"fileStorageLimit.ban",
+  "new_chunk": false
+ },
+ {
+  "text": "New uploads are paused",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": " one {1 day} other {# days}}\"},blockedBannerShort:{id:\"fileStorageLimit.banner.blocked.short\",defaultMessage:\"New uploads are paused\"},upgradeForMoreStorage:{id:\"fileStorageLimit.upgradeForMoreStorage\",defaultMessage:\"Up",
+  "new_chunk": false
+ },
+ {
+  "text": "Synced from the calendar event",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/59293.js",
+  "ctx": "otion_next||=[]).push([[59293],{278840(e,t,r){let o=(0,r(667039).Y)({syncedFromCalendarEvent:{defaultMessage:\"Synced from the calendar event\",id:\"meetingNotes.eventSyncedDate.tooltip\"}});r.d(t,{},{T:o})},126940(e,t,r){r(",
+  "new_chunk": false
+ },
+ {
+  "text": "Trial not available for your account.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "le for a free trial.\"},trial_not_available:{id:\"subscriptionErrors.trialNotAvailable.message\",defaultMessage:\"Trial not available for your account.\"},no_subscription:{id:\"subscriptionErrors.noSubscription\",defaultMessage",
+  "new_chunk": false
+ },
+ {
+  "text": "agent_revision_sidebar_enabled",
+  "kind": "flag",
+  "file": "app.notion.com/_assets/42671.js",
+  "ctx": "=>(\"classic\"===e.surface||\"aiTool\"===e.surface)&&e.checkGate(\"agent_revision_frontend_enabled\")&&e.checkGate(\"agent_revision_sidebar_enabled\")&&c(e),hiddenOnMobile:!0,mapIds:(e,t)=>({...e,id:t(e.id)}),normalize:i(960408)",
+  "new_chunk": false
+ },
+ {
+  "text": "Confirm user-initiated password removal from an email link.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": ":({routerState:e})=>(0,l.jsx)(n(865264).z,{route:e.route})},removePassword:{name:\"removePassword\",description:\"Confirm user-initiated password removal from an email link.\",owner:\"trust-engineering\",render:({routerState:{",
+  "new_chunk": false
+ },
+ {
+  "text": "Password sign-in is turned off for this account. Enter the code we sent to your email.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/45010.js",
+  "ctx": "PopupModal.title\"},passwordDisabledNotice:{id:\"loginActions.passwordDisabled.emailCodeNotice\",defaultMessage:\"Password sign-in is turned off for this account. Enter the code we sent to your email.\"}});async function r(e)",
+  "new_chunk": false
+ },
+ {
+  "text": "===ey||eO||eE),eW=ex.apple&&!eE,eV=ex.passkey&&!eE,eD=ex.sso&&ef&&!eE,eK=ex.email&&eL,eU=eE?void 0:ex.widthVariant,eG=L||eP||eS||eB||eW||eV||eD||eK,ez=eb?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/45010.js",
+  "ctx": "!e_&&!Y&&!eg),eN=f||i(392096).qg(y).pathname===i(25408).GJ.startupsApplication,eO=!eu,eR=!L&&(eb&&\"email_above\"===ey||eO||eE),eW=ex.apple&&!eE,eV=ex.passkey&&!eE,eD=ex.sso&&ef&&!eE,eK=ex.email&&eL,eU=eE?void 0:ex.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": "Review suggestions for where your meeting notes get saved.{lineBreak}Make changes anytime in settings.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "nized\"},filingDescription:{id:\"meetingNotesOnboardingV2.filingReviewSuggestionsDescriptionV2\",defaultMessage:\"Review suggestions for where your meeting notes get saved.{lineBreak}Make changes anytime in settings.\"},filin",
+  "new_chunk": false
+ },
+ {
+  "text": "Know who said what with speaker labels",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "Meet, Zoom, and Teams.\"},speakerLabelsTitle:{id:\"meetingNotesOnboardingV2.speakerLabelsTitle\",defaultMessage:\"Know who said what with speaker labels\"},speakerLabelsDescription:{id:\"meetingNotesOnboardingV2.speakerLabelsD",
+  "new_chunk": false
+ },
+ {
+  "text": "Connect Notion to Google Meet or Zoom to get more accurate notes.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "ker labels\"},speakerLabelsDescription:{id:\"meetingNotesOnboardingV2.speakerLabelsDescription\",defaultMessage:\"Connect Notion to Google Meet or Zoom to get more accurate notes.\"},permissionsArtYou:{id:\"meetingNotesOnboard",
+  "new_chunk": false
+ },
+ {
+  "text": "Let Notion label speakers",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "le\",defaultMessage:\"Enable\"},identifySpeakers:{id:\"meetingNotesOnboardingV2.identifySpeakers\",defaultMessage:\"Let Notion label speakers\"},speakerLabelsGoogleMeet:{id:\"meetingNotesOnboardingV2.speakerLabelsGoogleMeet\",def",
+  "new_chunk": false
+ },
+ {
+  "text": "Example task",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "\",color:\"yellow\"},{id:\"operations\",value:\"Operations\",color:\"gray\"}]},c={...l,tasks:[{key:\"exampleTask\",title:\"Example task\",status:\"Not started\",blocks:[{type:\"text\",text:\"Type `/` to add checklists, images, links, and ",
+  "new_chunk": false
+ },
+ {
+  "text": "Type `/` to add checklists, images, links, and anything you need for this task.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "ray\"}]},c={...l,tasks:[{key:\"exampleTask\",title:\"Example task\",status:\"Not started\",blocks:[{type:\"text\",text:\"Type `/` to add checklists, images, links, and anything you need for this task.\"},{type:\"heading\",text:\"Notes",
+  "new_chunk": false
+ },
+ {
+  "text": "Add a due date and an assignee in the properties above",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "klists, images, links, and anything you need for this task.\"},{type:\"heading\",text:\"Notes\"},{type:\"todo\",text:\"Add a due date and an assignee in the properties above\"},{type:\"todo\",text:\"Break the work down into a checkl",
+  "new_chunk": false
+ },
+ {
+  "text": "Break the work down into a checklist here",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "\",text:\"Notes\"},{type:\"todo\",text:\"Add a due date and an assignee in the properties above\"},{type:\"todo\",text:\"Break the work down into a checklist here\"}]}],docs:[],notes:[{key:\"tipsForNotionPages\",title:\"Tips for Notio",
+  "new_chunk": false
+ },
+ {
+  "text": "Tips for Notion pages",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "pe:\"todo\",text:\"Break the work down into a checklist here\"}]}],docs:[],notes:[{key:\"tipsForNotionPages\",title:\"Tips for Notion pages\",blocks:[{type:\"subheading\",text:\"Useful tips\"},{type:\"todo\",text:\"Type `/` anywhere on",
+  "new_chunk": false
+ },
+ {
+  "text": "Useful tips",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "e\"}]}],docs:[],notes:[{key:\"tipsForNotionPages\",title:\"Tips for Notion pages\",blocks:[{type:\"subheading\",text:\"Useful tips\"},{type:\"todo\",text:\"Type `/` anywhere on a page to see what you can create — headers, tables, ch",
+  "new_chunk": false
+ },
+ {
+  "text": "Type `/` anywhere on a page to see what you can create — headers, tables, checklists, etc.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "orNotionPages\",title:\"Tips for Notion pages\",blocks:[{type:\"subheading\",text:\"Useful tips\"},{type:\"todo\",text:\"Type `/` anywhere on a page to see what you can create — headers, tables, checklists, etc.\"},{type:\"todo\",tex",
+  "new_chunk": false
+ },
+ {
+  "text": "Toggle your sidebar with `⌘\\` for focused reading",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18642.js",
+  "ctx": "ype `/` anywhere on a page to see what you can create — headers, tables, checklists, etc.\"},{type:\"todo\",text:\"Toggle your sidebar with `⌘\\\\` for focused reading\"},{type:\"subheading\",text:\"**Blocks that people love**\"},{",
+  "new_chunk": false
+ },
+ {
+  "text": "learning_mode_new_menu_database_tooltip",
+  "kind": "key",
+  "file": "app.notion.com/_assets/11795.js",
+  "ctx": "\"dummy_modal\")},resetDbAgentLaunchModal:()=>{t(\"db_agent_launch_modal\")},resetLearningModeDatabaseTour:()=>{t(\"learning_mode_new_menu_database_tooltip\"),t(\"learning_mode_database_tour\")},resetSidebarUpgradeNudge:()=>{K({",
+  "new_chunk": true
+ }
+]

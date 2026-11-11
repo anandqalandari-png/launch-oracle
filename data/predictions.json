@@ -467,7 +467,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 120,
   "deadline": "2027-03-05",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-05",
@@ -483,6 +483,11 @@
     "date": "2026-11-07",
     "confidence": 0.5,
     "note": "Agent tools can now remove items from the Workbench as well as add them. Workbench view options (grouping, ordering, show archived) are also in the code, so the feature looks near release."
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.45,
+    "note": "Tool labels for attaching and detaching Workbench children, plus add and remove actions, show the agent can manage Workbench items. New Workbench settings such as 'Collapse running work' and 'Show suggestions' also appear."
    }
   ],
   "evidence": [
@@ -538,6 +543,24 @@
     "text": "Workbench grouping",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Attaching in Workbench…",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Attached in Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Remove from Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -912,6 +935,11 @@
     "date": "2026-11-06",
     "confidence": 0.55,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.55,
+    "note": "New banner and upload-action copy shows the full flow: a percent-used warning, then a countdown to uploads pausing, then a blocked state with a free-up-space prompt. This looks close to ready to ship."
    }
   ],
   "evidence": [
@@ -950,6 +978,30 @@
     "kind": "copy",
     "first_seen": "2026-11-06",
     "new_chunk": false
+   },
+   {
+    "text": "New uploads are paused",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Uploads pause in {dayCount, plural, one {1 day} other {# days}}",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "{percentUsed}% of storage used",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Free up space to keep uploading.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -977,12 +1029,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 90,
   "deadline": "2027-02-04",
-  "confidence": 0.35,
+  "confidence": 0.42,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.42,
+    "note": "A second gate, agent_revision_sidebar_enabled, sits alongside agent_revision_frontend_enabled and limits a sidebar surface to the classic and aiTool surfaces. This points to a dedicated Revisions sidebar that is being built out."
    }
   ],
   "evidence": [
@@ -1002,6 +1059,12 @@
     "text": "Revisions",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "agent_revision_sidebar_enabled",
+    "kind": "flag",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -1030,7 +1093,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.5,
+  "confidence": 0.58,
   "history": [
    {
     "date": "2026-11-06",
@@ -1046,6 +1109,11 @@
     "date": "2026-11-09",
     "confidence": 0.5,
     "note": "The new aria label sits under the meetingNotesOnboardingV2 message namespace. This confirms the onboarding v2 flow is being built with Notetaker branding, though it adds nothing on the auto-filing suggestions."
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.58,
+    "note": "More onboarding v2 copy, covering the filing suggestions review step and a speaker labels step that asks users to connect Google Meet or Zoom."
    }
   ],
   "evidence": [
@@ -1108,6 +1176,30 @@
     "kind": "copy",
     "first_seen": "2026-11-09",
     "new_chunk": false
+   },
+   {
+    "text": "Review suggestions for where your meeting notes get saved.{lineBreak}Make changes anytime in settings.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Know who said what with speaker labels",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Let Notion label speakers",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Notion to Google Meet or Zoom to get more accurate notes.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -1135,12 +1227,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 75,
   "deadline": "2027-01-20",
-  "confidence": 0.35,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.5,
+    "note": "A new error string for a row-count limit on bulk actions, alongside the existing progress snackbar. This suggests the feature is being hardened with limits before release."
    }
   ],
   "evidence": [
@@ -1172,6 +1269,12 @@
     "text": "Couldn’t load the rows to change. Please try again.",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Too many rows to change at once. Select fewer than {limit, number} rows and try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -1324,12 +1427,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.6,
+  "confidence": 0.3,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.6,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.3,
+    "note": "A 'dashboard-custom-query' flag describes agent-built custom query widgets and is labeled a prototype. Supporting copy shows a query description UI ('For each row, compute', 'One row per group'). This extends the dashboard-builder concept b"
    }
   ],
   "evidence": [
@@ -1355,6 +1463,18 @@
     "text": "Prompt for the Agent to build this dashboard",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Prototype: build custom query widgets on dashboards by talking to an agent.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Dashboard custom query widgets",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -1903,12 +2023,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.2,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.45,
+    "note": "The task edit form now reads a gmailTrigger email query and a second 'electricTrigger' query. It also has start and end time modes (immediately or specific, never or specific). This points to multiple trigger types and a task editor in prog"
    }
   ],
   "evidence": [
@@ -1923,6 +2048,12 @@
     "kind": "copy",
     "first_seen": "2026-11-07",
     "new_chunk": true
+   },
+   {
+    "text": ",p=A(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?M.SPECIFIC:M.IMMEDIATELY,g=A(e.endTime),_=g===void 0?de(t,1):new Date(g),v=g===void 0?N.NEVER:N.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -2321,12 +2452,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.3,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.45,
+    "note": "Local worker setup and local session start strings indicate the local execution path is being built."
    }
   ],
   "evidence": [
@@ -2340,6 +2476,12 @@
     "text": "Switch to Cloud",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Set up local worker…",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -2569,12 +2711,17 @@
   "first_evidence": "2026-11-09",
   "window_days": 45,
   "deadline": "2026-12-24",
-  "confidence": 0.6,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-09",
     "confidence": 0.6,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.45,
+    "note": "New copy 'Submitting this will enable the <name> skill' shows skills can be enabled from a prompt. A new error code also covers an internal error while processing a skill. Together they suggest skills handling is further along."
    }
   ],
   "evidence": [
@@ -2612,6 +2759,18 @@
     "text": "assistant_lamda_ClientSetManagedSkillEnabledResponse",
     "kind": "key",
     "first_seen": "2026-11-09",
+    "new_chunk": true
+   },
+   {
+    "text": "Submitting this will enable the",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": true
+   },
+   {
+    "text": "Couldn’t upload the attached file. Try a different file type.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": true
    }
   ],
@@ -3101,12 +3260,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.3,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.6,
+    "note": "The group label lightweight-web.writing-followups.group-label now appears in dozens of locales (French, German, Spanish, Italian, Portuguese and more). A surface is also named in markup via data-writing-followup-suggestions-surface. Full tr"
    }
   ],
   "evidence": [
@@ -3120,6 +3284,42 @@
     "text": "Invalid writing followup suggestions assignment",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggestions pour la suite",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Vorgeschlagene nächste Schritte",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Sugerencias para continuar",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggerimenti per continuare",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Sugestões para continuar",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "),tx=M('<svg width=20 height=20 viewBox=",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -3248,12 +3448,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.55,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.5,
+    "note": "A 'Build prompt' modal with agent and repository pickers and a discard confirmation shows the Build flow is fully implemented."
    }
   ],
   "evidence": [
@@ -3285,6 +3490,24 @@
     "text": "Unable to build",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Build prompt",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Discard build prompt?",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "The picked agent is no longer available. Choose another build agent.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
     "new_chunk": false
    }
   ],
@@ -3659,12 +3882,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 120,
   "deadline": "2027-03-10",
-  "confidence": 0.25,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.25,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-11",
+    "confidence": 0.45,
+    "note": "New copy shows a Signals page with Signals and Feedback tabs, filtering and empty states, so the surface is built out well beyond a permission check."
    }
   ],
   "evidence": [
@@ -3691,6 +3919,24 @@
     "kind": "copy",
     "first_seen": "2026-11-10",
     "new_chunk": true
+   },
+   {
+    "text": "Signals link copied",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Filter signals and feedback",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Signals without children will appear here",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -3702,6 +3948,418 @@
    "open_questions": [
     "How are signals created and sourced?",
     "Is this part of Customer Requests?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-11-rambler-voice-dictation-with-spoken-comm",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Rambler voice dictation with spoken commands",
+  "one_liner": "Users dictate text by voice and get cleaned-up, formatted output. Saying the trigger word 'Rambler' turns a dictation into an editing or generation command.",
+  "category": "new_feature",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 90,
+  "deadline": "2027-02-09",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Rambler, draft an email to the team",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Add some emojis, Rambler",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Gboard, write a haiku about moon",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Authentic Voice",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Short Utterance",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Add this after the first sentence",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Raw speech-to-text is messy. Users want dictation that cleans up filler words, formats emails and lists, and can also edit existing text by voice.",
+   "users": "Mobile and keyboard users who dictate messages and emails, including Hinglish and Banglish speakers.",
+   "what": "A Gemini-powered dictation mode with two behaviours. Mode B transcribes and cleans up speech. Mode A treats speech that addresses a trigger word ('Rambler' or 'Gboard') as a command to edit or generate text. Edits apply to a voice-specified scope or the cursor selection.",
+   "how_it_appears": "Probably in a keyboard (Gboard) or text-field voice input, with a waveform and microphone UI. The strings sit in a prompt that also appears next to Chrome-extension prototype code that asks for a Gemini API key.",
+   "rollout_guess": "Inferred: it could ship in Gboard or on Pixel first, not in the Gemini web app. The prototype-style code makes a near-term public launch uncertain.",
+   "open_questions": [
+    "Is 'Rambler' a user-facing name or an internal codename?",
+    "Does this launch inside the Gemini app or only in Gboard or Android?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-11-live-view-of-the-agent-s-remote-browser-",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Live view of the agent's remote browser (noVNC over WebRTC)",
+  "one_liner": "Users watch and possibly take over the virtual computer or browser Gemini uses while running an agent task.",
+  "category": "new_feature",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 90,
+  "deadline": "2027-02-09",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Step 2: WebRTC peer connection and data channel created.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": true
+   },
+   {
+    "text": "Step 2: noVNC RFB instance setup initiated.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users can't see what an agent is doing in a remote browser while it works on a task.",
+   "users": "People running Gemini Agent tasks.",
+   "what": "A streamed remote desktop view built on a WebRTC peer connection with a data channel and a noVNC RFB client. It is likely tied to the agent task panel, which has subtask and schedules panels.",
+   "how_it_appears": "Inferred: a side panel in agent task conversations showing the live browser, possibly with handoff of control to the user.",
+   "rollout_guess": "Inferred: it may be a rebuild of an existing agent live view, so users may not see it as new.",
+   "open_questions": [
+    "Is this a new capability or an infrastructure rewrite of the existing agent browser view?",
+    "Can the user interact with the stream or only watch it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-google-workspace-mcp-connectors",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Google Workspace MCP connectors",
+  "one_liner": "Connect built-in Google Workspace MCP connectors from Linear's connector directory.",
+  "category": "integration",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 75,
+  "deadline": "2027-01-25",
+  "confidence": 0.42,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.42,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Google Workspace MCP connectors",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "List the built-in Google Workspace MCP connectors in the connector directory and allow connecting them.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agents in Linear cannot reach Google Workspace data through the built-in connector directory.",
+   "users": "Workspace admins and members who use Linear Agent or Loops with MCP connectors.",
+   "what": "Built-in Google Workspace MCP connectors listed in the connector directory, which users can connect.",
+   "how_it_appears": "The MCP connector directory in workspace or team settings, behind the 'google-workspace-mcps' flag.",
+   "rollout_guess": "Inferred: a flagged rollout to some workspaces, then general availability alongside other connectors.",
+   "open_questions": [
+    "Which Google products are covered (Drive, Docs, Gmail, Calendar)?",
+    "Are connectors connected per workspace or per user?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-auto-archive-issues-without-waiting-for-",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Auto-archive issues without waiting for the project",
+  "one_liner": "Closed issues auto-archive on their own schedule even when their project is still active.",
+  "category": "expansion",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 60,
+  "deadline": "2027-01-10",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Auto-archive issues in active projects",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Auto-archive closed issues without waiting for their project to be archivable.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Issues in a project also wait until the project has been completed or canceled for the same period. The project is archived once all of its issues have been archived.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Closed issues in long-running projects never auto-archive, because a project must be completed or canceled before its issues are archivable.",
+   "users": "Workspace admins who manage auto-archive settings.",
+   "what": "An opt-in behavior in which closed issues are archived after the configured period regardless of project state.",
+   "how_it_appears": "Workspace or team auto-archive settings, where the explanatory copy changes under the 'auto-archive-issues-in-active-projects' flag.",
+   "rollout_guess": "Inferred: a small settings change that ships after a short flag period, possibly with no announcement beyond the changelog.",
+   "open_questions": [
+    "Is it a toggle or the new default?",
+    "Does it apply per team or per workspace?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-block-comments-in-the-editor",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Block comments in the editor",
+  "one_liner": "Comment on whole media, files, embeds, code blocks, diagrams and formulas in the editor.",
+  "category": "new_feature",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 90,
+  "deadline": "2027-02-09",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Block comments",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Comment on whole videos, audio, files, embeds, code blocks, diagrams and formulas in the editor.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Inline comments only anchor to text selections, so non-text blocks cannot be commented on.",
+   "users": "Anyone collaborating on documents, projects and issues in the Linear editor.",
+   "what": "Attach comment threads to a whole non-text block.",
+   "how_it_appears": "In the editor, as a comment affordance on block-level nodes, behind the 'editor-block-comments' flag.",
+   "rollout_guess": "Inferred: ships as a polish improvement to document comments.",
+   "open_questions": [
+    "Does it apply in issue descriptions as well as documents?",
+    "How are block comments shown in the sidebar?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-pages-nested-documents",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pages: nested documents",
+  "one_liner": "Nest documents under other documents as pages.",
+  "category": "new_feature",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 90,
+  "deadline": "2027-02-09",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Nest documents under other documents as pages.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Pages section",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Documents are flat or live only in folders, so related content cannot be organised hierarchically.",
+   "users": "Teams that write specs and docs in Linear.",
+   "what": "Sub-documents that appear as pages under a parent document, shown in a Pages section with row styling options.",
+   "how_it_appears": "A Pages section on a document, behind the 'sub-documents' flag, alongside the related new project resources section.",
+   "rollout_guess": "Inferred: ships together with the private and shared documents and resources section work.",
+   "open_questions": [
+    "Can pages be nested more than one level?",
+    "Do pages inherit the parent's sharing?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-archive-agent-sessions-with-pull-request",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Archive agent sessions with pull request close prompt",
+  "one_liner": "Archiving Workbench sessions that have linked pull requests warns about stopped agents and queued messages, and lets you close the PRs too.",
+  "category": "new_feature",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 60,
+  "deadline": "2027-01-10",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Close all and archive",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Didn’t close or archive",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Any queued messages will be canceled",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Archiving agent work can leave open pull requests or running agents behind unnoticed.",
+   "users": "Developers running coding agents in Workbench and Reviews.",
+   "what": "A confirmation flow on archive that lists the effects (stopping agents, cancelling queued messages) and offers to close the linked PRs.",
+   "how_it_appears": "A confirmation dialog when archiving sessions or pull requests, with an 'Only archive' alternative.",
+   "rollout_guess": "Inferred: part of the Workbench and Reviews polish, likely shipping without much announcement.",
+   "open_questions": [
+    "Is it limited to draft pull requests?",
+    "Is closing the PR optional per item?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-11-open-source-coding-models-for-cloud-agen",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Open source coding models for cloud agents",
+  "one_liner": "Pick open source coding models as a harness option, with a workspace-level restriction.",
+  "category": "experiment",
+  "created": "2026-11-11",
+  "first_evidence": "2026-11-11",
+  "window_days": 90,
+  "deadline": "2027-02-09",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-11",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Open source coding models are unavailable for this workspace. Choose Claude Code or Codex.",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Model unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-11",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Coding agent choices are limited to Claude Code and Codex.",
+   "users": "Workspaces using Linear's cloud coding agents.",
+   "what": "An open-source harness or model choice that is gated per workspace, and blocked by a flag for some workspaces.",
+   "how_it_appears": "The coding agent and model picker; selection is blocked with an error toast where the option is restricted.",
+   "rollout_guess": "Inferred: gradual rollout, with admins able to restrict it.",
+   "open_questions": [
+    "Which models are offered?",
+    "Is it a pricing or credit change?"
    ]
   },
   "status": "open",

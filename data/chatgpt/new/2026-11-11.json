@@ -1,0 +1,912 @@
+[
+ {
+  "text": "><use href=#lightweight-shell-scroll-to-bottom>'),_a=ix(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "type=button><span aria-hidden=true data-button-icon><svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><use href=#lightweight-shell-scroll-to-bottom>'),_a=ix(\"<div data-scroll-to-bottom-anchor><!><div></div><div",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.width,Z,H.stop.paint.p3Name,H.stop.canvas.height,H.stop.canvas.viewBox,H.stop.canvas.width,X],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,H.send.paint.p3Name,H.send.canvas.height,H.send.canvas.viewBox,H.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "What people are saying",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "oduct\"),FC=e(\"lightweight-web.products.visit\",\"Visit\"),VC=e(\"lightweight-web.products.what-people-are-saying\",\"What people are saying\"),HC=e(\"lightweight-web.products.what-to-know\",\"What to know\"),KC=e(\"lightweight-web.s",
+  "new_chunk": false
+ },
+ {
+  "text": "What to know",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "t-web.products.what-people-are-saying\",\"What people are saying\"),HC=e(\"lightweight-web.products.what-to-know\",\"What to know\"),KC=e(\"lightweight-web.sources.learn-more\",\"Learn more\"),QC=e(\"lightweight-web.sources.links\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggestions pour la suite",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Vidéo précédente\"),np=e(\"lightweight-web.writing-followups.group-label\",\"Suggestions pour la suite\"),lp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Je n’ai",
+  "new_chunk": false
+ },
+ {
+  "text": "Ce qu’on en dit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "uit\"),Hk=e(\"lightweight-web.products.visit\",\"Visiter\"),Jk=e(\"lightweight-web.products.what-people-are-saying\",\"Ce qu’on en dit\"),Qk=e(\"lightweight-web.products.what-to-know\",\"À savoir\"),Wk=e(\"lightweight-web.sources.lear",
+  "new_chunk": false
+ },
+ {
+  "text": "Gợi ý tin nhắn tiếp theo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": "\"lightweight-web.video-lightbox.previous\",\"Video trước\"),lp=t(\"lightweight-web.writing-followups.group-label\",\"Gợi ý tin nhắn tiếp theo\"),op=t(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Tôi khôn",
+  "new_chunk": false
+ },
+ {
+  "text": "Vorgeschlagene nächste Schritte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Vorheriges Video\"),gd=e(\"lightweight-web.writing-followups.group-label\",\"Vorgeschlagene nächste Schritte\"),hd=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"I",
+  "new_chunk": false
+ },
+ {
+  "text": "Das sagen andere",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "e(\"lightweight-web.products.visit\",\"Zur Produktseite\"),Rz=e(\"lightweight-web.products.what-people-are-saying\",\"Das sagen andere\"),Uz=e(\"lightweight-web.products.what-to-know\",\"Gut zu wissen\"),Qz=e(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Gut zu wissen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "tweight-web.products.what-people-are-saying\",\"Das sagen andere\"),Uz=e(\"lightweight-web.products.what-to-know\",\"Gut zu wissen\"),Qz=e(\"lightweight-web.sources.learn-more\",\"Mehr erfahren\"),qz=e(\"lightweight-web.sources.link",
+  "new_chunk": false
+ },
+ {
+  "text": "Prijedlozi za nastavak razgovora",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "htweight-web.video-lightbox.previous\",\"Prethodni video\"),lu=e(\"lightweight-web.writing-followups.group-label\",\"Prijedlozi za nastavak razgovora\"),gu=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Šta ljudi kažu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "vod\"),Lf=e(\"lightweight-web.products.visit\",\"Posjeti\"),Jf=e(\"lightweight-web.products.what-people-are-saying\",\"Šta ljudi kažu\"),Ff=e(\"lightweight-web.products.what-to-know\",\"Šta treba znati\"),Wf=e(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Šta treba znati",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "ghtweight-web.products.what-people-are-saying\",\"Šta ljudi kažu\"),Ff=e(\"lightweight-web.products.what-to-know\",\"Šta treba znati\"),Wf=e(\"lightweight-web.sources.learn-more\",\"Saznajte više\"),Hf=e(\"lightweight-web.sources.li",
+  "new_chunk": false
+ },
+ {
+  "text": "Dobit ćeš pametnije odgovore, i možeš otpremati datoteke, slike i još mnogo toga.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "-web.auth.search-phone-countries\",\"Pretraži države ili pozivne brojeve\"),Vy=e(\"lightweight-web.auth.subtitle\",\"Dobit ćeš pametnije odgovore, i možeš otpremati datoteke, slike i još mnogo toga.\"),Ey=e(\"lightweight-web.aut",
+  "new_chunk": false
+ },
+ {
+  "text": "Sugestões para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "ghtweight-web.video-lightbox.previous\",\"Vídeo anterior\"),np=e(\"lightweight-web.writing-followups.group-label\",\"Sugestões para continuar\"),lp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Não sele",
+  "new_chunk": false
+ },
+ {
+  "text": "O que as pessoas estão dizendo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "uto\"),Hx=e(\"lightweight-web.products.visit\",\"Visitar\"),Qx=e(\"lightweight-web.products.what-people-are-saying\",\"O que as pessoas estão dizendo\"),Wx=e(\"lightweight-web.products.what-to-know\",\"O que você precisa saber\"),Jx=",
+  "new_chunk": false
+ },
+ {
+  "text": "O que você precisa saber",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "oducts.what-people-are-saying\",\"O que as pessoas estão dizendo\"),Wx=e(\"lightweight-web.products.what-to-know\",\"O que você precisa saber\"),Jx=e(\"lightweight-web.sources.learn-more\",\"Saiba mais\"),Kx=e(\"lightweight-web.sour",
+  "new_chunk": false
+ },
+ {
+  "text": "Sugerowane kolejne wiadomości",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "web.video-lightbox.previous\",\"Poprzedni materiał wideo\"),rc=e(\"lightweight-web.writing-followups.group-label\",\"Sugerowane kolejne wiadomości\"),lc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nie",
+  "new_chunk": false
+ },
+ {
+  "text": "Opinie innych",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "ukt\"),qv=e(\"lightweight-web.products.visit\",\"Przejdź\"),Rv=e(\"lightweight-web.products.what-people-are-saying\",\"Opinie innych\"),Jv=e(\"lightweight-web.products.what-to-know\",\"Co warto wiedzieć\"),Vv=e(\"lightweight-web.sourc",
+  "new_chunk": false
+ },
+ {
+  "text": "Co warto wiedzieć",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "ightweight-web.products.what-people-are-saying\",\"Opinie innych\"),Jv=e(\"lightweight-web.products.what-to-know\",\"Co warto wiedzieć\"),Vv=e(\"lightweight-web.sources.learn-more\",\"Dowiedz się więcej\"),Fv=e(\"lightweight-web.sou",
+  "new_chunk": false
+ },
+ {
+  "text": "Onyesha machache",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ersation.show-full-guest-answer\",\"Onyesha zaidi\"),Cg=a(\"lightweight-web.conversation.show-short-guest-answer\",\"Onyesha machache\"),Kg=a(\"lightweight-web.conversation.steering-pending\",\"Inatuma kwenye jibu linaloendelea…\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Mapendekezo ya hatua zinazofuata",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ight-web.video-lightbox.previous\",\"Video iliyotangulia\"),hm=a(\"lightweight-web.writing-followups.group-label\",\"Mapendekezo ya hatua zinazofuata\"),gm=a(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Uundaji wa GIF unachukua muda mrefu kuliko kawaida",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ge-gen-delayed-retry\",\"Jaribu tena\"),Bf=a(\"lightweight-web.conversation.image-gen-delayed-slowdown-gif-title\",\"Uundaji wa GIF unachukua muda mrefu kuliko kawaida\"),Ff=a(\"lightweight-web.conversation.image-gen-delayed-slo",
+  "new_chunk": false
+ },
+ {
+  "text": "Wanachosema watu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "aa\"),Wz=a(\"lightweight-web.products.visit\",\"Tembelea\"),Rz=a(\"lightweight-web.products.what-people-are-saying\",\"Wanachosema watu\"),qz=a(\"lightweight-web.products.what-to-know\",\"Unachopaswa kujua\"),Lz=a(\"lightweight-web.so",
+  "new_chunk": false
+ },
+ {
+  "text": "Unachopaswa kujua",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "tweight-web.products.what-people-are-saying\",\"Wanachosema watu\"),qz=a(\"lightweight-web.products.what-to-know\",\"Unachopaswa kujua\"),Lz=a(\"lightweight-web.sources.learn-more\",\"Pata maelezo zaidi\"),Vz=a(\"lightweight-web.sou",
+  "new_chunk": false
+ },
+ {
+  "text": "Mesazhe pasuese të sugjeruara",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ight-web.video-lightbox.previous\",\"Videoja e mëparshme\"),hu=e(\"lightweight-web.writing-followups.group-label\",\"Mesazhe pasuese të sugjeruara\"),gu=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nuk",
+  "new_chunk": false
+ },
+ {
+  "text": "Çfarë thonë njerëzit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ktin\"),Zy=e(\"lightweight-web.products.visit\",\"Vizito\"),Vy=e(\"lightweight-web.products.what-people-are-saying\",\"Çfarë thonë njerëzit\"),Uy=e(\"lightweight-web.products.what-to-know\",\"Çfarë duhet të dish\"),Jy=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Çfarë duhet të dish",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ght-web.products.what-people-are-saying\",\"Çfarë thonë njerëzit\"),Uy=e(\"lightweight-web.products.what-to-know\",\"Çfarë duhet të dish\"),Jy=e(\"lightweight-web.sources.learn-more\",\"Mëso më shumë\"),Qy=e(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Cadangan susulan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Video sebelumnya\"),sm=a(\"lightweight-web.writing-followups.group-label\",\"Cadangan susulan\"),rm=a(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Saya tidak memil",
+  "new_chunk": false
+ },
+ {
+  "text": "Apa kata orang ramai",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "oduk\"),qj=a(\"lightweight-web.products.visit\",\"Lawati\"),Fj=a(\"lightweight-web.products.what-people-are-saying\",\"Apa kata orang ramai\"),Uj=a(\"lightweight-web.products.what-to-know\",\"Perkara yang perlu diketahui\"),Vj=a(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Perkara yang perlu diketahui",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "ght-web.products.what-people-are-saying\",\"Apa kata orang ramai\"),Uj=a(\"lightweight-web.products.what-to-know\",\"Perkara yang perlu diketahui\"),Vj=a(\"lightweight-web.sources.learn-more\",\"Ketahui lebih lanjut\"),Wj=a(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Predlogi za nadaljevanje",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "t-web.video-lightbox.previous\",\"Prejšnji videoposnetek\"),rv=e(\"lightweight-web.writing-followups.group-label\",\"Predlogi za nadaljevanje\"),gv=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nisem iz",
+  "new_chunk": false
+ },
+ {
+  "text": "Kaj pravijo drugi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "elka\"),Lf=e(\"lightweight-web.products.visit\",\"Obišči\"),Hf=e(\"lightweight-web.products.what-people-are-saying\",\"Kaj pravijo drugi\"),Ff=e(\"lightweight-web.products.what-to-know\",\"Kaj je dobro vedeti\"),Jf=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Kaj je dobro vedeti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "weight-web.products.what-people-are-saying\",\"Kaj pravijo drugi\"),Ff=e(\"lightweight-web.products.what-to-know\",\"Kaj je dobro vedeti\"),Jf=e(\"lightweight-web.sources.learn-more\",\"Več o tem\"),Qf=e(\"lightweight-web.sources.li",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggestions de suivi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Vidéo précédente\"),np=e(\"lightweight-web.writing-followups.group-label\",\"Suggestions de suivi\"),lp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Je n’ai pas ",
+  "new_chunk": false
+ },
+ {
+  "text": "Ce que les gens en disent",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "uit\"),WC=e(\"lightweight-web.products.visit\",\"Visiter\"),HC=e(\"lightweight-web.products.what-people-are-saying\",\"Ce que les gens en disent\"),JC=e(\"lightweight-web.products.what-to-know\",\"À savoir\"),QC=e(\"lightweight-web.so",
+  "new_chunk": false
+ },
+ {
+  "text": "Sugerencias para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ghtweight-web.video-lightbox.previous\",\"Vídeo anterior\"),sd=e(\"lightweight-web.writing-followups.group-label\",\"Sugerencias para continuar\"),ld=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"No he ",
+  "new_chunk": false
+ },
+ {
+  "text": "Lo que opina la gente",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "cto\"),FC=e(\"lightweight-web.products.visit\",\"Visitar\"),QC=e(\"lightweight-web.products.what-people-are-saying\",\"Lo que opina la gente\"),WC=e(\"lightweight-web.products.what-to-know\",\"Lo que debes saber\"),YC=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Lo que debes saber",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ht-web.products.what-people-are-saying\",\"Lo que opina la gente\"),WC=e(\"lightweight-web.products.what-to-know\",\"Lo que debes saber\"),YC=e(\"lightweight-web.sources.learn-more\",\"Más información\"),JC=e(\"lightweight-web.sourc",
+  "new_chunk": false
+ },
+ {
+  "text": "Soovitatud jätkusõnumid",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "ightweight-web.video-lightbox.previous\",\"Eelmine video\"),gd=e(\"lightweight-web.writing-followups.group-label\",\"Soovitatud jätkusõnumid\"),nd=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Ma ei val",
+  "new_chunk": false
+ },
+ {
+  "text": "Mida inimesed arvavad",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "det\"),Fj=e(\"lightweight-web.products.visit\",\"Külasta\"),Uj=e(\"lightweight-web.products.what-people-are-saying\",\"Mida inimesed arvavad\"),Bj=e(\"lightweight-web.products.what-to-know\",\"Mida tasub teada\"),Wj=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Mida tasub teada",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "ht-web.products.what-people-are-saying\",\"Mida inimesed arvavad\"),Bj=e(\"lightweight-web.products.what-to-know\",\"Mida tasub teada\"),Wj=e(\"lightweight-web.sources.learn-more\",\"Uuri lähemalt\"),Qj=e(\"lightweight-web.sources.l",
+  "new_chunk": false
+ },
+ {
+  "text": "Saran tindak lanjut",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Video sebelumnya\"),rp=e(\"lightweight-web.writing-followups.group-label\",\"Saran tindak lanjut\"),sp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Saya tidak me",
+  "new_chunk": false
+ },
+ {
+  "text": "Apa kata orang-orang",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "uk\"),FA=e(\"lightweight-web.products.visit\",\"Kunjungi\"),JA=e(\"lightweight-web.products.what-people-are-saying\",\"Apa kata orang-orang\"),WA=e(\"lightweight-web.products.what-to-know\",\"Yang perlu diketahui\"),VA=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Yang perlu diketahui",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "ght-web.products.what-people-are-saying\",\"Apa kata orang-orang\"),WA=e(\"lightweight-web.products.what-to-know\",\"Yang perlu diketahui\"),VA=e(\"lightweight-web.sources.learn-more\",\"Pelajari selengkapnya\"),YA=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Siūlomos tolesnės žinutės",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "web.video-lightbox.previous\",\"Ankstesnis vaizdo įrašas\"),lp=i(\"lightweight-web.writing-followups.group-label\",\"Siūlomos tolesnės žinutės\"),gp=i(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nepasir",
+  "new_chunk": false
+ },
+ {
+  "text": "Ką sako žmonės",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "),Uj=i(\"lightweight-web.products.visit\",\"Apsilankyti\"),Fj=i(\"lightweight-web.products.what-people-are-saying\",\"Ką sako žmonės\"),Hj=i(\"lightweight-web.products.what-to-know\",\"Ką verta žinoti\"),Wj=i(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Ką verta žinoti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "ghtweight-web.products.what-people-are-saying\",\"Ką sako žmonės\"),Hj=i(\"lightweight-web.products.what-to-know\",\"Ką verta žinoti\"),Wj=i(\"lightweight-web.sources.learn-more\",\"Sužinokite daugiau\"),Qj=i(\"lightweight-web.sourc",
+  "new_chunk": false
+ },
+ {
+  "text": "Voorgestelde vervolgberichten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "lightweight-web.video-lightbox.previous\",\"Vorige video\"),gc=e(\"lightweight-web.writing-followups.group-label\",\"Voorgestelde vervolgberichten\"),lc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Ik ",
+  "new_chunk": false
+ },
+ {
+  "text": "Wat mensen erover zeggen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "en\"),qj=e(\"lightweight-web.products.visit\",\"Bezoeken\"),Uj=e(\"lightweight-web.products.what-people-are-saying\",\"Wat mensen erover zeggen\"),Fj=e(\"lightweight-web.products.what-to-know\",\"Goed om te weten\"),Rj=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Goed om te weten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "web.products.what-people-are-saying\",\"Wat mensen erover zeggen\"),Fj=e(\"lightweight-web.products.what-to-know\",\"Goed om te weten\"),Rj=e(\"lightweight-web.sources.learn-more\",\"Meer info\"),Zj=e(\"lightweight-web.sources.links",
+  "new_chunk": false
+ },
+ {
+  "text": "Návrhy ďalších správ",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "ght-web.video-lightbox.previous\",\"Predchádzajúce video\"),lc=e(\"lightweight-web.writing-followups.group-label\",\"Návrhy ďalších správ\"),sc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nemám vybran",
+  "new_chunk": false
+ },
+ {
+  "text": "Čo hovoria ľudia",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "t\"),Rf=e(\"lightweight-web.products.visit\",\"Navštíviť\"),Lf=e(\"lightweight-web.products.what-people-are-saying\",\"Čo hovoria ľudia\"),Wf=e(\"lightweight-web.products.what-to-know\",\"Čo je dobré vedieť\"),Ff=e(\"lightweight-web.s",
+  "new_chunk": false
+ },
+ {
+  "text": "Čo je dobré vedieť",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "tweight-web.products.what-people-are-saying\",\"Čo hovoria ľudia\"),Wf=e(\"lightweight-web.products.what-to-know\",\"Čo je dobré vedieť\"),Ff=e(\"lightweight-web.sources.learn-more\",\"Ďalšie informácie\"),Jf=e(\"lightweight-web.sou",
+  "new_chunk": false
+ },
+ {
+  "text": "Föreslagna uppföljningar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Föregående video\"),gd=e(\"lightweight-web.writing-followups.group-label\",\"Föreslagna uppföljningar\"),od=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Jag vald",
+  "new_chunk": false
+ },
+ {
+  "text": "Vad andra säger",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "odukt\"),qD=e(\"lightweight-web.products.visit\",\"Besök\"),UD=e(\"lightweight-web.products.what-people-are-saying\",\"Vad andra säger\"),JD=e(\"lightweight-web.products.what-to-know\",\"Bra att veta\"),WD=e(\"lightweight-web.sources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Bra att veta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "htweight-web.products.what-people-are-saying\",\"Vad andra säger\"),JD=e(\"lightweight-web.products.what-to-know\",\"Bra att veta\"),WD=e(\"lightweight-web.sources.learn-more\",\"Läs mer\"),ZD=e(\"lightweight-web.sources.links\",\"Län",
+  "new_chunk": false
+ },
+ {
+  "text": "Lo que dice la gente",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "cto\"),FC=e(\"lightweight-web.products.visit\",\"Visitar\"),QC=e(\"lightweight-web.products.what-people-are-saying\",\"Lo que dice la gente\"),WC=e(\"lightweight-web.products.what-to-know\",\"Lo que debes saber\"),YC=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "O que dizem as pessoas",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "uto\"),Hz=e(\"lightweight-web.products.visit\",\"Visitar\"),Qz=e(\"lightweight-web.products.what-people-are-saying\",\"O que dizem as pessoas\"),Wz=e(\"lightweight-web.products.what-to-know\",\"O que deve saber\"),Jz=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "O que deve saber",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "t-web.products.what-people-are-saying\",\"O que dizem as pessoas\"),Wz=e(\"lightweight-web.products.what-to-know\",\"O que deve saber\"),Jz=e(\"lightweight-web.sources.learn-more\",\"Saber mais\"),Kz=e(\"lightweight-web.sources.link",
+  "new_chunk": false
+ },
+ {
+  "text": "Javaslatok a folytatáshoz",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "\"lightweight-web.video-lightbox.previous\",\"Előző videó\"),oc=e(\"lightweight-web.writing-followups.group-label\",\"Javaslatok a folytatáshoz\"),rc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nem vál",
+  "new_chunk": false
+ },
+ {
+  "text": "Mások véleménye",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "htweight-web.products.visit\",\"Termékoldal megnyitása\"),Jf=e(\"lightweight-web.products.what-people-are-saying\",\"Mások véleménye\"),Rf=e(\"lightweight-web.products.what-to-know\",\"Tudnivalók\"),Wf=e(\"lightweight-web.sources.le",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggerimenti per continuare",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Video precedente\"),np=e(\"lightweight-web.writing-followups.group-label\",\"Suggerimenti per continuare\"),gp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Non h",
+  "new_chunk": false
+ },
+ {
+  "text": "Cosa dicono le persone",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "otto\"),Bk=e(\"lightweight-web.products.visit\",\"Visita\"),Hk=e(\"lightweight-web.products.what-people-are-saying\",\"Cosa dicono le persone\"),Wk=e(\"lightweight-web.products.what-to-know\",\"Cosa c'è da sapere\"),Kk=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Cosa c'è da sapere",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "t-web.products.what-people-are-saying\",\"Cosa dicono le persone\"),Wk=e(\"lightweight-web.products.what-to-know\",\"Cosa c'è da sapere\"),Kk=e(\"lightweight-web.sources.learn-more\",\"Scopri di più\"),Zk=e(\"lightweight-web.sources",
+  "new_chunk": false
+ },
+ {
+  "text": "Farriimaha xiga ee la soo jeediyay",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "tweight-web.video-lightbox.previous\",\"Fiidiyowgii hore\"),hu=a(\"lightweight-web.writing-followups.group-label\",\"Farriimaha xiga ee la soo jeediyay\"),ru=a(\"lightweight-web.conversation-image-picker.no-selection-submission\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Waxa dadku ka leeyihiin",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "cadda\"),Xx=a(\"lightweight-web.products.visit\",\"Booqo\"),Jx=a(\"lightweight-web.products.what-people-are-saying\",\"Waxa dadku ka leeyihiin\"),Nx=a(\"lightweight-web.products.what-to-know\",\"Waxa ay tahay inaad ogaato\"),Ux=a(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Waxa ay tahay inaad ogaato",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "-web.products.what-people-are-saying\",\"Waxa dadku ka leeyihiin\"),Nx=a(\"lightweight-web.products.what-to-know\",\"Waxa ay tahay inaad ogaato\"),Ux=a(\"lightweight-web.sources.learn-more\",\"Wax badan ka baro\"),Rx=a(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Návrhy navazujících zpráv",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "htweight-web.video-lightbox.previous\",\"Předchozí video\"),rc=e(\"lightweight-web.writing-followups.group-label\",\"Návrhy navazujících zpráv\"),sc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nevybra",
+  "new_chunk": false
+ },
+ {
+  "text": "Co je dobré vědět",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "ghtweight-web.products.what-people-are-saying\",\"Co říkají lidé\"),Ff=e(\"lightweight-web.products.what-to-know\",\"Co je dobré vědět\"),Jf=e(\"lightweight-web.sources.learn-more\",\"Další informace\"),Wf=e(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggeriments per continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "ghtweight-web.video-lightbox.previous\",\"Vídeo anterior\"),sp=e(\"lightweight-web.writing-followups.group-label\",\"Suggeriments per continuar\"),np=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"No he ",
+  "new_chunk": false
+ },
+ {
+  "text": "Què en diu la gent",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "ucte\"),Uk=e(\"lightweight-web.products.visit\",\"Visita\"),Qk=e(\"lightweight-web.products.what-people-are-saying\",\"Què en diu la gent\"),Wk=e(\"lightweight-web.products.what-to-know\",\"Què cal saber\"),Xk=e(\"lightweight-web.sour",
+  "new_chunk": false
+ },
+ {
+  "text": "Què cal saber",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "eight-web.products.what-people-are-saying\",\"Què en diu la gent\"),Wk=e(\"lightweight-web.products.what-to-know\",\"Què cal saber\"),Xk=e(\"lightweight-web.sources.learn-more\",\"Més informació\"),Jk=e(\"lightweight-web.sources.lin",
+  "new_chunk": false
+ },
+ {
+  "text": "Ehdotetut jatkoviestit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "htweight-web.video-lightbox.previous\",\"Edellinen video\"),op=e(\"lightweight-web.writing-followups.group-label\",\"Ehdotetut jatkoviestit\"),gp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"En valinnu",
+  "new_chunk": false
+ },
+ {
+  "text": "Mitä ihmiset sanovat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "lightweight-web.products.visit\",\"Siirry tuotesivulle\"),Rj=e(\"lightweight-web.products.what-people-are-saying\",\"Mitä ihmiset sanovat\"),Bj=e(\"lightweight-web.products.what-to-know\",\"Hyvä tietää\"),Uj=e(\"lightweight-web.sour",
+  "new_chunk": false
+ },
+ {
+  "text": "Hyvä tietää",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "ght-web.products.what-people-are-saying\",\"Mitä ihmiset sanovat\"),Bj=e(\"lightweight-web.products.what-to-know\",\"Hyvä tietää\"),Uj=e(\"lightweight-web.sources.learn-more\",\"Lue lisää\"),Wj=e(\"lightweight-web.sources.links\",\"Li",
+  "new_chunk": false
+ },
+ {
+  "text": "Magpakita ng iba pa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "g matapos ang upload o alisin ito at i-try ulit.\"),Gs=a(\"lightweight-web.conversation.show-full-guest-answer\",\"Magpakita ng iba pa\"),Ts=a(\"lightweight-web.conversation.show-short-guest-answer\",\"Magpakita ng mas kaunti\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Mga iminumungkahing follow-up",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ightweight-web.video-lightbox.previous\",\"Naunang video\"),lm=a(\"lightweight-web.writing-followups.group-label\",\"Mga iminumungkahing follow-up\"),sm=a(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Wal",
+  "new_chunk": false
+ },
+ {
+  "text": "Ang sinasabi ng mga tao",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "o\"),RI=a(\"lightweight-web.products.visit\",\"Bisitahin\"),UI=a(\"lightweight-web.products.what-people-are-saying\",\"Ang sinasabi ng mga tao\"),FI=a(\"lightweight-web.products.what-to-know\",\"Mga dapat malaman\"),JI=a(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Mga dapat malaman",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "-web.products.what-people-are-saying\",\"Ang sinasabi ng mga tao\"),FI=a(\"lightweight-web.products.what-to-know\",\"Mga dapat malaman\"),JI=a(\"lightweight-web.sources.learn-more\",\"Matuto pa\"),QI=a(\"lightweight-web.sources.link",
+  "new_chunk": false
+ },
+ {
+  "text": "Sugestii de continuare",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "ght-web.video-lightbox.previous\",\"Videoclipul anterior\"),ow=e(\"lightweight-web.writing-followups.group-label\",\"Sugestii de continuare\"),gw=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nu am sele",
+  "new_chunk": false
+ },
+ {
+  "text": "Ce spun oamenii",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "l\"),Hk=e(\"lightweight-web.products.visit\",\"Vizitează\"),Wk=e(\"lightweight-web.products.what-people-are-saying\",\"Ce spun oamenii\"),Kk=e(\"lightweight-web.products.what-to-know\",\"Ce trebuie să știi\"),Zk=e(\"lightweight-web.so",
+  "new_chunk": false
+ },
+ {
+  "text": "Ce trebuie să știi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "htweight-web.products.what-people-are-saying\",\"Ce spun oamenii\"),Kk=e(\"lightweight-web.products.what-to-know\",\"Ce trebuie să știi\"),Zk=e(\"lightweight-web.sources.learn-more\",\"Află mai multe\"),Jk=e(\"lightweight-web.source",
+  "new_chunk": false
+ },
+ {
+  "text": "Prijedlozi za nastavak",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ght-web.video-lightbox.previous\",\"Prethodni videozapis\"),lu=e(\"lightweight-web.writing-followups.group-label\",\"Prijedlozi za nastavak\"),gu=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Nisam odab",
+  "new_chunk": false
+ },
+ {
+  "text": "Što ljudi kažu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "vod\"),qf=e(\"lightweight-web.products.visit\",\"Posjeti\"),Lf=e(\"lightweight-web.products.what-people-are-saying\",\"Što ljudi kažu\"),Jf=e(\"lightweight-web.products.what-to-know\",\"Što trebate znati\"),Ff=e(\"lightweight-web.sour",
+  "new_chunk": false
+ },
+ {
+  "text": "Što trebate znati",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ghtweight-web.products.what-people-are-saying\",\"Što ljudi kažu\"),Jf=e(\"lightweight-web.products.what-to-know\",\"Što trebate znati\"),Ff=e(\"lightweight-web.sources.learn-more\",\"Saznajte više\"),Wf=e(\"lightweight-web.sources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Forslag til opfølgning",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ightweight-web.video-lightbox.previous\",\"Forrige video\"),ap=e(\"lightweight-web.writing-followups.group-label\",\"Forslag til opfølgning\"),op=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Jeg valgte",
+  "new_chunk": false
+ },
+ {
+  "text": "Det siger andre",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "odukt\"),Rj=e(\"lightweight-web.products.visit\",\"Besøg\"),Uj=e(\"lightweight-web.products.what-people-are-saying\",\"Det siger andre\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Værd at vide\"),Wj=e(\"lightweight-web.sources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Værd at vide",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "htweight-web.products.what-people-are-saying\",\"Det siger andre\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Værd at vide\"),Wj=e(\"lightweight-web.sources.learn-more\",\"Se mere\"),Zj=e(\"lightweight-web.sources.links\",\"Lin",
+  "new_chunk": false
+ },
+ {
+  "text": "Ieteiktie sarunas turpinājumi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "ight-web.video-lightbox.previous\",\"Iepriekšējais video\"),op=e(\"lightweight-web.writing-followups.group-label\",\"Ieteiktie sarunas turpinājumi\"),np=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Es ",
+  "new_chunk": false
+ },
+ {
+  "text": "Ko saka citi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "tu\"),Jy=e(\"lightweight-web.products.visit\",\"Apmeklēt\"),Fy=e(\"lightweight-web.products.what-people-are-saying\",\"Ko saka citi\"),Hy=e(\"lightweight-web.products.what-to-know\",\"Kas jāzina\"),Zy=e(\"lightweight-web.sources.learn",
+  "new_chunk": false
+ },
+ {
+  "text": "Kas jāzina",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "lightweight-web.products.what-people-are-saying\",\"Ko saka citi\"),Hy=e(\"lightweight-web.products.what-to-know\",\"Kas jāzina\"),Zy=e(\"lightweight-web.sources.learn-more\",\"Uzzināt vairāk\"),Wy=e(\"lightweight-web.sources.links\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Önerilen devam mesajları",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "lightweight-web.video-lightbox.previous\",\"Önceki video\"),oc=e(\"lightweight-web.writing-followups.group-label\",\"Önerilen devam mesajları\"),gc=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Herhangi",
+  "new_chunk": false
+ },
+ {
+  "text": "Kullanıcılar ne diyor?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "\"),Uz=e(\"lightweight-web.products.visit\",\"Ziyaret et\"),Vz=e(\"lightweight-web.products.what-people-are-saying\",\"Kullanıcılar ne diyor?\"),Iz=e(\"lightweight-web.products.what-to-know\",\"Bilmen gerekenler\"),Wz=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Bilmen gerekenler",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "t-web.products.what-people-are-saying\",\"Kullanıcılar ne diyor?\"),Iz=e(\"lightweight-web.products.what-to-know\",\"Bilmen gerekenler\"),Wz=e(\"lightweight-web.sources.learn-more\",\"Daha fazla bilgi edin\"),Zz=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Tillögur að næstu skilaboðum",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ghtweight-web.video-lightbox.previous\",\"Fyrra myndband\"),gp=e(\"lightweight-web.writing-followups.group-label\",\"Tillögur að næstu skilaboðum\"),sp=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Ég v",
+  "new_chunk": false
+ },
+ {
+  "text": "Það sem fólk segir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "u\"),Uj=e(\"lightweight-web.products.visit\",\"Heimsækja\"),Kj=e(\"lightweight-web.products.what-people-are-saying\",\"Það sem fólk segir\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Gott að vita\"),Yj=e(\"lightweight-web.sourc",
+  "new_chunk": false
+ },
+ {
+  "text": "Gott að vita",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "eight-web.products.what-people-are-saying\",\"Það sem fólk segir\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Gott að vita\"),Yj=e(\"lightweight-web.sources.learn-more\",\"Nánar\"),Qj=e(\"lightweight-web.sources.links\",\"Tengl",
+  "new_chunk": false
+ },
+ {
+  "text": "Forslag til oppfølging",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ightweight-web.video-lightbox.previous\",\"Forrige video\"),gd=e(\"lightweight-web.writing-followups.group-label\",\"Forslag til oppfølging\"),od=e(\"lightweight-web.conversation-image-picker.no-selection-submission\",\"Jeg valgte",
+  "new_chunk": false
+ },
+ {
+  "text": "Dette sier folk",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "odukt\"),Rj=e(\"lightweight-web.products.visit\",\"Besøk\"),Uj=e(\"lightweight-web.products.what-people-are-saying\",\"Dette sier folk\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Verdt å vite\"),Wj=e(\"lightweight-web.sources.",
+  "new_chunk": false
+ },
+ {
+  "text": "Verdt å vite",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "htweight-web.products.what-people-are-saying\",\"Dette sier folk\"),Jj=e(\"lightweight-web.products.what-to-know\",\"Verdt å vite\"),Wj=e(\"lightweight-web.sources.learn-more\",\"Finn ut mer\"),Zj=e(\"lightweight-web.sources.links\",",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:e.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "=l.block;ux(l,0,a.parentNode,Di,{...e.linkProps,as:\"a\",variant:e.variant,href:e.href,target:e.external?\"_blank\":void 0,rel:e.external?\"noopener noreferrer\":void 0,children:dx(function(l,n,a){let x=n.block,i=n.slots[0],o=",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:a.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "lock,{0:a,1:x}=t;ux(l,0,n.parentNode,Di,{...a.linkProps,as:\"a\",variant:x,href:a.href,target:a.external?\"_blank\":void 0,rel:a.external?\"noopener noreferrer\":void 0,children:dx(function(e,l,t){let n=l.block,x=l.slots[0],i=",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sizes:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "0,n.parentNode,Yi,{...a,type:\"image\",rounding:\"none\",imageSourceBreakpoint:\"small\",fit:\"unframed\"===i?\"contain\":void 0,sizes:\"(min-width: 1024px) 670px, 100vw\",sx:[Md.media,x&&Md.reverseMedia,\"unframed\"===i&&Md.unframedF",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:n.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "Zx(au);a=mi(l,e,e)}mx(l,1,a.a,to,{...n.linkProps,buttonVariant:\"outline\",href:n.href,target:n.external?\"_blank\":void 0,rel:n.external?\"noopener noreferrer\":void 0,children:dx(function(e,l,t){let a=l.block,x=l.slots[0],i=",
+  "new_chunk": false
+ },
+ {
+  "text": "===n?.type?n:void 0,background:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "id 0,x=e.cta?lo(e.cta,l):void 0;return{id:e.id,stat:e.stat,title:e.title,description:e.description,logo:\"image\"===n?.type?n:void 0,background:\"image\"===a?.type?a:void 0,backgroundLayout:\"1:1\"===e.background?.ratio?\"card\"",
+  "new_chunk": false
+ },
+ {
+  "text": "===a?.type?a:void 0,backgroundLayout:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "{id:e.id,stat:e.stat,title:e.title,description:e.description,logo:\"image\"===n?.type?n:void 0,background:\"image\"===a?.type?a:void 0,backgroundLayout:\"1:1\"===e.background?.ratio?\"card\":\"canvas\",action:x&&e.cta?.label?{labe",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:x.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": ",0,n.parentNode,Di,{...x.linkProps,as:\"a\",variant:\"outline\",size:\"large\",href:x.href,target:x.external?\"_blank\":void 0,rel:x.external?\"noopener noreferrer\":void 0,children:dx(function(e,l,t){let n=l.block,a=l.slots[0],i=",
+  "new_chunk": false
+ },
+ {
+  "text": "Unable to load Contentful tracking configuration",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": ");try{let e=await fetch(nf,{credentials:\"same-origin\",cache:\"no-store\",signal:o.signal});if(!e.ok)throw Error(\"Unable to load Contentful tracking configuration\");let l=await e.json();if(!(null===l||l?.identity&&l.privacy",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid Contentful tracking configuration",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/document.js",
+  "ctx": "d Contentful tracking configuration\");let l=await e.json();if(!(null===l||l?.identity&&l.privacy))throw Error(\"Invalid Contentful tracking configuration\");!x&&s===i&&(a=l)}catch{!x&&s===i&&e<2&&(n=setTimeout(()=>{n=void ",
+  "new_chunk": false
+ },
+ {
+  "text": "flag-fill",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "rip-fill\":0,filter:0,\"filter-badge\":0,finance:0,\"finger-tap\":0,fingerprint:0,fire:0,\"five-dice-face\":0,flag:0,\"flag-fill\":0,flashcards:0,\"flashcards-landscape\":0,flask:0,\"flask-fill\":0,folder:0,\"folder-badge-arrow-branch",
+  "new_chunk": false
+ },
+ {
+  "text": "Prompt exceeds 400 characters",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "een\",\"neutral\"]).optional().catch(void 0)})).min(1).max(16).refine(l=>l.reduce((l,e)=>l+e.text.length,0)<=400,\"Prompt exceeds 400 characters\"),r={id:n.pipe(Le().regex(/^[a-zA-Z0-9_-]{1,64}$/)),label:n,description:n,promp",
+  "new_chunk": true
+ },
+ {
+  "text": "Expected at least one valid scene",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": ".safeParse(n);l.success&&!t.has(l.data.id)&&(t.add(l.data.id),e.push(l.data))}return e}).refine(l=>l.length>0,\"Expected at least one valid scene\"),initialSceneId:Le().optional().catch(void 0),intervalMs:Te().min(5e3).max",
+  "new_chunk": true
+ },
+ {
+  "text": "Expected a Link or Conversion Link in Child components",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "\"link\"===e.__typename||\"conversionLink\"===e.__typename));return s||t.addIssue({code:\"custom\",path:[n],message:\"Expected a Link or Conversion Link in Child components\"}),s},s=n(l.primaryCtaEntryId,\"primaryCtaEntryId\"),a=n",
+  "new_chunk": true
+ },
+ {
+  "text": "Share place",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/shared.js",
+  "ctx": ",$$css:!0}},at=function({entity:e},t,n){let r=t.block,i=a(void 0,Q+1),o=z(be),s=Ee(),c=e.entityKind===`place`?`Share place`:s.share,u=a(!1,Q+2),d=async()=>{if(!u.current){u.current=!0;try{await Ze(e)&&o?.show(s.linkCopie",
+  "new_chunk": false
+ },
+ {
+  "text": "),ne=ee('<source media=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "./a-BalXqa4Y.js\";import{n as ae}from\"./a-C8CVvxUC.js\";import{t as ie}from\"./a-DxxfPGW5.js\";var oe=ee(\"<source>\"),ne=ee('<source media=\"(prefers-color-scheme: dark)\">'),se=ee(\"<picture><!><source><!><!><img decoding=async",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor aria-hidden=true>',1),Ar=Ki(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "l=\"currentColor\"/>'});hi(1),Mi(1,!0),wo([\"click\"],[112]);var Tr=Ki('<svg width=20 height=20 viewBox=\"0 0 20 20\" fill=currentColor aria-hidden=true>',1),Ar=Ki(\"<p role=alert>\"),_r=Ki('<div data-conversation-rating><aside>",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Jr=Ki('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Yr=Ki('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Jr=Ki('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": "),_x=Ki('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),Hx=Ki(\"<blockquote> \"),Tx=Ki(\"<p data-user-message-copy>\"),Ax=Ki(\"<p data-user-message-copy> \"),_x=Ki('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),Px=Ki('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),Ex=Ki(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),Px=Ki('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),Gx=Ki('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Dx=Ki(\"<svg aria-hidden=true fill=none><use>\",1),Gx=Ki('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Vx=Wn(112),Bx=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": "Library file is not ready",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/library.js",
+  "ctx": "eturn\"object\"==typeof a&&a&&\"size\"in a?a.size:void 0}async function t(t,r,a){if(\"ready\"!==t.state)throw Error(\"Library file is not ready\");let[i,o]=await Promise.all([r.contentUrl(t.id,a),t.size??e(t.fileId,a)]),n=t.widt",
+  "new_chunk": false
+ },
+ {
+  "text": ",tickLine:!1,tickMargin:Lt?0:Gt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Qt??Vr??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "kMargin:vr,hide:!je,height:je?void 0:0,padding:oa}),(0,nr.jsx)(Nt,{className:ar.Axis,dataKey:Ct,type:\"category\",tickLine:!1,tickMargin:Lt?0:Gt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Qt??Vr??\"auto\",hide:Lt,ti",
+  "new_chunk": false
+ },
+ {
+  "text": "),tx=M('<svg width=20 height=20 viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "-suggestions><div data-writing-followup-suggestions-surface><div><div><!></div></div><div aria-hidden=true><!>\"),tx=M('<svg width=20 height=20 viewBox=\"0 0 20 20\" aria-hidden=true focusable=false><path d=\"M12.5293 6.5293",
+  "new_chunk": false
+ },
+ {
+  "text": "RPCCallMessage must contains a port.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "e=>{let n=e.data;if(Array.isArray(n)&&n[0]===u){e.stopImmediatePropagation();let[r]=e.ports;if(!r)throw Error(`RPCCallMessage must contains a port.`);t?(async function(){let e=new AbortController;try{r.onmessage=({data:t",
+  "new_chunk": false
+ },
+ {
+  "text": "Encountered Promise during synchronous parse. Use .parseAsync() instead.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "zod.def.path??[]]})},n}var ge,ve=Object.freeze({status:\"aborted\"}),ye=class extends Error{constructor(){super(\"Encountered Promise during synchronous parse. Use .parseAsync() instead.\")}},_e=class extends Error{construct",
+  "new_chunk": false
+ },
+ {
+  "text": "Cannot mix number and bigint in multiple_of check.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "_zod.bag).multipleOf??(n.multipleOf=t.value)}),e._zod.check=n=>{if(typeof n.value!=typeof t.value)throw Error(\"Cannot mix number and bigint in multiple_of check.\");(\"bigint\"==typeof n.value?n.value%t.value===BigInt(0):0=",
+  "new_chunk": false
+ },
+ {
+  "text": "Integers must be within the safe integer range.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "a,inst:e});return}if(!Number.isSafeInteger(a)){a>0?s.issues.push({input:a,code:\"too_big\",maximum:2**53-1,note:\"Integers must be within the safe integer range.\",inst:e,origin:r,inclusive:!0,continue:!t.abort}):s.issues.pu",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof i?Number.isNaN(i)?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "value)}catch{}let i=n.value;if(\"number\"==typeof i&&!Number.isNaN(i)&&Number.isFinite(i))return n;let o=\"number\"==typeof i?Number.isNaN(i)?\"NaN\":Number.isFinite(i)?void 0:\"Infinity\":void 0;return n.issues.push({expected:\"",
+  "new_chunk": false
+ },
+ {
+  "text": ":Number.isFinite(i)?void 0:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "number\"==typeof i&&!Number.isNaN(i)&&Number.isFinite(i))return n;let o=\"number\"==typeof i?Number.isNaN(i)?\"NaN\":Number.isFinite(i)?void 0:\"Infinity\":void 0;return n.issues.push({expected:\"number\",code:\"invalid_type\",inpu",
+  "new_chunk": false
+ }
+]
