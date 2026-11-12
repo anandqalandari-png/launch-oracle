@@ -1,0 +1,1332 @@
+[
+ {
+  "text": "==typeof _.gna&&e instanceof _.gna?c.push(2,e.gJg):",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ction(a,...b){var c=a[0];if(a.length===1)return c+\"_\";c=[0,c];for(let d=0;d<b.length;d++){let e=b[d];\"function\"==typeof _.gna&&e instanceof _.gna?c.push(2,e.gJg):\"function\"==typeof _.hna&&e instanceof _.hna?c.push(3,e.rF",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:(Oc=c==null?void 0:c.getName())!=null?Oc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",Sc,Ic,Kc,ad,Id,Ld,be,Be,Bf,Me,rf,Ze,Jf,Hf;return Object.assign({},{id:(Cc=a==null?void 0:_.n(a,1))!=null?Cc:\"\",title:(Oc=c==null?void 0:c.getName())!=null?Oc:\"\",Mm:(Sc=b==null?void 0:_.n(b,1))!=null?Sc:\"\",description:(I",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(Ic=c==null?void 0:c.Fd())!=null?Ic:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "a,1))!=null?Cc:\"\",title:(Oc=c==null?void 0:c.getName())!=null?Oc:\"\",Mm:(Sc=b==null?void 0:_.n(b,1))!=null?Sc:\"\",description:(Ic=c==null?void 0:c.Fd())!=null?Ic:\"\",fB:(Kc=c==null?void 0:_.Yh(c,4).map(pg=>pg))!=null?Kc:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(Id=c==null?void 0:c.Fd())!=null?Id:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",1))!=null?Ic:\"\",title:(Kc= c==null?void 0:c.getName())!=null?Kc:\"\",Mm:(ad=b==null?void 0:_.n(b,1))!=null?ad:\"\",description:(Id=c==null?void 0:c.Fd())!=null?Id:\"\",fB:(Ld=c==null?void 0:_.Yh(c,4).map(Ag=>Ag))!=null?Ld:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Df=(be=Id.getValue)==null?void 0:be.call(Id))!=null?Df:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "pg,oh,Ag,Kj,nf,Df,Kf;return Object.assign({},{label:(nf=(Ld=Id.getLabel)==null?void 0:Ld.call(Id))!= null?nf:\"\",value:(Df=(be=Id.getValue)==null?void 0:be.call(Id))!=null?Df:\"\",sAc:(Kf=(Be=Id.oa)==null?void 0:Be.call(Id)",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Vf=(rf=Kc.getValue)==null?void 0:rf.call(Kc))!=null?Vf:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",Kj,nf,Df,Kf,cg,Vf,og;return Object.assign({},{label:(cg=(Me=Kc.getLabel)==null?void 0:Me.call(Kc))!=null?cg:\"\",value:(Vf=(rf=Kc.getValue)==null?void 0:rf.call(Kc))!=null?Vf:\"\"},be&&{description:be},Id?{A6:{EBd:(og=(Ze=I",
+  "new_chunk": true
+ },
+ {
+  "text": ",turnId:kn,Nh:(Lt=Do==null?void 0:Do.id)!=null?Lt:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ll?void 0:Do.id)!=null? Uq:\"\",tU:!0,Bf:{conversationId:(Kt=(Xp=_.m(a,_.jB,1))==null?void 0:Xp.Wf())!=null?Kt:\"\",turnId:kn,Nh:(Lt=Do==null?void 0:Do.id)!=null?Lt:\"\"}},Vq=Bj.map(oj=>_.AGd(oj,ew)),Rs,Wq=(Rs=a.Bl())==null?vo",
+  "new_chunk": true
+ },
+ {
+  "text": ",metadata:(U=c==null?void 0:c.getMetadata())!=null?U:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": " D:0),initializationData:{EZe:(I=c==null?void 0:_.n(c,1))!=null?I:\"\",uJc:(O=c==null?void 0:_.n(c,2))!=null?O:\"\",metadata:(U=c==null?void 0:c.getMetadata())!=null?U:\"\",P1d:(aa=c==null?void 0:_.n(c,4))!=null?aa:\"\",locale:(",
+  "new_chunk": true
+ },
+ {
+  "text": ",parentResponseId:!Ag||Ze&&(bL(Ag.response)||Ag.response.turnId!==((zr=rf)==null?void 0:zr.turnId))?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "==null?void 0:vt.conversationId)||(pg.Rb.length>0?pg.id||(Hf==null?void 0:Hf.conversationId)||\"\":\"\"),yk:So|| \"\",parentResponseId:!Ag||Ze&&(bL(Ag.response)||Ag.response.turnId!==((zr=rf)==null?void 0:zr.turnId))?\"\":((dk=A",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.Iya().Cl,selected:!1,dD:this.Iya().tooltip||void 0,veId:194114,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "null?void 0:a.Z_)});this.qe=_.Y(()=>({id:_.xQ.FDb,label:\"Photos\",ariaLabel:\"Open mobile gallery\",Om:\"add_image\",disabled:this.Iya().Cl,selected:!1,dD:this.Iya().tooltip||void 0,veId:194114,kind:\"menu-item\"}));this.n0= _.",
+  "new_chunk": true
+ },
+ {
+  "text": ",goal:a.displayText,category:b,icon:c,n9g:a.w_d,type:d,OBg:(h=(f=a.ZGe)==null?void 0:_.n(f,1))!=null?h:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "DASHER\":a.W2a.includes(8)? \"LICENSED_EDU\":a.W2a.includes(9)?\"UNLICENSED_EDU\":\"\");var f,g,h,r;b={prompt:a.pS||\"\",goal:a.displayText,category:b,icon:c,n9g:a.w_d,type:d,OBg:(h=(f=a.ZGe)==null?void 0:_.n(f,1))!=null?h:\"\",E6f",
+  "new_chunk": true
+ },
+ {
+  "text": ",content:(f=(c=b.onb)==null?void 0:c.description)!=null?f:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=HwBxOc",
+  "ctx": "a.next(a.text),!0;default:return!1}}Rh(a){if(a.type=== \"showTooltip\"){var b=a.tooltip,c;let e,f;var d={title:\"\",content:(f=(c=b.onb)==null?void 0:c.description)!=null?f:\"\",Wwa:(e=b.ue)==null?void 0:e.veId};b=this.Jb.oa.g",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:b.description,logoUrl:(g=(d=b.uZ)==null?void 0:d.Xya)!=null?g:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ol(\"\", {Zi:!0}))});var d,e,f,g,h,r,t;this.gH.setValue({id:b.id,title:b.title,readableUrlId:(f=b.TZb)!=null?f:\"\",description:b.description,logoUrl:(g=(d=b.uZ)==null?void 0:d.Xya)!=null?g:\"\",instruction:(h=b.Mm)!=null?h:\"\"",
+  "new_chunk": true
+ },
+ {
+  "text": ",zeroStatePrompts:[...b.fB],defaultFeatureMode:(r=b.wea)!=null?r:null,brandName:(t=(e=b.r$)==null?void 0:e.YQa)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "\"\",description:b.description,logoUrl:(g=(d=b.uZ)==null?void 0:d.Xya)!=null?g:\"\",instruction:(h=b.Mm)!=null?h:\"\",zeroStatePrompts:[...b.fB],defaultFeatureMode:(r=b.wea)!=null?r:null,brandName:(t=(e=b.r$)==null?void 0:e.YQ",
+  "new_chunk": true
+ },
+ {
+  "text": "/daily-brief",
+  "kind": "flag",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=HwBxOc,UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": " b=this.wba()&&this.oa.Ba();this.Jb.bzb(a);!a&&b&&(this.ux()&&(this.close(),this.Yk()),this.Fb.navigateByUrl(\"/daily-brief\",{An:!0}))}hta(a){_.C5(this.Rt,_.TJe);_.lL(a,()=>{this.Yk();_.w_d(this.Cd)})}openHelpPanel(){_.C5",
+  "new_chunk": true
+ },
+ {
+  "text": "Shows Vega instead of Daily brief in the side navigation",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=HwBxOc,UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": ",\"veImpression\",\"veMutable\"],[\"matListItemIcon\",\"\",\"fontIconName\",\"today\"],[\"matListItemMeta\",\"\",\"aria-label\",\"Shows Vega instead of Daily brief in the side navigation\",3,\"change\",\"checked\",\"hideIcon\"],[\"mat-list-item\",\"",
+  "new_chunk": true
+ },
+ {
+  "text": ",status:1,pinned:!1,wub:void 0,rVb:new Date,dLa:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,HbEaCf,HwBxOc,LVUOyb,MGIlxc,No94jc,OpU7Tc,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=GzXWE",
+  "ctx": "e.dispatch((0,_.A2f)({pageSize:11,filter:a}))}Gcc(){var a={conversationId:\"__placeholder_goal__\",description:\"\",status:1,pinned:!1,wub:void 0,rVb:new Date,dLa:\"Initializing task\\u2026\",Pta:\"\"};this.store.dispatch((0,_.G2",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:h.title,description:h.description,u4:h.u4,Klc:h.Klc,uGc:!0,disabled:t,Ueh:!1,NUa:r,Om:v,modeCategory:h.modeCategory,W5b:(x=h.JDa)==null?void 0:x.Y_a,Iq:h.Iq,KBb:Ddm(h),Ja:r?359084:242569,Bja:r||!e&&!g?!1:h.Bja,xga:h.xga,K7f:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,qxlpjc,v9r4Te,vLefie,wqvyKc,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=TRJwtb",
+  "ctx": "void 0:v.Om){case \"LOCK\":v=\"lock\";break a}v=void 0}var x,C;return Object.assign({}, {mode:d,modeId:h.id,icon:\"\",title:h.title,description:h.description,u4:h.u4,Klc:h.Klc,uGc:!0,disabled:t,Ueh:!1,NUa:r,Om:v,modeCategory:h",
+  "new_chunk": true
+ },
+ {
+  "text": "Available APIs: # API for",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "function(a){return Bel(a).includes(\"expand_tools\")&&a.content.includes(\"Available APIs\")|| a.content.includes(\"Available APIs: # API for\")},Tel=function(a){if(W5(a))return!0;var b=Bel(a);return Rel.some(c=>b.startsWith(c",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.Ccb>=1E3?\"P0\":\"P1\",pob:\"Quick Win\",category:\"CACHE_ORDERING\",tIc:[b.Uic,b.RAg],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "C[1]}>\\n${C[2]}`,c-20,c+C[0].length+25)}}return b},zfl=function(a){return[...a.L2a.map(b=>({id:`action-${b.id}`,priority:b.Ccb>=1E3?\"P0\":\"P1\",pob:\"Quick Win\",category:\"CACHE_ORDERING\",tIc:[b.Uic,b.RAg],title:`Move dynami",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P0\":\"P1\",pob:\"Quick Win\",category:\"CONFLICT\",\ntIc:[b.uja,b.vja],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "on:b.sS,Uob:b.Ccb,hyb:b.Ccb*1.5+300,owner:\"ALS Runtime & Context Team\"})),...a.F3a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P0\":\"P1\",pob:\"Quick Win\",category:\"CONFLICT\", tIc:[b.uja,b.vja],title:`Resolve",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",pob:b.severity===\"CRITICAL\"||b.severity===\"HIGH\"&&!b.did?\"Major Overhaul\":\"Quick Win\",category:\"BLOAT\",tIc:[b.F2a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "b:60,hyb:b.severity===\"HIGH\"?950:550,owner:\"Gemini SI Governance Team\"})),...a.K5a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",pob:b.severity===\"CRITICAL\"||b.severity=",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",pob:\"Quick Win\",category:\"REDUNDANCY\",tIc:[b.uja,b.vja],title:b.ywb===\"CROSS_SILO_CAPABILITY\"?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ns} tok)`,action:b.sS,Uob:b.sNb,hyb:b.sNb* (b.did?1.2:1),owner:b.owner})),...a.Nbb.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",pob:\"Quick Win\",category:\"REDUNDANCY\",tIc:",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:c?\"P1\":\"P2\",pob:\"Quick Win\",category:\"TYPO\",tIc:[b.F2a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "= \"UNBALANCED_XML_TAG\"||b.B5b===\"UNBALANCED_PARENTHESES\",d=b.k8c.replace(/\\s+/g,\" \");return{id:`action-${b.id}`,priority:c?\"P1\":\"P2\",pob:\"Quick Win\",category:\"TYPO\",tIc:[b.F2a],title:`Fix ${xfl[b.B5b]} '${d}' in '${b.F2a",
+  "new_chunk": true
+ },
+ {
+  "text": "No remediation actions needed — prefix is clean!",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": " tok)\"),_.B(),_.mNe(\" #\",a.position,\" \",a.Ewa,\" (\",a.KCb,\") \"))},egl=function(a){a&1&&(_.J(0, \"div\",56),_.T(1,\"No remediation actions needed \\u2014 prefix is clean!\"),_.K())},fgl=function(a,b){a&1&&(_.J(0,\"div\",86)(1,\"di",
+  "new_chunk": true
+ },
+ {
+  "text": "Conversation Context & Turns",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "a.Ita,\" cached \\u2022 ~\",a.drd,\" spilled over) \"))},lgl=function(a){a&1&&(_.J(0,\"div\",90)(1,\"span\",106),_.T(2,\"Conversation Context & Turns\"),_.K()())},mgl=function(a){a&1&&(_.J(0,\"span\",95),_.T(1,\"\\u26a1 Cached\"),_.K())",
+  "new_chunk": true
+ },
+ {
+  "text": ":(f=a==null?void 0:(e=a.response)==null?void 0:e.turnId)!=null?f:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": ")),a.toolName)},DDl=function(a,b){var c,d=b==null?void 0:(c=b.Go)==null?void 0:c.conversationId,e,f;if(((c=d?\"\":(f=a==null?void 0:(e=a.response)==null?void 0:e.turnId)!=null?f:\"\")||d)&&b!=null&&b.toolName){var g, h,r,t,v",
+  "new_chunk": true
+ },
+ {
+  "text": ",yk:(t=c==null?void 0:(f=c.response)==null?void 0:f.turnId)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ">{var e,f,g,h,r,t,v,x={conversationId:(r=c==null?void 0:(e=c.request)==null?void 0:e.conversationId)!=null?r:\"\",yk:(t=c==null?void 0:(f=c.response)==null?void 0:f.turnId)!=null?t:\"\",parentResponseId:(v=c==null?void 0:(g=",
+  "new_chunk": true
+ },
+ {
+  "text": "This is a preview of the uploaded image.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "meter\"],[\"part\",\"preview-image\", 1,\"preview-image\"],[1,\"loading-overlay\",3,\"ve\",\"veImpression\"],[\"aria-label\",\"This is a preview of the uploaded image.\",3,\"src\"],[4,\"ngTemplateOutlet\"],[1,\"preview-crop-free\"],[\"fontIconN",
+  "new_chunk": true
+ },
+ {
+  "text": "preview-crop-free",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "\",\"veImpression\"],[\"aria-label\",\"This is a preview of the uploaded image.\",3,\"src\"],[4,\"ngTemplateOutlet\"],[1,\"preview-crop-free\"],[\"fontIconName\",\"crop_free\",\"size\",\"medium\"],[1,\"preview-video\"],[\"aria-label\",\"This is a",
+  "new_chunk": true
+ },
+ {
+  "text": "preview-video",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "age.\",3,\"src\"],[4,\"ngTemplateOutlet\"],[1,\"preview-crop-free\"],[\"fontIconName\",\"crop_free\",\"size\",\"medium\"],[1,\"preview-video\"],[\"aria-label\",\"This is a preview of the uploaded video.\",3,\"src\"],[1,\"video-duration-containe",
+  "new_chunk": true
+ },
+ {
+  "text": "This is a preview of the uploaded video.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "tlet\"],[1,\"preview-crop-free\"],[\"fontIconName\",\"crop_free\",\"size\",\"medium\"],[1,\"preview-video\"],[\"aria-label\",\"This is a preview of the uploaded video.\",3,\"src\"],[1,\"video-duration-container\"],[\"data-test-id\",\"video-dura",
+  "new_chunk": true
+ },
+ {
+  "text": "preview-file",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "duration-container\"],[\"data-test-id\",\"video-duration\",1,\"video-duration\"],[\"size\",\"medium\",3,\"iconConfig\"],[1,\"preview-file\"],[3,\"ve\",\"veImpression\"],[\"data-test-id\",\"file-icon\",3,\"alt\", \"src\"],[3,\"ve\",\"veImpression\",4,\"",
+  "new_chunk": true
+ },
+ {
+  "text": "Files to upload",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "s\",\"cdkConnectedOverlayPush\"],[1,\"summary-file-icon\",3,\"file\",\"hideVideoDuration\",\"isEnlarged\"],[\"aria-label\",\"Files to upload\", \"role\",\"dialog\",1,\"file-upload-popover-card\",3,\"keydown.escape\",\"mouseenter\",\"mouseleave\"],",
+  "new_chunk": true
+ },
+ {
+  "text": ",yk:(r=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?r:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "var d,e,f,g,h,r,t,v,x={conversationId:(h=b==null?void 0:(d=b.request)==null?void 0:d.conversationId)!=null?h:\"\",yk:(r=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?r:\"\",parentResponseId:(t=b==null?void 0:(f=",
+  "new_chunk": true
+ },
+ {
+  "text": "New quiz",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "PLURAL:\"\\ufffd0\\ufffd\"});return[\" \\ufffd0\\ufffd results \",\" Your report \",\"Correct\",a,b,\"Score\",\" Try again \",\" New quiz \",\" Review quiz \",\" View project \",\" View notebook \",[1,\"assessment-summary-card\"],[1,\"score-card-t",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Ps||!a.cAa()?a.Ps.vAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "[\"PieChart\",\"Pie chart\"]]),qdk=function(a){var b;return(b=a.Ps.title)!=null?b:\"\"},rdk=function(a){return\"vAxis\"in a.Ps||!a.cAa()?a.Ps.vAxis.title:\"\"},sdk=function(a){return\"hAxis\"in a.Ps||!a.cAa()?a.Ps.hAxis.title:\"\"},ud",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Ps||!a.cAa()?a.Ps.hAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ")!=null?b:\"\"},rdk=function(a){return\"vAxis\"in a.Ps||!a.cAa()?a.Ps.vAxis.title:\"\"},sdk=function(a){return\"hAxis\"in a.Ps||!a.cAa()?a.Ps.hAxis.title:\"\"},udk=function(a){google&& (new Promise(b=>{_.Otb(odk,{}).then(()=>{goog",
+  "new_chunk": true
+ },
+ {
+  "text": "Not answered",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.YUA3UXN3108.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.LOMEug-wduQ.L.B1.O/am=4t8IgBL7AZj6_-CCfwIdGFCAEaATBKELAAAAABAC/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMp_OKdbi0lo7A1MfA_-7Dxl0aTSLg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "h.\",\"Take quiz\",\" Question \\ufffd0\\ufffd \\ufffd#7\\ufffd/ \\ufffd1\\ufffd\\ufffd/#7\\ufffd\",\"Correct\", \"Incorrect\",\"Not answered\",\" Hint \",\" Back to report \",\" Previous \",\" Next \",\" Submit \",\"Correct\",\"Incorrect\",\"That's righ",
+  "new_chunk": true
+ },
+ {
+  "text": "if_extra_usage_enabled",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/UsagePageSurface.js",
+  "ctx": "[u,d,f,h,g],storageKey:null}],storageKey:null}],storageKey:null}],storageKey:null}]}],storageKey:null},{alias:`if_extra_usage_enabled`,args:[{kind:`Literal`,name:`on`,value:[`BARD_USAGE_METRICS__ENABLE_EXTRA_USAGE_SECTIO",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"data-out-of-credits\":he||void 0,href:de.url,icon:de.leadingPlusIcon?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/UsagePageSurface.js",
+  "ctx": "e:`m`,tone:`primary`}),ue&&(0,$.jsx)(d,{as:`div`,variant:`body-medium`,children:ue})]}),de&&(0,$.jsx)(M,{as:`a`,\"data-out-of-credits\":he||void 0,href:de.url,icon:de.leadingPlusIcon?`plus`:void 0,minWidth:48,onClick:te,re",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,minWidth:48,onClick:te,ref:B,rel:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/UsagePageSurface.js",
+  "ctx": "ren:ue})]}),de&&(0,$.jsx)(M,{as:`a`,\"data-out-of-credits\":he||void 0,href:de.url,icon:de.leadingPlusIcon?`plus`:void 0,minWidth:48,onClick:te,ref:B,rel:`noopener noreferrer`,size:`s`,target:`_blank`,variant:he?`accent`:`",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,onClick:O,ref:x,rel:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/UsagePageSurface.js",
+  "ctx": "|t[37]!==L||t[38]!==z?(te=z?(0,$.jsxs)(k,{action:L?(0,$.jsx)(M,{as:`a`,href:L.url,icon:L.leadingPlusIcon?`plus`:void 0,onClick:O,ref:x,rel:`noopener noreferrer`,size:`s`,target:`_blank`,variant:`tonal`,children:L.label})",
+  "new_chunk": false
+ },
+ {
+  "text": ",padding:f?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/AvatarSharedWithYouSurface.js",
+  "ctx": "lign:`center`,variant:`headline-medium`,children:(0,A.jsx)(c,{id:`r6351T`})})}):(0,A.jsx)(a,{direction:`column`,padding:f?void 0:`m`,role:`list`,width:`100%`,children:e.map(P)})]}),t[16]=I,t[17]=f,t[18]=r,t[19]=s,t[20]=u",
+  "new_chunk": false
+ },
+ {
+  "text": "Avatars shared with you",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/AvatarSharedWithYouSurface.js",
+  "ctx": "t[16]=g,t[17]=_,t[18]=x):x=t[18];let S;t[19]!==d||t[20]!==p||t[21]!==x?(S=(0,A.jsx)(f,{fallback:d,featureName:`Avatars shared with you`,resetKeys:p,showDiagnostics:!1,children:x}),t[19]=d,t[20]=p,t[21]=x,t[22]=S):S=t[22]",
+  "new_chunk": false
+ },
+ {
+  "text": "Permissions settings page",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/PermissionsSettingsSurface.js",
+  "ctx": "[6]=s);let c;return t[7]!==i||t[8]!==a||t[9]!==s?(c=(0,C.jsx)(p,{children:(0,C.jsx)(d,{fallback:i,featureName:`Permissions settings page`,resetKeys:a,showDiagnostics:!1,children:s})}),t[7]=i,t[8]=a,t[9]=s,t[10]=c):c=t[10",
+  "new_chunk": true
+ },
+ {
+  "text": "Pending avatar invitations",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/AvatarPendingSharesSurface.js",
+  "ctx": "t[16]=p,t[17]=m,t[18]=h):h=t[18];let g;t[19]!==d||t[20]!==f||t[21]!==h?(g=(0,R.jsx)(_,{fallback:d,featureName:`Pending avatar invitations`,resetKeys:f,showDiagnostics:!1,children:h}),t[19]=d,t[20]=f,t[21]=h,t[22]=g):g=t[",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-testid\":",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "`,K=`s`,re=0,ie=`100%`,ae=ue?(0,$.jsxs)(c,{align:`flex-end`,alignSelf:`flex-end`,animate:m?`fast-shared-axis-y`:void 0,\"data-testid\":`vega-user-bubble`,direction:`column`,gap:`s`,maxWidth:`min(85%, 640px)`,minWidth:0,chi",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-testid\":r?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "===Pu;return(0,$.jsx)(o,{alignSelf:`flex-start`,as:`child`,children:(0,$.jsx)(s,{animate:m?`fast-shared-axis-y`:void 0,\"data-testid\":r?`vega-consent-bubble`:`vega-response-card`,maxWidth:`min(85%, 640px)`,minWidth:0,widt",
+  "new_chunk": false
+ },
+ {
+  "text": ",padding:p?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/AvatarWhoCanUseSurface.js",
+  "ctx": ".jsx)(w,{likenessUuid:V,variant:`emptyState`,viewer:h.sharing}):null]}):(0,N.jsx)(a,{direction:`column`,gap:`m`,padding:p?void 0:`m`,role:`list`,width:`100%`,children:e.map(e=>{let t=e.recipientObfuscatedGaiaId??``,r=k==",
+  "new_chunk": false
+ },
+ {
+  "text": "From the textbook",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "c; border-radius: 50%; animation: miro-label-spin 0.75s linear infinite; flex-shrink: 0; } /* ── \"From the textbook\" Section (Transparent, Neutral, Luminous Icon) ── */ #text-panel a.text-panel-source-link, ",
+  "new_chunk": true
+ },
+ {
+  "text": "Inline Conversation",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " <button id=\"lightbox-inline-conversation-button\" class=\"lightbox-inline-conversation-button--hidden\" title=\"Inline Conversation\"> <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentCo",
+  "new_chunk": true
+ },
+ {
+  "text": "Generation Debug Info",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "</button> <button type=\"button\" id=\"debug-toggle-btn\" style=\"display: none;\" aria-label=\"Debug\" title=\"Generation Debug Info\"> <svg class=\"lumi-debug-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" f",
+  "new_chunk": true
+ },
+ {
+  "text": "Scene Issues",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "/> </svg> </button> <aside id=\"autorater-panel\" style=\"display: none;\" aria-label=\"Scene Issues\"></aside> <aside id=\"debug-panel\" style=\"display: none;\" aria-label=\"Scene Generation De",
+  "new_chunk": true
+ },
+ {
+  "text": "Scene Generation Debug Info",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": ": none;\" aria-label=\"Scene Issues\"></aside> <aside id=\"debug-panel\" style=\"display: none;\" aria-label=\"Scene Generation Debug Info\"></aside> <!-- Step inside button (inline mode only) --> <button",
+  "new_chunk": true
+ },
+ {
+  "text": "Pin is placed too close to the outer edge of the image",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "\\bv1_decode\\\\b/gi, 'image loading'); s = s.replace( /\\\\bG1:OUTSIDE_CENTRAL_60%_SAFE_ZONE\\\\b/gi, 'Pin is placed too close to the outer edge of the image'); s = s.replace( /\\\\bG5 box leaves the plate\\",
+  "new_chunk": true
+ },
+ {
+  "text": "Zoom region extends past the edge of the image",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "d too close to the outer edge of the image'); s = s.replace( /\\\\bG5 box leaves the plate\\\\b/gi, 'Zoom region extends past the edge of the image'); s = s.replace( /\\\\bstatus=discarded_([a-z0-9_]+)\\\\b",
+  "new_chunk": true
+ },
+ {
+  "text": "Audio narration covers $1% of the scene points (below the 85% target)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "${reason.replace(/_/g, ' ')})\\`); s = s.replace( /\\\\bP1 Coverage=([\\\\d.]+)\\\\s*\\\\(<85\\\\.0\\\\)/gi, 'Audio narration covers $1% of the scene points (below the 85% target)'); s = s.replace( /\\\\bncity_wat",
+  "new_chunk": true
+ },
+ {
+  "text": "Major Issue",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "L') { severity = 'Blocker'; } else if (rawSev === 'MAJOR' || rawSev === 'MAJOR ISSUE') { severity = 'Major Issue'; } else if (rawSev === 'MINOR' || rawSev === 'MINOR ISSUE') { severity = 'Minor Issue'; ",
+  "new_chunk": true
+ },
+ {
+  "text": "Minor Issue",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "{ severity = 'Major Issue'; } else if (rawSev === 'MINOR' || rawSev === 'MINOR ISSUE') { severity = 'Minor Issue'; } else if (rawSev === 'WARNING' || rawSev === 'WARN') { severity = 'Warning'; } else if",
+  "new_chunk": true
+ },
+ {
+  "text": "Two zoom pins overlap on the same area",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " .trim(); if (dUp.indexOf('SIBLING_IOU') !== -1 || /^IoU\\\\s/i.test(rawTitle)) { title = 'Two zoom pins overlap on the same area'; } else if (dUp.indexOf('PIN_ANCHOR') !== -1) { title = cle",
+  "new_chunk": true
+ },
+ {
+  "text": "Zoom pin sits outside its target area",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " title = cleanSubject ? \\`Pin for \"\\${cleanSubject}\" sits outside its target area\\` : 'Zoom pin sits outside its target area'; } else if (dUp.indexOf('ZOOM_BOX') !== -1) { title = cleanS",
+  "new_chunk": true
+ },
+ {
+  "text": "Zoom region extends past the image edge",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "tle = cleanSubject ? \\`Zoom region for \"\\${cleanSubject}\" extends past the image edge\\` : 'Zoom region extends past the image edge'; } else if (dUp.indexOf('ZOOM_CROP_OFFSET') !== -1) { titl",
+  "new_chunk": true
+ },
+ {
+  "text": "Zoom crop was shifted inward to fit the frame",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " \\`Zoom crop for \"\\${ cleanSubject}\" was shifted inward to fit the frame\\` : 'Zoom crop was shifted inward to fit the frame'; } else if (dUp.indexOf('HUD_BULLETS') !== -1) { tit",
+  "new_chunk": true
+ },
+ {
+  "text": "Scene text card has too many bullet points or long sentences",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " crop was shifted inward to fit the frame'; } else if (dUp.indexOf('HUD_BULLETS') !== -1) { title = 'Scene text card has too many bullet points or long sentences'; } else if (dUp.indexOf('TAP_LABEL_LENGTH')",
+  "new_chunk": true
+ },
+ {
+  "text": "Hotspot label is too long to fit cleanly in its pill",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "many bullet points or long sentences'; } else if (dUp.indexOf('TAP_LABEL_LENGTH') !== -1) { title = 'Hotspot label is too long to fit cleanly in its pill'; } else if (dUp.indexOf('NOVELTY') !== -1) { ",
+  "new_chunk": true
+ },
+ {
+  "text": "Scene image looks nearly identical to another scene",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " label is too long to fit cleanly in its pill'; } else if (dUp.indexOf('NOVELTY') !== -1) { title = 'Scene image looks nearly identical to another scene'; } else if (lUp === 'VISUAL_FACTUALITY' || dUp.index",
+  "new_chunk": true
+ },
+ {
+  "text": "Visual inaccuracy or baked-in text in the illustration",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " const firstSentence = dzHumanizeText(rawDesc).split('.')[0].trim(); title = firstSentence || 'Visual inaccuracy or baked-in text in the illustration'; } else if (lUp === 'VIDEO_TRANSITION') { t",
+  "new_chunk": true
+ },
+ {
+  "text": "Transition video has motion or framing issues",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " inaccuracy or baked-in text in the illustration'; } else if (lUp === 'VIDEO_TRANSITION') { title = 'Transition video has motion or framing issues'; } else if (lUp === 'AUDIO_TOUR') { title = 'Audio n",
+  "new_chunk": true
+ },
+ {
+  "text": "Audio narration skips key points on this scene",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "title = 'Transition video has motion or framing issues'; } else if (lUp === 'AUDIO_TOUR') { title = 'Audio narration skips key points on this scene'; } else { const firstSentence = dzHumanizeText(rawD",
+  "new_chunk": true
+ },
+ {
+  "text": "Flagged issue on this scene",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " const firstSentence = dzHumanizeText(rawDesc).split('.')[0].trim(); title = firstSentence || title || 'Flagged issue on this scene'; } } let description = dzHumanizeText(rawDesc) || title; if (dUp.inde",
+  "new_chunk": true
+ },
+ {
+  "text": "Two neighboring zoom regions overlap heavily, making it hard to tell which pin inspects which component.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " pct}%, making it hard to tell which pin inspects which part.\\`; } else { description = 'Two neighboring zoom regions overlap heavily, making it hard to tell which pin inspects which component.'; ",
+  "new_chunk": true
+ },
+ {
+  "text": "Check the highlighted pin and dashed box on the canvas.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "t(String(rawAnn.howToJudge || '')); if (!howToJudge) { if (lUp === 'PIN_GEOMETRY') { howToJudge = 'Check the highlighted pin and dashed box on the canvas.'; } else if (lUp === 'VISUAL_FACTUALITY') { ",
+  "new_chunk": true
+ },
+ {
+  "text": "Inspect the highlighted area of the illustration for physical accuracy or garbled text.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "in and dashed box on the canvas.'; } else if (lUp === 'VISUAL_FACTUALITY') { howToJudge = 'Inspect the highlighted area of the illustration for physical accuracy or garbled text.'; } else if (lUp ",
+  "new_chunk": true
+ },
+ {
+  "text": "Compare this scene with its parent or neighboring scene for visual consistency.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "cal accuracy or garbled text.'; } else if (lUp === 'VISUAL_QUALITY_STYLE') { howToJudge = 'Compare this scene with its parent or neighboring scene for visual consistency.'; } else if (lUp === 'FAC",
+  "new_chunk": true
+ },
+ {
+  "text": "Read the scene text card and hotspot labels for clarity and conciseness.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ing scene for visual consistency.'; } else if (lUp === 'FACTUAL_PEDAGOGY') { howToJudge = 'Read the scene text card and hotspot labels for clarity and conciseness.'; } else if (lUp === 'VIDEO_TRAN",
+  "new_chunk": true
+ },
+ {
+  "text": "Click the hotspot or next-stage button to watch the transition video.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "bels for clarity and conciseness.'; } else if (lUp === 'VIDEO_TRANSITION') { howToJudge = 'Click the hotspot or next-stage button to watch the transition video.'; } else if (lUp === 'AUDIO_TOUR') ",
+  "new_chunk": true
+ },
+ {
+  "text": "Press Start Tour to listen to the voiceover on this scene.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " next-stage button to watch the transition video.'; } else if (lUp === 'AUDIO_TOUR') { howToJudge = 'Press Start Tour to listen to the voiceover on this scene.'; } else { howToJudge = 'Inspect the hig",
+  "new_chunk": true
+ },
+ {
+  "text": "Inspect the highlighted element on screen.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " howToJudge = 'Press Start Tour to listen to the voiceover on this scene.'; } else { howToJudge = 'Inspect the highlighted element on screen.'; } } return {title, description, howToJudge, severity, s",
+  "new_chunk": true
+ },
+ {
+  "text": "Close issue card",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "trols\">\\` + \\`<button type=\"button\" id=\"autorater-panel-close-btn\" class=\"dz-ar-close-btn\" aria-label=\"Close issue card\" title=\"Close\">&times;</button>\\` + \\`</div>\\` + \\`</div>\\` + \\`<div",
+  "new_chunk": true
+ },
+ {
+  "text": "Widget Eval",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "isabled' : ''; const rawSr = String(ann.sourceRater || '').trim(); const shortSource = (rawSr.indexOf('Widget Eval') !== -1 || (ann.sourceCodeUrl && ann.sourceCo",
+  "new_chunk": true
+ },
+ {
+  "text": "Previous issue",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "=\"dz-ar-footer-nav\">\\` + \\`<button type=\"button\" id=\"dz-ar-prev-btn\" class=\"dz-ar-nav-btn\" aria-label=\"Previous issue\" title=\"Previous issue\"\\${ prevDisabled}>&#8249;</button>\\` + \\`<span clas",
+  "new_chunk": true
+ },
+ {
+  "text": "Next issue",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "eAnns.length}</span>\\` + \\`<button type=\"button\" id=\"dz-ar-next-btn\" class=\"dz-ar-nav-btn\" aria-label=\"Next issue\" title=\"Next issue\"\\${ nextDisabled}>&#8250;</button>\\` + \\`</div>\\` + ",
+  "new_chunk": true
+ },
+ {
+  "text": "Human score must be between 0 and 100.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "Score); if (!isFinite(num) || num < 0 || num > 100) { dzAutoraterState.calibrationError = 'Human score must be between 0 and 100.'; dzAutoraterState.calibrationSavedMsg = ''; dzRenderAutor",
+  "new_chunk": true
+ },
+ {
+  "text": "Please provide a brief note when disagreeing with the autorater.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "LENIENT' || verdict === 'RATER_TOO_STRICT') && !note) { dzAutoraterState.calibrationError = 'Please provide a brief note when disagreeing with the autorater.'; dzAutoraterState.calibrationSavedMsg =",
+  "new_chunk": true
+ },
+ {
+  "text": "Editorial & Scientific Illustration (standard_editorial)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ryDomain; } else if (artDirectionSiId) { artStyle = artDirectionSiId; } else { artStyle = 'Editorial & Scientific Illustration (standard_editorial)'; } } const imageModel = String( debu",
+  "new_chunk": true
+ },
+ {
+  "text": "NanoBanana2 / gempix-2p5-flash (4K)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "odel || node.imageModel || node.image_model || arData.imageModel || autoraterConfig.imageModel || 'NanoBanana2 / gempix-2p5-flash (4K)'); const plannerModel = String( debugObj.plannerModel || debugObj",
+  "new_chunk": true
+ },
+ {
+  "text": "No generation prompt recorded for this scene.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "-debug-history-list\">\\${historyItems}</ul>\\` : ''; const promptText = debugModel.imagePrompt || 'No generation prompt recorded for this scene.'; const stackLines = [ \\`Image: \\${dzEscapeHtml(debugMod",
+  "new_chunk": true
+ },
+ {
+  "text": "Close debug card",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "rd-controls\">\\` + \\`<button type=\"button\" id=\"debug-panel-close-btn\" class=\"dz-ar-close-btn\" aria-label=\"Close debug card\" title=\"Close\">&times;</button>\\` + \\`</div>\\` + \\`</div>\\` + \\`<div class",
+  "new_chunk": true
+ },
+ {
+  "text": "Copy image generation prompt",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "-ar-vote-pills\">\\` + \\`<button type=\"button\" id=\"dz-debug-copy-prompt-btn\" class=\"dz-ar-vote-btn\" title=\"Copy image generation prompt\">Copy Prompt</button>\\` + \\`</div>\\` + \\`</div>\\` + \\`</div>\\`",
+  "new_chunk": true
+ },
+ {
+  "text": "Set isMobileApp to:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "bileVal = data.value === true || data.isMobileApp === true; isMobileApp = isMobileVal; Logger.log('Set isMobileApp to:', isMobileApp); if (isMobileApp) { document.body.classList.add('is-mobile-a",
+  "new_chunk": true
+ },
+ {
+  "text": "Set --mobile-top-safe-area to:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "t padding. document.body.classList.toggle('raw-top-safe-area', data.raw === true); Logger.log('Set --mobile-top-safe-area to:', value); renderLabels(); } break; } case 'mobile",
+  "new_chunk": true
+ },
+ {
+  "text": "Set --mobile-bottom-safe-area to:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "umentElement.style.setProperty( '--mobile-bottom-safe-area', \\`\\${value}px\\`); Logger.log('Set --mobile-bottom-safe-area to:', value); renderLabels(); } break; } case 'mob",
+  "new_chunk": true
+ },
+ {
+  "text": "Set --mobile-left-safe-area to:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ocumentElement.style.setProperty( '--mobile-left-safe-area', \\`\\${value}px\\`); Logger.log('Set --mobile-left-safe-area to:', value); renderLabels(); } break; } case 'mobil",
+  "new_chunk": true
+ },
+ {
+  "text": "Set --mobile-right-safe-area to:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "cumentElement.style.setProperty( '--mobile-right-safe-area', \\`\\${value}px\\`); Logger.log('Set --mobile-right-safe-area to:', value); renderLabels(); } break; } case 'init",
+  "new_chunk": true
+ },
+ {
+  "text": "Image transition completed, initializing immersive layout",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ioned = true; mainImage.removeEventListener('transitionend', onTransitionEnd); Logger.log('Image transition completed, initializing immersive layout'); isLightboxTransitioning = false; ",
+  "new_chunk": true
+ },
+ {
+  "text": "Back to tour",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " ''; const nudgeTitle = safeTargetName ? \\`Back to tour · \\${safeTargetName}\\` : 'Back to tour'; tourButtonHtml = \\` <div id=\"tour-player-box\" class=\"tour-player-box lumi-audio-over",
+  "new_chunk": true
+ },
+ {
+  "text": "Close Tour",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "</div> <button id=\"tour-close-btn\" class=\"tour-control-btn tour-close-btn lumi-icon-btn\" aria-label=\"Close Tour\" onclick=\"__deepZoomTour__.stop(true, true)\"> <span class=\"google-symbols google-symbo",
+  "new_chunk": true
+ },
+ {
+  "text": "Toggle Did You Know",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "=\"did-you-know-title\">Did you know?</span> <button class=\"did-you-know-toggle-btn\" aria-label=\"Toggle Did You Know\" onclick=\"handleDidYouKnowToggle(event, '\\${cid}')\"> <span class=\"did-y",
+  "new_chunk": true
+ },
+ {
+  "text": "Toggle Text Panel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " const toggleButtonHtml = \\` <button id=\"text-panel-toggle\" class=\"text-panel-toggle-btn\" aria-label=\"Toggle Text Panel\"> <span class=\"toggle-icon\">\\${CHEVRON_DOWN_SVG}</span> </button> \\",
+  "new_chunk": true
+ },
+ {
+  "text": "Explore More",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "matic collapse on label/dot collision feature has been disabled. return; } /** * Global click handler for \"Explore More\" / \"Did you know?\" buttons inside the text panel. * @param {string} childId */ function handle",
+  "new_chunk": true
+ },
+ {
+  "text": "Did you know?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " label/dot collision feature has been disabled. return; } /** * Global click handler for \"Explore More\" / \"Did you know?\" buttons inside the text panel. * @param {string} childId */ function handleExploreMoreClick(",
+  "new_chunk": true
+ },
+ {
+  "text": "➡️ zoomToChild started for childId:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "oChild early exit: childNode is terminal (no children)'); pinLeaf(childId); return; } Logger.log('➡️ zoomToChild started for childId:', childId); // Audio Tour Mode continuous playback & off-route detecti",
+  "new_chunk": true
+ },
+ {
+  "text": "Video element error, falling back to renderNode:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ended', () => finishVideoTransition(false)); videoEl.addEventListener('error', (e) => { Logger.log('Video element error, falling back to renderNode:', e); const fallbackUrl = childNode.video_clip_remote ",
+  "new_chunk": true
+ },
+ {
+  "text": "Retrying with fallback video URL:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " if (fallbackUrl && fallbackUrl !== videoEl.src && fallbackUrl !== resolvedVideoUrl) { Logger.log('Retrying with fallback video URL:', fallbackUrl); videoEl.src = fallbackUrl; const retryPromi",
+  "new_chunk": true
+ },
+ {
+  "text": "➡️ zoomToChild early exit: childNode has no zoomedBox. Rendering instantly.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " }); return; } const zoomedBox = childNode.zoomedBox; if (!zoomedBox) { Logger.log( '➡️ zoomToChild early exit: childNode has no zoomedBox. Rendering instantly.'); isAnimating = false; r",
+  "new_chunk": true
+ },
+ {
+  "text": "Fetched audio blob is empty",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " } const blob = await response.blob(); if (!blob || blob.size < 256) { throw new Error('Fetched audio blob is empty'); } const blobUrl = URL.createObjectURL(blob); audioBlobCache.",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to pre-fetch audio blob, falling back to direct URL:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " audioBlobCache.set(url, blobUrl); return blobUrl; } catch (err) { Logger.warn( 'Failed to pre-fetch audio blob, falling back to direct URL:', err); return url; } finally { i",
+  "new_chunk": true
+ },
+ {
+  "text": "Back to tour ·",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "n.style.display = 'inline'; const targetName = this.getTargetDisplayLabel(); btn.title = targetName ? 'Back to tour · ' + targetName : 'Back to tour'; if (pulse) { btn.classList.remove('is-pulsing'); ",
+  "new_chunk": true
+ },
+ {
+  "text": "Autoplay failed:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "rr) { console.error('Fallback audio play failed:', retryErr); } } console.error(\"Autoplay failed:\", e); } }, stop: function(skipRender = false, userInitiated = false) { if (user",
+  "new_chunk": true
+ },
+ {
+  "text": "Nudge deferred: lightbox is still transitioning",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " // Gate: wait for both transition to end and image to load if (isLightboxTransitioning) { Logger.log('Nudge deferred: lightbox is still transitioning'); return; } if (!mainImage.complete || mainImage.nat",
+  "new_chunk": true
+ },
+ {
+  "text": "Nudge deferred: image is not fully loaded",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " transitioning'); return; } if (!mainImage.complete || mainImage.naturalWidth === 0) { Logger.log('Nudge deferred: image is not fully loaded'); return; } if (nudgeTimeoutId) clearTimeout(nudgeTimeout",
+  "new_chunk": true
+ },
+ {
+  "text": "Nudge timer started (2s)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "rTimeout(nudgeTimeoutId); nudgeTimeoutId = setTimeout(() => { performNudge(); }, 2000); Logger.log('Nudge timer started (2s)'); } /** * Performs the nudge animation: pans slightly horizontally then back. */",
+  "new_chunk": true
+ },
+ {
+  "text": "Previous stage",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "></span> <span class=\"seq-abs\"></span> </div> <button class=\"seq-btn seq-prev\" aria-label=\"Previous stage\"><span class=\"google-symbols\">chevron_left</span></button> <div class=\"seq-track\" style=",
+  "new_chunk": true
+ },
+ {
+  "text": "Next stage",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "\"> <div class=\"seq-line\"><b></b></div> </div> <button class=\"seq-btn seq-next\" aria-label=\"Next stage\"><span class=\"google-symbols\">chevron_right</span></button> <button class=\"seq-btn seq-close",
+  "new_chunk": true
+ },
+ {
+  "text": "Exit timeline",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "<span class=\"google-symbols\">chevron_right</span></button> <button class=\"seq-btn seq-close\" aria-label=\"Exit timeline\"><span class=\"google-symbols\">close</span></button> </div>\\`; const track = rail.querySel",
+  "new_chunk": true
+ },
+ {
+  "text": "Minimize route map",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "s.length}</div> <button type=\"button\" class=\"dz-mm-collapse-btn\" id=\"dz-mm-collapse-btn\" aria-label=\"Minimize route map\" aria-expanded=\"true\" title=\"Minimize / Expand Map\"><span class=\"google-symbols\">expand_mo",
+  "new_chunk": true
+ },
+ {
+  "text": "Minimize / Expand Map",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "class=\"dz-mm-collapse-btn\" id=\"dz-mm-collapse-btn\" aria-label=\"Minimize route map\" aria-expanded=\"true\" title=\"Minimize / Expand Map\"><span class=\"google-symbols\">expand_more</span></button> </div> </div> ",
+  "new_chunk": true
+ },
+ {
+  "text": "Zoom Out to Parent Scene",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "&& ttNodeObj.parentId) ? \\`<button type=\"button\" class=\"dz-tt-cardinal-pill dz-deck-zoom-out-btn\" title=\"Zoom Out to Parent Scene\">Zoom Out</button>\\` : ''; deck.innerHTML = \\` \\${ttZoomOutHtml} \\$",
+  "new_chunk": true
+ },
+ {
+  "text": "Toggle Auto-Orbit",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "</span> \\${cardinalsHtml} <button type=\"button\" class=\"dz-tt-cardinal-pill dz-tt-orbit-btn\" title=\"Toggle Auto-Orbit\">Auto-Orbit</button> </div> \\`; document.body.appendChild(deck); turntableState.d",
+  "new_chunk": true
+ },
+ {
+  "text": "Drag to compare views",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ble=\"false\" /> </div> <div id=\"dz-split-line\"> <div id=\"dz-split-knob\" role=\"slider\" aria-label=\"Drag to compare views\" aria-valuemin=\"4\" aria-valuemax=\"96\" aria-valuenow=\"50\"> <svg viewBox=\"0 0 24 ",
+  "new_chunk": true
+ },
+ {
+  "text": "Autorater sync error:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "cAutoraterNode === 'function') { dzSyncAutoraterNode(nodeId); } } catch (err) { console.error('Autorater sync error:', err); } const tourBtn = document.getElementById('start-tour-btn'); if (tourBtn",
+  "new_chunk": true
+ },
+ {
+  "text": "[MASK IMAGE LOAD ERROR] Failed to load mask:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "= '1'; resolve(); }; img.onerror = (e) => { console.error(\"[MASK IMAGE LOAD ERROR] Failed to load mask:\", childNode.maskSrc, e); resolve(); };",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to emit telemetry:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "t !== window) { window.parent.postMessage(payload, '*'); } } catch (e) { console.warn('Failed to emit telemetry:', e); } try { window.dispatchEvent(new CustomEvent('deepzoom:interac",
+  "new_chunk": true
+ },
+ {
+  "text": "Send feedback to Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "DBACK_I18N = { 'en': { feedbackButtonTitle: 'Feedback', closeAriaLabel: 'Close', title: 'Send feedback to Gemini', helpfulPrompt: 'Was this immersive exploration helpful?', thumbUpAriaLa",
+  "new_chunk": true
+ },
+ {
+  "text": "Was this immersive exploration helpful?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "itle: 'Feedback', closeAriaLabel: 'Close', title: 'Send feedback to Gemini', helpfulPrompt: 'Was this immersive exploration helpful?', thumbUpAriaLabel: 'Helpful (Thumbs Up)', thumbDownAriaL",
+  "new_chunk": true
+ },
+ {
+  "text": "Helpful (Thumbs Up)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " feedback to Gemini', helpfulPrompt: 'Was this immersive exploration helpful?', thumbUpAriaLabel: 'Helpful (Thumbs Up)', thumbDownAriaLabel: 'Not helpful (Thumbs Down)', describePrompt: 'Please de",
+  "new_chunk": true
+ },
+ {
+  "text": "Not helpful (Thumbs Down)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "his immersive exploration helpful?', thumbUpAriaLabel: 'Helpful (Thumbs Up)', thumbDownAriaLabel: 'Not helpful (Thumbs Down)', describePrompt: 'Please describe what happened.', options: { ",
+  "new_chunk": true
+ },
+ {
+  "text": "Please describe what happened.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "riaLabel: 'Helpful (Thumbs Up)', thumbDownAriaLabel: 'Not helpful (Thumbs Down)', describePrompt: 'Please describe what happened.', options: { difficult_to_navigate: 'Difficult to navigate / Gli",
+  "new_chunk": true
+ },
+ {
+  "text": "Difficult to navigate / Glitched",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "wn)', describePrompt: 'Please describe what happened.', options: { difficult_to_navigate: 'Difficult to navigate / Glitched', poor_resolution: 'Poor image resolution', didnt_load: 'Did",
+  "new_chunk": true
+ },
+ {
+  "text": "Poor image resolution",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " options: { difficult_to_navigate: 'Difficult to navigate / Glitched', poor_resolution: 'Poor image resolution', didnt_load: 'Didn\\\\'t load', inaccurate_labels: 'Inaccurate labels or",
+  "new_chunk": true
+ },
+ {
+  "text": "Envoyer des commentaires à Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "', }, 'fr': { feedbackButtonTitle: 'Commentaires', closeAriaLabel: 'Fermer', title: 'Envoyer des commentaires à Gemini', helpfulPrompt: 'Cette vue immersive vous a-t-elle été utile\\\\u00a0?",
+  "new_chunk": true
+ },
+ {
+  "text": "Pas utile (Je n\\u2019aime pas)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "e vous a-t-elle été utile\\\\u00a0?', thumbUpAriaLabel: 'Utile (J\\\\u2019aime)', thumbDownAriaLabel: 'Pas utile (Je n\\\\u2019aime pas)', describePrompt: 'Veuillez décrire ce qui s\\\\'est passé.', optio",
+  "new_chunk": true
+ },
+ {
+  "text": "Veuillez décrire ce qui s\\",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "l: 'Utile (J\\\\u2019aime)', thumbDownAriaLabel: 'Pas utile (Je n\\\\u2019aime pas)', describePrompt: 'Veuillez décrire ce qui s\\\\'est passé.', options: { difficult_to_navigate: 'Navigation difficil",
+  "new_chunk": true
+ },
+ {
+  "text": "Échec du chargement",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "difficile/Problème', poor_resolution: 'Résolution d\\\\'image de mauvaise qualité', didnt_load: 'Échec du chargement', inaccurate_labels: 'Libellés ou détails inexacts', }, otherPlacehol",
+  "new_chunk": true
+ },
+ {
+  "text": "Libellés ou détails inexacts",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "olution d\\\\'image de mauvaise qualité', didnt_load: 'Échec du chargement', inaccurate_labels: 'Libellés ou détails inexacts', }, otherPlaceholder: 'Autre', cancel: 'Annuler', send:",
+  "new_chunk": true
+ },
+ {
+  "text": "Kirim masukan ke Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "'भेजें', }, 'id': { feedbackButtonTitle: 'Masukan', closeAriaLabel: 'Tutup', title: 'Kirim masukan ke Gemini', helpfulPrompt: 'Apakah tampilan imersif ini membantu?', thumbUpAriaLabe",
+  "new_chunk": true
+ },
+ {
+  "text": "Apakah tampilan imersif ini membantu?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "Title: 'Masukan', closeAriaLabel: 'Tutup', title: 'Kirim masukan ke Gemini', helpfulPrompt: 'Apakah tampilan imersif ini membantu?', thumbUpAriaLabel: 'Membantu (Suka)', thumbDownAriaLabel: ",
+  "new_chunk": true
+ },
+ {
+  "text": "Membantu (Suka)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "rim masukan ke Gemini', helpfulPrompt: 'Apakah tampilan imersif ini membantu?', thumbUpAriaLabel: 'Membantu (Suka)', thumbDownAriaLabel: 'Tidak membantu (Tidak suka)', describePrompt: 'Jelaskan ap",
+  "new_chunk": true
+ },
+ {
+  "text": "Tidak membantu (Tidak suka)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "'Apakah tampilan imersif ini membantu?', thumbUpAriaLabel: 'Membantu (Suka)', thumbDownAriaLabel: 'Tidak membantu (Tidak suka)', describePrompt: 'Jelaskan apa yang terjadi.', options: { di",
+  "new_chunk": true
+ },
+ {
+  "text": "Jelaskan apa yang terjadi.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "pAriaLabel: 'Membantu (Suka)', thumbDownAriaLabel: 'Tidak membantu (Tidak suka)', describePrompt: 'Jelaskan apa yang terjadi.', options: { difficult_to_navigate: 'Sulit dinavigasi/Terjadi error'",
+  "new_chunk": true
+ },
+ {
+  "text": "Sulit dinavigasi/Terjadi error",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "k suka)', describePrompt: 'Jelaskan apa yang terjadi.', options: { difficult_to_navigate: 'Sulit dinavigasi/Terjadi error', poor_resolution: 'Resolusi gambar buruk', didnt_load: 'Tidak",
+  "new_chunk": true
+ },
+ {
+  "text": "Resolusi gambar buruk",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "', options: { difficult_to_navigate: 'Sulit dinavigasi/Terjadi error', poor_resolution: 'Resolusi gambar buruk', didnt_load: 'Tidak termuat', inaccurate_labels: 'Label atau detail ti",
+  "new_chunk": true
+ },
+ {
+  "text": "Tidak termuat",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "gate: 'Sulit dinavigasi/Terjadi error', poor_resolution: 'Resolusi gambar buruk', didnt_load: 'Tidak termuat', inaccurate_labels: 'Label atau detail tidak akurat', }, otherPlaceholder:",
+  "new_chunk": true
+ },
+ {
+  "text": "Label atau detail tidak akurat",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " poor_resolution: 'Resolusi gambar buruk', didnt_load: 'Tidak termuat', inaccurate_labels: 'Label atau detail tidak akurat', }, otherPlaceholder: 'Lainnya', cancel: 'Batal', sen",
+  "new_chunk": true
+ },
+ {
+  "text": "Enviar feedback para o Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "m', }, 'pt-BR': { feedbackButtonTitle: 'Feedback', closeAriaLabel: 'Fechar', title: 'Enviar feedback para o Gemini', helpfulPrompt: 'Esta visualização imersiva foi útil?', thumbUpAri",
+  "new_chunk": true
+ },
+ {
+  "text": "Esta visualização imersiva foi útil?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "Feedback', closeAriaLabel: 'Fechar', title: 'Enviar feedback para o Gemini', helpfulPrompt: 'Esta visualização imersiva foi útil?', thumbUpAriaLabel: 'Útil (Gostei)', thumbDownAriaLabel: 'Nã",
+  "new_chunk": true
+ },
+ {
+  "text": "Útil (Gostei)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "feedback para o Gemini', helpfulPrompt: 'Esta visualização imersiva foi útil?', thumbUpAriaLabel: 'Útil (Gostei)', thumbDownAriaLabel: 'Não foi útil (Não gostei)', describePrompt: 'Descreva o que ",
+  "new_chunk": true
+ },
+ {
+  "text": "Não foi útil (Não gostei)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "t: 'Esta visualização imersiva foi útil?', thumbUpAriaLabel: 'Útil (Gostei)', thumbDownAriaLabel: 'Não foi útil (Não gostei)', describePrompt: 'Descreva o que aconteceu.', options: { diffi",
+  "new_chunk": true
+ },
+ {
+  "text": "Descreva o que aconteceu.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "umbUpAriaLabel: 'Útil (Gostei)', thumbDownAriaLabel: 'Não foi útil (Não gostei)', describePrompt: 'Descreva o que aconteceu.', options: { difficult_to_navigate: 'Navegação difícil / com falhas',",
+  "new_chunk": true
+ },
+ {
+  "text": "Navegação difícil / com falhas",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " gostei)', describePrompt: 'Descreva o que aconteceu.', options: { difficult_to_navigate: 'Navegação difícil / com falhas', poor_resolution: 'Imagem com baixa resolução', didnt_load: '",
+  "new_chunk": true
+ },
+ {
+  "text": "Imagem com baixa resolução",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "', options: { difficult_to_navigate: 'Navegação difícil / com falhas', poor_resolution: 'Imagem com baixa resolução', didnt_load: 'Não carregou', inaccurate_labels: 'Rótulos ou detal",
+  "new_chunk": true
+ },
+ {
+  "text": "Rótulos ou detalhes imprecisos",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "poor_resolution: 'Imagem com baixa resolução', didnt_load: 'Não carregou', inaccurate_labels: 'Rótulos ou detalhes imprecisos', }, otherPlaceholder: 'Outro', cancel: 'Cancelar', se",
+  "new_chunk": true
+ },
+ {
+  "text": "Feedback an Gemini senden",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "送', }, 'de': { feedbackButtonTitle: 'Feedback', closeAriaLabel: 'Schließen', title: 'Feedback an Gemini senden', // NOLINT helpfulPrompt: 'War diese immersive Ansicht hilfreich?', t",
+  "new_chunk": true
+ },
+ {
+  "text": "War diese immersive Ansicht hilfreich?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " closeAriaLabel: 'Schließen', title: 'Feedback an Gemini senden', // NOLINT helpfulPrompt: 'War diese immersive Ansicht hilfreich?', thumbUpAriaLabel: 'Hilfreich (Mag ich)', thumbDownAriaLa",
+  "new_chunk": true
+ },
+ {
+  "text": "Hilfreich (Mag ich)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ni senden', // NOLINT helpfulPrompt: 'War diese immersive Ansicht hilfreich?', thumbUpAriaLabel: 'Hilfreich (Mag ich)', thumbDownAriaLabel: 'Nicht hilfreich (Mag ich nicht)', describePrompt: 'Bit",
+  "new_chunk": true
+ },
+ {
+  "text": "Nicht hilfreich (Mag ich nicht)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "diese immersive Ansicht hilfreich?', thumbUpAriaLabel: 'Hilfreich (Mag ich)', thumbDownAriaLabel: 'Nicht hilfreich (Mag ich nicht)', describePrompt: 'Bitte beschreibe, was passiert ist.', options:",
+  "new_chunk": true
+ },
+ {
+  "text": "Bitte beschreibe, was passiert ist.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "el: 'Hilfreich (Mag ich)', thumbDownAriaLabel: 'Nicht hilfreich (Mag ich nicht)', describePrompt: 'Bitte beschreibe, was passiert ist.', options: { difficult_to_navigate: 'Schwierige Bedienung\\\\",
+  "new_chunk": true
+ },
+ {
+  "text": "Schlechte Bildauflösung",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "options: { difficult_to_navigate: 'Schwierige Bedienung\\\\u00a0/ Fehlerhaft', poor_resolution: 'Schlechte Bildauflösung', didnt_load: 'Wurde nicht geladen', inaccurate_labels: 'Falsche Labe",
+  "new_chunk": true
+ },
+ {
+  "text": "Wurde nicht geladen",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "ierige Bedienung\\\\u00a0/ Fehlerhaft', poor_resolution: 'Schlechte Bildauflösung', didnt_load: 'Wurde nicht geladen', inaccurate_labels: 'Falsche Labels oder Details', }, otherPlacehold",
+  "new_chunk": true
+ },
+ {
+  "text": "Falsche Labels oder Details",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "_resolution: 'Schlechte Bildauflösung', didnt_load: 'Wurde nicht geladen', inaccurate_labels: 'Falsche Labels oder Details', }, otherPlaceholder: 'Sonstiges', cancel: 'Abbrechen', ",
+  "new_chunk": true
+ },
+ {
+  "text": "Enviar comentarios a Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "n', }, 'es': { feedbackButtonTitle: 'Comentarios', closeAriaLabel: 'Cerrar', title: 'Enviar comentarios a Gemini', helpfulPrompt: '¿Te ha resultado útil esta vista inmersiva?', thumb",
+  "new_chunk": true
+ },
+ {
+  "text": "¿Te ha resultado útil esta vista inmersiva?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "omentarios', closeAriaLabel: 'Cerrar', title: 'Enviar comentarios a Gemini', helpfulPrompt: '¿Te ha resultado útil esta vista inmersiva?', thumbUpAriaLabel: 'Útil (Me gusta)', thumbDownAriaL",
+  "new_chunk": true
+ },
+ {
+  "text": "Útil (Me gusta)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "tarios a Gemini', helpfulPrompt: '¿Te ha resultado útil esta vista inmersiva?', thumbUpAriaLabel: 'Útil (Me gusta)', thumbDownAriaLabel: 'No es útil (No me gusta)', describePrompt: 'Describe lo qu",
+  "new_chunk": true
+ },
+ {
+  "text": "No es útil (No me gusta)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "a resultado útil esta vista inmersiva?', thumbUpAriaLabel: 'Útil (Me gusta)', thumbDownAriaLabel: 'No es útil (No me gusta)', describePrompt: 'Describe lo que ha ocurrido.', options: { dif",
+  "new_chunk": true
+ },
+ {
+  "text": "Describe lo que ha ocurrido.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "mbUpAriaLabel: 'Útil (Me gusta)', thumbDownAriaLabel: 'No es útil (No me gusta)', describePrompt: 'Describe lo que ha ocurrido.', options: { difficult_to_navigate: 'Es difícil desplazarse o hay ",
+  "new_chunk": true
+ },
+ {
+  "text": "Es difícil desplazarse o hay fallos",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "usta)', describePrompt: 'Describe lo que ha ocurrido.', options: { difficult_to_navigate: 'Es difícil desplazarse o hay fallos', poor_resolution: 'Mala resolución de la imagen', didnt_",
+  "new_chunk": true
+ },
+ {
+  "text": "Mala resolución de la imagen",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " options: { difficult_to_navigate: 'Es difícil desplazarse o hay fallos', poor_resolution: 'Mala resolución de la imagen', didnt_load: 'No se ha cargado', inaccurate_labels: 'Etiquetas ",
+  "new_chunk": true
+ },
+ {
+  "text": "No se ha cargado",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "fícil desplazarse o hay fallos', poor_resolution: 'Mala resolución de la imagen', didnt_load: 'No se ha cargado', inaccurate_labels: 'Etiquetas o detalles incorrectos', }, otherPlaceho",
+  "new_chunk": true
+ },
+ {
+  "text": "Etiquetas o detalles incorrectos",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "esolution: 'Mala resolución de la imagen', didnt_load: 'No se ha cargado', inaccurate_labels: 'Etiquetas o detalles incorrectos', }, otherPlaceholder: 'Otro', cancel: 'Cancelar', s",
+  "new_chunk": true
+ },
+ {
+  "text": "Invia feedback a Gemini",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "viar', }, 'it': { feedbackButtonTitle: 'Feedback', closeAriaLabel: 'Chiudi', title: 'Invia feedback a Gemini', helpfulPrompt: 'Questa vista immersiva è stata utile?', thumbUpAriaLabe",
+  "new_chunk": true
+ },
+ {
+  "text": "Questa vista immersiva è stata utile?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "tle: 'Feedback', closeAriaLabel: 'Chiudi', title: 'Invia feedback a Gemini', helpfulPrompt: 'Questa vista immersiva è stata utile?', thumbUpAriaLabel: 'Utile (Mi piace)', thumbDownAriaLabel:",
+  "new_chunk": true
+ },
+ {
+  "text": "Utile (Mi piace)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "via feedback a Gemini', helpfulPrompt: 'Questa vista immersiva è stata utile?', thumbUpAriaLabel: 'Utile (Mi piace)', thumbDownAriaLabel: 'Non utile (Non mi piace)', describePrompt: 'Descrivi cosa",
+  "new_chunk": true
+ },
+ {
+  "text": "Non utile (Non mi piace)",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "Questa vista immersiva è stata utile?', thumbUpAriaLabel: 'Utile (Mi piace)', thumbDownAriaLabel: 'Non utile (Non mi piace)', describePrompt: 'Descrivi cosa è successo.', options: { diffic",
+  "new_chunk": true
+ },
+ {
+  "text": "Descrivi cosa è successo.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "bUpAriaLabel: 'Utile (Mi piace)', thumbDownAriaLabel: 'Non utile (Non mi piace)', describePrompt: 'Descrivi cosa è successo.', options: { difficult_to_navigate: 'Difficoltà di navigazione/proble",
+  "new_chunk": true
+ },
+ {
+  "text": "Difficoltà di navigazione/problema",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "i piace)', describePrompt: 'Descrivi cosa è successo.', options: { difficult_to_navigate: 'Difficoltà di navigazione/problema', poor_resolution: 'Risoluzione dell\\\\'immagine scadente', ",
+  "new_chunk": true
+ },
+ {
+  "text": "Risoluzione dell\\",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": " options: { difficult_to_navigate: 'Difficoltà di navigazione/problema', poor_resolution: 'Risoluzione dell\\\\'immagine scadente', didnt_load: 'Non caricata', inaccurate_labels: 'Etiche",
+  "new_chunk": true
+ },
+ {
+  "text": "[DeepZoom JS] 🚀 submitFeedback() called with:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "'visible'); } window.scrollTo(0, 0); }; function submitFeedback(data) { console.log( '[DeepZoom JS] 🚀 submitFeedback() called with:', JSON.stringify(data)); if (!feedbackModalEl) return; ",
+  "new_chunk": true
+ },
+ {
+  "text": "[DeepZoom JS] 📦 posting message to native & parent:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "w() }; const message = {type: 'lightboxFeedbackRequest', payload: payload}; console.log( '[DeepZoom JS] 📦 posting message to native & parent:', JSON.stringify(message)); // 1. Direct Web",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to post feedback to lightboxFeedbackRequest message handler:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "webkit.messageHandlers.lightboxFeedbackRequest.postMessage(message); } catch (e) { console.warn('Failed to post feedback to lightboxFeedbackRequest message handler:', e); } } else if (window.webki",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to post feedback to deepZoomFeedback message handler:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "window.webkit.messageHandlers.deepZoomFeedback.postMessage(message); } catch (e) { console.warn('Failed to post feedback to deepZoomFeedback message handler:', e); } } else if (window.parent && wi",
+  "new_chunk": true
+ },
+ {
+  "text": "Failed to post feedback submission message:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/immersive_world_shell_dev.js",
+  "ctx": "t frame try { window.parent.postMessage(message, '*'); } catch (e) { console.warn('Failed to post feedback submission message:', e); } } else { // 3. Android WebView (top-level",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,decorative:!0,height:24,objectFit:T?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/useConversationThread.js",
+  "ctx": "position:`absolute`,zIndex:1,children:j?(0,W.jsx)(m,{name:`error`,size:`s`}):V?(0,W.jsx)(d,{borderRadius:T?`xs`:void 0,decorative:!0,height:24,objectFit:T?`cover`:void 0,onError:()=>{re(V)},src:V,width:24}):I?(0,W.jsx)(c",
+  "new_chunk": false
+ },
+ {
+  "text": ",p=k(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?j.SPECIFIC:j.IMMEDIATELY,g=k(e.endTime),_=g===void 0?de(t,1):new Date(g),v=g===void 0?M.NEVER:M.SPECIFIC,y=g===void 0?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ScheduledTasksSidePanelContent.js",
+  "ctx": "n===`gmailTrigger`?e.gmailTrigger?.emailQuery??``:n===`electricTrigger`?e.electricTrigger?.electricQuery??``:``,p=k(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?j.SPECIFIC:j.IMM",
+  "new_chunk": false
+ },
+ {
+  "text": ",background:r.isGenerating?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/WorldsPageSurface.js",
+  "ctx": "er`,position:`absolute`,src:r.imageUrl,sx:$.heroCoverImage,width:`full`}):(0,Q.jsx)(c,{align:`center`,as:`span`,background:r.isGenerating?void 0:`surface-container-highest`,height:`full`,justify:`center`,sx:r.isGeneratin",
+  "new_chunk": true
+ },
+ {
+  "text": "Immersive explorations",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/WorldsPageSurface.js",
+  "ctx": ",t[22]=w,t[23]=T):T=t[23];let E;return t[24]!==x||t[25]!==S||t[26]!==T?(E=(0,Q.jsx)(A,{fallback:x,featureName:`Immersive explorations`,resetKeys:S,showDiagnostics:!1,children:T}),t[24]=x,t[25]=S,t[26]=T,t[27]=E):E=t[27],",
+  "new_chunk": true
+ },
+ {
+  "text": "Expected to exist: %s.",
+  "kind": "copy",
+  "file": "www.gstatic.com/inputtools/js/ita/inputtools_3.js",
+  "ctx": "tion(a,b,c){a||Bk(\"\",null, b,Array.prototype.slice.call(arguments,2));return a},F=function(a,b,c){a==null&&Bk(\"Expected to exist: %s.\",[a],b,Array.prototype.slice.call(arguments,2));return a},Ck=function(a,b){throw new A",
+  "new_chunk": false
+ },
+ {
+  "text": "Bad secret",
+  "kind": "copy",
+  "file": "www.gstatic.com/inputtools/js/ita/inputtools_3.js",
+  "ctx": "3];g=g[3]}while(c==0)}return c},vl=function(a, b){return a<b?-1:a>b?1:0},yl=function(){if(xl!==xl)throw Error(\"Bad secret\");},Al=function(){var a=null;if(!zl)return a;try{var b=function(c){return c};a=zl.createPolicy(\"go",
+  "new_chunk": false
+ },
+ {
+  "text": "Keys are undefined",
+  "kind": "copy",
+  "file": "www.gstatic.com/inputtools/js/ita/inputtools_3.js",
+  "ctx": "odeURIComponent(b.replace(/\\+/g,\" \")),c)}))},Pv=function(a){var b=Mv(a);if(typeof b== \"undefined\")throw Error(\"Keys are undefined\");var c=new Nv;a=Lv(a);for(var d=0;d<b.length;d++){var e=b[d],f=a[d];if(Array.isArray(f)){",
+  "new_chunk": false
+ },
+ {
+  "text": "Problem encountered resetting onreadystatechange:",
+  "kind": "copy",
+  "file": "www.gstatic.com/inputtools/js/ita/inputtools_3.js",
+  "ctx": "ut(a.G), a.G=null);var c=a.B;a.B=null;b||a.A(\"ready\");try{c.onreadystatechange=null}catch(d){(a=a.C)&&mm(a,cw,\"Problem encountered resetting onreadystatechange: \"+d.message)}}},aw=function(a,b){return b+\" [\"+a.U+\" \"+a.J+",
+  "new_chunk": false
+ }
+]

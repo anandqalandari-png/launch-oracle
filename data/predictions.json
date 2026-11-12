@@ -782,7 +782,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 75,
   "deadline": "2027-01-20",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-06",
@@ -793,6 +793,11 @@
     "date": "2026-11-07",
     "confidence": 0.6,
     "note": "New strings show quiz customization: question count up to 50, multiple choice, true or false and fill in the blank formats, difficulty, and a growth-areas focus. A 'Keep Learning' section offers flashcards and a study guide after a quiz. Th"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "Quiz UI strings ('New quiz', 'Not answered') add to the existing results/report/review quiz flow, which suggests a fuller quiz experience in the build."
    }
   ],
   "evidence": [
@@ -854,6 +859,18 @@
     "text": "Take another quiz",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "New quiz",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Not answered",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": true
    }
   ],
@@ -1427,7 +1444,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.3,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-06",
@@ -1438,6 +1455,11 @@
     "date": "2026-11-11",
     "confidence": 0.3,
     "note": "A 'dashboard-custom-query' flag describes agent-built custom query widgets and is labeled a prototype. Supporting copy shows a query description UI ('For each row, compute', 'One row per group'). This extends the dashboard-builder concept b"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.4,
+    "note": "A dedicated flag shows an Agent pane on dashboards and an Agent tab in the insight editor."
    }
   ],
   "evidence": [
@@ -1475,6 +1497,18 @@
     "text": "Dashboard custom query widgets",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Insights Agent",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Show the Agent pane on dashboards and the Agent tab in the insight editor. Also needs the agent-split-view flag.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -2023,7 +2057,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-07",
@@ -2034,6 +2068,11 @@
     "date": "2026-11-11",
     "confidence": 0.45,
     "note": "The task edit form now reads a gmailTrigger email query and a second 'electricTrigger' query. It also has start and end time modes (immediately or specific, never or specific). This points to multiple trigger types and a task editor in prog"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.4,
+    "note": "The task edit form code handles a start time (immediate or specific), an end time (never or specific), and gmailTrigger/electricTrigger queries, which supports event-triggered tasks with end times."
    }
   ],
   "evidence": [
@@ -2053,6 +2092,12 @@
     "text": ",p=A(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?M.SPECIFIC:M.IMMEDIATELY,g=A(e.endTime),_=g===void 0?de(t,1):new Date(g),v=g===void 0?N.NEVER:N.SPECIFIC,y=g===void 0?",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": ",p=k(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?j.SPECIFIC:j.IMMEDIATELY,g=k(e.endTime),_=g===void 0?de(t,1):new Date(g),v=g===void 0?M.NEVER:M.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -2387,12 +2432,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 60,
   "deadline": "2027-01-06",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.55,
+    "note": "Both workspace-level and per-loop settings for trusted trigger sources now appear, with an untrusted-source reason of content risk."
    }
   ],
   "evidence": [
@@ -2425,6 +2475,24 @@
     "kind": "copy",
     "first_seen": "2026-11-07",
     "new_chunk": false
+   },
+   {
+    "text": "Allowlist external sources and integrations to trigger loops. Each loop can add the sources it trusts. Counts only include loops you can view.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "External sources trusted to trigger this loop",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Content needs review",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -2452,7 +2520,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.45,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
@@ -2463,6 +2531,11 @@
     "date": "2026-11-11",
     "confidence": 0.45,
     "note": "Local worker setup and local session start strings indicate the local execution path is being built."
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.55,
+    "note": "A full Local agents settings page now exists: install, sign-in, device list, checkout location and version control. This makes local sessions more concrete."
    }
   ],
   "evidence": [
@@ -2483,6 +2556,30 @@
     "kind": "copy",
     "first_seen": "2026-11-11",
     "new_chunk": false
+   },
+   {
+    "text": "Run local coding agents from Linear on this computer",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Local agents run only on macOS and Linux",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Set up this computer to run local coding agents",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Connected devices",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -3260,7 +3357,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.6,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-10",
@@ -3271,6 +3368,11 @@
     "date": "2026-11-11",
     "confidence": 0.6,
     "note": "The group label lightweight-web.writing-followups.group-label now appears in dozens of locales (French, German, Spanish, Italian, Portuguese and more). A surface is also named in markup via data-writing-followup-suggestions-surface. Full tr"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.55,
+    "note": "The writing-followups group label is now localised in several languages (Albanian, Lithuanian, Polish, Dutch, Swahili). There is also a current-draft-prompt template that appends the existing draft to the follow-up prompt. Both point to a m"
    }
   ],
   "evidence": [
@@ -3320,6 +3422,24 @@
     "text": "),tx=M('<svg width=20 height=20 viewBox=",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Mesazhe vijuese të sugjeruara",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Sugerowane dalsze kroki",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Notaðu núverandi drög hér að neðan:",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -3459,6 +3579,11 @@
     "date": "2026-11-11",
     "confidence": 0.5,
     "note": "A 'Build prompt' modal with agent and repository pickers and a discard confirmation shows the Build flow is fully implemented."
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "New launch states and disabled reasons for building from an issue."
    }
   ],
   "evidence": [
@@ -3509,6 +3634,24 @@
     "kind": "copy",
     "first_seen": "2026-11-11",
     "new_chunk": false
+   },
+   {
+    "text": "Build is starting",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Reopen this duplicate issue to build it",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "This agent receives only the issue and your message. Remove the attachments and try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -3536,12 +3679,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 90,
   "deadline": "2027-02-08",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "Delete and reset commands are now built, including a confirmation that clears the background conversation."
    }
   ],
   "evidence": [
@@ -3573,6 +3721,24 @@
     "text": "Reset project autopilot",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Delete project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Project autopilot deleted",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "This stops running responses and deletes project autopilot’s background conversation, sub-agents, subscriptions and private-chat mappings. Existing personal chats remain. Project autopilot stays off.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -4021,8 +4187,16 @@
     "Does this launch inside the Gemini app or only in Gboard or Android?"
    ]
   },
-  "status": "open",
-  "resolution": null
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-12",
+   "ship_date": "2026-07-29",
+   "why": "was already public when forecast",
+   "source": "https://gemini.google/release-notes/",
+   "quote": "Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor.",
+   "prd_match": 2,
+   "by": "grader"
+  }
  },
  {
   "id": "gemini-2026-11-11-live-view-of-the-agent-s-remote-browser-",
@@ -4082,12 +4256,17 @@
   "first_evidence": "2026-11-11",
   "window_days": 75,
   "deadline": "2027-01-25",
-  "confidence": 0.42,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-11",
     "confidence": 0.42,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "Another Google MCP connector (Google Contacts, via the People API MCP) is defined."
    }
   ],
   "evidence": [
@@ -4101,6 +4280,12 @@
     "text": "List the built-in Google Workspace MCP connectors in the connector directory and allow connecting them.",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Google Contacts",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -4229,12 +4414,17 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-11",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "Page ordering options (manual, name, last edited, created) and parent-document handling have been added."
    }
   ],
   "evidence": [
@@ -4248,6 +4438,24 @@
     "text": "Pages section",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Page ordering",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "By last edited",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Can’t remove from parent document",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
     "new_chunk": false
    }
   ],
@@ -4360,6 +4568,665 @@
    "open_questions": [
     "Which models are offered?",
     "Is it a pricing or credit change?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-12-trusted-contact-for-safety-notifications",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Trusted contact for safety notifications",
+  "one_liner": "Adults can add a trusted contact in ChatGPT settings, who may be notified if the user discusses suicide in a way that signals serious safety risk.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 60,
+  "deadline": "2027-01-11",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Në të ardhmen, nëse flet për vetëvrasje me ChatGPT në një mënyrë që tregon rrezik serioz për sigurinë, ne mund ta njoftojmë automatikisht kontaktin tënd të besuar që të interesohet për ty.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Þú ert að fara að fjarlægja",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Í ChatGPT er eiginleiki sem gerir mér kleift að bæta við traustum tengilið — einhverjum sem fengi tilkynningu ef ég gæti þurft á stuðningi að halda. Mér datt þú í hug og mig langaði að heyra hvernig þér litist á það.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users in distress may not reach out for human support. ChatGPT has no way to involve someone they trust.",
+   "users": "Adult ChatGPT users, likely logged-in users in settings.",
+   "what": "Users add and remove a trusted contact. They can send that person a personal-note email explaining the feature. In future, ChatGPT may automatically alert the contact when a conversation indicates serious self-harm risk.",
+   "how_it_appears": "Settings, in a 'trusted contact' section with an intro screen, a remove-contact confirmation, and a success screen with a prefilled personal-note email to the contact.",
+   "rollout_guess": "Gradual rollout to adult users. Localised copy suggests the feature is near launch. Inferred: it may be gated by region.",
+   "open_questions": [
+    "Is this already live in English? These strings are only new in translation.",
+    "Which users and regions get it first?",
+    "What exactly triggers a notification, and how much of the conversation does the contact see?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-12-immersive-explorations-zoomable-narrated",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Immersive explorations (zoomable, narrated visual tours)",
+  "one_liner": "Users get an explorable image-based view in Gemini with zoom pins, hotspots, a narrated audio tour, transition videos and a 'Did you know?' panel, and can rate it.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 75,
+  "deadline": "2027-01-26",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Immersive explorations",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Was this immersive exploration helpful?",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Press Start Tour to listen to the voiceover on this scene.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Toggle Auto-Orbit",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Zoom Out to Parent Scene",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Static text and image answers are a poor fit for exploring complex visual subjects such as parts of a machine, places or a textbook diagram.",
+   "users": "Learners and curious users asking Gemini to explain a visual topic.",
+   "what": "A lightbox 'deep zoom' experience. Users zoom into pins on a generated image, step through scenes, watch transition videos, listen to an audio tour and orbit a turntable view. A feedback form is localized into at least 7 languages. The code also carries a large autorater and debug layer that looks internal.",
+   "how_it_appears": "An 'Immersive explorations' section in the Gemini web app that opens an immersive lightbox, with a feedback button reading 'Send feedback to Gemini'. Inferred: it is triggered from a chat response or a library of past explorations.",
+   "rollout_guess": "Inferred: a staged rollout, likely starting with English and mobile app WebViews. The code handles an isMobileApp flag and safe-area insets.",
+   "open_questions": [
+    "Is it generated in chat or from a separate entry point?",
+    "Is it limited to paid tiers because of image and video generation cost?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-12",
+   "ship_date": "2026-05-19",
+   "why": "was already public when forecast",
+   "source": "https://gemini.google/release-notes/",
+   "quote": "you can zoom deep into high-resolution images to spotlight layer-by-layer information, or generate engaging narrated video overviews of 30-60 seconds",
+   "prd_match": 3,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "gemini-2026-11-12-shareable-avatars-likeness-invitations",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Shareable avatars (likeness invitations)",
+  "one_liner": "Users can share an avatar of themselves with others, and see avatars shared with them and pending invitations to accept.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 90,
+  "deadline": "2027-02-10",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Avatars shared with you",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Pending avatar invitations",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users who create personal likenesses for generated media have no way to let friends or family use them.",
+   "users": "Users of avatar or likeness-based generation, such as video or image generation featuring themselves.",
+   "what": "Pages that list avatars shared with the user and pending invitations. The code includes a likenessUuid and a sharing viewer, which suggests an invite and accept flow for likeness permissions.",
+   "how_it_appears": "Inferred: sections under a settings or library area for avatars, with an empty state and a list of invitations.",
+   "rollout_guess": "Inferred: a limited rollout gated by age and region, because it involves likeness consent.",
+   "open_questions": [
+    "Which generation features can use a shared avatar?",
+    "What consent and revocation controls will exist?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-12-vega-replacing-daily-brief",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Vega replacing Daily brief",
+  "one_liner": "A new 'Vega' assistant experience can replace Daily brief in the side navigation, with its own chat bubbles and consent prompts.",
+  "category": "experiment",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 90,
+  "deadline": "2027-02-10",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Shows Vega instead of Daily brief in the side navigation",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "/daily-brief",
+    "kind": "flag",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Daily brief is a fixed proactive summary surface.",
+   "users": "Users with access to the Daily brief surface, probably dogfooders first.",
+   "what": "A toggle that swaps the Daily brief side-nav item for Vega. The code references vega-user-bubble, vega-consent-bubble and vega-response-card test IDs, so Vega looks like a conversational proactive agent with consent steps.",
+   "how_it_appears": "A side navigation item, controlled by a settings toggle whose label reads like an internal or experimental switch.",
+   "rollout_guess": "Inferred: an internal or opt-in experiment first, then limited availability.",
+   "open_questions": [
+    "What does Vega actually do beyond Daily brief?",
+    "Is the toggle user-visible or only for testers?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-12-extra-usage-purchases-when-limits-are-re",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Extra usage purchases when limits are reached",
+  "one_liner": "Users who hit usage limits can enable and buy extra usage, with an 'out of credits' prompt linking to a purchase page.",
+  "category": "pricing",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 60,
+  "deadline": "2027-01-11",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "if_extra_usage_enabled",
+    "kind": "key",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Heavy users hit plan limits with only an upgrade path to a higher tier.",
+   "users": "Paid subscribers who run out of usage or credits.",
+   "what": "A usage metrics page section gated by the flag BARD_USAGE_METRICS__ENABLE_EXTRA_USAGE_SECTION. Inferred: a link-style button marked 'out of credits' and with a plus icon takes the user to a page to add credits or extra usage.",
+   "how_it_appears": "Inferred: the usage settings page, plus in-chat limit banners.",
+   "rollout_guess": "Inferred: a gradual rollout to paid plans.",
+   "open_questions": [
+    "Is it pay-as-you-go or a credit pack?",
+    "Which tiers get it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-custom-review-categories-for-linear-revi",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Custom review categories for Linear Review",
+  "one_liner": "Workspace admins define review categories, each with instructions, a reasoning level and repository scope, that Linear Review checks on every pull request.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 60,
+  "deadline": "2027-01-11",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "New review category",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Add a category for something your team checks in every review",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose how deeply Linear should check this category",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "What to look for, and when a finding is worth a comment",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Where Linear checks this category. It only runs in repositories Linear reviews.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Teams want Linear Review to check team-specific concerns (security, validation, conventions) on every review, not only generic findings.",
+   "users": "Workspace admins and engineering teams using Linear Reviews",
+   "what": "Create, edit and delete named review categories with free-form instructions and a reasoning level. Scope each category to all reviewed repositories or a selected set of up to 1,000. There is a cap on the number of categories per workspace.",
+   "how_it_appears": "Workspace settings > Reviews > Categories (/settings/reviews/categories/new and /:categoryId), with Enable/Disable Linear Review in the same settings area.",
+   "rollout_guess": "Likely gated to plans with AI features, rolled out alongside Reviews.",
+   "open_questions": [
+    "Which plans get custom categories?",
+    "Do category findings appear as separate groups in the Reviews UI?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-priority-inbox-auto-opt-in",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Priority inbox auto opt-in",
+  "one_liner": "Users are moved to a priority inbox where important notifications are surfaced, with a notice to keep it or choose what counts as priority.",
+  "category": "expansion",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 45,
+  "deadline": "2026-12-27",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Important notifications now go to your priority inbox",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Keep priority inbox",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose what to include in priority",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Priority inbox onboarding",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Inbox noise hides the notifications that matter most.",
+   "users": "All Linear users with an inbox",
+   "what": "An onboarding notice tells users that important notifications now go to a priority inbox. They can keep it, disable it, or configure what is included. Inferred: this is an automatic opt-in rollout.",
+   "how_it_appears": "Banner at the top of the Inbox, with a menu to choose priority content.",
+   "rollout_guess": "Gradual auto opt-in to existing workspaces.",
+   "open_questions": [
+    "Is priority inbox already available as a setting? That would make this an expansion, not a new launch.",
+    "What defines priority?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-voice-dictation-in-the-editor",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Voice dictation in the editor",
+  "one_liner": "Dictate text into Linear's editor by speaking, with live transcription and a stop-and-insert control.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 75,
+  "deadline": "2027-01-26",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Opening microphone",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Stop and insert text",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Microphone access is blocked",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Allow microphone access in your browser to dictate",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Stop dictation",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Typing long descriptions, comments and chat messages is slow.",
+   "users": "Any editor or chat user",
+   "what": "A microphone control records speech, streams a transcription, and inserts the text into the editor. It handles missing or blocked microphones.",
+   "how_it_appears": "A dictation pill and button in the editor and chat composer.",
+   "rollout_guess": "Behind a flag, then a general release.",
+   "open_questions": [
+    "Is it limited to certain plans?",
+    "Is it available on desktop and web?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-loop-dry-runs",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Loop dry runs",
+  "one_liner": "Run a loop in dry-run mode from a Dry run option next to Run now.",
+  "category": "experiment",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 60,
+  "deadline": "2027-01-11",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Loop dry runs",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Show a Dry run option beside a loop's Run now button.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loop authors cannot test automations without real side effects.",
+   "users": "Loop authors",
+   "what": "A Dry run option beside Run now. Inferred: it simulates the loop without making changes.",
+   "how_it_appears": "Loop detail page, next to Run now.",
+   "rollout_guess": "Flag-gated, then general release with Loops.",
+   "open_questions": [
+    "Which actions are suppressed in a dry run?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-snooze-and-done-states-for-workbench-ite",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Snooze and done states for Workbench items",
+  "one_liner": "Snooze Workbench items until a time or until attention is needed, and mark them done or not done.",
+  "category": "new_feature",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 60,
+  "deadline": "2027-01-11",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Snooze Workbench item…",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Until attention is needed",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Mark as done",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Mark as not done",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Workbench sessions and chats pile up with no way to triage them.",
+   "users": "Users of Workbench and agent sessions",
+   "what": "Snooze an item until a chosen time or until the agent needs input, and mark it done or not done with an undo toast.",
+   "how_it_appears": "Command menu and context menu actions on Workbench items.",
+   "rollout_guess": "Ships with the Workbench rollout.",
+   "open_questions": [
+    "Do snoozed items reappear in the Workbench list or in the inbox?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-upgrade-payment-confirmation-for-plan-ch",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Upgrade payment confirmation for plan changes",
+  "one_liner": "Card plan upgrades apply only after the prorated charge succeeds, with the bank's 3D Secure check in a modal.",
+  "category": "pricing",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 45,
+  "deadline": "2026-12-27",
+  "confidence": 0.15,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.15,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Upgrade payment confirmation",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Apply card upgrades only once the prorated charge succeeds, with the bank's 3D Secure check in a modal.",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Bank didn't confirm payment",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Your plan has not changed",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Card upgrades needing 3D Secure authentication can leave the plan in an unclear state.",
+   "users": "Workspace admins upgrading plans by card",
+   "what": "Charge first, confirm through Stripe in a modal, then apply the plan change. Errors cover blocked content, a bank decline and a lost Stripe connection.",
+   "how_it_appears": "Billing and plan change flow.",
+   "rollout_guess": "Flag rollout. It is a billing fix that likely gets no release-note coverage.",
+   "open_questions": [
+    "Will this be announced publicly?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-12-gitlab-code-access-integration",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "GitLab code access integration",
+  "one_liner": "Connect GitLab and pick its projects so Linear can access code, similar to GitHub repositories.",
+  "category": "integration",
+  "created": "2026-11-12",
+  "first_evidence": "2026-11-12",
+  "window_days": 90,
+  "deadline": "2027-02-10",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-12",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "GitLab projects",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Configure GitLab integration",
+    "kind": "copy",
+    "first_seen": "2026-11-12",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "GitLab teams cannot use code-based Linear agents or reviews.",
+   "users": "Workspace admins on GitLab",
+   "what": "A GitLab code access integration with writable access and a project list for agents. Inferred: it is used by coding agents.",
+   "how_it_appears": "Repository and integration picker for agents.",
+   "rollout_guess": "Possibly staged with Linear Code.",
+   "open_questions": [
+    "Is this for coding agents, reviews or both?"
    ]
   },
   "status": "open",

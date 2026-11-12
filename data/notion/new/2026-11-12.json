@@ -1,0 +1,72 @@
+[
+ {
+  "text": ", using ').concat(b?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/62863.js",
+  "ctx": "36).Cl)({formatters:t},u||{}));return O.format(o)}catch(e){_(new i.Ho('Error formatting message: \"'.concat(E,'\", using ').concat(b?\"default message\":\"id\",\" as fallback.\"),c,a,e))}if(b)try{var O=t.getMessageFormat(b,f,g,u",
+  "new_chunk": true
+ },
+ {
+  "text": "Bad Promise constructor",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/62863.js",
+  "ctx": "676),i=TypeError,s=function(e){var t,r;this.promise=new e(function(e,n){if(void 0!==t||void 0!==r)throw new i(\"Bad Promise constructor\");t=e,r=n}),this.resolve=n(t),this.reject=n(r)};e.exports.f=function(e){return new s(",
+  "new_chunk": true
+ },
+ {
+  "text": "Routines",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Name:{defaultMessage:\"Skills\",id:\"collectionHelpers.skills.displayName\"},routinesDisplayName:{defaultMessage:\"Routines\",id:\"collectionHelpers.routines.displayName\"},xldbDisplayName:{defaultMessage:\"XL Data Sources\",id:\"c",
+  "new_chunk": false
+ },
+ {
+  "text": "About {appName}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "stallation\"},appInstallationAboutTitle:{id:\"documentTitleListener.appInstallation.aboutTitle\",defaultMessage:\"About {appName}\"},titleWithNotionSuffix:{id:\"documentTitleListener.titleWithNotionSuffix\",defaultMessage:\"{tit",
+  "new_chunk": false
+ },
+ {
+  "text": "{number, plural, one {{number} second} other {{number} seconds}}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "0,i(850640).up)({hours:e/3600},t):e%60==0?(0,i(850640).up)({minutes:e/60},t):t.formatMessage({defaultMessage:\"{number, plural, one {{number} second} other {{number} seconds}}\",id:\"retentionWindowHelpers.exactDuration.sec",
+  "new_chunk": false
+ },
+ {
+  "text": "new_menu",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "all_set\"}]},\"new-user-home-workspace-tour\":{steps:[{id:\"teamspaces\"}]},learning_mode_try_database:{steps:[{id:\"new_menu\"}]},learning_mode_database_tour:{steps:[{id:\"views\"},{id:\"add_property\"},{id:\"filter_and_sort\"},{id:",
+  "new_chunk": false
+ },
+ {
+  "text": "meeting_preview",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DNUtl.js",
+  "ctx": "cp_new_users_landing_setup_prompt:[\"on\"],mcp_setup_guide_prompt:[\"placebo\",\"use_case\"],aimn_share_page_email:[\"meeting_preview\"],ai_meeting_notes_demo_nux_banner:[\"on\"],ai_meeting_notes_meetings_tab_limited_state:[\"v1\"],",
+  "new_chunk": false
+ },
+ {
+  "text": "This server only lets apps it has approved connect, and Notion isn’t one of them yet. Ask the server’s provider to allow Notion. If the provider lets you create your own OAuth app, you can connect with it using the steps below.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "752010).YK)({clientNotApproved:{id:\"integrationErrors.mcpOAuthClientNotApproved.errorMessage\",defaultMessage:\"This server only lets apps it has approved connect, and Notion isn’t one of them yet. Ask the server’s provide",
+  "new_chunk": false
+ },
+ {
+  "text": "AI training can’t be turned on because this workspace uses Enterprise Key Management.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "allowed_for_ekm_workspace:{id:\"transactionErrors.aiTrainingNotAllowedForEkmWorkspace.message\",defaultMessage:\"AI training can’t be turned on because this workspace uses Enterprise Key Management.\"},public_access_not_allo",
+  "new_chunk": false
+ },
+ {
+  "text": "meeting_notes_transcription_state_machine_v2",
+  "kind": "key",
+  "file": "app.notion.com/_assets/67535.js",
+  "ctx": "efault.checkGate({gateName:\"meeting_sidebar_one_click_transcription\"})&&n(211589).default.checkGate({gateName:\"meeting_notes_transcription_state_machine_v2\"})&&o(t)?{shouldAutoStart:!0,from:\"upcoming_meeting_start_transc",
+  "new_chunk": false
+ }
+]
