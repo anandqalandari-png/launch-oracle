@@ -286,7 +286,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-05",
@@ -307,6 +307,11 @@
     "date": "2026-11-10",
     "confidence": 0.5,
     "note": "Strings show the full Claude organization linking flow for coding inference, including errors and switching back to Linear credits. This supports the inference-provider part."
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.45,
+    "note": "Commit-signing policy copy now shows a signing key requirement for sessions."
    }
   ],
   "evidence": [
@@ -393,6 +398,12 @@
     "kind": "copy",
     "first_seen": "2026-11-10",
     "new_chunk": false
+   },
+   {
+    "text": "Workspace rules for Linear Code sessions",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -420,12 +431,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.35,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.5,
+    "note": "Team selection validation is now in the settings form."
    }
   ],
   "evidence": [
@@ -439,6 +455,12 @@
     "text": "Limit what MCP connections to Linear can access. These settings don't apply to Agent connectors",
     "kind": "copy",
     "first_seen": "2026-11-05",
+    "new_chunk": false
+   },
+   {
+    "text": "Select at least one team, or choose All teams",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -665,7 +687,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 90,
   "deadline": "2027-02-04",
-  "confidence": 0.4,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-06",
@@ -676,6 +698,11 @@
     "date": "2026-11-07",
     "confidence": 0.4,
     "note": "A 'Set up purchase' header and 'Approved authorization' approve/deny/yes_no confirmation copy suggest a purchase-setup and authorization flow."
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "New consent copy for agent tasks says Gemini picks the sites, may share personal info and may make purchases. A second variant says the user is responsible for the agent's actions. This corroborates agentic purchasing."
    }
   ],
   "evidence": [
@@ -695,6 +722,18 @@
     "text": "Approved authorization",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Gemini chooses which sites to use to complete the task, and may share your personal info. It can make mistakes and produce unexpected results like purchases.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Use Gemini carefully and �#2�safely[�/#2�|�/#3�]. You are responsible for Gemini's actions during a task, including mistakes and �#3�unexpected results[�/#2�|�/#3�] like purchases.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": true
    }
   ],
@@ -1731,12 +1770,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 90,
   "deadline": "2027-02-04",
-  "confidence": 0.35,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.45,
+    "note": "The flag text confirms the rail design, and Pin to Workbench actions have been added."
    }
   ],
   "evidence": [
@@ -1756,6 +1800,18 @@
     "text": "Added to favorites",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Group existing navigation into Home, Inbox, Reviews, and Workspace in a compact rail. Show personal settings in a modal and workspace settings fullscreen.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Pin to Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -1784,12 +1840,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "The mapped-statuses UI copy is now present, including an LLM-generated mapping fallback."
    }
   ],
   "evidence": [
@@ -1803,6 +1864,18 @@
     "text": "Show the status mapping of a synced Jira project in its settings, and let users change its entries in both directions",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Sync Jira statuses through a generated mapping when no status shares a name, and show that mapping in the Jira project's settings",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "When a Jira transition shares a Linear status's name, sync uses that transition before a generated match",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -2520,7 +2593,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-07",
@@ -2536,6 +2609,11 @@
     "date": "2026-11-12",
     "confidence": 0.55,
     "note": "A full Local agents settings page now exists: install, sign-in, device list, checkout location and version control. This makes local sessions more concrete."
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "There is now a setup flow for installing local agents (macOS and Linux) that run in the background and connect to Linear."
    }
   ],
   "evidence": [
@@ -2580,6 +2658,24 @@
     "kind": "copy",
     "first_seen": "2026-11-12",
     "new_chunk": true
+   },
+   {
+    "text": "Set up local coding agents",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Set up this computer to run local coding agents in the background",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Local agents connected",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -2808,7 +2904,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 45,
   "deadline": "2026-12-24",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-09",
@@ -2819,6 +2915,11 @@
     "date": "2026-11-11",
     "confidence": 0.45,
     "note": "New copy 'Submitting this will enable the <name> skill' shows skills can be enabled from a prompt. A new error code also covers an internal error while processing a skill. Together they suggest skills handling is further along."
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.5,
+    "note": "The tool picker now has a 'Skills and Tools' heading and skill status labels such as 'This skill requires review'. A 'Computer use' tool entry (cua_computer_control) appears alongside them."
    }
   ],
   "evidence": [
@@ -2868,6 +2969,24 @@
     "text": "Couldn’t upload the attached file. Try a different file type.",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": true
+   },
+   {
+    "text": "Skills and Tools",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "This skill requires review",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Computer use",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": true
    }
   ],
@@ -3373,6 +3492,11 @@
     "date": "2026-11-12",
     "confidence": 0.55,
     "note": "The writing-followups group label is now localised in several languages (Albanian, Lithuanian, Polish, Dutch, Swahili). There is also a current-draft-prompt template that appends the existing draft to the follow-up prompt. Both point to a m"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.55,
+    "note": "The key lightweight-web.writing-followups.current-draft-prompt now has a Romanian translation. It builds a prompt as the follow-up prompt plus 'use the current draft below' plus the draft. This matches the idea of follow-up actions that ref"
    }
   ],
   "evidence": [
@@ -3440,6 +3564,12 @@
     "text": "Notaðu núverandi drög hér að neðan:",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Folosește ciorna actuală de mai jos:",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -3679,7 +3809,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 90,
   "deadline": "2027-02-08",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-10",
@@ -3690,6 +3820,11 @@
     "date": "2026-11-12",
     "confidence": 0.5,
     "note": "Delete and reset commands are now built, including a confirmation that clears the background conversation."
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.55,
+    "note": "Commands for turning autopilot on and off and an agent-guided setup flow now exist."
    }
   ],
   "evidence": [
@@ -3740,6 +3875,24 @@
     "kind": "copy",
     "first_seen": "2026-11-12",
     "new_chunk": false
+   },
+   {
+    "text": "Turn on project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Turn off project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Set up the project's recurring work",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -3767,12 +3920,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "The UI flag, the engage control, and the phase and stop-reason copy are now present, so the feature looks near-complete."
    }
   ],
   "evidence": [
@@ -3786,6 +3944,24 @@
     "text": "Lets people engage Autopilot on a pull request, which fixes failing checks and conflicts until the pull request is ready. While it is off, Autopilot takes no action.",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Engage Autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Fixes new failures until someone merges",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Shows Autopilot on pull requests and lets the person engage it. Autopilot also needs pull-request-autopilot, which the backend checks per workspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -4584,12 +4760,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.3,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "Romanian translations now exist for the trusted-contact settings flow. They cover a remove-contact confirmation and a personal-note email body the user sends to the contact. The feature is localized and has several complete UI states, which"
    }
   ],
   "evidence": [
@@ -4609,6 +4790,18 @@
     "text": "Í ChatGPT er eiginleiki sem gerir mér kleift að bæta við traustum tengilið — einhverjum sem fengi tilkynningu ef ég gæti þurft á stuðningi að halda. Mér datt þú í hug og mig langaði að heyra hvernig þér litist á það.",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Urmează să elimini contactul de încredere",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "M-am tot gândit cum să mă asigur că am parte de sprijin când trec printr-o perioadă grea. Uneori îmi este greu să cer ajutor în astfel de momente.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -4846,12 +5039,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.55,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "The settings UI is built, with a create/edit criterion page and category limits."
    }
   ],
   "evidence": [
@@ -4884,6 +5082,18 @@
     "kind": "copy",
     "first_seen": "2026-11-12",
     "new_chunk": true
+   },
+   {
+    "text": "Where Linear checks this criterion. It only runs in repositories Linear reviews.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "This workspace has too many review criteria",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -4970,12 +5180,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 75,
   "deadline": "2027-01-26",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.55,
+    "note": "A separate flag adds a Dictate button to the Agent composer, so dictation is extending beyond the editor."
    }
   ],
   "evidence": [
@@ -5008,6 +5223,12 @@
     "kind": "copy",
     "first_seen": "2026-11-12",
     "new_chunk": false
+   },
+   {
+    "text": "Show the Dictate button in the Agent composer to turn speech into message text.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -5035,12 +5256,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.6,
+    "note": "Run-trigger copy and a feature gate for dry runs now exist."
    }
   ],
   "evidence": [
@@ -5054,6 +5280,18 @@
     "text": "Show a Dry run option beside a loop's Run now button.",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Dry run started",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Dry runs are not enabled",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
     "new_chunk": false
    }
   ],
@@ -5197,12 +5435,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.25,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.25,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-13",
+    "confidence": 0.35,
+    "note": "Coding environment repository handling now has a GitLab-specific branch."
    }
   ],
   "evidence": [
@@ -5227,6 +5470,418 @@
    "rollout_guess": "Possibly staged with Linear Code.",
    "open_questions": [
     "Is this for coding agents, reviews or both?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-13-client-side-video-trimming",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Client-side video trimming",
+  "one_liner": "Users can trim a video in the browser before sending or saving it, with no server round trip.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 90,
+  "deadline": "2027-02-11",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Unsupported video container for client-side trimming: missing moov header",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Failed to read MP4 moov header for trimming",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "MP4 stco chunk offset overflow",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "MP4 co64 chunk offset underflow",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Unsupported MP4 container: moov contains no trak boxes",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users who upload or generate videos cannot shorten them without leaving Gemini.",
+   "users": "Users who attach or generate video clips in Gemini.",
+   "what": "In-browser MP4 trimming. The code parses the moov box and rewrites the stco/co64 chunk offsets.",
+   "how_it_appears": "Inferred: a trim control on video attachments or on generated video previews.",
+   "rollout_guess": "Inferred: ships alongside video upload or video generation editing. Only the container-handling code has appeared so far.",
+   "open_questions": [
+    "Is trimming for uploaded videos, generated videos, or both?",
+    "Which formats beyond MP4 will be supported?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-13-rich-interactive-directions-cards",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Rich interactive directions cards",
+  "one_liner": "Gemini answers show route cards with driving, transit, walking and cycling tabs, step lists and an Open in Google Maps button.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 60,
+  "deadline": "2027-01-12",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Best route now due to traffic conditions",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Travel modes",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Show steps",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Search this area",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Couldn’t load directions for this travel mode.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "No transit route found for this trip.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Route answers in chat are plain text, so users have to switch to Maps to compare modes.",
+   "users": "Anyone asking Gemini for directions or trip planning.",
+   "what": "An embedded map card with a tab per travel mode, traffic-aware route labels, a collapsible steps list and a hand-off to Google Maps.",
+   "how_it_appears": "Inline card in the response, with a map, a mode tablist and Hide steps/Show steps toggles.",
+   "rollout_guess": "Inferred: gradual rollout to Maps-connected users. The chunk is new, so an older partial version may already exist.",
+   "open_questions": [
+    "Is this already live for some users?",
+    "Does it also cover place cards with a 'Show more places in this area' option?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-13-at-mentions-in-gemini-in-chrome",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "At-mentions in Gemini in Chrome",
+  "one_liner": "Users can @-mention items such as tabs or apps in the Gemini in Chrome assistant.",
+  "category": "experiment",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 90,
+  "deadline": "2027-02-11",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "GlicEnableAtMentions",
+    "kind": "flag",
+    "first_seen": "2026-11-13",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users cannot easily point the Chrome assistant at specific context.",
+   "users": "Gemini in Chrome (Glic) users.",
+   "what": "An experiment flag, with Treatment and Control arms, that enables @-mentions in the assistant input.",
+   "how_it_appears": "Inferred: typing '@' in the Gemini in Chrome side panel opens a picker.",
+   "rollout_guess": "Inferred: staged Chrome experiment. It may already be live in some form.",
+   "open_questions": [
+    "What can be mentioned?",
+    "Is this part of the web Gemini bundle or only of Chrome?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-13-duplicating-pages-or-workspaces-with-the",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Duplicating pages or workspaces with their agents",
+  "one_liner": "Copying content can also copy the AI agents attached to it. Agents whose permissions or workspace settings block copying are skipped, and the user is warned that the copy is not a complete backup.",
+  "category": "expansion",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 90,
+  "deadline": "2027-02-11",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Copy created without some agents. Their permissions or workspace settings prevented copying. This is not a complete backup.",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Duplicating or backing up content leaves agents behind, so copies don't work like the original.",
+   "users": "Workspace admins and members who build agents and duplicate pages, teamspaces or workspaces.",
+   "what": "Duplicate actions copy agents along with the content. When some agents can't be copied, a notice explains why and says the copy is incomplete.",
+   "how_it_appears": "A message after a duplicate action. The message id is duplicateActions.skippedWorkflows.message.",
+   "rollout_guess": "Likely ships quietly as part of duplicate or template flows, with a possible mention in release notes.",
+   "open_questions": [
+    "Which duplicate flows are covered: page, teamspace or whole workspace?",
+    "Do copied agents keep their permissions, triggers and connections?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-13-dashboard-widget-resize",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Dashboard widget resize",
+  "one_liner": "Resize dashboard widgets by dragging their borders to change row height or column width.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 45,
+  "deadline": "2026-12-28",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Dashboard widget resize",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Resize dashboard widgets by dragging their borders, to change the height of a row or the width of its columns",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Dashboard widgets have fixed sizes, so users cannot tune the layout.",
+   "users": "Anyone who builds or edits dashboards.",
+   "what": "Drag the borders between widgets to change a row's height or its columns' widths.",
+   "how_it_appears": "Inside dashboards, on widget borders in edit mode.",
+   "rollout_guess": "Behind the dashboard-widget-resize flag, then general availability with a changelog entry.",
+   "open_questions": [
+    "Is resizing limited to edit mode?",
+    "Are there minimum and maximum widget sizes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-13-automatically-link-or-create-issues-on-m",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Automatically link or create issues on merge",
+  "one_liner": "When a pull request merges, Linear links it to a matching issue or creates one in the right team, project and labels.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 75,
+  "deadline": "2027-01-27",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "When a pull request is merged, automatically link it to a matching issue, or intelligently create one in the right team and project, with the right labels",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Pull requests merged without a linked issue leave work untracked.",
+   "users": "Engineering teams that use GitHub integrations.",
+   "what": "A setting named \"Automatically link or create issues on merge\". Inferred: an AI classifier picks the team, project and labels.",
+   "how_it_appears": "As a workspace or integration setting called pullRequestIssueLinking.",
+   "rollout_guess": "Opt-in setting, possibly with a plan restriction.",
+   "open_questions": [
+    "Is it on by default?",
+    "Which plans get it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-13-agent-skills-in-coding-environments",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Agent skills in coding environments",
+  "one_liner": "Linear Code discovers skills from .agents/skills or .claude/skills in an environment's repositories and can load them.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 60,
+  "deadline": "2027-01-12",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Skills Linear Code can load when using this environment",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "No skills found in .agents/skills or .claude/skills when the environment last refreshed",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Must be a relative SKILL.md path inside the repository",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Coding agents lack the team's repository-specific instructions and skills.",
+   "users": "Teams using Linear Code cloud environments.",
+   "what": "An environment settings section lists the skills found in each repository. Skills are SKILL.md files in .agents/skills or .claude/skills.",
+   "how_it_appears": "As an \"Agent skills\" section on the coding environment settings page, grouped by repository.",
+   "rollout_guess": "Ships with the Linear Code environment settings.",
+   "open_questions": [
+    "Can skills be added manually by path?",
+    "Is there a per-skill enable toggle?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-13-fast-mode-for-coding-agents",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Fast mode for coding agents",
+  "one_liner": "Toggle a faster, higher-cost mode for coding sessions, and let the agent turn it on itself.",
+  "category": "new_feature",
+  "created": "2026-11-13",
+  "first_evidence": "2026-11-13",
+  "window_days": 45,
+  "deadline": "2026-12-28",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-13",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Faster, costs more",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Turning on fast mode…",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Turned on fast mode",
+    "kind": "copy",
+    "first_seen": "2026-11-13",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users want quicker agent responses and will pay extra for them.",
+   "users": "Linear Code users.",
+   "what": "A \"Fast mode\" toggle in the model and settings picker, plus a TurnOnFastMode agent tool.",
+   "how_it_appears": "In the coding session model and settings menu, labelled \"Faster, costs more\".",
+   "rollout_guess": "Likely tied to model support and a credit-cost policy.",
+   "open_questions": [
+    "Which models support it?",
+    "How is the extra cost billed?"
    ]
   },
   "status": "open",

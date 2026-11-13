@@ -7,3 +7,4 @@
 {"date": "2026-11-10", "app": "linear", "baseline": false, "files": 1323, "bytes": 61803748, "strings": 12636, "new": 306, "new_files": 37, "errors": [], "ok": true}
 {"date": "2026-11-11", "app": "linear", "baseline": false, "files": 1388, "bytes": 69593923, "strings": 13210, "new": 277, "new_files": 14, "errors": [], "ok": true}
 {"date": "2026-11-12", "app": "linear", "baseline": false, "files": 1388, "bytes": 69581529, "strings": 13380, "new": 268, "new_files": 12, "errors": [], "ok": true}
+{"date": "2026-11-13", "app": "linear", "baseline": false, "files": 1221, "bytes": 66511762, "strings": 13070, "new": 342, "new_files": 14, "errors": [], "ok": true}

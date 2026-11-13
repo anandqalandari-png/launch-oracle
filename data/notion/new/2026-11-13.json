@@ -1,0 +1,114 @@
+[
+ {
+  "text": "),Object.prototype.hasOwnProperty.call(i,e)&&n('Duplicate key",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/18829.js",
+  "ctx": "{switch(c(),r){case\"{\":var e,i={};if(\"{\"===r){if(a(\"{\"),c(),\"}\"===r)return a(\"}\"),i;for(;r;){if(e=u(),c(),a(\":\"),Object.prototype.hasOwnProperty.call(i,e)&&n('Duplicate key \"'+e+'\"'),i[e]=f(),c(),\"}\"===r)return a(\"}\"),i;",
+  "new_chunk": true
+ },
+ {
+  "text": "Copy created without some agents. Their permissions or workspace settings prevented copying. This is not a complete backup.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "0304).q},r=(0,i(752010).YK)({skippedWorkflows:{id:\"duplicateActions.skippedWorkflows.message\",defaultMessage:\"Copy created without some agents. Their permissions or workspace settings prevented copying. This is not a com",
+  "new_chunk": false
+ },
+ {
+  "text": "Expected an adminGetStatsigBootstrapForUser response with initialValues.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/DNUtl.js",
+  "ctx": "\"string\"==typeof e?(0,i(419681).$l)(e):e,o=(0,i(788145).Qq)(a,t);if(void 0===o)return{status:\"invalid\",reason:\"Expected an adminGetStatsigBootstrapForUser response with initialValues.\"};let{initialValues:n}=o;if(\"none\"!=",
+  "new_chunk": false
+ },
+ {
+  "text": "Contact a workspace owner to unlock access",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/62616.js",
+  "ctx": ").sA,{id:\"uncollectibleExperience.uncollectibleExperienceOverlay.memberRestrictedNativeLabel\",defaultMessage:\"Contact a workspace owner to unlock access\"}):(0,n.jsx)(i(752010).sA,{id:\"uncollectibleExperience.uncollectibl",
+  "new_chunk": true
+ },
+ {
+  "text": "new_tab_or_window",
+  "kind": "key",
+  "file": "app.notion.com/_assets/67535.js",
+  "ctx": "16).i)()||void 0,m=function(e){let{eventRecordingStart:t,openInNew:n,isHandedToNewTabOrWindow:i}=e;return t?i?\"new_tab_or_window\":!n||t.startsInThisWindowAsFallback?\"this_window\":\"none\":\"none\"}({eventRecordingStart:o,ope",
+  "new_chunk": false
+ },
+ {
+  "text": ",isBackendConnected:!1,externalSourceName:void 0,emailAddresses:[],sessionId:i(92513).JW(),analyticsFrom:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/77669.js",
+  "ctx": "d(t,{t:()=>o})},318329(e,t,i){var n=()=>i(546605);function a(){return{currentScreen:\"none\",status:\"not_started\",isBackendConnected:!1,externalSourceName:void 0,emailAddresses:[],sessionId:i(92513).JW(),analyticsFrom:\"unk",
+  "new_chunk": true
+ },
+ {
+  "text": "Custom block data-source binding has no target.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/77669.js",
+  "ctx": "data_source_id)return e.data_source_id;if(\"collection_pointer\"in e)return e.collection_pointer.id;throw Error(\"Custom block data-source binding has no target.\")}function o(e){return{key:e.key,data_source_id:a(e),...void ",
+  "new_chunk": true
+ },
+ {
+  "text": "android_show_language_settings",
+  "kind": "key",
+  "file": "app.notion.com/_assets/38069.js",
+  "ctx": "405072(e,t,a){function i(e){var t;let{isMobileNative:i,isAndroid:n}=e,o=a(211589).default.checkGate({gateName:\"android_show_language_settings\"}),l=null==(t=(0,a(663250).getMobileNativeDeviceInfo)())?void 0:t.mobileNative",
+  "new_chunk": false
+ },
+ {
+  "text": "===ey||eO||eE),eW=ew.apple&&!eE,eV=ew.passkey&&!eE,eD=ew.sso&&ef&&!eE,eK=ew.email&&eL,eU=eE?void 0:ew.widthVariant,eG=L||eP||eS||eB||eW||eV||eD||eK,ez=eb?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/45010.js",
+  "ctx": "!eA&&!Y&&!eg),eN=f||i(392096).qg(y).pathname===i(25408).GJ.startupsApplication,eO=!eu,eR=!L&&(eb&&\"email_above\"===ey||eO||eE),eW=ew.apple&&!eE,eV=ew.passkey&&!eE,eD=ew.sso&&ef&&!eE,eK=ew.email&&eL,eU=eE?void 0:ew.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": "===t.type,description:((null==p?void 0:p.description)??u.description)||void 0,category:(null==p?void 0:p.category)??u.category,optionality:(0,o(192458).O)(t)?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/80322.js",
+  "ctx": "lateId?t.templateId:c):{};return{templateId:c,isDeleted:(null==p?void 0:p.isDeleted)??\"uninstantiated_template\"===t.type,description:((null==p?void 0:p.description)??u.description)||void 0,category:(null==p?void 0:p.cate",
+  "new_chunk": true
+ },
+ {
+  "text": ":(null==p?void 0:p.optionality)??u.optionality??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/80322.js",
+  "ctx": "description)||void 0,category:(null==p?void 0:p.category)??u.category,optionality:(0,o(192458).O)(t)?\"required\":(null==p?void 0:p.optionality)??u.optionality??\"optionalDefaultOn\",hasMinimalOnboarding:(null==p?void 0:p.ha",
+  "new_chunk": true
+ },
+ {
+  "text": ",hasMinimalOnboarding:(null==p?void 0:p.hasMinimalOnboarding)??u.hasMinimalOnboarding??!1,singularItemName:(null==p?void 0:p.singularItemName)??u.singularItemName??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/80322.js",
+  "ctx": "ry,optionality:(0,o(192458).O)(t)?\"required\":(null==p?void 0:p.optionality)??u.optionality??\"optionalDefaultOn\",hasMinimalOnboarding:(null==p?void 0:p.hasMinimalOnboarding)??u.hasMinimalOnboarding??!1,singularItemName:(n",
+  "new_chunk": true
+ },
+ {
+  "text": ",pluralItemName:(null==p?void 0:p.pluralItemName)??u.pluralItemName??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/80322.js",
+  "ctx": "g)??u.hasMinimalOnboarding??!1,singularItemName:(null==p?void 0:p.singularItemName)??u.singularItemName??\"item\",pluralItemName:(null==p?void 0:p.pluralItemName)??u.pluralItemName??\"items\",isInSettings:(null==p?void 0:p.i",
+  "new_chunk": true
+ },
+ {
+  "text": ",isInSettings:(null==p?void 0:p.isInSettings)??u.isInSettings??!1,propertyOptionsType:(null==p?void 0:p.propertyOptionsType)??(null==u?void 0:u.propertyOptionsType)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/80322.js",
+  "ctx": "emName)??u.singularItemName??\"item\",pluralItemName:(null==p?void 0:p.pluralItemName)??u.pluralItemName??\"items\",isInSettings:(null==p?void 0:p.isInSettings)??u.isInSettings??!1,propertyOptionsType:(null==p?void 0:p.prope",
+  "new_chunk": true
+ },
+ {
+  "text": ",subitem_filter_scope:void 0===c?void 0:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/16783.js",
+  "ctx": "tive\",value:{type:\"current_page_in_related_collection\"}}}}}]},subitem_display_mode:void 0===c?void 0:\"disabled\",subitem_filter_scope:void 0===c?void 0:\"parents_and_subitems\"}}}({viewId:_,collectionViewBlockPointer:{table",
+  "new_chunk": true
+ },
+ {
+  "text": "AI is temporarily disabled",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/82593.js",
+  "ctx": "{if(n(211589).default.checkGate({gateName:\"disable_ai_big_red_button\",disableExposureLogging:!0}))throw Error(\"AI is temporarily disabled\");if(\"calendar_agent\"===e.type){var t,i=e.content;if(i.some(e=>\"file\"===e.type))th",
+  "new_chunk": false
+ }
+]
