@@ -2130,7 +2130,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
@@ -2146,6 +2146,11 @@
     "date": "2026-11-12",
     "confidence": 0.4,
     "note": "The task edit form code handles a start time (immediate or specific), an end time (never or specific), and gmailTrigger/electricTrigger queries, which supports event-triggered tasks with end times."
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "The task editor code handles startTime and endTime with Immediately/Specific and Never/Specific options, a gmailTrigger emailQuery, and a second 'electricTrigger' query type."
    }
   ],
   "evidence": [
@@ -2171,6 +2176,12 @@
     "text": ",p=k(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?j.SPECIFIC:j.IMMEDIATELY,g=k(e.endTime),_=g===void 0?de(t,1):new Date(g),v=g===void 0?M.NEVER:M.SPECIFIC,y=g===void 0?",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": ",p=N(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?F.SPECIFIC:F.IMMEDIATELY,g=N(e.endTime),_=g===void 0?B(t,1):new Date(g),v=g===void 0?I.NEVER:I.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -2703,7 +2714,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
@@ -2719,6 +2730,11 @@
     "date": "2026-11-10",
     "confidence": 0.45,
     "note": "More feature-flag UI: rollout stage changes in activity and a flag search command."
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "There is now a dedicated feature flags list with empty states, ownership, and a 'Removed from the codebase' marker, which strengthens the feature flag work."
    }
   ],
   "evidence": [
@@ -2762,6 +2778,24 @@
     "text": "Search feature flags…",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "No feature flags yet",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear lists the flags of your connected feature flag providers here. Connect a provider in settings to sync its flags.",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "You don’t own any feature flags",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -3174,12 +3208,17 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-09",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.45,
+    "note": "A 'Triage autopilot' menu control with assessing and fixing phases appeared in the UI."
    }
   ],
   "evidence": [
@@ -3199,6 +3238,12 @@
     "text": "Ask Agent about this assessment",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Triage autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -3476,7 +3521,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-10",
@@ -3497,6 +3542,11 @@
     "date": "2026-11-13",
     "confidence": 0.55,
     "note": "The key lightweight-web.writing-followups.current-draft-prompt now has a Romanian translation. It builds a prompt as the follow-up prompt plus 'use the current draft below' plus the draft. This matches the idea of follow-up actions that ref"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.45,
+    "note": "The new template markup sits right after 'data-writing-followup-suggestions-surface' in the code context. This suggests the suggestion surface now has its own rendered icon, so the UI is being built out."
    }
   ],
   "evidence": [
@@ -3570,6 +3620,12 @@
     "text": "Folosește ciorna actuală de mai jos:",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "),tx=H('<svg width=20 height=20 viewBox=",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -3645,12 +3701,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.6,
+    "note": "An error toast for failed chat branching shows the fork flow is wired up in the client."
    }
   ],
   "evidence": [
@@ -3670,6 +3731,12 @@
     "text": "Could not fork chat",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not branch chat",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -4760,7 +4827,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-12",
@@ -4771,6 +4838,11 @@
     "date": "2026-11-13",
     "confidence": 0.6,
     "note": "Romanian translations now exist for the trusted-contact settings flow. They cover a remove-contact confirmation and a personal-note email body the user sends to the contact. The feature is localized and has several complete UI states, which"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "A new Albanian string sits next to other 'lightweight-web.settings-trusted-contact.*' keys (remove-title, remove-confirm-button, success-close). This shows the trusted-contact settings UI, including a remove-contact confirmation, is being l"
    }
   ],
   "evidence": [
@@ -4802,6 +4874,12 @@
     "text": "M-am tot gândit cum să mă asigur că am parte de sprijin când trec printr-o perioadă grea. Uneori îmi este greu să cer ajutor în astfel de momente.",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Je i sigurt?",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -4951,12 +5029,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.25,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.25,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.45,
+    "note": "The code around these fragments shows new UI test ids 'vega-consent-bubble' and 'vega-response-card', so Vega has real consent and response UI in the client."
    }
   ],
   "evidence": [
@@ -4971,6 +5054,18 @@
     "kind": "flag",
     "first_seen": "2026-11-12",
     "new_chunk": true
+   },
+   {
+    "text": ":void 0,\"data-testid\":i?",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,maxWidth:ap,minWidth:0,width:",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -4998,12 +5093,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "A link button with a data-out-of-credits attribute that switches to an accent variant and an optional plus icon points to an actual out-of-credits purchase call to action."
    }
   ],
   "evidence": [
@@ -5011,6 +5111,12 @@
     "text": "if_extra_usage_enabled",
     "kind": "key",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,minWidth:48,onClick:q,ref:B,rel:",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -5435,7 +5541,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.35,
+  "confidence": 0.65,
   "history": [
    {
     "date": "2026-11-12",
@@ -5446,6 +5552,11 @@
     "date": "2026-11-13",
     "confidence": 0.35,
     "note": "Coding environment repository handling now has a GitLab-specific branch."
+   },
+   {
+    "date": "2026-11-14",
+    "confidence": 0.65,
+    "note": "More GitLab surfaces appeared: project loading, an expired-token state, review guides that work with GitLab code access, and GitLab Loop triggers with documented limits. This points to a near-complete integration."
    }
   ],
   "evidence": [
@@ -5459,6 +5570,24 @@
     "text": "Configure GitLab integration",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn't load GitLab projects. Try again",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Requires a GitHub or GitLab integration with code access to generate review guides",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "GitLab triggers can't use labels, team reviewers, merge queue or review submitted events",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
     "new_chunk": false
    }
   ],
@@ -5882,6 +6011,543 @@
    "open_questions": [
     "Which models support it?",
     "How is the extra cost billed?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-14-animated-3d-mascot-characters-fur-hats-e",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Animated 3D mascot characters (fur, hats, eye expressions)",
+  "one_liner": "Possible animated 3D characters rendered in the ChatGPT web app, with fur shading, eye and blink animation, and hat props.",
+  "category": "experiment",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 90,
+  "deadline": "2027-02-12",
+  "confidence": 0.07,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.07,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Thelma · soft matte silicone",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Optimized fur cards",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Hat jump",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Eye expression",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Dots logo",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Inferred: ChatGPT may want a more expressive, personality-driven visual presence, for example for voice mode.",
+   "users": "Inferred: logged-out and logged-in web users, if it ships.",
+   "what": "A WebGL/three.js scene with named characters (felipe, alfred, jojo, Thelma) and motion presets such as excite, body roll, jump, eyes and hat jump. The labels read like a motion-tuning or debug tool.",
+   "how_it_appears": "Inferred: a landing or voice-mode visual, or an internal playground. No UI copy for end users appears in the strings.",
+   "rollout_guess": "Unclear. It may be a marketing or landing-page animation, or an internal tool.",
+   "open_questions": [
+    "Is this user-facing or an internal animation playground?",
+    "Which product surface would use the characters?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-14-styles-collections-tool",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Styles collections tool",
+  "one_liner": "Users can save aesthetics and assets as reusable 'Styles' and apply them to later creations.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Saved aesthetics and assets for easy re-use",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Keeping a consistent look across generated images or videos means re-describing or re-uploading references every time.",
+   "users": "Creators using Gemini's image and video generation.",
+   "what": "A 'Styles' tool backed by a 'collections' toolName, where users save aesthetics and assets and reuse them.",
+   "how_it_appears": "As a 'Styles' entry with a photo icon in the tools or creation menu, subtitled 'Saved aesthetics and assets for easy re-use'.",
+   "rollout_guess": "Gradual rollout to subscribers first, probably alongside image or video generation updates.",
+   "open_questions": [
+    "Is this a new tool or a rename of an existing one?",
+    "Is it limited to paid tiers?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-14-offline-message-queue-with-unsend-and-st",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Offline message queue with Unsend and steering",
+  "one_liner": "Messages sent while offline wait and send on reconnect, and users can unsend a pending request or steer a running one.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 75,
+  "deadline": "2027-01-28",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Sending when back online",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Unsend Pending Request",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Messages are lost or blocked on flaky connections, and a running response can't be corrected mid-turn.",
+   "users": "All Gemini web users, especially mobile and unreliable-network users.",
+   "what": "A 'WAITING_TO_SEND' state shown as a thought-style status ('Sending when back online') with an 'Unsend' action. Inferred: 'Cancel Unsent Steering Requests' implies users can send steering messages during an active turn.",
+   "how_it_appears": "As an inline status row in the conversation, with an Unsend button.",
+   "rollout_guess": "Quiet rollout; it may never get its own announcement.",
+   "open_questions": [
+    "Is mid-response steering user-facing or only part of the agent flow?",
+    "Will it be announced in release notes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-14-travel-planning-cards-with-seasonal-cond",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Travel planning cards with seasonal conditions and packing checklist",
+  "one_liner": "Gemini answers trip questions with structured cards for seasonal weather and a packing checklist with prices.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Seasonal conditions",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Packing checklist",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Trip planning answers are long text, and users have to build their own weather and packing lists.",
+   "users": "Travellers using Gemini for trip planning.",
+   "what": "Generative UI sections parsed from a model response: a forecast/seasonal conditions block and a packing checklist with a title, subtitle, currency, sections and optional numeric prices.",
+   "how_it_appears": "As rich cards inside the chat response, perhaps in an immersive view.",
+   "rollout_guess": "Probably part of a broader interactive-response or travel update.",
+   "open_questions": [
+    "Is the card shown inline or in a canvas?",
+    "Is it tied to a travel-specific mode?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-14-customer-triggered-loops",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Customer-triggered Loops",
+  "one_liner": "Run a Loop automatically when a customer is created or its status changes.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Customer Loop triggers",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Run Loops when a customer is created or its status is set",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Customer Loop triggers are not enabled",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Customer-triggered run",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Customer-related follow-up work, such as creating issues from a new customer's requests, has to be started by hand.",
+   "users": "Workspace admins and teams that use Customers together with Loops.",
+   "what": "A new Loop trigger type that fires when a customer is created or its status is set. Runs are labelled 'Customer-triggered run'.",
+   "how_it_appears": "The Loop trigger picker in the Loop editor, and the run history. It is gated by the loops-customer-triggers flag.",
+   "rollout_guess": "Inferred: it ships with the other Loop triggers (document, Slack reaction) once the flag is enabled.",
+   "open_questions": [
+    "Which customer events beyond create and status change are supported?",
+    "Is it limited to plans that have Customers?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-14-pull-request-merge-todo-guided-next-step",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request merge todo (guided next step)",
+  "one_liner": "The review header shows the next thing left before a pull request can merge, with a menu of everything remaining.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 45,
+  "deadline": "2026-12-29",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Pull request merge todo",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Offer the next thing left before an open pull request can merge as the review header's call to action, with a menu of everything left",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Fix failed checks",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Resolve threads",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Update branch",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Create flag",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Getting a pull request to a mergeable state means finding blockers across checks, conflicts, comments and approvals.",
+   "users": "Pull request authors and reviewers using Linear Reviews.",
+   "what": "A single call-to-action button that changes with the PR's state: Fix conflicts, Update branch, Fix failed checks, Address changes, Address findings, Resolve threads, Request review, Create flag. A menu lists all remaining items.",
+   "how_it_appears": "The header of the pull request review page, behind the diffs-merge-todo flag.",
+   "rollout_guess": "Inferred: it launches with the other Reviews and Ship-tab improvements.",
+   "open_questions": [
+    "Does it replace the existing merge button?",
+    "Which actions are handled by an agent?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-14-in-app-code-file-viewer",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "In-app code file viewer",
+  "one_liner": "Open GitHub file links, such as code embed filenames, in a file viewer inside Linear instead of going to GitHub.",
+  "category": "new_feature",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Code file viewer",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Open GitHub file links, such as code embed filenames, in an in-app file viewer instead of GitHub",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Binary file not shown",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "The file could not be displayed",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "No GitHub integration with code access connected",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Following a code reference in an issue or document sends users out to GitHub.",
+   "users": "Everyone who reads code embeds in issues, documents and chats, especially those with a GitHub integration with code access.",
+   "what": "A viewer that renders repository files in Linear. It handles binary and empty files, and shows an error when no code-access integration is connected.",
+   "how_it_appears": "Opened from code embed filenames and file links. It is gated by the code-file-viewer flag.",
+   "rollout_guess": "Inferred: gradual rollout to workspaces with code access enabled.",
+   "open_questions": [
+    "Does it support GitLab files too?",
+    "Is the viewer read-only?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-14-progress-charts-and-insight-templates-fo",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Progress charts and insight templates for dashboards",
+  "one_liner": "Add project, initiative and cycle progress charts to dashboards, starting from guided templates.",
+  "category": "expansion",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "New progress chart",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Project progress",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Initiative progress",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Cycle progress",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "Spot the projects that need attention, by health",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "See how fast pull requests merge, and which ones take longest",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "See where your issues stand, from backlog to completed",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Building dashboard widgets from scratch is slow, and progress reporting for projects, initiatives and cycles is not covered by the existing widgets.",
+   "users": "Managers and team leads who build dashboards and insights.",
+   "what": "A new progress chart type with project, initiative and cycle sources. Template descriptions include issue count, projects at risk, time to merge and issues by status.",
+   "how_it_appears": "The insight or widget creation flow on dashboards, with a source picker ('Select source…').",
+   "rollout_guess": "Inferred: it ships with other recent dashboard updates such as widget resize and snapshot comparisons.",
+   "open_questions": [
+    "Are these templates available on all plans?",
+    "Do progress charts support historical comparison?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-14-workspace-ai-spend-limit-alerts",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Workspace AI spend limit alerts",
+  "one_liner": "Get notified when the workspace nears or reaches its AI spend limit, and review usage per chat.",
+  "category": "pricing",
+  "created": "2026-11-14",
+  "first_evidence": "2026-11-14",
+  "window_days": 60,
+  "deadline": "2027-01-13",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-14",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Your workspace reached its spend limit",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Workspace spend is near its limit",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Spend limit reached",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Review your workspace spend limit in settings",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Model usage and sandbox time show here as the agent works on your messages",
+    "kind": "copy",
+    "first_seen": "2026-11-14",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agent and sandbox usage is billed in credits, and admins need warning before work stops.",
+   "users": "Workspace admins and members who run agents, Loops and coding sessions.",
+   "what": "Usage-alert notifications at 95% of the limit and when it is reached, plus a per-chat Usage tab showing model usage and sandbox time. Usage from chats that run in a Loop is billed to the Loop.",
+   "how_it_appears": "The notification inbox (billing category), settings, and the Workbench chat Usage tab.",
+   "rollout_guess": "Inferred: it ships with usage-based billing for agents.",
+   "open_questions": [
+    "Who can set the limit?",
+    "Are there notification channels beyond the inbox?"
    ]
   },
   "status": "open",

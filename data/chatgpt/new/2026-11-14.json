@@ -1,0 +1,1941 @@
+[
+ {
+  "text": "Cookies help this site work, measure usage, and support marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ct\",\"Reject non-essential\"),Ix=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies help this site work, measure usage, and support marketing. \"},{type:8,value:\"manageCookiesLink\",child",
+  "new_chunk": false
+ },
+ {
+  "text": "Manage preferences",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "site work, measure usage, and support marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Manage preferences\"}]},{type:0,value:\" anytime. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,value:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Reject optional",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "e:0,value:\"Learn more\"}]},{type:0,value:\".\"}]],Rx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Reject optional\"),Dx=e(\"lightweight-web.privacy.cookie-banner-title\",\"We use cookies\"),Ux=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "No pudimos continuar. Vuelve a intentarlo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "dos intentos. Por favor, vuelve a intentarlo más tarde.\"),Dc=e(\"lightweight-web.auth.inline-auth-unavailable\",\"No pudimos continuar. Vuelve a intentarlo.\"),Rc=e(\"lightweight-web.auth.inline-name-empty\",\"Ingresa tu nombre",
+  "new_chunk": false
+ },
+ {
+  "text": "Al hacer clic en \"",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "profile-title\",\"¿Cuántos años tienes?\"),Zc=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:'Al hacer clic en \"'},{type:1,value:\"action\"},{type:0,value:'\", aceptas nuestros '},{type:1,value:\"terms\"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Revisa tu nombre y edad y vuelve a intentarlo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "no funcionó. Revísalo y vuelve a intentarlo.\"),eh=e(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Revisa tu nombre y edad y vuelve a intentarlo.\"),th=e(\"lightweight-web.auth.inline-signup-name-label\",\"Nombre",
+  "new_chunk": false
+ },
+ {
+  "text": "Las cookies ayudan a que este sitio funcione, a medir su uso y a respaldar las actividades de marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "\",\"Rechazar no esenciales\"),Gx=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Las cookies ayudan a que este sitio funcione, a medir su uso y a respaldar las actividades de marketing. \"},{",
+  "new_chunk": false
+ },
+ {
+  "text": "Administra tus preferencias",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": " uso y a respaldar las actividades de marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Administra tus preferencias\"}]},{type:0,value:\" en cualquier momento. \"},{type:8,value:\"cookiePolicyLink\",chi",
+  "new_chunk": false
+ },
+ {
+  "text": "Rechazar cookies opcionales",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "tener más información\"}]},{type:0,value:\".\"}]],Nx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Rechazar cookies opcionales\"),Vx=e(\"lightweight-web.privacy.cookie-banner-title\",\"Usamos cookies\"),Ix=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Jatka ChatGPT:hen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "nline-age-rejected\",\"Tarkista ikäsi ja yritä uudelleen.\"),Ar=e(\"lightweight-web.auth.inline-auth-description\",\"Jatka ChatGPT:hen.\"),Sr=e(\"lightweight-web.auth.inline-auth-too-many-attempts\",\"Liian monta yritystä. Yritä u",
+  "new_chunk": false
+ },
+ {
+  "text": "Anna kuusinumeroinen varmennuskoodi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "htweight-web.auth.inline-signup-age-label\",\"Ikä\"),Fr=e(\"lightweight-web.auth.inline-signup-code-format-error\",\"Anna kuusinumeroinen varmennuskoodi.\"),Hr=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Koodi lähetetti",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodi lähetettiin.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "e-format-error\",\"Anna kuusinumeroinen varmennuskoodi.\"),Hr=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Koodi lähetettiin.\"),Jr=e(\"lightweight-web.auth.inline-signup-continue-with-password\",\"Jatka salasanalla\"),qr",
+  "new_chunk": false
+ },
+ {
+  "text": "Viimeistele tilin luominen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "weight-web.auth.inline-signup-desktop-code\",\"Koodi\"),Rr=e(\"lightweight-web.auth.inline-signup-desktop-finish\",\"Viimeistele tilin luominen\"),Br=e(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"tekoälymalliem",
+  "new_chunk": false
+ },
+ {
+  "text": "Anna varmennuskoodi, jonka lähetimme juuri osoitteeseen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "oälymalliemme parantamiseen\"),Ur=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,value:\"Anna varmennuskoodi, jonka lähetimme juuri osoitteeseen \"},{type:1,value:\"email\"},{type:0,value:\".\"}]],Wr=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Ikäsi auttaa meitä mukauttamaan käyttökokemustasi ja ottamaan käyttöön sopivat asetukset.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "top-otp-title\",\"Tarkista sähköpostisi\"),Qr=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Ikäsi auttaa meitä mukauttamaan käyttökokemustasi ja ottamaan käyttöön sopivat asetukset.\"),Xr=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Tarkista nimesi ja ikäsi. Yritä sitten uudelleen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "ei toiminut. Tarkista se ja yritä uudelleen.\"),eu=e(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Tarkista nimesi ja ikäsi. Yritä sitten uudelleen.\"),tu=e(\"lightweight-web.auth.inline-signup-name-label\",\"Kok",
+  "new_chunk": false
+ },
+ {
+  "text": "Evästeet tukevat sivuston toimintaa, käytön mittaamista ja markkinointia. Voit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": ",\"Hyväksy vain oleelliset\"),GL=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Evästeet tukevat sivuston toimintaa, käytön mittaamista ja markkinointia. Voit \"},{type:8,value:\"manageCookie",
+  "new_chunk": false
+ },
+ {
+  "text": "Hylkää valinnaiset",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "pe:0,value:\"Lue lisää\"}]},{type:0,value:\".\"}]],zL=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Hylkää valinnaiset\"),AL=e(\"lightweight-web.privacy.cookie-banner-title\",\"Käytämme evästeitä\"),SL=e(\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "No hemos podido continuar. Inténtalo de nuevo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ados intentos. Por favor, inténtalo de nuevo más tarde.\"),Sc=e(\"lightweight-web.auth.inline-auth-unavailable\",\"No hemos podido continuar. Inténtalo de nuevo.\"),Mc=e(\"lightweight-web.auth.inline-name-empty\",\"Introduce tu ",
+  "new_chunk": false
+ },
+ {
+  "text": "Las cookies ayudan a que este sitio funcione, a medir su uso y a realizar actividades de marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "las que no son esenciales\"),Ax=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Las cookies ayudan a que este sitio funcione, a medir su uso y a realizar actividades de marketing. \"},{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "Gestiona tus preferencias",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ir su uso y a realizar actividades de marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gestiona tus preferencias\"}]},{type:0,value:\" en cualquier momento. \"},{type:8,value:\"cookiePolicyLink\",child",
+  "new_chunk": false
+ },
+ {
+  "text": "Rechazar las opcionales",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "alue:\"Más información\"}]},{type:0,value:\".\"}]],Gx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Rechazar las opcionales\"),Nx=e(\"lightweight-web.privacy.cookie-banner-title\",\"Usamos cookies\"),Dx=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Maglagay ng 6-digit na code ng beripikasyon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "tweight-web.auth.inline-signup-age-label\",\"Edad\"),qh=a(\"lightweight-web.auth.inline-signup-code-format-error\",\"Maglagay ng 6-digit na code ng beripikasyon\"),Wh=a(\"lightweight-web.auth.inline-signup-code-resent\",\"Naipadal",
+  "new_chunk": false
+ },
+ {
+  "text": "Ilagay ang code ng beripikasyon na kakapadala lang namin sa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "usay ang aming mga AI model\"),Jh=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,value:\"Ilagay ang code ng beripikasyon na kakapadala lang namin sa \"},{type:1,value:\"email\"}]],Qh=a(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Code ng beripikasyon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ight-web.auth.inline-signup-name-label\",\"Buong pangalan\"),iw=a(\"lightweight-web.auth.inline-signup-otp-label\",\"Code ng beripikasyon\"),tw=a(\"lightweight-web.auth.inline-signup-pending\",\"Pakihintay…\"),gw=a(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "(na) segundo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "type:0,value:\" segundo.\"}]},other:{value:[{type:0,value:\"Subukan ulit pagkalipas ng \"},{type:7},{type:0,value:\" (na) segundo.\"}]}},offset:0,pluralType:\"cardinal\"}]],ow=a(\"lightweight-web.auth.login-page-privacy-label\",\"P",
+  "new_chunk": false
+ },
+ {
+  "text": "Nakakatulong ang cookies sa paggana ng site na ito, pagsukat ng paggamit, at pagsuporta sa marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "an ang mga hindi mahalaga\"),NM=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Nakakatulong ang cookies sa paggana ng site na ito, pagsukat ng paggamit, at pagsuporta sa marketing. \"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Pamahalaan ang iyong mga kagustuhan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "agsukat ng paggamit, at pagsuporta sa marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Pamahalaan ang iyong mga kagustuhan\"}]},{type:0,value:\" anumang oras. \"},{type:8,value:\"cookiePolicyLink\",chi",
+  "new_chunk": false
+ },
+ {
+  "text": "Tanggihan ang mga opsyonal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "pe:0,value:\"Alamin pa\"}]},{type:0,value:\".\"}]],zM=a(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Tanggihan ang mga opsyonal\"),AM=a(\"lightweight-web.privacy.cookie-banner-title\",\"Gumagamit kami ng mga cookie",
+  "new_chunk": false
+ },
+ {
+  "text": "Skriv inn alderen din i hele år.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "-web.auth.inline-name-too-long\",\"Bruk maksimalt 96 tegn.\"),Eh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Skriv inn alderen din i hele år.\"),Ih=e(\"lightweight-web.auth.inline-signup-age-label\",\"Alder\"),Hh=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Kontroller innboksen din",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "vi nettopp sendte til \"},{type:1,value:\"email\"}]],Zh=e(\"lightweight-web.auth.inline-signup-desktop-otp-title\",\"Kontroller innboksen din\"),Qh=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Dette hjelp",
+  "new_chunk": false
+ },
+ {
+  "text": "Når du klikker på «",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "op-profile-title\",\"Hvor gammel er du?\"),Yh=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:\"Når du klikker på «\"},{type:1,value:\"action\"},{type:0,value:\"», godtar du våre \"},{type:1,value:\"terms\"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Koden fungerte ikke. Kontroller den og prøv igjen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "type:2,value:\"maxAge\",style:null},{type:0,value:\".\"}]],_h=e(\"lightweight-web.auth.inline-signup-invalid-code\",\"Koden fungerte ikke. Kontroller den og prøv igjen.\"),ew=e(\"lightweight-web.auth.inline-signup-invalid-name-an",
+  "new_chunk": false
+ },
+ {
+  "text": "Kontroller navnet ditt og alderen din, og prøv igjen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "fungerte ikke. Kontroller den og prøv igjen.\"),ew=e(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Kontroller navnet ditt og alderen din, og prøv igjen.\"),tw=e(\"lightweight-web.auth.inline-signup-name-label\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Vent litt …",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ight-web.auth.inline-signup-otp-label\",\"Verifiseringskode\"),nw=e(\"lightweight-web.auth.inline-signup-pending\",\"Vent litt …\"),rw=e(\"lightweight-web.auth.inline-signup-resend-code\",\"Send koden på nytt\"),lw=[\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Informasjonskapsler bidrar til at nettstedet fungerer, og brukes til å måle bruken og støtte markedsføring. Du kan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "t\",\"Avvis ikke nødvendige\"),xL=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Informasjonskapsler bidrar til at nettstedet fungerer, og brukes til å måle bruken og støtte markedsføring. D",
+  "new_chunk": false
+ },
+ {
+  "text": "Avvis valgfrie",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "type:0,value:\"Les mer\"}]},{type:0,value:\".\"}]],CL=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Avvis valgfrie\"),FL=e(\"lightweight-web.privacy.cookie-banner-title\",\"Vi bruker informasjonskapsler\"),AL=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Sīkdatnes palīdz nodrošināt šīs vietnes darbību, mērīt tās lietojumu un atbalstīt mārketingu. Jebkurā laikā vari",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "ct\",\"Noraidīt neobligātās\"),xP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Sīkdatnes palīdz nodrošināt šīs vietnes darbību, mērīt tās lietojumu un atbalstīt mārketingu. Jebkurā laikā v",
+  "new_chunk": false
+ },
+ {
+  "text": "Noraidi neobligātās sīkdatnes",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": ",value:\"Uzzini vairāk\"}]},{type:0,value:\".\"}]],CP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Noraidi neobligātās sīkdatnes\"),VP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Mēs izmantojam sīkdatnes\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Từ chối cookie tùy chọn",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": ",value:\"Tìm hiểu thêm\"}]},{type:0,value:\".\"}]],zx=t(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Từ chối cookie tùy chọn\"),Dx=t(\"lightweight-web.privacy.cookie-banner-title\",\"Chúng tôi sử dụng cookie\"),qx=t",
+  "new_chunk": false
+ },
+ {
+  "text": "Xog-keydiyayaashu waxay gacan ka geystaan shaqaynta mareegtan, cabbiridda isticmaalka iyo taageeridda suuqgeynta.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "a aan lama huraanka ahayn\"),Cj=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Xog-keydiyayaashu waxay gacan ka geystaan shaqaynta mareegtan, cabbiridda isticmaalka iyo taageeridda suuqgey",
+  "new_chunk": false
+ },
+ {
+  "text": "Maamul dookhyadaada",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "bbiridda isticmaalka iyo taageeridda suuqgeynta. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Maamul dookhyadaada\"}]},{type:0,value:\" wakhti kasta. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,v",
+  "new_chunk": false
+ },
+ {
+  "text": "Diid kuwa ikhtiyaariga ah",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ue:\"Wax badan ka ogow\"}]},{type:0,value:\".\"}]],Kj=a(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Diid kuwa ikhtiyaariga ah\"),Ij=a(\"lightweight-web.privacy.cookie-banner-title\",\"Waxaan isticmaalnaa kuukiyada",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookie-urile ajută la funcționarea acestui site, la măsurarea utilizării și la susținerea activităților de marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "ge elementele neesențiale\"),Ox=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookie-urile ajută la funcționarea acestui site, la măsurarea utilizării și la susținerea activităților de ma",
+  "new_chunk": false
+ },
+ {
+  "text": "Gestionează-ți preferințele",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "rii și la susținerea activităților de marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gestionează-ți preferințele\"}]},{type:0,value:\" oricând. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "Respinge cookie-urile opționale",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "value:\"Află mai multe\"}]},{type:0,value:\".\"}]],Sx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Respinge cookie-urile opționale\"),Ix=e(\"lightweight-web.privacy.cookie-banner-title\",\"Folosim module cookie\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Masukkan umur anda dalam tahun penuh.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "th.inline-name-too-long\",\"Gunakan 96 aksara atau kurang.\"),Yo=a(\"lightweight-web.auth.inline-signup-age-help\",\"Masukkan umur anda dalam tahun penuh.\"),Ho=a(\"lightweight-web.auth.inline-signup-age-label\",\"Umur\"),Jo=a(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Maklumat ini membantu kami memperibadikan pengalaman anda dan menggunakan tetapan yang sesuai.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "top-otp-title\",\"Semak peti masuk anda\"),Zo=a(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Maklumat ini membantu kami memperibadikan pengalaman anda dan menggunakan tetapan yang sesuai.\"),Qo=a(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Urus pilihan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "si, mengukur penggunaan dan menyokong pemasaran. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Urus pilihan\"}]},{type:0,value:\" pada bila-bila masa. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,v",
+  "new_chunk": false
+ },
+ {
+  "text": "Tolak kuki pilihan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "\"Ketahui lebih lanjut\"}]},{type:0,value:\".\"}]],KP=a(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Tolak kuki pilihan\"),zP=a(\"lightweight-web.privacy.cookie-banner-title\",\"Kami menggunakan kuki\"),DP=a(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "AI-modelljeink fejlesztésére",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "desktop-finish\",\"Fióklétrehozás befejezése\"),Rh=e(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"AI-modelljeink fejlesztésére\"),Wh=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,valu",
+  "new_chunk": false
+ },
+ {
+  "text": "Az életkort években,",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "elTraining\"},{type:0,value:\" céljára.\"}]],$h=[\"lightweight-web.auth.inline-signup-invalid-age\",[{type:0,value:\"Az életkort években, \"},{type:2,value:\"minAge\",style:null},{type:0,value:\" és \"},{type:2,value:\"maxAge\",style",
+  "new_chunk": false
+ },
+ {
+  "text": "közötti egész számmal add meg.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": " \"},{type:2,value:\"minAge\",style:null},{type:0,value:\" és \"},{type:2,value:\"maxAge\",style:null},{type:0,value:\" közötti egész számmal add meg.\"}]],_h=e(\"lightweight-web.auth.inline-signup-invalid-code\",\"Ez a kód nem műkö",
+  "new_chunk": false
+ },
+ {
+  "text": "A sütik segítik a webhely működését és használatának mérését, valamint támogatják a marketinget. Bármikor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "tosságúak visszautasítása\"),CA=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"A sütik segítik a webhely működését és használatának mérését, valamint támogatják a marketinget. Bármikor \"},",
+  "new_chunk": false
+ },
+ {
+  "text": "Opcionális sütik elutasítása",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "e:\"További információ\"}]},{type:0,value:\".\"}]],HA=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Opcionális sütik elutasítása\"),MA=e(\"lightweight-web.privacy.cookie-banner-title\",\"Cookie-kat használunk\"),GA",
+  "new_chunk": false
+ },
+ {
+  "text": "Voer je leeftijd in hele jaren in.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": ".auth.inline-name-too-long\",\"Gebruik maximaal 96 tekens.\"),Jh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Voer je leeftijd in hele jaren in.\"),Ih=e(\"lightweight-web.auth.inline-signup-age-label\",\"Leeftijd\"),Hh=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Voer een zescijferige verificatiecode in.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "ght-web.auth.inline-signup-age-label\",\"Leeftijd\"),Hh=e(\"lightweight-web.auth.inline-signup-code-format-error\",\"Voer een zescijferige verificatiecode in.\"),Wh=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Code verzo",
+  "new_chunk": false
+ },
+ {
+  "text": "Voer de verificatiecode in die we zojuist naar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "e AI-modellen te verbeteren\"),Rh=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,value:\"Voer de verificatiecode in die we zojuist naar \"},{type:1,value:\"email\"},{type:0,value:\" hebben verzonden\"}]]",
+  "new_chunk": false
+ },
+ {
+  "text": "Zo kunnen we je ervaring personaliseren en de juiste instellingen toepassen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "sktop-otp-title\",\"Controleer je inbox\"),Qh=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Zo kunnen we je ervaring personaliseren en de juiste instellingen toepassen.\"),Xh=e(\"lightweight-web.auth.inl",
+  "new_chunk": false
+ },
+ {
+  "text": "Door op \"",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "sktop-profile-title\",\"Hoe oud ben je?\"),Yh=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:'Door op \"'},{type:1,value:\"action\"},{type:0,value:'\" te klikken, ga je akkoord met onze '},{type:1,value:\"ter",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookies ondersteunen de werking van deze site, meten het gebruik en helpen bij marketing. Je kunt op elk moment je",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "Niet-essentiële verwerpen\"),VP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies ondersteunen de werking van deze site, meten het gebruik en helpen bij marketing. Je kunt op elk mome",
+  "new_chunk": false
+ },
+ {
+  "text": "Optionele cookies weigeren",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "alue:\"Meer informatie\"}]},{type:0,value:\".\"}]],MP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Optionele cookies weigeren\"),OP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Wij gebruiken cookies\"),LP=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Que idade tem?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "iência e a aplicar as definições adequadas.\"),Xh=e(\"lightweight-web.auth.inline-signup-desktop-profile-title\",\"Que idade tem?\"),Yh=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:\"Ao clicar em «\"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Os cookies ajudam este site a funcionar, permitem medir a utilização e apoiam o marketing. Pode",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": ",\"Rejeitar não essenciais\"),Nx=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Os cookies ajudam este site a funcionar, permitem medir a utilização e apoiam o marketing. Pode \"},{type:8,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Rejeitar opcionais",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "e:0,value:\"Saiba mais\"}]},{type:0,value:\".\"}]],Ox=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Rejeitar opcionais\"),Ix=e(\"lightweight-web.privacy.cookie-banner-title\",\"Usamos cookies\"),jx=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Hver er aldur þinn?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "plifunina að þér og nota réttar stillingar.`),_d=e(`lightweight-web.auth.inline-signup-desktop-profile-title`,`Hver er aldur þinn?`),vd=[`lightweight-web.auth.inline-signup-desktop-terms`,[{type:0,value:`Með því að smell",
+  "new_chunk": false
+ },
+ {
+  "text": "Vafrakökur styðja við virkni vefsvæðisins, notkunarmælingar og markaðssetningu. Þú getur",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ect`,`Hafna ónauðsynlegum`),LT=[`lightweight-web.privacy.cookie-banner-signed-out-description`,[{type:0,value:`Vafrakökur styðja við virkni vefsvæðisins, notkunarmælingar og markaðssetningu. Þú getur `},{type:8,value:`ma",
+  "new_chunk": false
+ },
+ {
+  "text": "Hafna valfrjálsum vafrakökum",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": ":`Frekari upplýsingar`}]},{type:0,value:`.`}]],RT=e(`lightweight-web.privacy.cookie-banner-signed-out-reject`,`Hafna valfrjálsum vafrakökum`),zT=e(`lightweight-web.privacy.cookie-banner-title`,`Við notum vefkökur`),BT=e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Unesite ime bez brojeva ili simbola, poput emojija.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "auth.inline-name-empty\",\"Unesite svoje ime i prezime.\"),Bh=e(\"lightweight-web.auth.inline-name-invalid-chars\",\"Unesite ime bez brojeva ili simbola, poput emojija.\"),Mh=e(\"lightweight-web.auth.inline-name-too-long\",\"Upotr",
+  "new_chunk": false
+ },
+ {
+  "text": "Upotrijebite najviše 96 znakova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "hars\",\"Unesite ime bez brojeva ili simbola, poput emojija.\"),Mh=e(\"lightweight-web.auth.inline-name-too-long\",\"Upotrijebite najviše 96 znakova.\"),Vh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Unesite broj navršenih",
+  "new_chunk": false
+ },
+ {
+  "text": "Kolačići pomažu ovoj stranici da radi, mjere korištenje i podržavaju marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "r-reject\",\"Odbaci nebitno\"),UP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Kolačići pomažu ovoj stranici da radi, mjere korištenje i podržavaju marketing. \"},{type:8,value:\"manageCooki",
+  "new_chunk": false
+ },
+ {
+  "text": "Upravljajte postavkama",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "a radi, mjere korištenje i podržavaju marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Upravljajte postavkama\"}]},{type:0,value:\" u bilo kojem trenutku. \"},{type:8,value:\"cookiePolicyLink\",childre",
+  "new_chunk": false
+ },
+ {
+  "text": "Odbij neobavezne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": ",value:\"Saznajte više\"}]},{type:0,value:\".\"}]],CP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Odbij neobavezne\"),xP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Koristimo kolačiće\"),IP=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Nismo mogli nastaviti. Pokušajte ponovno.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "y-attempts\",\"Previše pokušaja. Pokušaj ponovno kasnije.\"),Rh=e(\"lightweight-web.auth.inline-auth-unavailable\",\"Nismo mogli nastaviti. Pokušajte ponovno.\"),Sh=e(\"lightweight-web.auth.inline-name-empty\",\"Unesite svoje ime ",
+  "new_chunk": false
+ },
+ {
+  "text": "Unesite broj godina kao cijeli broj.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": ".auth.inline-name-too-long\",\"Unesite najviše 96 znakova.\"),Eh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Unesite broj godina kao cijeli broj.\"),Kh=e(\"lightweight-web.auth.inline-signup-age-label\",\"Dob\"),Vh=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Nastavi sa zaporkom",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "inline-signup-code-resent\",\"Kôd je poslan.\"),Bh=e(\"lightweight-web.auth.inline-signup-continue-with-password\",\"Nastavi sa zaporkom\"),qh=e(\"lightweight-web.auth.inline-signup-desktop-code\",\"Kôd\"),Lh=e(\"lightweight-web.aut",
+  "new_chunk": false
+ },
+ {
+  "text": "Taj kôd nije prihvaćen. Provjerite ga i pokušajte ponovno.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "type:2,value:\"maxAge\",style:null},{type:0,value:\".\"}]],_h=e(\"lightweight-web.auth.inline-signup-invalid-code\",\"Taj kôd nije prihvaćen. Provjerite ga i pokušajte ponovno.\"),ep=e(\"lightweight-web.auth.inline-signup-invalid",
+  "new_chunk": false
+ },
+ {
+  "text": "Provjerite svoje ime i dob pa pokušajte ponovno.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "rihvaćen. Provjerite ga i pokušajte ponovno.\"),ep=e(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Provjerite svoje ime i dob pa pokušajte ponovno.\"),ip=e(\"lightweight-web.auth.inline-signup-name-label\",\"Ime ",
+  "new_chunk": false
+ },
+ {
+  "text": "Pokušajte ponovno za",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "[\"lightweight-web.auth.inline-signup-retry-after\",[{type:6,value:\"seconds\",options:{one:{value:[{type:0,value:\"Pokušajte ponovno za \"},{type:7},{type:0,value:\" sekundu.\"}]},few:{value:[{type:0,value:\"Pokušajte ponovno za",
+  "new_chunk": false
+ },
+ {
+  "text": "Besplatno se registrirajte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "abel\",\"Uvjeti korištenja\"),gp=e(\"lightweight-web.auth.or\",\"ILI\"),sp=e(\"lightweight-web.auth.sign-up-for-free\",\"Besplatno se registrirajte\"),hp=e(\"lightweight-web.auth.soft-rate-limit-dictation-subtitle\",\"Prijavite se ili",
+  "new_chunk": false
+ },
+ {
+  "text": "Prijavite se ili izradite račun",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "le\",\"Prijavite se ili se registrirajte za izradu slika\"),aP=e(\"lightweight-web.auth.log-in-or-create-account\",\"Prijavite se ili izradite račun\"),oP=e(\"lightweight-web.auth.log-in-to-another-account\",\"Prijavite se na drug",
+  "new_chunk": false
+ },
+ {
+  "text": "Prijavite se na drugi račun",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "n-or-create-account\",\"Prijavite se ili izradite račun\"),oP=e(\"lightweight-web.auth.log-in-to-another-account\",\"Prijavite se na drugi račun\"),rP=e(\"lightweight-web.auth.logging-in\",\"Prijava...\"),nP=e(\"lightweight-web.auth",
+  "new_chunk": false
+ },
+ {
+  "text": "Kolačići pomažu u radu ove stranice, mjerenju upotrebe i marketingu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "reject\",\"Odbij nepotrebno\"),xP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Kolačići pomažu u radu ove stranice, mjerenju upotrebe i marketingu. \"},{type:8,value:\"manageCookiesLink\",chi",
+  "new_chunk": false
+ },
+ {
+  "text": "Odbij neobvezne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": ",value:\"Saznajte više\"}]},{type:0,value:\".\"}]],IP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Odbij neobvezne\"),CP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Upotrebljavamo kolačiće\"),AP=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Slapukai padeda užtikrinti šios svetainės veikimą, vertinti jos naudojimą ir vykdyti rinkodarą. Bet kada galite",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "eject\",\"Atmesti nebūtinus\"),Cz=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Slapukai padeda užtikrinti šios svetainės veikimą, vertinti jos naudojimą ir vykdyti rinkodarą. Bet kada gali",
+  "new_chunk": false
+ },
+ {
+  "text": "Me ei saanud jätkata. Proovi uuesti.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "mpts\",\"Liiga palju katseid. Palun proovi hiljem uuesti.\"),Mh=e(\"lightweight-web.auth.inline-auth-unavailable\",\"Me ei saanud jätkata. Proovi uuesti.\"),Oh=e(\"lightweight-web.auth.inline-name-empty\",\"Sisesta oma täisnimi.\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Sisesta kuuekohaline kinnituskood.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "weight-web.auth.inline-signup-age-label\",\"Vanus\"),qh=e(\"lightweight-web.auth.inline-signup-code-format-error\",\"Sisesta kuuekohaline kinnituskood.\"),Nh=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Kood saadeti.\"),R",
+  "new_chunk": false
+ },
+ {
+  "text": "Kood saadeti.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "ode-format-error\",\"Sisesta kuuekohaline kinnituskood.\"),Nh=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Kood saadeti.\"),Rh=e(\"lightweight-web.auth.inline-signup-continue-with-password\",\"Jätka parooliga\"),Fh=e(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Küpsised aitavad tagada selle saidi toimimise, mõõta kasutust ja toetada turundust. Saad igal ajal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "Lükka tagasi mitteoluline\"),CT=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Küpsised aitavad tagada selle saidi toimimise, mõõta kasutust ja toetada turundust. Saad igal ajal \"},{type:8",
+  "new_chunk": false
+ },
+ {
+  "text": "Keeldu valikulistest küpsistest",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "pe:0,value:\"Lisateave\"}]},{type:0,value:\".\"}]],AT=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Keeldu valikulistest küpsistest\"),GT=e(\"lightweight-web.privacy.cookie-banner-title\",\"Me kasutame küpsiseid\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Súbory cookie pomáhajú zabezpečiť fungovanie tejto stránky, merať jej používanie a podporovať marketing. Kedykoľvek môžete",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "t\",\"Odmietnuť nepodstatné\"),VP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Súbory cookie pomáhajú zabezpečiť fungovanie tejto stránky, merať jej používanie a podporovať marketing. Kedy",
+  "new_chunk": false
+ },
+ {
+  "text": "Odmietnuť voliteľné",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "alue:\"Viac informácií\"}]},{type:0,value:\".\"}]],GP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Odmietnuť voliteľné\"),CP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Používame súbory cookie\"),AP=e(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Nie można kontynuować. Spróbuj ponownie.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "y-attempts\",\"Zbyt wiele prób. Spróbuj ponownie później.\"),As=e(\"lightweight-web.auth.inline-auth-unavailable\",\"Nie można kontynuować. Spróbuj ponownie.\"),Us=e(\"lightweight-web.auth.inline-name-empty\",\"Wpisz swoje imię i ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kontynuuj, używając hasła",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "h.inline-signup-code-resent\",\"Wysłano kod.\"),qs=e(\"lightweight-web.auth.inline-signup-continue-with-password\",\"Kontynuuj, używając hasła\"),Rs=e(\"lightweight-web.auth.inline-signup-desktop-code\",\"Kod\"),Js=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Pomaga nam to dostosować usługę do Twoich potrzeb i zastosować odpowiednie ustawienia.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "tp-title\",\"Sprawdź skrzynkę odbiorczą\"),Qs=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Pomaga nam to dostosować usługę do Twoich potrzeb i zastosować odpowiednie ustawienia.\"),Xs=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Pliki cookie wspierają działanie tej witryny, pomiar jej użytkowania i działania marketingowe. W każdej chwili możesz",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "niepotrzebne pliki cookie\"),DP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Pliki cookie wspierają działanie tej witryny, pomiar jej użytkowania i działania marketingowe. W każdej chwil",
+  "new_chunk": false
+ },
+ {
+  "text": "Odrzuć opcjonalne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "e:\"Dowiedz się więcej\"}]},{type:0,value:\".\"}]],OP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Odrzuć opcjonalne\"),xP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Korzystamy z plików cookie\"),ZP=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Fuldfør oprettelsen af kontoen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "tweight-web.auth.inline-signup-desktop-code\",\"Kode\"),Uh=e(\"lightweight-web.auth.inline-signup-desktop-finish\",\"Fuldfør oprettelsen af kontoen\"),Jh=e(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"forbedre v",
+  "new_chunk": false
+ },
+ {
+  "text": "Når du klikker på \"",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "op-profile-title\",\"Hvor gammel er du?\"),Xh=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:'Når du klikker på \"'},{type:1,value:\"action\"},{type:0,value:'\", accepterer du vores '},{type:1,value:\"terms\"}",
+  "new_chunk": false
+ },
+ {
+  "text": "Dit fulde navn",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "e\",\"Tjek dit navn og din alder, og prøv derefter igen.\"),tw=e(\"lightweight-web.auth.inline-signup-name-label\",\"Dit fulde navn\"),iw=e(\"lightweight-web.auth.inline-signup-otp-label\",\"Bekræftelseskode\"),rw=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Vent et øjeblik…",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "eight-web.auth.inline-signup-otp-label\",\"Bekræftelseskode\"),rw=e(\"lightweight-web.auth.inline-signup-pending\",\"Vent et øjeblik…\"),lw=e(\"lightweight-web.auth.inline-signup-resend-code\",\"Send koden igen\"),nw=[\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookies hjælper dette websted med at fungere, måler brugen og understøtter markedsføring. Du kan altid",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ject\",\"Afvis ikke-vigtige\"),FP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies hjælper dette websted med at fungere, måler brugen og understøtter markedsføring. Du kan altid \"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Afvis valgfrie cookies",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "alue:\"Få mere at vide\"}]},{type:0,value:\".\"}]],xP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Afvis valgfrie cookies\"),OP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Vi anvender cookies\"),AP=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Prova el ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "eight-web.conversation.purchase-free-plan\",\"Gratuït\"),Hu=e(\"lightweight-web.conversation.purchase-free-title\",\"Prova el ChatGPT\"),Vu=e(\"lightweight-web.conversation.purchase-free-voice\",\"Converses de veu limitades\"),Uu=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Les galetes ajuden a fer funcionar aquest lloc web, a mesurar-ne l'ús i a donar suport al màrqueting.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "Rebutja les no essencials\"),SC=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Les galetes ajuden a fer funcionar aquest lloc web, a mesurar-ne l'ús i a donar suport al màrqueting. \"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Gestiona les preferències",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": " mesurar-ne l'ús i a donar suport al màrqueting. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gestiona les preferències\"}]},{type:0,value:\" en qualsevol moment. \"},{type:8,value:\"cookiePolicyLink\",childr",
+  "new_chunk": false
+ },
+ {
+  "text": "Rebutja les opcionals",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "value:\"Més informació\"}]},{type:0,value:\".\"}]],GC=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Rebutja les opcionals\"),NC=e(\"lightweight-web.privacy.cookie-banner-title\",\"Utilitzem galetes\"),IC=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Piškotki pomagajo pri delovanju tega spletnega mesta, merjenju uporabe in trženju. Kadar koli lahko",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "reject\",\"Zavrni neobvezne\"),GP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Piškotki pomagajo pri delovanju tega spletnega mesta, merjenju uporabe in trženju. Kadar koli lahko \"},{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "L’opération a échoué. Veuillez réessayer.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "pts\",\"Trop de tentatives. Veuillez réessayer plus tard.\"),Sh=e(\"lightweight-web.auth.inline-auth-unavailable\",\"L’opération a échoué. Veuillez réessayer.\"),Dh=e(\"lightweight-web.auth.inline-name-empty\",\"Saisissez votre no",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code de vérification doit comporter 6 chiffres.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "htweight-web.auth.inline-signup-age-label\",\"Âge\"),Nh=e(\"lightweight-web.auth.inline-signup-code-format-error\",\"Le code de vérification doit comporter 6 chiffres.\"),Uh=e(\"lightweight-web.auth.inline-signup-code-resent\",\"L",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code a été envoyé.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "\",\"Le code de vérification doit comporter 6 chiffres.\"),Uh=e(\"lightweight-web.auth.inline-signup-code-resent\",\"Le code a été envoyé.\"),Bh=e(\"lightweight-web.auth.inline-signup-continue-with-password\",\"Continuer avec un m",
+  "new_chunk": false
+ },
+ {
+  "text": "Finaliser la création du compte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "tweight-web.auth.inline-signup-desktop-code\",\"Code\"),Jh=e(\"lightweight-web.auth.inline-signup-desktop-finish\",\"Finaliser la création du compte\"),Qh=e(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"améliorer",
+  "new_chunk": false
+ },
+ {
+  "text": "Cela nous permet de personnaliser votre expérience et d’appliquer les paramètres appropriés.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "\",\"Consultez votre boîte de réception\"),Kh=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Cela nous permet de personnaliser votre expérience et d’appliquer les paramètres appropriés.\"),Xh=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code saisi n’est pas valide. Veuillez le vérifier et réessayer.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "ype:2,value:\"maxAge\",style:null},{type:0,value:\").\"}]],_h=e(\"lightweight-web.auth.inline-signup-invalid-code\",\"Le code saisi n’est pas valide. Veuillez le vérifier et réessayer.\"),ec=e(\"lightweight-web.auth.inline-signup",
+  "new_chunk": false
+ },
+ {
+  "text": "Nom et prénom(s)",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "age\",\"Vérifiez votre nom et votre âge, puis réessayez.\"),tc=e(\"lightweight-web.auth.inline-signup-name-label\",\"Nom et prénom(s)\"),ic=e(\"lightweight-web.auth.inline-signup-otp-label\",\"Code de vérification\"),ac=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Les cookies contribuent au fonctionnement de ce site, à la mesure de son utilisation et aux activités marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "es cookies non essentiels\"),jx=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Les cookies contribuent au fonctionnement de ce site, à la mesure de son utilisation et aux activités marketi",
+  "new_chunk": false
+ },
+ {
+  "text": "Gérez vos préférences",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "e de son utilisation et aux activités marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gérez vos préférences\"}]},{type:0,value:\" à tout moment. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:",
+  "new_chunk": false
+ },
+ {
+  "text": "Refuser les cookies facultatifs",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "value:\"En savoir plus\"}]},{type:0,value:\".\"}]],Gx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Refuser les cookies facultatifs\"),Ix=e(\"lightweight-web.privacy.cookie-banner-title\",\"Nous utilisons des cook",
+  "new_chunk": false
+ },
+ {
+  "text": "Non è stato possibile continuare. Riprova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "oo-many-attempts\",\"Troppi tentativi. Riprova più tardi.\"),Oc=e(\"lightweight-web.auth.inline-auth-unavailable\",\"Non è stato possibile continuare. Riprova.\"),Nc=e(\"lightweight-web.auth.inline-name-empty\",\"Inserisci il tuo ",
+  "new_chunk": false
+ },
+ {
+  "text": "Inserisci il codice di verifica che ti abbiamo appena inviato a",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "rare i nostri modelli di IA\"),Kc=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,value:\"Inserisci il codice di verifica che ti abbiamo appena inviato a \"},{type:1,value:\"email\"}]],Zc=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "I cookie aiutano a far funzionare questo sito, a misurarne l'utilizzo e a supportare le attività di marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "\",\"Rifiuta non essenziali\"),SI=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"I cookie aiutano a far funzionare questo sito, a misurarne l'utilizzo e a supportare le attività di marketing",
+  "new_chunk": false
+ },
+ {
+  "text": "Gestisci le preferenze",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "tilizzo e a supportare le attività di marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gestisci le preferenze\"}]},{type:0,value:\" in qualsiasi momento. \"},{type:8,value:\"cookiePolicyLink\",children",
+  "new_chunk": false
+ },
+ {
+  "text": "Rifiuta i cookie facoltativi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": ",value:\"Scopri di più\"}]},{type:0,value:\".\"}]],xI=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Rifiuta i cookie facoltativi\"),DI=e(\"lightweight-web.privacy.cookie-banner-title\",\"Utilizziamo i cookie\"),MI=",
+  "new_chunk": false
+ },
+ {
+  "text": "Nuk mund të vazhdonim. Provo sërish.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "mpts\",\"Tepër përpjekje. Të lutem, provo sërish më vonë.\"),Dl=e(\"lightweight-web.auth.inline-auth-unavailable\",\"Nuk mund të vazhdonim. Provo sërish.\"),Ll=e(\"lightweight-web.auth.inline-name-empty\",\"Shkruani emrin tuaj të ",
+  "new_chunk": false
+ },
+ {
+  "text": "Fut moshën tënde në vite të plota.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "line-name-too-long\",\"Përdor jo më shumë se 96 karaktere.\"),Hl=e(\"lightweight-web.auth.inline-signup-age-help\",\"Fut moshën tënde në vite të plota.\"),El=e(\"lightweight-web.auth.inline-signup-age-label\",\"Mosha\"),Bl=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Kjo na ndihmon të personalizojmë përvojën tënde dhe të zbatojmë cilësimet e duhura.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "title\",\"Kontrollo kutinë tënde hyrëse\"),Wl=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Kjo na ndihmon të personalizojmë përvojën tënde dhe të zbatojmë cilësimet e duhura.\"),Xl=e(\"lightweight-web.a",
+  "new_chunk": false
+ },
+ {
+  "text": "Duke klikuar te \"",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "p-desktop-profile-title\",\"Sa vjeç je?\"),Yl=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:'Duke klikuar te \"'},{type:1,value:\"action\"},{type:0,value:'\", pranon '},{type:1,value:\"terms\"},{type:0,value:",
+  "new_chunk": false
+ },
+ {
+  "text": "Je i sigurt?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "-contact.remove-confirm-button\",\"Hiq kontaktin\"),zp=e(\"lightweight-web.settings-trusted-contact.remove-title\",\"Je i sigurt?\"),Pp=e(\"lightweight-web.settings-trusted-contact.success-close\",\"Mbyll\"),qp=e(\"lightweight-web.s",
+  "new_chunk": false
+ },
+ {
+  "text": "Kukit ndihmojnë në funksionimin e kësaj faqeje, matjen e përdorimit dhe mbështetjen e marketingut.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "\",\"Refuzo të panevojshmet\"),SP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Kukit ndihmojnë në funksionimin e kësaj faqeje, matjen e përdorimit dhe mbështetjen e marketingut. \"},{type:8",
+  "new_chunk": false
+ },
+ {
+  "text": "Menaxho preferencat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "tjen e përdorimit dhe mbështetjen e marketingut. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Menaxho preferencat\"}]},{type:0,value:\" në çdo kohë. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,va",
+  "new_chunk": false
+ },
+ {
+  "text": "Refuzo kukit opsionale",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": ",value:\"Mëso më shumë\"}]},{type:0,value:\".\"}]],NP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Refuzo kukit opsionale\"),MP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Ne përdorim kuki\"),CP=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Kamilisha kuunda akaunti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "eight-web.auth.inline-signup-desktop-code\",\"Msimbo\"),Ru=a(\"lightweight-web.auth.inline-signup-desktop-finish\",\"Kamilisha kuunda akaunti\"),qu=a(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"kuboresha modeli",
+  "new_chunk": false
+ },
+ {
+  "text": "Weka msimbo wa uthibitishaji ambao tumetuma hivi punde kwa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "kuboresha modeli zetu za AI\"),Lu=[\"lightweight-web.auth.inline-signup-desktop-otp-description\",[{type:0,value:\"Weka msimbo wa uthibitishaji ambao tumetuma hivi punde kwa \"},{type:1,value:\"email\"}]],Vu=a(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Hii hutusaidia kubinafsisha matumizi yako na kutumia mipangilio inayofaa.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "top-otp-title\",\"Angalia kikasha chako\"),Yu=a(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Hii hutusaidia kubinafsisha matumizi yako na kutumia mipangilio inayofaa.\"),Qu=a(\"lightweight-web.auth.inline",
+  "new_chunk": false
+ },
+ {
+  "text": "Msimbo huo haukufanya kazi. Ukague kisha ujaribu tena.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "e:null},{type:0,value:\" kwa kutumia nambari nzima.\"}]],_u=a(\"lightweight-web.auth.inline-signup-invalid-code\",\"Msimbo huo haukufanya kazi. Ukague kisha ujaribu tena.\"),as=a(\"lightweight-web.auth.inline-signup-invalid-nam",
+  "new_chunk": false
+ },
+ {
+  "text": "Kagua jina lako na umri wako, kisha jaribu tena.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": " haukufanya kazi. Ukague kisha ujaribu tena.\"),as=a(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Kagua jina lako na umri wako, kisha jaribu tena.\"),is=a(\"lightweight-web.auth.inline-signup-name-label\",\"Jina",
+  "new_chunk": false
+ },
+ {
+  "text": "Vidakuzi husaidia tovuti hii kufanya kazi, kupima matumizi na kusaidia shughuli za masoko.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "Kataa zisizo muhimu zaidi\"),MT=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Vidakuzi husaidia tovuti hii kufanya kazi, kupima matumizi na kusaidia shughuli za masoko. \"},{type:8,value:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Dhibiti mapendeleo yako",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": " kupima matumizi na kusaidia shughuli za masoko. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Dhibiti mapendeleo yako\"}]},{type:0,value:\" wakati wowote. \"},{type:8,value:\"cookiePolicyLink\",children:[{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kataa vidakuzi vya hiari",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "e:\"Pata maelezo zaidi\"}]},{type:0,value:\".\"}]],AT=a(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Kataa vidakuzi vya hiari\"),OT=a(\"lightweight-web.privacy.cookie-banner-title\",\"Tunatumia vidakuzi\"),HT=a(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookies hjälper webbplatsen att fungera och används för att mäta användningen och stödja marknadsföring. Du kan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "r-reject\",\"Avvisa valfria\"),GS=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies hjälper webbplatsen att fungera och används för att mäta användningen och stödja marknadsföring. Du k",
+  "new_chunk": false
+ },
+ {
+  "text": "Avvisa valfria cookies",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "type:0,value:\"Läs mer\"}]},{type:0,value:\".\"}]],CS=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Avvisa valfria cookies\"),ES=e(\"lightweight-web.privacy.cookie-banner-title\",\"Vi använder cookies\"),zS=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Os cookies ajudam no funcionamento deste site, na medição do uso e nas ações de marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": ",\"Rejeitar não essenciais\"),Rq=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Os cookies ajudam no funcionamento deste site, na medição do uso e nas ações de marketing. \"},{type:8,value:\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Gerencie suas preferências",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "ite, na medição do uso e nas ações de marketing. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Gerencie suas preferências\"}]},{type:0,value:\" a qualquer momento. \"},{type:8,value:\"cookiePolicyLink\",childr",
+  "new_chunk": false
+ },
+ {
+  "text": "Dokončit vytváření účtu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "htweight-web.auth.inline-signup-desktop-code\",\"Kód\"),Rh=e(\"lightweight-web.auth.inline-signup-desktop-finish\",\"Dokončit vytváření účtu\"),Fh=e(\"lightweight-web.auth.inline-signup-desktop-model-training\",\"zlepšování našich",
+  "new_chunk": false
+ },
+ {
+  "text": "Kliknutím na tlačítko",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "top-profile-title\",\"Kolik je vám let?\"),Yh=[\"lightweight-web.auth.inline-signup-desktop-terms\",[{type:0,value:\"Kliknutím na tlačítko \"},{type:1,value:\"action\"},{type:0,value:\" přijímáte naše \"},{type:1,value:\"terms\"},{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookies pomáhají zajistit chod tohoto webu, měřit jeho využití a podporovat marketing. Kdykoli můžete",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "ty, které nejsou nezbytné\"),OP=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies pomáhají zajistit chod tohoto webu, měřit jeho využití a podporovat marketing. Kdykoli můžete \"},{typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Odmítnout volitelné",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "alue:\"Další informace\"}]},{type:0,value:\".\"}]],DP=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Odmítnout volitelné\"),GP=e(\"lightweight-web.privacy.cookie-banner-title\",\"Používáme soubory cookie\"),SP=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Les témoins contribuent au fonctionnement de ce site, à la mesure de son utilisation et aux activités de marketing.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "es témoins non essentiels\"),jx=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Les témoins contribuent au fonctionnement de ce site, à la mesure de son utilisation et aux activités de mark",
+  "new_chunk": false
+ },
+ {
+  "text": "Refuser les témoins facultatifs",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "value:\"En savoir plus\"}]},{type:0,value:\".\"}]],Gx=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Refuser les témoins facultatifs\"),Ix=e(\"lightweight-web.privacy.cookie-banner-title\",\"Nous utilisons des témo",
+  "new_chunk": false
+ },
+ {
+  "text": "Çerezler bu sitenin çalışmasına, kullanımın ölçülmesine ve pazarlama faaliyetlerine yardımcı olur. İstediğin zaman",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "erekli olmayanları reddet\"),KG=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Çerezler bu sitenin çalışmasına, kullanımın ölçülmesine ve pazarlama faaliyetlerine yardımcı olur. İstediğin ",
+  "new_chunk": false
+ },
+ {
+  "text": "İsteğe bağlı çerezleri reddet",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "Daha fazla bilgi edin\"}]},{type:0,value:\".\"}]],EG=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"İsteğe bağlı çerezleri reddet\"),jG=e(\"lightweight-web.privacy.cookie-banner-title\",\"Çerez kullanıyoruz\"),AG=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Kelola preferensi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "i, mengukur penggunaan, dan mendukung pemasaran. \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Kelola preferensi\"}]},{type:0,value:\" kapan saja. \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,value",
+  "new_chunk": false
+ },
+ {
+  "text": "Tolak cookie opsional",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "Pelajari selengkapnya\"}]},{type:0,value:\".\"}]],Sj=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Tolak cookie opsional\"),Kj=e(\"lightweight-web.privacy.cookie-banner-title\",\"Kami menggunakan cookie\"),zj=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Im Posteingang nachsehen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "value:\"email\"},{type:0,value:\" gesendet haben\"}]],qo=e(\"lightweight-web.auth.inline-signup-desktop-otp-title\",\"Im Posteingang nachsehen\"),Jo=e(\"lightweight-web.auth.inline-signup-desktop-profile-description\",\"Das hilft u",
+  "new_chunk": false
+ },
+ {
+  "text": "Cookies unterstützen den Betrieb dieser Website, die Nutzungsmessung und das Marketing. Du kannst jederzeit deine",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "gt erforderliche ablehnen\"),SE=[\"lightweight-web.privacy.cookie-banner-signed-out-description\",[{type:0,value:\"Cookies unterstützen den Betrieb dieser Website, die Nutzungsmessung und das Marketing. Du kannst jederzeit d",
+  "new_chunk": false
+ },
+ {
+  "text": "Einstellungen verwalten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ung und das Marketing. Du kannst jederzeit deine \"},{type:8,value:\"manageCookiesLink\",children:[{type:0,value:\"Einstellungen verwalten\"}]},{type:0,value:\". \"},{type:8,value:\"cookiePolicyLink\",children:[{type:0,value:\"Meh",
+  "new_chunk": false
+ },
+ {
+  "text": "Optionale Cookies ablehnen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": ",value:\"Mehr erfahren\"}]},{type:0,value:\".\"}]],CE=e(\"lightweight-web.privacy.cookie-banner-signed-out-reject\",\"Optionale Cookies ablehnen\"),ME=e(\"lightweight-web.privacy.cookie-banner-title\",\"Wir verwenden Cookies\"),WE=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Async schemas not supported in object keys currently",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",\"__proto__\"===n)continue;let a=t.keyType._zod.run({value:n,issues:[]},i);if(a instanceof Promise)throw Error(\"Async schemas not supported in object keys currently\");if(a.issues.length){r.issues.push({code:\"invalid_key\",",
+  "new_chunk": false
+ },
+ {
+  "text": ",tickLine:!1,tickMargin:Lt?0:Gt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Qt??Br??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "kMargin:vr,hide:!je,height:je?void 0:0,padding:oa}),(0,nr.jsx)(Nt,{className:ar.Axis,dataKey:Ct,type:\"category\",tickLine:!1,tickMargin:Lt?0:Gt??5,tickCount:Lt?0:void 0,axisLine:Ht??!0,width:Lt?0:Qt??Br??\"auto\",hide:Lt,ti",
+  "new_chunk": false
+ },
+ {
+  "text": "),tx=H('<svg width=20 height=20 viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "-suggestions><div data-writing-followup-suggestions-surface><div><div><!></div></div><div aria-hidden=true><!>\"),tx=H('<svg width=20 height=20 viewBox=\"0 0 20 20\" aria-hidden=true focusable=false><path d=\"M12.5293 6.5293",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:a.primaryAction.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "Node,ve,{...a.primaryAction.linkProps,as:\"a\",href:a.primaryAction.href,target:a.primaryAction.external?\"_blank\":void 0,rel:a.primaryAction.external?\"noopener noreferrer\":void 0,children:M(function(e,t,n){let r=t.block,o=",
+  "new_chunk": false
+ },
+ {
+  "text": "THREE.MathUtils: .setQuaternionFromProperEuler() encountered an unknown order:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "s*l);break;case`YXY`:e.set(c*p,s*u,c*m,s*l);break;case`ZYZ`:e.set(c*m,c*p,s*u,s*l);break;default:console.warn(`THREE.MathUtils: .setQuaternionFromProperEuler() encountered an unknown order: `+i)}}function D(e,t){switch(t",
+  "new_chunk": true
+ },
+ {
+  "text": "Invalid component type.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ",-1);case Int16Array:return Math.max(e/32767,-1);case Int8Array:return Math.max(e/127,-1);default:throw Error(`Invalid component type.`)}}function O(e,t){switch(t.constructor){case Float32Array:return e;case Uint32Array:",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Quaternion: .setFromEuler() encountered an unknown order:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "Y`:this._x=d*l*u-c*f*p,this._y=c*f*u-d*l*p,this._z=c*l*p+d*f*u,this._w=c*l*u+d*f*p;break;default:console.warn(`THREE.Quaternion: .setFromEuler() encountered an unknown order: `+a)}return t===!0&&this._onChangeCallback(),",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.ColorManagement: .fromWorkingColorSpace() has been renamed to .workingToColorSpace().",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "return this.spaces[e].workingColorSpaceConfig.unpackColorSpace},fromWorkingColorSpace:function(t,n){return ie(`THREE.ColorManagement: .fromWorkingColorSpace() has been renamed to .workingToColorSpace().`),e.workingToColo",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.ColorManagement: .toWorkingColorSpace() has been renamed to .colorSpaceToWorking().",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": " renamed to .workingToColorSpace().`),e.workingToColorSpace(t,n)},toWorkingColorSpace:function(t,n){return ie(`THREE.ColorManagement: .toWorkingColorSpace() has been renamed to .colorSpaceToWorking().`),e.colorSpaceToWor",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Matrix4.makePerspective(): Invalid coordinate system:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "(a-i);else if(o===2e3)p=-(a+i)/(a-i),m=-2*a*i/(a-i);else if(o===2001)p=-a/(a-i),m=-a*i/(a-i);else throw Error(`THREE.Matrix4.makePerspective(): Invalid coordinate system: `+o);return c[0]=l,c[4]=0,c[8]=d,c[12]=0,c[1]=0,c",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Matrix4.makeOrthographic(): Invalid coordinate system:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "),m=a/(a-i);else if(o===2e3)p=-2/(a-i),m=-(a+i)/(a-i);else if(o===2001)p=-1/(a-i),m=-i/(a-i);else throw Error(`THREE.Matrix4.makeOrthographic(): Invalid coordinate system: `+o);return c[0]=l,c[4]=0,c[8]=0,c[12]=d,c[1]=0,",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Euler: .setFromRotationMatrix() encountered an unknown order:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "s._x=Math.atan2(f,l),this._y=Math.atan2(o,i)):(this._x=Math.atan2(-u,p),this._y=0);break;default:console.warn(`THREE.Euler: .setFromRotationMatrix() encountered an unknown order: `+t)}return this._order=t,n===!0&&this._o",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Object3D.add: object can't be added as a child of itself.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ength>1){for(let e=0;e<arguments.length;e++)this.add(arguments[e]);return this}return e===this?(console.error(`THREE.Object3D.add: object can't be added as a child of itself.`,e),this):(e&&e.isObject3D?(e.removeFromParen",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Object3D.add: object not an instance of THREE.Object3D.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "this,this.children.push(e),e.dispatchEvent(ut),ft.child=e,this.dispatchEvent(ft),ft.child=null):console.error(`THREE.Object3D.add: object not an instance of THREE.Object3D.`,e),this)}remove(e){if(arguments.length>1){for(",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Color: Alpha component of",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "colorSpaceToWorking(this,r),this}setStyle(e,t=`srgb`){function n(t){t!==void 0&&parseFloat(t)<1&&console.warn(`THREE.Color: Alpha component of `+e+` will be ignored.`)}let r;if(r=/^(\\w+)\\(([^\\)]*)\\)/.exec(e)){let i,a=r[1",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Color: Unknown color model",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "[4]),this.setHSL(parseFloat(i[1])/360,parseFloat(i[2])/100,parseFloat(i[3])/100,t);break;default:console.warn(`THREE.Color: Unknown color model `+e)}}else if(r=/^\\#([A-Fa-f\\d]+)$/.exec(e)){let n=r[1],i=n.length;if(i===3)",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Color: Invalid hex color",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "(n.charAt(1),16)/15,parseInt(n.charAt(2),16)/15,t);if(i===6)return this.setHex(parseInt(n,16),t);console.warn(`THREE.Color: Invalid hex color `+e)}else if(e&&e.length>0)return this.setColorName(e,t);return this}setColorN",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Color: Unknown color",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "tColorName(e,t);return this}setColorName(e,t=`srgb`){let n=kt[e.toLowerCase()];return n===void 0?console.warn(`THREE.Color: Unknown color `+e):this.setHex(n,t),this}clone(){return new this.constructor(this.r,this.g,this.",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.DataUtils.toHalfFloat(): Value out of range.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ":r,shiftTable:i,mantissaTable:a,exponentTable:o,offsetTable:s}}function zt(e){Math.abs(e)>65504&&console.warn(`THREE.DataUtils.toHalfFloat(): Value out of range.`),e=c(e,-65504,65504),Lt.floatView[0]=e;let t=Lt.uint32Vie",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferAttribute: array should be a Typed Array.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t(e){return Bt(e)}},Ht=new M,Ut=new A,Wt=0,Gt=class{constructor(e,t,n=!1){if(Array.isArray(e))throw TypeError(`THREE.BufferAttribute: array should be a Typed Array.`);this.isBufferAttribute=!0,Object.defineProperty(this,",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry: Buffer size too small for points data. Use .dispose() and create a new geometry.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "n(e.length,t.count);for(let r=0;r<n;r++){let n=e[r];t.setXYZ(r,n.x,n.y,n.z||0)}e.length>t.count&&console.warn(`THREE.BufferGeometry: Buffer size too small for points data. Use .dispose() and create a new geometry.`),t.ne",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry.computeBoundingBox(): GLBufferAttribute requires a manual bounding box.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": " K);let e=this.attributes.position,t=this.morphAttributes.position;if(e&&e.isGLBufferAttribute){console.error(`THREE.BufferGeometry.computeBoundingBox(): GLBufferAttribute requires a manual bounding box.`,this),this.boun",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The \"position\" attribute is likely to have NaN values.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ";(isNaN(this.boundingBox.min.x)||isNaN(this.boundingBox.min.y)||isNaN(this.boundingBox.min.z))&&console.error(`THREE.BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The \"position\" attribute is like",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry.computeBoundingSphere(): GLBufferAttribute requires a manual bounding sphere.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "Ne);let e=this.attributes.position,t=this.morphAttributes.position;if(e&&e.isGLBufferAttribute){console.error(`THREE.BufferGeometry.computeBoundingSphere(): GLBufferAttribute requires a manual bounding sphere.`,this),thi",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The \"position\" attribute is likely to have NaN values.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "stanceToSquared(tn))}this.boundingSphere.radius=Math.sqrt(r),isNaN(this.boundingSphere.radius)&&console.error(`THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The \"position\" attribute is likely to h",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry: .computeTangents() failed. Missing required attributes (index, position, normal or uv)",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "his.index,t=this.attributes;if(e===null||t.position===void 0||t.normal===void 0||t.uv===void 0){console.error(`THREE.BufferGeometry: .computeTangents() failed. Missing required attributes (index, position, normal or uv)`",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "offset:t[i]*r;for(let e=0;e<r;e++)a[s++]=n[o++]}return new Gt(a,r,i)}if(this.index===null)return console.warn(`THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed.`),this;let n=new e,r=this.index.a",
+  "new_chunk": true
+ },
+ {
+  "text": "UniformsUtils: Textures of render targets cannot be cloned via cloneUniforms() or mergeUniforms().",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "x4||i.isVector2||i.isVector3||i.isVector4||i.isTexture||i.isQuaternion)?i.isRenderTargetTexture?(console.warn(`UniformsUtils: Textures of render targets cannot be cloned via cloneUniforms() or mergeUniforms().`),t[n][r]=",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.CubeCamera.updateCoordinateSystem(): Invalid coordinate system:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "(0,0,-1),a.lookAt(0,-1,0),o.up.set(0,-1,0),o.lookAt(0,0,1),s.up.set(0,-1,0),s.lookAt(0,0,-1);else throw Error(`THREE.CubeCamera.updateCoordinateSystem(): Invalid coordinate system: `+e);for(let e of t)this.add(e),e.updat",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.InterleavedBufferAttribute.clone(): Cloning an interleaved buffer attribute will de-interleave buffer data.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "this.data.array[e+1]=n,this.data.array[e+2]=r,this.data.array[e+3]=i,this}clone(t){if(t===void 0){console.log(`THREE.InterleavedBufferAttribute.clone(): Cloning an interleaved buffer attribute will de-interleave buffer d",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.InterleavedBufferAttribute.toJSON(): Serializing an interleaved buffer attribute will de-interleave buffer data.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "leavedBuffers[this.data.uuid],this.itemSize,this.offset,this.normalized)}toJSON(e){if(e===void 0){console.log(`THREE.InterleavedBufferAttribute.toJSON(): Serializing an interleaved buffer attribute will de-interleave buf",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.SkinnedMesh: Unrecognized bindMode:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "World).invert():this.bindMode===`detached`?this.bindMatrixInverse.copy(this.bindMatrix).invert():console.warn(`THREE.SkinnedMesh: Unrecognized bindMode: `+this.bindMode)}applyBoneTransform(e,t){let n=this.skeleton,r=this",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Skeleton: Number of inverse bone matrices does not match amount of bones.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "new Float32Array(e.length*16),t.length===0)this.calculateInverses();else if(e.length!==t.length){console.warn(`THREE.Skeleton: Number of inverse bone matrices does not match amount of bones.`),this.boneInverses=[];for(le",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Skeleton: No bone found with UUID:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "e,t){this.uuid=e.uuid;for(let n=0,r=e.bones.length;n<r;n++){let r=e.bones[n],i=t[r];i===void 0&&(console.warn(`THREE.Skeleton: No bone found with UUID:`,r),i=new $n),this.bones.push(i),this.boneInverses.push(new q().from",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Frustum.setFromProjectionMatrix(): Invalid coordinate system:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "onents(c+s,f+d,g+h,b+y).normalize();else if(t===2001)r[5].setComponents(s,d,h,y).normalize();else throw Error(`THREE.Frustum.setFromProjectionMatrix(): Invalid coordinate system: `+t);return this}intersectsObject(e){if(e",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.Line.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "tribute(t,e),n[e]=n[e-1],n[e]+=Sr.distanceTo(Cr);e.setAttribute(`lineDistance`,new Jt(n,1))}else console.warn(`THREE.Line.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.`);return this}r",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.LineSegments.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "[e]=e===0?0:n[e-1],n[e+1]=n[e]+jr.distanceTo(Mr);e.setAttribute(`lineDistance`,new Jt(n,1))}else console.warn(`THREE.LineSegments.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.`);retur",
+  "new_chunk": true
+ },
+ {
+  "text": "DepthTexture format must be either THREE.DepthFormat or THREE.DepthStencilFormat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "Hr=class extends H{constructor(e,t,n=1014,r,i,a,o=1003,s=1003,c,l=1026,u=1){if(l!==1026&&l!==1027)throw Error(`DepthTexture format must be either THREE.DepthFormat or THREE.DepthStencilFormat`);super({width:e,height:t,de",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: track name is undefined",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ")}interpolate_(e){return this.copySampleValue_(e-1)}},ii=class{constructor(e,t,n,r){if(e===void 0)throw Error(`THREE.KeyframeTrack: track name is undefined`);if(t===void 0||t.length===0)throw Error(`THREE.KeyframeTrack: ",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: no keyframes in track named",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "===void 0)throw Error(`THREE.KeyframeTrack: track name is undefined`);if(t===void 0||t.length===0)throw Error(`THREE.KeyframeTrack: no keyframes in track named `+e);this.name=e,this.times=Yr(t,this.TimeBufferType),this.v",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Invalid value size in track.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "lues.slice(i*e,a*e)}return this}validate(){let e=!0,t=this.getValueSize();t-Math.floor(t)!==0&&(console.error(`THREE.KeyframeTrack: Invalid value size in track.`,this),e=!1);let n=this.times,r=this.values,i=n.length;i===",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Track is empty.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ck: Invalid value size in track.`,this),e=!1);let n=this.times,r=this.values,i=n.length;i===0&&(console.error(`THREE.KeyframeTrack: Track is empty.`,this),e=!1);let a=null;for(let t=0;t!==i;t++){let r=n[t];if(typeof r==`",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Time is not a valid number.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "pty.`,this),e=!1);let a=null;for(let t=0;t!==i;t++){let r=n[t];if(typeof r==`number`&&isNaN(r)){console.error(`THREE.KeyframeTrack: Time is not a valid number.`,this,t,r),e=!1;break}if(a!==null&&a>r){console.error(`THREE",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Out of order keys.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "error(`THREE.KeyframeTrack: Time is not a valid number.`,this,t,r),e=!1;break}if(a!==null&&a>r){console.error(`THREE.KeyframeTrack: Out of order keys.`,this,t,r,a),e=!1;break}a=r}if(r!==void 0&&Xr(r))for(let t=0,n=r.leng",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Value is not a valid number.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "),e=!1;break}a=r}if(r!==void 0&&Xr(r))for(let t=0,n=r.length;t!==n;++t){let n=r[t];if(isNaN(n)){console.error(`THREE.KeyframeTrack: Value is not a valid number.`,this,t,n),e=!1;break}}return e}optimize(){let e=this.times",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.AnimationClip: parseAnimation() is deprecated and will be removed with r185",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": " r)a.push(this.CreateFromMorphTargetSequence(e,r[e],t,n));return a}static parseAnimation(e,t){if(console.warn(`THREE.AnimationClip: parseAnimation() is deprecated and will be removed with r185`),!e)return console.error(`",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.AnimationClip: No animation in JSONLoader data.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "(`THREE.AnimationClip: parseAnimation() is deprecated and will be removed with r185`),!e)return console.error(`THREE.AnimationClip: No animation in JSONLoader data.`),null;let n=function(e,t,n,r,i){if(n.length!==0){let a",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: Unsupported typeName:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "r`:return oi;case`quaternion`:return li;case`bool`:case`boolean`:return ai;case`string`:return ui}throw Error(`THREE.KeyframeTrack: Unsupported typeName: `+e)}function mi(e){if(e.type===void 0)throw Error(`THREE.Keyframe",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.KeyframeTrack: track type undefined, can not parse",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ui}throw Error(`THREE.KeyframeTrack: Unsupported typeName: `+e)}function mi(e){if(e.type===void 0)throw Error(`THREE.KeyframeTrack: track type undefined, can not parse`);let t=pi(e.type);if(e.times===void 0){let t=[],n=[",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.FileLoader: HTTP Status 0 received.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "mimeType,s=this.responseType;fetch(a).then(t=>{if(t.status===200||t.status===0){if(t.status===0&&console.warn(`THREE.FileLoader: HTTP Status 0 received.`),typeof ReadableStream>`u`||t.body===void 0||t.body.getReader===vo",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.PropertyBinding: No target node found for track:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "is.node=t),this.getValue=this._getValue_unavailable,this.setValue=this._setValue_unavailable,!t){console.warn(`THREE.PropertyBinding: No target node found for track: `+this.path+`.`);return}if(r){let e=n.objectIndex;swit",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLAttributes: Unsupported buffer data format:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "anceof Uint8Array)s=e.UNSIGNED_BYTE;else if(r instanceof Uint8ClampedArray)s=e.UNSIGNED_BYTE;else throw Error(`THREE.WebGLAttributes: Unsupported buffer data format: `+r);return{buffer:o,type:s,bytesPerElement:r.BYTES_PE",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLAttributes: The size of the buffer attribute's array buffer does not match the original size. Resizing buffer attributes is not supported.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ".get(e);if(a===void 0)t.set(e,n(e,i));else if(a.version<e.version){if(a.size!==e.array.byteLength)throw Error(`THREE.WebGLAttributes: The size of the buffer attribute's array buffer does not match the original size. Resi",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLInfo: Unknown draw mode:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "es+=i*(t-1);break;case e.LINE_LOOP:n.lines+=i*t;break;case e.POINTS:n.points+=i*t;break;default:console.error(`THREE.WebGLInfo: Unknown draw mode:`,r)}}function i(){n.calls=0,n.triangles=0,n.points=0,n.lines=0}return{mem",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Shader chunk \"%s\" has been deprecated. Use \"%s\" instead.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ")}var xs=new Map;function Ss(e,t){let n=X[t];if(n===void 0){let e=xs.get(t);if(e!==void 0)n=X[e],console.warn(`THREE.WebGLRenderer: Shader chunk \"%s\" has been deprecated. Use \"%s\" instead.`,t,e);else throw Error(`Can not",
+  "new_chunk": true
+ },
+ {
+  "text": "Can not resolve #include <",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "le.warn(`THREE.WebGLRenderer: Shader chunk \"%s\" has been deprecated. Use \"%s\" instead.`,t,e);else throw Error(`Can not resolve #include <`+t+`>`)}return bs(n)}var Cs=/#pragma unroll_loop_start\\s+for\\s*\\(\\s*int\\s+i\\s*=\\s*",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLState: Invalid blending:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ";break;case 4:e.blendFuncSeparate(e.DST_COLOR,e.ONE_MINUS_SRC_ALPHA,e.ZERO,e.ONE);break;default:console.error(`THREE.WebGLState: Invalid blending: `,t)}else switch(t){case 1:e.blendFuncSeparate(e.SRC_ALPHA,e.ONE_MINUS_SR",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLState: SubtractiveBlending requires material.premultipliedAlpha = true",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "E_MINUS_SRC_ALPHA);break;case 2:e.blendFuncSeparate(e.SRC_ALPHA,e.ONE,e.ONE,e.ONE);break;case 3:console.error(`THREE.WebGLState: SubtractiveBlending requires material.premultipliedAlpha = true`);break;case 4:console.erro",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLState: MultiplyBlending requires material.premultipliedAlpha = true",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "HREE.WebGLState: SubtractiveBlending requires material.premultipliedAlpha = true`);break;case 4:console.error(`THREE.WebGLState: MultiplyBlending requires material.premultipliedAlpha = true`);break;default:console.error(",
+  "new_chunk": true
+ },
+ {
+  "text": "DepthTexture: 16 bit depth attachment is not supported with stencil. Using 24-bit attachment.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "14||n===1020?r=e.DEPTH24_STENCIL8:n===1015?r=e.DEPTH32F_STENCIL8:n===1012&&(r=e.DEPTH24_STENCIL8,console.warn(`DepthTexture: 16 bit depth attachment is not supported with stencil. Using 24-bit attachment.`)):n===null||n=",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLTextures: Trying to use",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ".remove(i[t])}r.remove(t)}let D=0;function O(){D=0}function k(){let e=D;return e>=i.maxTextures&&console.warn(`THREE.WebGLTextures: Trying to use `+e+` texture units while this GPU supports only `+i.maxTextures),D+=1,e}f",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Texture marked for update but no image data found.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "===!1&&t.isExternalTexture!==!0&&t.version>0&&a.__version!==t.version){let e=t.image;if(e===null)console.warn(`THREE.WebGLRenderer: Texture marked for update but no image data found.`);else if(e.complete===!1)console.war",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Texture marked for update but image is incomplete",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "HREE.WebGLRenderer: Texture marked for update but no image data found.`);else if(e.complete===!1)console.warn(`THREE.WebGLRenderer: Texture marked for update but image is incomplete`);else{L(a,t,i);return}}else t.isExter",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Unable to use linear filtering with floating point textures. OES_texture_float_linear not supported on this device.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "gFilter===1008||a.minFilter===1006||a.minFilter===1007||a.minFilter===1005||a.minFilter===1008)&&console.warn(`THREE.WebGLRenderer: Unable to use linear filtering with floating point textures. OES_texture_float_linear no",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .uploadTexture()",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "}}else n.compressedTexImage3D(e.TEXTURE_2D_ARRAY,t,S,C.width,C.height,p.depth,0,C.data,0,0)}else console.warn(`THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .uploadTexture()`)}else T?D&&n.",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .setTextureCube()",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "i.data):n.texImage2D(e.TEXTURE_CUBE_MAP_POSITIVE_X+t,r,C,i.width,i.height,0,b,S,i.data):b===null?console.warn(`THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .setTextureCube()`):w?E&&n.comp",
+  "new_chunk": true
+ },
+ {
+  "text": "Depth Texture with cube render targets is not supported",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "height)}}e.bindRenderbuffer(e.RENDERBUFFER,null)}function le(t,i){if(i&&i.isWebGLCubeRenderTarget)throw Error(`Depth Texture with cube render targets is not supported`);if(n.bindFramebuffer(e.FRAMEBUFFER,t),!(i.depthText",
+  "new_chunk": true
+ },
+ {
+  "text": "Unknown depthTexture format",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "_2D,o,0,c):e.framebufferTexture2D(e.FRAMEBUFFER,e.DEPTH_STENCIL_ATTACHMENT,e.TEXTURE_2D,o,0);else throw Error(`Unknown depthTexture format`)}function ue(t){let i=r.get(t),a=t.isWebGLCubeRenderTarget===!0;if(i.__boundDept",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebXRManager: Cannot change framebuffer scale while presenting.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "chEvent({type:`sessionend`})}this.setFramebufferScaleFactor=function(e){i=e,n.isPresenting===!0&&console.warn(`THREE.WebXRManager: Cannot change framebuffer scale while presenting.`)},this.setReferenceSpaceType=function(",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebXRManager: Cannot change reference space type while presenting.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "uffer scale while presenting.`)},this.setReferenceSpaceType=function(e){s=e,n.isPresenting===!0&&console.warn(`THREE.WebXRManager: Cannot change reference space type while presenting.`)},this.getReferenceSpace=function()",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Maximum number of simultaneously usable uniforms groups reached.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "M_BUFFER,n,r),r}function d(){for(let e=0;e<s;e++)if(o.indexOf(e)===-1)return o.push(e),e;return console.error(`THREE.WebGLRenderer: Maximum number of simultaneously usable uniforms groups reached.`),0}function f(t){let n",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Texture samplers can not be part of an uniforms group.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "6):e.isMatrix3?(t.boundary=48,t.storage=48):e.isMatrix4?(t.boundary=64,t.storage=64):e.isTexture?console.warn(`THREE.WebGLRenderer: Texture samplers can not be part of an uniforms group.`):console.warn(`THREE.WebGLRender",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Unsupported uniform value type.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ture?console.warn(`THREE.WebGLRenderer: Texture samplers can not be part of an uniforms group.`):console.warn(`THREE.WebGLRenderer: Unsupported uniform value type.`,e),t}function g(t){let n=t.target;n.removeEventListener",
+  "new_chunk": true
+ },
+ {
+  "text": "Error creating WebGL context with your selected attributes.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "tListener(`webglcontextcreationerror`,Re,!1),B===null){let t=`webgl2`;if(B=pe(t,e),B===null)throw pe(t)?Error(`Error creating WebGL context with your selected attributes.`):Error(`Error creating WebGL context.`)}}catch(e",
+  "new_chunk": true
+ },
+ {
+  "text": "Error creating WebGL context.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ";if(B=pe(t,e),B===null)throw pe(t)?Error(`Error creating WebGL context with your selected attributes.`):Error(`Error creating WebGL context.`)}}catch(e){throw console.error(`THREE.WebGLRenderer: `+e.message),e}let V,H,W,",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Can't change size while VR device is presenting.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ",this.getSize=function(e){return e.set(j,N)},this.setSize=function(e,n,r=!0){if(Fe.isPresenting){console.warn(`THREE.WebGLRenderer: Can't change size while VR device is presenting.`);return}j=e,N=n,t.width=Math.floor(e*P",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Context Lost.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "onstart`,Ge),Fe.removeEventListener(`sessionend`,Ke),qe.stop()};function Ie(e){e.preventDefault(),console.log(`THREE.WebGLRenderer: Context Lost.`),b=!0}function Le(){console.log(`THREE.WebGLRenderer: Context Restored.`)",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: Context Restored.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ion Ie(e){e.preventDefault(),console.log(`THREE.WebGLRenderer: Context Lost.`),b=!0}function Le(){console.log(`THREE.WebGLRenderer: Context Restored.`),b=!1;let e=he.autoReset,t=Ee.enabled,n=Ee.autoUpdate,r=Ee.needsUpdat",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: A WebGL context could not be created. Reason:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "type;Pe(),he.autoReset=e,Ee.enabled=t,Ee.autoUpdate=n,Ee.needsUpdate=r,Ee.type=i}function Re(e){console.error(`THREE.WebGLRenderer: A WebGL context could not be created. Reason: `,e.statusMessage)}function ze(e){let t=e.",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer: renderMultiDrawInstances has been deprecated and will be removed in r184. Append to renderMultiDraw arguments and use indirection.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "g.setMode(B.POINTS):i.isSprite&&g.setMode(B.TRIANGLES);if(i.isBatchedMesh){if(i._multiDrawInstances!==null)ie(`THREE.WebGLRenderer: renderMultiDrawInstances has been deprecated and will be removed in r184. Append to rend",
+  "new_chunk": true
+ },
+ {
+  "text": "WebGLRenderTarget: Attached DepthTexture is initialized to the incorrect size.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "oundDepthTexture!==t){if(t!==null&&G.has(t)&&(e.width!==t.image.width||e.height!==t.image.height))throw Error(`WebGLRenderTarget: Attached DepthTexture is initialized to the incorrect size.`);K.setupDepthRenderbuffer(e)}",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not THREE.WebGLRenderTarget.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ")}w=-1},this.readRenderTargetPixels=function(e,t,n,r,i,a,o,s=0){if(!(e&&e.isWebGLRenderTarget)){console.error(`THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not THREE.WebGLRenderTarget.`);return}let c=G.get",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in RGBA or implementation defined format.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "er(B.FRAMEBUFFER,c);try{let o=e.textures[s],c=o.format,l=o.type;if(!H.textureFormatReadable(c)){console.error(`THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in RGBA or implementation defined format.`);r",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in UnsignedByteType or implementation defined type.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "rTarget is not in RGBA or implementation defined format.`);return}if(!H.textureTypeReadable(l)){console.error(`THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in UnsignedByteType or implementation defined",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in RGBA or implementation defined format.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "amebuffer(B.FRAMEBUFFER,c);let o=e.textures[s],l=o.format,u=o.type;if(!H.textureFormatReadable(l))throw Error(`THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in RGBA or implementation defined format",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in UnsignedByteType or implementation defined type.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ync: renderTarget is not in RGBA or implementation defined format.`);if(!H.textureTypeReadable(u))throw Error(`THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in UnsignedByteType or implementation de",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.WebGLRenderer.readRenderTargetPixelsAsync: requested read bounds are out of range.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "EL_PACK_BUFFER,d),B.getBufferSubData(B.PIXEL_PACK_BUFFER,0,a),B.deleteBuffer(d),B.deleteSync(p),a}throw Error(`THREE.WebGLRenderer.readRenderTargetPixelsAsync: requested read bounds are out of range.`)}},this.copyFramebu",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Unsupported asset. glTF versions >=2.0 are supported.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "_GLTF].content)}else i=JSON.parse(s.decode(e))}else i=e;if(i.asset===void 0||i.asset.version[0]<2){r&&r(Error(`THREE.GLTFLoader: Unsupported asset. glTF versions >=2.0 are supported.`));return}let c=new cl(i,{path:t||thi",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Unknown extension \"",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": " Rc;break;case Q.KHR_MESH_QUANTIZATION:a[t]=new zc;break;default:n.indexOf(t)>=0&&o[t]===void 0&&console.warn(`THREE.GLTFLoader: Unknown extension \"`+t+`\".`)}}c.setExtensions(a),c.setPlugins(o),c.parse(n,r)}parseAsync(e,",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: setKTX2Loader must be called before loading KTX2 textures",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "a=t.options.ktx2Loader;if(!a){if(n.extensionsRequired&&n.extensionsRequired.indexOf(this.name)>=0)throw Error(`THREE.GLTFLoader: setKTX2Loader must be called before loading KTX2 textures`);return null}return t.loadTextur",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: setMeshoptDecoder must be called before loading compressed files",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "tDecoder;if(!i||!i.supported){if(t.extensionsRequired&&t.extensionsRequired.indexOf(this.name)>=0)throw Error(`THREE.GLTFLoader: setMeshoptDecoder must be called before loading compressed files`);return null}return r.the",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Unsupported glTF-Binary header.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t8Array(e.slice(0,4))),version:t.getUint32(4,!0),length:t.getUint32(8,!0)},this.header.magic!==Nc)throw Error(`THREE.GLTFLoader: Unsupported glTF-Binary header.`);if(this.header.version<2)throw Error(`THREE.GLTFLoader: L",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Legacy binary file detected.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ic!==Nc)throw Error(`THREE.GLTFLoader: Unsupported glTF-Binary header.`);if(this.header.version<2)throw Error(`THREE.GLTFLoader: Legacy binary file detected.`);let r=this.header.length-Pc,i=new DataView(e,Pc),a=0;for(;a<",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: JSON content not found.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t=n.decode(r)}else if(r===Fc.BIN){let n=Pc+a;this.body=e.slice(n,n+t)}a+=t}if(this.content===null)throw Error(`THREE.GLTFLoader: JSON content not found.`)}},Lc=class{constructor(e,t){if(!t)throw Error(`THREE.GLTFLoader: ",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: No DRACOLoader instance provided.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "==null)throw Error(`THREE.GLTFLoader: JSON content not found.`)}},Lc=class{constructor(e,t){if(!t)throw Error(`THREE.GLTFLoader: No DRACOLoader instance provided.`);this.name=Q.KHR_DRACO_MESH_COMPRESSION,this.json=e,this",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Ignoring primitive type .extras,",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "unction el(e,t){t.extras!==void 0&&(typeof t.extras==`object`?Object.assign(e.userData,t.extras):console.warn(`THREE.GLTFLoader: Ignoring primitive type .extras, `+t.extras))}function tl(e,t,n){let r=!1,i=!1,a=!1;for(let",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Invalid extras.targetNames length. Ignoring names.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "){e.morphTargetDictionary={};for(let t=0,r=n.length;t<r;t++)e.morphTargetDictionary[n[t]]=t}else console.warn(`THREE.GLTFLoader: Invalid extras.targetNames length. Ignoring names.`)}}function rl(e){let t,n=e.extensions&&",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Unsupported itemSize in sparse BufferAttribute.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "(p.setX(t,u[e*a]),a>=2&&p.setY(t,u[e*a+1]),a>=3&&p.setZ(t,u[e*a+2]),a>=4&&p.setW(t,u[e*a+3]),a>=5)throw Error(`THREE.GLTFLoader: Unsupported itemSize in sparse BufferAttribute.`)}p.normalized=d}return p})}loadTexture(e){",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Primitive mode unsupported:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "kr(l,f);else if(u.mode===Uc.LINE_LOOP)d=new Pr(l,f);else if(u.mode===Uc.POINTS)d=new Br(l,f);else throw Error(`THREE.GLTFLoader: Primitive mode unsupported: `+u.mode);Object.keys(d.geometry.morphAttributes).length>0&&nl(",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Missing camera parameters.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "gth;e<t;e++)l.add(c[e]);return l})}loadCamera(e){let t,n=this.json.cameras[e],r=n[n.type];if(!r){console.warn(`THREE.GLTFLoader: Missing camera parameters.`);return}return n.type===`perspective`?t=new An(k.radToDeg(r.yfo",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Joint \"%s\" could not be found.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "o;e++){let o=r[e];if(o){i.push(o);let t=new q;n!==null&&t.fromArray(n.array,e*16),a.push(t)}else console.warn(`THREE.GLTFLoader: Joint \"%s\" could not be found.`,t.joints[e])}return new rr(i,a)})}loadAnimation(e){let t=th",
+  "new_chunk": true
+ },
+ {
+  "text": "THREE.GLTFLoader: Missing min/max properties for accessor POSITION.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ".normalized){let t=al(Wc[e.componentType]);i.min.multiplyScalar(t),i.max.multiplyScalar(t)}}else{console.warn(`THREE.GLTFLoader: Missing min/max properties for accessor POSITION.`);return}}else return;let a=t.targets;if(",
+  "new_chunk": true
+ },
+ {
+  "text": "Fur surface has no bounds",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "FLOAT_2=t,Z.LTC_HALF_1=n,Z.LTC_HALF_2=r}};function pl(e){if(e.computeBoundingBox(),!e.boundingBox)throw Error(`Fur surface has no bounds`);return e.boundingBox}function ml(e){return e instanceof Y&&e.material instanceof ",
+  "new_chunk": true
+ },
+ {
+  "text": "Thelma · soft matte silicone",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ")||e instanceof Y&&e.material instanceof Gr&&(e.material.name===`Hat`&&/hat/i.test(e.name)||e.material.name===`Thelma · soft matte silicone`&&e.name===`Thelma_Crown_floating_yellow_orb`)}function gl(e,t,n){let r=e.geomet",
+  "new_chunk": true
+ },
+ {
+  "text": "Optimized fur cards",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "ile-v2`;let d=new Gr({roughness:1,metalness:0,side:2,transparent:!0,depthWrite:!1,forceSinglePass:!0});d.name=`Optimized fur cards`,d.color=n.color,d.emissive=n.color,d.emissiveIntensity=.1,d.onBeforeCompile=e=>{Object.a",
+  "new_chunk": true
+ },
+ {
+  "text": "Fur body must belong to its preparation scene",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "d.toArray(),attributes:a,index:o?Uint32Array.from({length:o.count},(e,t)=>o.getX(t)):null})}),r<0)throw Error(`Fur body must belong to its preparation scene`);return{body:r,meshes:n}}function tu(e){return e.kind===`textu",
+  "new_chunk": true
+ },
+ {
+  "text": "Fur preparation worker unavailable",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ",o=void 0,r?.terminate(),r=null},l=()=>{i=!0,c();for(let e of s.values())clearTimeout(e.timer),e.reject(Error(`Fur preparation worker unavailable`));s.clear()};return{request(u){if(i)return Promise.reject(Error(`Fur prep",
+  "new_chunk": true
+ },
+ {
+  "text": "Fur preparation failed",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t n=s.get(e.id);n&&(s.delete(e.id),clearTimeout(n.timer),e.output?n.resolve(e.output):n.reject(Error(e.error||`Fur preparation failed`)),s.size||(o=setTimeout(c,t)))})}catch{return l(),Promise.reject(Error(`Fur preparati",
+  "new_chunk": true
+ },
+ {
+  "text": "Independent body roll",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t:.014*Math.sin(n*2)}}},excite:{label:`Excite`,duration:t.duration,loop:!1,sample:n},body:{label:e===`felipe`?`Independent body roll`:`Body turn + squash`,duration:t.duration,loop:!1,sample:t=>{let r=n(t);return Object.f",
+  "new_chunk": true
+ },
+ {
+  "text": "Body turn + squash",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "excite:{label:`Excite`,duration:t.duration,loop:!1,sample:n},body:{label:e===`felipe`?`Independent body roll`:`Body turn + squash`,duration:t.duration,loop:!1,sample:t=>{let r=n(t);return Object.fromEntries((e===`felipe`",
+  "new_chunk": true
+ },
+ {
+  "text": "Jump + squash",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "`,`bodyYaw`,`bodyPitch`,`squash`]:[`yaw`,`pitch`,`roll`,`bendSide`,`squash`]).map(e=>[e,r[e]]))}},jump:{label:`Jump + squash`,duration:t.duration,loop:!1,sample:e=>{let t=n(e);return{lift:t.lift,squash:t.squash}}}};if(e!",
+  "new_chunk": true
+ },
+ {
+  "text": "Eye expression",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "op:!1,sample:e=>{let t=n(e);return{lift:t.lift,squash:t.squash}}}};if(e!==`jojo`&&(r.eyes={label:e===`alfred`?`Eye expression`:`Eyes + blink`,duration:1.4,loop:!1,sample:t=>({eyeX:.018*Yu(t,[[0,0],[.25,-1],[.65,1],[1.2,0",
+  "new_chunk": true
+ },
+ {
+  "text": "Eyes + blink",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "let t=n(e);return{lift:t.lift,squash:t.squash}}}};if(e!==`jojo`&&(r.eyes={label:e===`alfred`?`Eye expression`:`Eyes + blink`,duration:1.4,loop:!1,sample:t=>({eyeX:.018*Yu(t,[[0,0],[.25,-1],[.65,1],[1.2,0],[1.4,0]]),eyeY:",
+  "new_chunk": true
+ },
+ {
+  "text": "Hat jump",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "k:e===`alfred`?0:Ju(t,.7,.8,.96),eyeOpen:e===`alfred`?Gu(t,.04,.32,1.06,1.36):0})}),e===`felipe`?r.hat={label:`Hat jump`,duration:1.4,loop:!1,sample:e=>({hatLift:.16*Ju(e,.05,.5,1.15),hatTilt:.16*Yu(e,[[0,0],[.42,-1],[.8",
+  "new_chunk": true
+ },
+ {
+  "text": "Invalid motion sample",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "e(e,t,{loop:n=!1,strength:c=1}={}){if(!a[e]||!Number.isFinite(t)||!Number.isFinite(c)||c<0||c>1.5)throw Error(`Invalid motion sample`);if(r){_.stop();return}let p=a[e],g=Math.floor(t/p.duration),v=n?Math.max(0,t-g*p.dura",
+  "new_chunk": true
+ },
+ {
+  "text": "Invalid motion update",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "date(e,{strength:t=1,apply:n=!0}={}){if(!Number.isFinite(e)||e<0||!Number.isFinite(t)||t<0||t>1.5)throw Error(`Invalid motion update`);if(r)return i.reset(),!1;let c=!1;if(s.playing){s.time+=e;let t=a[s.name],n=t.duratio",
+  "new_chunk": true
+ },
+ {
+  "text": "Dots logo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": ".6978056422417614/2,.30219435775823855/2,16,96),t=new It({color:`#bac1d3`,toneMapped:!1}),n=new Y(e,t);n.name=`Dots logo`;let r=new K().setFromObject(n);return{scene:n,center:r.getCenter(new M),size:r.getSize(new M),pose",
+  "new_chunk": true
+ },
+ {
+  "text": "Scene disposed",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "t)return Promise.resolve(t);let n=u.get(e.id);if(n)return n;let r=ce(e).then(t=>{if(_)throw t.dispose(),Error(`Scene disposed`);return l.set(e.id,t),t}).finally(()=>u.delete(e.id));return u.set(e.id,r),r};return ie(),{pr",
+  "new_chunk": true
+ },
+ {
+  "text": "Render method not implemented!",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/N8AO.js",
+  "ctx": "s.fullscreenMaterial=e}getDepthTexture(){return null}setDepthTexture(e,t=3200){}render(e,t,a,n,r){throw Error(\"Render method not implemented!\")}setSize(e,t){}initialize(e,t,a){}dispose(){for(let t of Object.keys(this)){l",
+  "new_chunk": true
+ },
+ {
+  "text": "EXT_disjoint_timer_query_webgl2 not available, disabling debug mode.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/N8AO.js",
+  "ctx": "his.debugMode&&(r=e.getContext(),i=r.getExtension(\"EXT_disjoint_timer_query_webgl2\"),null===i&&(console.error(\"EXT_disjoint_timer_query_webgl2 not available, disabling debug mode.\"),this.debugMode=!1)),this.debugMode&&(o",
+  "new_chunk": true
+ }
+]
