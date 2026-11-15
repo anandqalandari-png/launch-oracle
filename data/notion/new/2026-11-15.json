@@ -1,0 +1,37 @@
+[
+ {
+  "text": "Press / to insert blocks or hold Space to transcribe",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ",id:\"text.commandsMenuNotOpen.placeholder.insertBlocks\"},insertBlocksOrTranscribePlaceholder:{defaultMessage:\"Press / to insert blocks or hold Space to transcribe\",id:\"text.commandsMenuNotOpen.placeholder.insertBlocksOrT",
+  "new_chunk": false
+ },
+ {
+  "text": "preview_option",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ilter_and_sort\"},{id:\"watch\"}]},add_blocks_with_slash:{steps:[{id:\"empty_line\"}]},paste_live_link:{steps:[{id:\"preview_option\"}]}},q_:\"completed\"})},290068(e,t,i){function n(e){let{unicode:t,fallback:i}=e;try{return t()}",
+  "new_chunk": false
+ },
+ {
+  "text": "This email can’t be used to sign up right now. Please try a different email.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "ng up.\"},signup_email_alias_limit_exceeded:{id:\"signupErrors.emailAliasLimitExceeded.message\",defaultMessage:\"This email can’t be used to sign up right now. Please try a different email.\"}}):null,o=71889==t.j?(0,t(752010",
+  "new_chunk": false
+ },
+ {
+  "text": "Update Notion to keep going",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/15408.js",
+  "ctx": "uildTarget}function l(e,t){r(647095).ui({message:\"blockedVersion\"===e?(0,i.jsx)(r(752010).sA,{defaultMessage:\"Update Notion to keep going\",id:\"breakingUpdateDialog.blockedVersion.title\"}):(0,i.jsx)(r(752010).sA,{defaultM",
+  "new_chunk": true
+ },
+ {
+  "text": "Update now",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/15408.js",
+  "ctx": "eCancel:e=>{\"tabHandoff\"!==e&&t()},items:[{label:\"blockedVersion\"===e?(0,i.jsx)(r(752010).sA,{defaultMessage:\"Update now\",id:\"breakingUpdateDialog.blockedVersion.updateButtonTitle\"}):(0,i.jsx)(r(752010).sA,{defaultMessag",
+  "new_chunk": true
+ }
+]

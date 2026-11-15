@@ -9315,3 +9315,8 @@
 2026-11-13	copy	"Expected an adminGetStatsigBootstrapForUser response with initialValues."
 2026-11-13	key	"android_show_language_settings"
 2026-11-13	key	"new_tab_or_window"
+2026-11-15	copy	"Press / to insert blocks or hold Space to transcribe"
+2026-11-15	copy	"This email can’t be used to sign up right now. Please try a different email."
+2026-11-15	copy	"Update Notion to keep going"
+2026-11-15	copy	"Update now"
+2026-11-15	key	"preview_option"

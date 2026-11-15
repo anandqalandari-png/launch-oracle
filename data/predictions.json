@@ -6552,5 +6552,46 @@
   },
   "status": "open",
   "resolution": null
+ },
+ {
+  "id": "notion-2026-11-15-hold-space-to-dictate-into-a-page",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Hold Space to dictate into a page",
+  "one_liner": "On an empty line in the editor, users can hold the Space key to transcribe their speech into text instead of typing.",
+  "category": "new_feature",
+  "created": "2026-11-15",
+  "first_evidence": "2026-11-15",
+  "window_days": 75,
+  "deadline": "2027-01-29",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-15",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Press / to insert blocks or hold Space to transcribe",
+    "kind": "copy",
+    "first_seen": "2026-11-15",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Typing is slow for capturing quick thoughts, and voice input is not reachable from the page editor itself.",
+   "users": "All editor users, especially those on desktop or mobile who want fast capture. Possibly gated to AI-plan users.",
+   "what": "Holding Space on an empty line starts speech-to-text transcription directly into the page. The empty-line placeholder is updated to advertise it.",
+   "how_it_appears": "Placeholder text on an empty block when the slash commands menu is not open, in the key `text.commandsMenuNotOpen.placeholder.insertBlocksOrTranscribe`.",
+   "rollout_guess": "Likely a gradual rollout behind a flag, with the placeholder changing only for users who have the feature. Inferred: it may be tied to the AI or Meeting Notes transcription stack.",
+   "open_questions": [
+    "Is it available on all plans or only with Notion AI?",
+    "Does it work on desktop, mobile and web, or only on some of them?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
  }
 ]

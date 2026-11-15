@@ -1,0 +1,1108 @@
+[
+ {
+  "text": "quot neg? pos? delay? symbol? keyword? true? false? integer? empty? coll? list?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": "ttern:n,built_in:r+` `+`cond apply if-not if-let if not not= =|0 <|0 >|0 <=|0 >=|0 ==|0 +|0 /|0 *|0 -|0 rem `+`quot neg? pos? delay? symbol? keyword? true? false? integer? empty? coll? list? `+`set? ifn? fn? associative?",
+  "new_chunk": false
+ },
+ {
+  "text": "set? ifn? fn? associative? sequential? sorted? counted? reversible? number? decimal?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": "==|0 +|0 /|0 *|0 -|0 rem `+`quot neg? pos? delay? symbol? keyword? true? false? integer? empty? coll? list? `+`set? ifn? fn? associative? sequential? sorted? counted? reversible? number? decimal? `+`class? distinct? isa?",
+  "new_chunk": false
+ },
+ {
+  "text": "class? distinct? isa? float? rational? reduced? ratio? odd? even? char? seq? vector?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": " empty? coll? list? `+`set? ifn? fn? associative? sequential? sorted? counted? reversible? number? decimal? `+`class? distinct? isa? float? rational? reduced? ratio? odd? even? char? seq? vector? `+`string? map? nil? con",
+  "new_chunk": false
+ },
+ {
+  "text": "string? map? nil? contains? zero? instance? not-every? not-any? libspec? -> ->> .. .",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": "e? number? decimal? `+`class? distinct? isa? float? rational? reduced? ratio? odd? even? char? seq? vector? `+`string? map? nil? contains? zero? instance? not-every? not-any? libspec? -> ->> .. . `+`inc compare do dotime",
+  "new_chunk": false
+ },
+ {
+  "text": "assert-valid-fdecl alias resolve ref deref refset swap! reset! set-validator! compare-and-set! alter-meta!",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": "wline `+`flush read slurp read-line subvec with-open memfn time re-find re-groups rand-int rand mod locking `+`assert-valid-fdecl alias resolve ref deref refset swap! reset! set-validator! compare-and-set! alter-meta! `+",
+  "new_chunk": false
+ },
+ {
+  "text": ",a=e.numerals===void 0?w6:gae(T6.call(e.numerals,String)),o=e.percent===void 0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root-vendor.js",
+  "ctx": "cy===void 0?``:e.currency[0]+``,r=e.currency===void 0?``:e.currency[1]+``,i=e.decimal===void 0?`.`:e.decimal+``,a=e.numerals===void 0?w6:gae(T6.call(e.numerals,String)),o=e.percent===void 0?`%`:e.percent+``,s=e.minus===v",
+  "new_chunk": false
+ },
+ {
+  "text": "Field label is required",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ",size:gt().max(52428800)}),oo=Le({id:b(),type:oe([Ke(no),Ke(ro),Ke(io)]),required:rt(),label:b().trim().min(1,`Field label is required`),descriptionData:Ha.optional(),description:b().optional(),sortOrder:gt().optional(),",
+  "new_chunk": false
+ },
+ {
+  "text": "Placeholder must be 150 characters or less",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "`),descriptionData:Ha.optional(),description:b().optional(),sortOrder:gt().optional(),placeholder:b().max(150,`Placeholder must be 150 characters or less`).optional()}),so=e=>Array.isArray(e)?e.filter(e=>typeof e!=`strin",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?e.find(t.source.entity,n.measure)?.agg:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "n n&&Object.hasOwn(n,t)?n[t]:void 0}static list(e){return Ac.get(e)??{}}static aggregation(t,n){return`measure`in n?e.find(t.source.entity,n.measure)?.agg:`agg`in n?n.agg:void 0}},kc={completedAt:{null:!1}},Ac=new Map(Ob",
+  "new_chunk": false
+ },
+ {
+  "text": "A currency is a three letter code such as \"EUR\" or \"USD\".",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "mals:gt().int().min(0).max(Dc.maxDecimals).optional(),percent:rt().optional(),currency:b().regex(/^[A-Z]{3}$/,`A currency is a three letter code such as \"EUR\" or \"USD\".`).optional(),compact:rt().optional(),template:b().m",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?iae:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "agg:$e(Mc.rollupAggregations),of:Fc.optional(),where:Ic.optional(),skipNull:zc}),aae=Mc.shapeByKeys(e=>`rollup`in e?iae:`fn`in e?rae:`bucket`in e?tae:`ranges`in e?nae:eae),oae=_({...Rc,agg:y(`count`),where:Ic.optional()}",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?rae:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "lupAggregations),of:Fc.optional(),where:Ic.optional(),skipNull:zc}),aae=Mc.shapeByKeys(e=>`rollup`in e?iae:`fn`in e?rae:`bucket`in e?tae:`ranges`in e?nae:eae),oae=_({...Rc,agg:y(`count`),where:Ic.optional()}),sae=_({...R",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?tae:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "of:Fc.optional(),where:Ic.optional(),skipNull:zc}),aae=Mc.shapeByKeys(e=>`rollup`in e?iae:`fn`in e?rae:`bucket`in e?tae:`ranges`in e?nae:eae),oae=_({...Rc,agg:y(`count`),where:Ic.optional()}),sae=_({...Rc,agg:$e(Mc.field",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?cae:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ":_({numerator:Nc,denominator:Nc})}),lae=_({...Rc,measure:Nc,where:Ic.optional()}),uae=Mc.shapeByKeys(e=>`ratio`in e?cae:`measure`in e?lae:`agg`in e&&e.agg===`count`?oae:sae),dae=_({...Rc,calc:$e(Mc.calculations),of:Nc,or",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?lae:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "enominator:Nc})}),lae=_({...Rc,measure:Nc,where:Ic.optional()}),uae=Mc.shapeByKeys(e=>`ratio`in e?cae:`measure`in e?lae:`agg`in e&&e.agg===`count`?oae:sae),dae=_({...Rc,calc:$e(Mc.calculations),of:Nc,orderBy:Nc.optional(",
+  "new_chunk": false
+ },
+ {
+  "text": "It has no named measures.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "\", which is not a named measure of ${e.source.entity}. ${r.length>0?`Its named measures are ${r.join(`, `)}.`:`It has no named measures.`}`)}if(`ratio`in n)for(let e of[n.ratio.numerator,n.ratio.denominator]){let r=a.get",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.forEach(h):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "}.`)}}n.rows!=null&&n.calc!==`movingAverage`&&t.push(`${r}: only a moving average takes rows.`)}let h=e=>{`and`in e?e.and.forEach(h):`or`in e?e.or.forEach(h):c(e.field)||t.push(`where uses \"${e.field}\", which is not a fi",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.forEach(g):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "ch(h):c(e.field)||t.push(`where uses \"${e.field}\", which is not a field.`)};e.where&&h(e.where);let g=e=>{`and`in e?e.and.forEach(g):`or`in e?e.or.forEach(g):l(e.measure)||t.push(`having uses \"${e.measure}\", which is not",
+  "new_chunk": false
+ },
+ {
+  "text": "Pulse updates from the last week",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ")\\]\\(.*?\\)/);return t?t[1]:e}),a=i.length;if(a===0)return(n||this.inferScheduleAtTimeOfCreate(t))===Ud.weekly?`Pulse updates from the last week`:`Pulse updates for ${qr(e,{month:`long`})}`;let o=i.find(e=>e.length<=20)||",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(n.null?Jh:Yh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "e)return`in`in e.id?e.id.in:e.id.nin;if(`or`in e){let t=[];for(let n of e.or)`id`in n?t.push(...n.id.in):`null`in n?t.push(n.null?Jh:Yh):`isMe`in n?t.push(Xh):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(t",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(Xh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".nin;if(`or`in e){let t=[];for(let n of e.or)`id`in n?t.push(...n.id.in):`null`in n?t.push(n.null?Jh:Yh):`isMe`in n?t.push(Xh):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(tg):`app`in n?t.push(ng):`isInvit",
+  "new_chunk": false
+ },
+ {
+  "text": "in n?t.push(ng):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".push(n.null?Jh:Yh):`isMe`in n?t.push(Xh):`active`in n||`and`in n&&n.and.some(e=>`active`in e)?t.push(tg):`app`in n?t.push(ng):`isInvited`in n&&t.push(eg);return t}if(`and`in e){let t=[];for(let n of e.and)if(`id`in n)t.",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?t.push(Xh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "h(tg);else if(`app`in n)t.push(ng);else if(`isInvited`in n)t.push(eg);else if(`or`in n)for(let e of n.or)`isMe`in e?t.push(Xh):`active`in e||`or`in e&&e.or.some(e=>`active`in e)?t.push(tg):`app`in e?t.push(ng):`isInvited",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?t.push(ng):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "n n)for(let e of n.or)`isMe`in e?t.push(Xh):`active`in e||`or`in e&&e.or.some(e=>`active`in e)?t.push(tg):`app`in e?t.push(ng):`isInvited`in e&&t.push(eg);return t}return[]}static createUserListFilterBlock(e){let{values:",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.estimate?[...e.estimate.or[0].in,Jh]:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "`estimate`in e,getCompareOption:e=>`or`in e.estimate||`in`in e.estimate?`is`:`not`,selectedValues(e){return`or`in e.estimate?[...e.estimate.or[0].in,Jh]:`and`in e.estimate?[...e.estimate.and[0].nin,Jh]:`in`in e.estimate?",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.estimate?[...e.estimate.and[0].nin,Jh]:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "imate||`in`in e.estimate?`is`:`not`,selectedValues(e){return`or`in e.estimate?[...e.estimate.or[0].in,Jh]:`and`in e.estimate?[...e.estimate.and[0].nin,Jh]:`in`in e.estimate?e.estimate.in:e.estimate.nin}},e.labels=Ng({key",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.project?e.project.or[0].id.in.concat(Jh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": ".project||`id`in e.project&&`in`in e.project.id?`is`:`not`,selectedValues(e){return`null`in e.project?[Jh]:`or`in e.project?e.project.or[0].id.in.concat(Jh):`and`in e.project?e.project.and[0].id.nin.concat(Jh):`in`in e.p",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.project?e.project.and[0].id.nin.concat(Jh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "`:`not`,selectedValues(e){return`null`in e.project?[Jh]:`or`in e.project?e.project.or[0].id.in.concat(Jh):`and`in e.project?e.project.and[0].id.nin.concat(Jh):`in`in e.project.id?e.project.id.in:e.project.id.nin}};let l=",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.length===2?[...e.and[0].projectMilestone.id.nin,Jh]:e.and[0].projectMilestone.id.nin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "urn`projectMilestone`in e?`in`in e.projectMilestone.id?e.projectMilestone.id.in:e.projectMilestone.id.nin:`and`in e?e.and.length===2?[...e.and[0].projectMilestone.id.nin,Jh]:e.and[0].projectMilestone.id.nin:`or`in e?`in`",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?e.and.length===2?[...e.and[0].sourceMetadata.subType.nin,Jh]:e.and[0].sourceMetadata.subType.nin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "rceMetadata`in e?`in`in e.sourceMetadata.subType?e.sourceMetadata.subType.in:e.sourceMetadata.subType.nin:`and`in e?e.and.length===2?[...e.and[0].sourceMetadata.subType.nin,Jh]:e.and[0].sourceMetadata.subType.nin:`or`in ",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.or[0].id.in.concat(Jh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "turn`or`in t||`id`in t&&`in`in t.id?`is`:`not`},selectedValues(e){let t=e.or[0].issue.and[0].project;return`or`in t?t.or[0].id.in.concat(Jh):`and`in t?t.and[0].id.nin.concat(Jh):`in`in t.id?t.id.in:t.id.nin}};function n(",
+  "new_chunk": false
+ },
+ {
+  "text": "in t?t.and[0].id.nin.concat(Jh):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "?`is`:`not`},selectedValues(e){let t=e.or[0].issue.and[0].project;return`or`in t?t.or[0].id.in.concat(Jh):`and`in t?t.and[0].id.nin.concat(Jh):`in`in t.id?t.id.in:t.id.nin}};function n(e){return r(e)}e.withPullRequestPro",
+  "new_chunk": false
+ },
+ {
+  "text": ",originalLines:e===void 0?[]:JV.splitIntoLines(e),modifiedSource:t??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "id 0)return;let n={original:{sourceLines:{},rows:[]},modified:{sourceLines:{},rows:[]}},r={originalSource:e??``,originalLines:e===void 0?[]:JV.splitIntoLines(e),modifiedSource:t??``,modifiedLines:t===void 0?[]:JV.splitIn",
+  "new_chunk": false
+ },
+ {
+  "text": ",modifiedLines:t===void 0?[]:JV.splitIntoLines(t),language:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "ines:{},rows:[]}},r={originalSource:e??``,originalLines:e===void 0?[]:JV.splitIntoLines(e),modifiedSource:t??``,modifiedLines:t===void 0?[]:JV.splitIntoLines(t),language:`plaintext`};return e===void 0||t===void 0?KV.proc",
+  "new_chunk": false
+ },
+ {
+  "text": ":e.slaStatus===ga.Status.Breached?t?.compact?Xr(new Date,e.slaBreachesAt,n):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "iled?`Failed by ${Xr(e.completedAt,e.slaBreachesAt,n)}`:`Achieved ${Xr(e.slaBreachesAt,e.completedAt,n)} early`:e.slaStatus===ga.Status.Breached?t?.compact?Xr(new Date,e.slaBreachesAt,n):`Breached by ${Xr(new Date,e.slaB",
+  "new_chunk": false
+ },
+ {
+  "text": ":t?.compact?Xr(e.slaBreachesAt,new Date,n):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-entry.js",
+  "ctx": "===ga.Status.Breached?t?.compact?Xr(new Date,e.slaBreachesAt,n):`Breached by ${Xr(new Date,e.slaBreachesAt,n)}`:t?.compact?Xr(e.slaBreachesAt,new Date,n):`${Xr(e.slaBreachesAt,new Date,n)} remaining`}static getTooltipTex",
+  "new_chunk": false
+ },
+ {
+  "text": "):void 0,transformOrigin:l,pointerEvents:t===M_.open?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "(_.current=!0)}}),x=Nf([m],p,f),S=(0,Z.jsx)(u,{style:{opacity:b.opacity,transform:l?b.scale.to(e=>`scale(${e})`):void 0,transformOrigin:l,pointerEvents:t===M_.open?void 0:`none`,maxHeight:`var(${k_})`,overflow:`var(${A_}",
+  "new_chunk": false
+ },
+ {
+  "text": ",...L3e,\"aria-label\":i,\"aria-describedby\":A?k:void 0,value:d??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "O,placeholder:A?void 0:i,faded:!S,afterLeadingContent:A,spellCheck:`false`,autoComplete:`off`,autoCorrect:`off`,...L3e,\"aria-label\":i,\"aria-describedby\":A?k:void 0,value:d??``,onChange:t,onKeyDown:ee,onKeyUp:u,onClick:j,",
+  "new_chunk": false
+ },
+ {
+  "text": "?$u(e,t.color.purpleBase):void 0,d:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "{let t=Mi();return(0,Z.jsx)(L,{...e,children:(0,Z.jsx)(`svg`,{children:(0,Z.jsx)(`path`,{fill:e.color===`brand`?$u(e,t.color.purpleBase):void 0,d:`M6.44179 8.00397C6.25955 8.49376 6.16846 9.13456 6.16846 9.92639C6.16846 ",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof fu?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ll]}),(0,Z.jsxs)(jD,{align:`center`,sx:UN.propertiesSection,children:[i,a]})]})},rCt=e=>e instanceof ja?`issue`:e instanceof fu?`initiative`:`project`,iCt=e=>e instanceof ja?(0,Z.jsx)(bg,{size:12}):e instanceof fu?(0,Z.j",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?Wu.status(e.issue):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "9858 13.8002C9.61198 13.8002 9.29858 13.4868 9.29858 13.1002Z`})]})})}var fP=Y(function(e){let t=Mi(),n=`issue`in e?Wu.status(e.issue):`status`in e?e.status:void 0,r={style:e.style};switch(n){case fm.Status.Breached:retu",
+  "new_chunk": false
+ },
+ {
+  "text": "I've completed the analysis and implemented the feature using the existing pattern found in similar components. The solution includes proper error handling and follows established conventions.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "a}function Fkt(e){let t=new Nl(e.store);return t.agentSession=vo.wrap(e),t.content={type:zp.response,body:yF([`I've completed the analysis and implemented the feature using the existing pattern found in similar component",
+  "new_chunk": false
+ },
+ {
+  "text": "I've determined that the given request has already been solved elsewhere, so there's nothing for me to do in this case.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ound in similar components. The solution includes proper error handling and follows established conventions.`,`I've determined that the given request has already been solved elsewhere, so there's nothing for me to do in ",
+  "new_chunk": false
+ },
+ {
+  "text": "I've successfully implemented the requested feature and opened a pull request.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ined that the given request has already been solved elsewhere, so there's nothing for me to do in this case.`,`I've successfully implemented the requested feature and opened a pull request.`,`I've completed the implement",
+  "new_chunk": false
+ },
+ {
+  "text": "Unable to complete connection with LaunchDarkly",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "}],kHt=(class e{static async handleAuth(t){let{store:n,params:r}=t,i=r.get(`code`);if(!i)return new W(U.error,`Unable to complete connection with LaunchDarkly`,`Missing required parameters.`).show(),!1;let a=tR(DHt)?.dat",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0:IHt.isHttpUrl(n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ValidationError(t){let n=e.normalizeDeveloperUrl(t.developerUrl);return n.length===0?t.publicEnabled?`required`:void 0:IHt.isHttpUrl(n)?void 0:`invalid`}static#e=LHt=()=>(this.minNameLength=2,this.maxNameLength=80,this.m",
+  "new_chunk": false
+ },
+ {
+  "text": ",ru(e)?e.userPresentableMessage:e instanceof Error?e.message:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ess,`Admin job started`,`${t.name} has been started`).show()}catch(e){new W(U.error,`Failed to start admin job`,ru(e)?e.userPresentableMessage:e instanceof Error?e.message:`Something went wrong`).show()}}}),a=t.filter(e=",
+  "new_chunk": false
+ },
+ {
+  "text": ",n=ru(e)&&/already exists/i.test(e.userPresentableMessage??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "GitHub integration`,{error:e});let t=ru(e)?e.userPresentableMessage:`Could not create stub GitHub integration.`,n=ru(e)&&/already exists/i.test(e.userPresentableMessage??``)?`${t} Refresh local database if you still can'",
+  "new_chunk": false
+ },
+ {
+  "text": "Back to Focus",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "e.backOrNavigateTo(bve(e.organization),{state:vM.navigationState})}static#e=D4t=()=>(this.action={id:R(),name:`Back to Focus`,keyboardShortcut:{key:`Escape`},hideInCommandMenu:!0,group:tj,runsShortcutsWithInputFocus:()=>",
+  "new_chunk": false
+ },
+ {
+  "text": "):XH.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "itDisabledReason(n,t)??(XH.canEditWorkflow(n,t)?void 0:`You do not have permission to reconnect this connector`):XH.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:`You do not have permission to reconnect this",
+  "new_chunk": false
+ },
+ {
+  "text": ":l.hasPermission(vl.teamManagement,n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "is connector`}let l=t.team;return l?l.isReadOnly?`You cannot reconnect MCP connectors in ${l.isReadOnly} teams`:l.hasPermission(vl.teamManagement,n)?void 0:`You do not have permission to reconnect this connector`:n.hasPe",
+  "new_chunk": false
+ },
+ {
+  "text": "?r:r!==void 0||!Qc.isApplicableAction(e,n)?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "lete(e.id))}}function ghn(e,t){let n=t.autoMergeEnabled?TU:wU,r=n.disabledReason?.(e);return typeof r==`string`?r:r!==void 0||!Qc.isApplicableAction(e,n)?`Auto-merge is not available for this ${t.kindName}`:void 0}var TU",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,group:OA,image:null,skipFilterScoring:!0,actionVerb:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "sHoisting:{hoist:!0},subActions:()=>[{name:`Create channel `,detail:e=>e.searchInput?`#${e.searchInput.trim()}`:void 0,group:OA,image:null,skipFilterScoring:!0,actionVerb:`Create`,hideInMenuRoot:!0,applicable:e=>!!e.sear",
+  "new_chunk": false
+ },
+ {
+  "text": ",detail:(e instanceof Tp?e.userPresentableMessage:e.message)??e.message,asyncId:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "})}let s=r.length===0&&o?[o]:r;c&&QK.cache.set(c,s),yield[...s]}catch(e){return yield[{name:`An error occurred`,detail:(e instanceof Tp?e.userPresentableMessage:e.message)??e.message,asyncId:`error`,skipFilterScoring:!0,",
+  "new_chunk": false
+ },
+ {
+  "text": ",e instanceof Tp&&e.userError?e.userPresentableMessage??e.message:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "g approval, then retry this rollout in Linear.`).show()}catch(e){new W(U.error,`Could not change rollout stage`,e instanceof Tp&&e.userError?e.userPresentableMessage??e.message:`Please try again.`).show()}return}t.rollou",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,group:VA,image:null,skipFilterScoring:!0,actionVerb:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ting:{hoist:!0},subActions:()=>[{name:`Set channel name to `,detail:e=>e.searchInput?`#${e.searchInput.trim()}`:void 0,group:VA,image:null,skipFilterScoring:!0,actionVerb:`Set`,hideInMenuRoot:!0,applicable:e=>!!e.searchI",
+  "new_chunk": false
+ },
+ {
+  "text": "):XH.hasPermissionToManageWorkflowDefinition(t,n,r.type)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "edReason(t,e)??(XH.canEditWorkflow(t,e)?void 0:`You do not have permission to add MCP connectors for this loop`):XH.hasPermissionToManageWorkflowDefinition(t,n,r.type)?void 0:`You do not have permission to add MCP connec",
+  "new_chunk": false
+ },
+ {
+  "text": "What would you like to work on or ask about?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "enchEnabled?e.workbench:t.isCodingEnabled?`Build with Linear…`:`Ask Linear…`}static#e=CSr=()=>(this.workbench=`What would you like to work on or ask about?`,this)},CSr());function wSr(e){let{uploadTarget:t,onSelectSkill:",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ic#e=cMr=()=>(this.themeCache=new Map,this.loadingPromises=new Map,this.popularDarkThemes=[{id:`default`,name:`Linear Dark`},{id:`linear:colorblind`,name:`Linear Colorblind`},{id:`linear:midnight`,name:`Linear Midnight`}",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Colorblind",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "oadingPromises=new Map,this.popularDarkThemes=[{id:`default`,name:`Linear Dark`},{id:`linear:colorblind`,name:`Linear Colorblind`},{id:`linear:midnight`,name:`Linear Midnight`},{id:`vscode:alabaster-dark`,name:`Alabaster",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Midnight",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "id:`default`,name:`Linear Dark`},{id:`linear:colorblind`,name:`Linear Colorblind`},{id:`linear:midnight`,name:`Linear Midnight`},{id:`vscode:alabaster-dark`,name:`Alabaster Dark`,url:mjr,strongFullLineTint:!1},{id:`vscod",
+  "new_chunk": false
+ },
+ {
+  "text": "Alabaster Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ind`,name:`Linear Colorblind`},{id:`linear:midnight`,name:`Linear Midnight`},{id:`vscode:alabaster-dark`,name:`Alabaster Dark`,url:mjr,strongFullLineTint:!1},{id:`vscode:andromeda`,name:`Andromeda`,url:xjr},{id:`vscode:a",
+  "new_chunk": false
+ },
+ {
+  "text": "Atom One Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "l:mjr,strongFullLineTint:!1},{id:`vscode:andromeda`,name:`Andromeda`,url:xjr},{id:`vscode:atom-one-dark`,name:`Atom One Dark`,url:Gjr},{id:`vscode:ayu-dark`,name:`Ayu Dark`,url:vjr},{id:`vscode:ayu-mirage`,name:`Ayu Mira",
+  "new_chunk": false
+ },
+ {
+  "text": "Ayu Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "name:`Andromeda`,url:xjr},{id:`vscode:atom-one-dark`,name:`Atom One Dark`,url:Gjr},{id:`vscode:ayu-dark`,name:`Ayu Dark`,url:vjr},{id:`vscode:ayu-mirage`,name:`Ayu Mirage`,url:yjr},{id:`vscode:catppuccin-frappe`,name:`Ca",
+  "new_chunk": false
+ },
+ {
+  "text": "Ayu Mirage",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "rk`,name:`Atom One Dark`,url:Gjr},{id:`vscode:ayu-dark`,name:`Ayu Dark`,url:vjr},{id:`vscode:ayu-mirage`,name:`Ayu Mirage`,url:yjr},{id:`vscode:catppuccin-frappe`,name:`Catppuccin Frappé`,url:Bjr},{id:`vscode:catppuccin-",
+  "new_chunk": false
+ },
+ {
+  "text": "Catppuccin Frappé",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "me:`Ayu Dark`,url:vjr},{id:`vscode:ayu-mirage`,name:`Ayu Mirage`,url:yjr},{id:`vscode:catppuccin-frappe`,name:`Catppuccin Frappé`,url:Bjr},{id:`vscode:catppuccin-macchiato`,name:`Catppuccin Macchiato`,url:Vjr},{id:`vscod",
+  "new_chunk": false
+ },
+ {
+  "text": "Catppuccin Macchiato",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":yjr},{id:`vscode:catppuccin-frappe`,name:`Catppuccin Frappé`,url:Bjr},{id:`vscode:catppuccin-macchiato`,name:`Catppuccin Macchiato`,url:Vjr},{id:`vscode:catppuccin-mocha`,name:`Catppuccin Mocha`,url:zjr},{id:`vscode:cob",
+  "new_chunk": false
+ },
+ {
+  "text": "Catppuccin Mocha",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "jr},{id:`vscode:catppuccin-macchiato`,name:`Catppuccin Macchiato`,url:Vjr},{id:`vscode:catppuccin-mocha`,name:`Catppuccin Mocha`,url:zjr},{id:`vscode:cobalt2`,name:`Cobalt2`,url:Tjr},{id:`vscode:darcula`,name:`Darcula`,u",
+  "new_chunk": false
+ },
+ {
+  "text": "Edge Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ode:darcula`,name:`Darcula`,url:Rjr},{id:`vscode:dracula`,name:`Dracula`,url:Ljr},{id:`vscode:edge-dark`,name:`Edge Dark`,url:Njr},{id:`vscode:everforest-dark`,name:`Everforest Dark`,url:jjr},{id:`vscode:github-dark`,nam",
+  "new_chunk": false
+ },
+ {
+  "text": "Everforest Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "a`,name:`Dracula`,url:Ljr},{id:`vscode:edge-dark`,name:`Edge Dark`,url:Njr},{id:`vscode:everforest-dark`,name:`Everforest Dark`,url:jjr},{id:`vscode:github-dark`,name:`GitHub Dark`,url:Fjr,strongFullLineTint:!1},{id:`vsc",
+  "new_chunk": false
+ },
+ {
+  "text": "GitHub Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "dge Dark`,url:Njr},{id:`vscode:everforest-dark`,name:`Everforest Dark`,url:jjr},{id:`vscode:github-dark`,name:`GitHub Dark`,url:Fjr,strongFullLineTint:!1},{id:`vscode:github-dark-dimmed`,name:`GitHub Dark Dimmed`,url:Ijr",
+  "new_chunk": false
+ },
+ {
+  "text": "GitHub Dark Dimmed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "d:`vscode:github-dark`,name:`GitHub Dark`,url:Fjr,strongFullLineTint:!1},{id:`vscode:github-dark-dimmed`,name:`GitHub Dark Dimmed`,url:Ijr,strongFullLineTint:!1},{id:`vscode:gruvbox-dark`,name:`Gruvbox Dark`,url:Hjr},{id",
+  "new_chunk": false
+ },
+ {
+  "text": "Gruvbox Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "e:github-dark-dimmed`,name:`GitHub Dark Dimmed`,url:Ijr,strongFullLineTint:!1},{id:`vscode:gruvbox-dark`,name:`Gruvbox Dark`,url:Hjr},{id:`vscode:halcyon`,name:`Halcyon`,url:Ejr},{id:`vscode:houston`,name:`Houston`,url:O",
+  "new_chunk": false
+ },
+ {
+  "text": "Iceberg Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":halcyon`,name:`Halcyon`,url:Ejr},{id:`vscode:houston`,name:`Houston`,url:Ojr},{id:`vscode:iceberg-dark`,name:`Iceberg Dark`,url:Pjr},{id:`vscode:dark-modern`,name:`Modern Dark`,url:Kjr},{id:`vscode:night-owl`,name:`Nigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Modern Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",name:`Houston`,url:Ojr},{id:`vscode:iceberg-dark`,name:`Iceberg Dark`,url:Pjr},{id:`vscode:dark-modern`,name:`Modern Dark`,url:Kjr},{id:`vscode:night-owl`,name:`Night Owl`,url:Cjr},{id:`vscode:nord`,name:`Nord`,url:bjr}",
+  "new_chunk": false
+ },
+ {
+  "text": "Night Owl",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "name:`Iceberg Dark`,url:Pjr},{id:`vscode:dark-modern`,name:`Modern Dark`,url:Kjr},{id:`vscode:night-owl`,name:`Night Owl`,url:Cjr},{id:`vscode:nord`,name:`Nord`,url:bjr},{id:`vscode:onedark-pro`,name:`One Dark Pro`,url:h",
+  "new_chunk": false
+ },
+ {
+  "text": "One Dark Pro",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ode:night-owl`,name:`Night Owl`,url:Cjr},{id:`vscode:nord`,name:`Nord`,url:bjr},{id:`vscode:onedark-pro`,name:`One Dark Pro`,url:hjr},{id:`vscode:one-monokai`,name:`One Monokai`,url:Ujr},{id:`vscode:palenight`,name:`Pale",
+  "new_chunk": false
+ },
+ {
+  "text": "One Monokai",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ord`,name:`Nord`,url:bjr},{id:`vscode:onedark-pro`,name:`One Dark Pro`,url:hjr},{id:`vscode:one-monokai`,name:`One Monokai`,url:Ujr},{id:`vscode:palenight`,name:`Palenight`,url:Wjr},{id:`vscode:rose-pine`,name:`Rosé Pine",
+  "new_chunk": false
+ },
+ {
+  "text": "Rosé Pine",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "kai`,name:`One Monokai`,url:Ujr},{id:`vscode:palenight`,name:`Palenight`,url:Wjr},{id:`vscode:rose-pine`,name:`Rosé Pine`,url:kjr},{id:`vscode:rose-pine-moon`,name:`Rosé Pine Moon`,url:Ajr},{id:`vscode:shades-of-purple`,",
+  "new_chunk": false
+ },
+ {
+  "text": "Rosé Pine Moon",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "`,name:`Palenight`,url:Wjr},{id:`vscode:rose-pine`,name:`Rosé Pine`,url:kjr},{id:`vscode:rose-pine-moon`,name:`Rosé Pine Moon`,url:Ajr},{id:`vscode:shades-of-purple`,name:`Shades of Purple`,url:wjr},{id:`vscode:solarized",
+  "new_chunk": false
+ },
+ {
+  "text": "Shades of Purple",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": " Pine`,url:kjr},{id:`vscode:rose-pine-moon`,name:`Rosé Pine Moon`,url:Ajr},{id:`vscode:shades-of-purple`,name:`Shades of Purple`,url:wjr},{id:`vscode:solarized-dark`,name:`Solarized Dark`,url:_jr},{id:`vscode:sonokai`,na",
+  "new_chunk": false
+ },
+ {
+  "text": "Solarized Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "oon`,url:Ajr},{id:`vscode:shades-of-purple`,name:`Shades of Purple`,url:wjr},{id:`vscode:solarized-dark`,name:`Solarized Dark`,url:_jr},{id:`vscode:sonokai`,name:`Sonokai`,url:Mjr},{id:`vscode:synthwave-84`,name:`Synthwa",
+  "new_chunk": false
+ },
+ {
+  "text": "Tokyo Night",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "name:`Sonokai`,url:Mjr},{id:`vscode:synthwave-84`,name:`Synthwave '84`,url:Sjr},{id:`vscode:tokyo-night`,name:`Tokyo Night`,url:gjr},{id:`vscode:vitesse-dark`,name:`Vitesse Dark`,url:Djr}],this.popularLightThemes=[{id:`d",
+  "new_chunk": false
+ },
+ {
+  "text": "Vitesse Dark",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":`Synthwave '84`,url:Sjr},{id:`vscode:tokyo-night`,name:`Tokyo Night`,url:gjr},{id:`vscode:vitesse-dark`,name:`Vitesse Dark`,url:Djr}],this.popularLightThemes=[{id:`default`,name:`Linear Light`},{id:`linear:colorblind`,n",
+  "new_chunk": false
+ },
+ {
+  "text": "Linear Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",url:gjr},{id:`vscode:vitesse-dark`,name:`Vitesse Dark`,url:Djr}],this.popularLightThemes=[{id:`default`,name:`Linear Light`},{id:`linear:colorblind`,name:`Linear Colorblind`},{id:`vscode:alabaster-light`,name:`Alabaster",
+  "new_chunk": false
+ },
+ {
+  "text": "Alabaster Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ult`,name:`Linear Light`},{id:`linear:colorblind`,name:`Linear Colorblind`},{id:`vscode:alabaster-light`,name:`Alabaster Light`,url:qjr,strongFullLineTint:!1},{id:`vscode:atom-one-light`,name:`Atom One Light`,url:Xjr},{i",
+  "new_chunk": false
+ },
+ {
+  "text": "Atom One Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "scode:alabaster-light`,name:`Alabaster Light`,url:qjr,strongFullLineTint:!1},{id:`vscode:atom-one-light`,name:`Atom One Light`,url:Xjr},{id:`vscode:ayu-light`,name:`Ayu Light`,url:Zjr},{id:`vscode:catppuccin-latte`,name:",
+  "new_chunk": false
+ },
+ {
+  "text": "Ayu Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "strongFullLineTint:!1},{id:`vscode:atom-one-light`,name:`Atom One Light`,url:Xjr},{id:`vscode:ayu-light`,name:`Ayu Light`,url:Zjr},{id:`vscode:catppuccin-latte`,name:`Catppuccin Latte`,url:aMr},{id:`vscode:edge-light`,na",
+  "new_chunk": false
+ },
+ {
+  "text": "Catppuccin Latte",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "`Atom One Light`,url:Xjr},{id:`vscode:ayu-light`,name:`Ayu Light`,url:Zjr},{id:`vscode:catppuccin-latte`,name:`Catppuccin Latte`,url:aMr},{id:`vscode:edge-light`,name:`Edge Light`,url:rMr},{id:`vscode:everforest-light`,n",
+  "new_chunk": false
+ },
+ {
+  "text": "Edge Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "u Light`,url:Zjr},{id:`vscode:catppuccin-latte`,name:`Catppuccin Latte`,url:aMr},{id:`vscode:edge-light`,name:`Edge Light`,url:rMr},{id:`vscode:everforest-light`,name:`Everforest Light`,url:nMr},{id:`vscode:github-light`",
+  "new_chunk": false
+ },
+ {
+  "text": "Everforest Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ppuccin Latte`,url:aMr},{id:`vscode:edge-light`,name:`Edge Light`,url:rMr},{id:`vscode:everforest-light`,name:`Everforest Light`,url:nMr},{id:`vscode:github-light`,name:`GitHub Light`,url:iMr,strongFullLineTint:!1},{id:`",
+  "new_chunk": false
+ },
+ {
+  "text": "GitHub Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "Light`,url:rMr},{id:`vscode:everforest-light`,name:`Everforest Light`,url:nMr},{id:`vscode:github-light`,name:`GitHub Light`,url:iMr,strongFullLineTint:!1},{id:`vscode:gruvbox-light`,name:`Gruvbox Light`,url:oMr},{id:`vs",
+  "new_chunk": false
+ },
+ {
+  "text": "Gruvbox Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",{id:`vscode:github-light`,name:`GitHub Light`,url:iMr,strongFullLineTint:!1},{id:`vscode:gruvbox-light`,name:`Gruvbox Light`,url:oMr},{id:`vscode:min-light`,name:`Min Light`,url:$jr},{id:`vscode:light-modern`,name:`Mode",
+  "new_chunk": false
+ },
+ {
+  "text": "Min Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "r,strongFullLineTint:!1},{id:`vscode:gruvbox-light`,name:`Gruvbox Light`,url:oMr},{id:`vscode:min-light`,name:`Min Light`,url:$jr},{id:`vscode:light-modern`,name:`Modern Light`,url:sMr},{id:`vscode:quiet-light`,name:`Qui",
+  "new_chunk": false
+ },
+ {
+  "text": "Modern Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "name:`Gruvbox Light`,url:oMr},{id:`vscode:min-light`,name:`Min Light`,url:$jr},{id:`vscode:light-modern`,name:`Modern Light`,url:sMr},{id:`vscode:quiet-light`,name:`Quiet Light`,url:Jjr},{id:`vscode:rose-pine-dawn`,name:",
+  "new_chunk": false
+ },
+ {
+  "text": "Quiet Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ame:`Min Light`,url:$jr},{id:`vscode:light-modern`,name:`Modern Light`,url:sMr},{id:`vscode:quiet-light`,name:`Quiet Light`,url:Jjr},{id:`vscode:rose-pine-dawn`,name:`Rosé Pine Dawn`,url:tMr},{id:`vscode:solarized-light`",
+  "new_chunk": false
+ },
+ {
+  "text": "Rosé Pine Dawn",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "`Modern Light`,url:sMr},{id:`vscode:quiet-light`,name:`Quiet Light`,url:Jjr},{id:`vscode:rose-pine-dawn`,name:`Rosé Pine Dawn`,url:tMr},{id:`vscode:solarized-light`,name:`Solarized Light`,url:Yjr},{id:`vscode:vitesse-lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Solarized Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": " Light`,url:Jjr},{id:`vscode:rose-pine-dawn`,name:`Rosé Pine Dawn`,url:tMr},{id:`vscode:solarized-light`,name:`Solarized Light`,url:Yjr},{id:`vscode:vitesse-light`,name:`Vitesse Light`,url:eMr},{id:`vscode:winter-is-comi",
+  "new_chunk": false
+ },
+ {
+  "text": "Vitesse Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "e Dawn`,url:tMr},{id:`vscode:solarized-light`,name:`Solarized Light`,url:Yjr},{id:`vscode:vitesse-light`,name:`Vitesse Light`,url:eMr},{id:`vscode:winter-is-coming-light`,name:`Winter is Coming Light`,url:Qjr}],this)},cM",
+  "new_chunk": false
+ },
+ {
+  "text": "Winter is Coming Light",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "t`,url:Yjr},{id:`vscode:vitesse-light`,name:`Vitesse Light`,url:eMr},{id:`vscode:winter-is-coming-light`,name:`Winter is Coming Light`,url:Qjr}],this)},cMr()),lMr=[[`cursor`,`terminalCursor.foreground`],[`selectionBackgr",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid WASM grammar response",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ctiveAllocations=0,this.runtimeHealthyValue=!0,this)},ARr()),jRr=class extends Error{constructor(e,t,n){super(`Invalid WASM grammar response`,{cause:n}),this.name=`InvalidWasmGrammarResponseError`,this.diagnostics={respo",
+  "new_chunk": false
+ },
+ {
+  "text": "Explain this run",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ":issueIds`,end:!1},e)?.params.issueIds;return Yn(r)&&(t===void 0||r===t)}var zVr={id:`explain-loop-run`,title:`Explain this run`,score:1,action:{type:`chat`,initialMessage:`Explain this run. Review its original instructi",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"aria-expanded\":k,\"aria-controls\":k?o:void 0,\"aria-activedescendant\":j?Psi(o,j):void 0,autoComplete:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "id)),(0,Z.jsx)(`input`,{id:Usi,type:`text`,role:`combobox`,\"aria-label\":`Add people`,\"aria-autocomplete\":`list`,\"aria-expanded\":k,\"aria-controls\":k?o:void 0,\"aria-activedescendant\":j?Psi(o,j):void 0,autoComplete:`off`,sp",
+  "new_chunk": false
+ },
+ {
+  "text": "Release name is required",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": ",await d(t.commit({undoName:iZ.forModel(s?.action===`create`?`create`:`update`,`release`,u)}))):new W(U.error,`Release name is required`).show()});return(0,Z.jsx)(ICi,{active:o,release:u,onCancel:a,onSubmit:p,openOptions",
+  "new_chunk": false
+ },
+ {
+  "text": ":w instanceof qa?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "!w?.bodyData||cl(Vo(w.bodyData)),ee=w&&w instanceof qa?!A?.trim():!0,te=M&&ee,ne=ws(te),re=ws(v),ie=r?`comment`:w instanceof qa?`post`:`update`,ae=a??i,oe=e=>{T(e,b),h(e,MAi({draftUpdate:w,isCommentMode:r}),w),d(e=>e+1)}",
+  "new_chunk": false
+ },
+ {
+  "text": ":L.labelForType(t),N.isEnabled(N.viewFacetUnification)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/RouteInfoResolvers.js",
+  "ctx": "ewType?\":async({team:e,viewType:t},n)=>q(e,w,N.isEnabled(N.viewFacetUnification)?`${L.labelForType(t)} › Views`:L.labelForType(t),N.isEnabled(N.viewFacetUnification)?void 0:`Views`,n),\"/:orgKey/team/:teamKey/dashboards\":",
+  "new_chunk": false
+ },
+ {
+  "text": "&&t?.slackSyncMetadata?.commentSource===ye.Slack,r=e instanceof I?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentCommentElicitationReplyInput.js",
+  "ctx": ":`purpleText`,children:`linked`})}var Ln=K(function({comment:e,sourceMetadata:t}){let n=t?.type===`integration`&&t?.slackSyncMetadata?.commentSource===ye.Slack,r=e instanceof I?`labelFaint`:`labelMuted`,i=oe(k.rootMessag",
+  "new_chunk": false
+ },
+ {
+  "text": ",id:ee,date:e.createdAt,history:void 0,actorIdOrApplicationName:(h?n?.id:m?.id)||n?.id||(e.sourceMetadata?Dt(e.sourceMetadata):void 0),url:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueCommentsAndHistory.js",
+  "ctx": "=_!=null&&pe(_)&&_.agentAutomationRunMetadata==null?(0,N.jsx)(Qt,{metadata:_}):null;return{type:`issue-created`,id:ee,date:e.createdAt,history:void 0,actorIdOrApplicationName:(h?n?.id:m?.id)||n?.id||(e.sourceMetadata?Dt(",
+  "new_chunk": false
+ },
+ {
+  "text": "?Number(a.slice.value):void 0,y=v===void 0||Number.isNaN(v)?void 0:new Date(v),b=l.getLegendValues(t,r,y),x=y!=null,S=i(x),C=x||S?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ProgressChartLegend.js",
+  "ctx": "=a(function(e){let{series:t,current:r,hover:a,config:f,valueIcon:p,dataKey:_=``}=e,v=a.slice?.variant===`slice`?Number(a.slice.value):void 0,y=v===void 0||Number.isNaN(v)?void 0:new Date(v),b=l.getLegendValues(t,r,y),x=y",
+  "new_chunk": false
+ },
+ {
+  "text": "Marked ready for review",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueList.js",
+  "ctx": "id 0;default:return}}static#e=rf=()=>(this.changes={markReady:{actions:[ve],opensMenu:!1,pendingReview:{title:`Marked ready for review`,isApplied:e=>!e.isDraft}},requestReview:{actions:[nn],opensMenu:!0,pendingReview:{ti",
+  "new_chunk": false
+ },
+ {
+  "text": "),pointerEvents:h?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueList.js",
+  "ctx": ".div,{className:r.className,style:{...r.style,transform:e.offset.to(e=>`translateX(calc(${e} * (100% + 24px)))`),pointerEvents:h?void 0:`none`},children:[k||n?null:(0,Q.jsx)(`div`,{...m(Hf.backdrop(ie,En.edgeWidth))}),(0",
+  "new_chunk": false
+ },
+ {
+  "text": "Target branch",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": ");return[...s.values()].sort((e,t)=>e.name.localeCompare(t.name))}static#e=Ea=()=>(this.names={targetBranches:`Target branch`,sourceBranches:`Source branch`,authorIds:`Author`,reviewerIds:`Reviewers`,reviewerTeamIds:`Git",
+  "new_chunk": false
+ },
+ {
+  "text": "Source branch",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": ",t)=>e.name.localeCompare(t.name))}static#e=Ea=()=>(this.names={targetBranches:`Target branch`,sourceBranches:`Source branch`,authorIds:`Author`,reviewerIds:`Reviewers`,reviewerTeamIds:`GitHub team reviewers`,changedRevi",
+  "new_chunk": false
+ },
+ {
+  "text": "No matching branches",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": "ewers`,externalLabelIds:`Labels`,changedExternalLabelIds:`Labels`},this.noResultsPlaceholders={targetBranches:`No matching branches`,sourceBranches:`No matching branches`,authorIds:`No matching authors`,reviewerIds:`No m",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:r.length===1?pt.statusLabel(r[0],void 0):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationHistoryDialog.js",
+  "ctx": "...o.current.filter,status:e.length?{in:e}:void 0}});s.push({name:`Status`,operator:r.length>1?`is any of`:`is`,value:r.length===1?pt.statusLabel(r[0],void 0):`${r.length} statuses`,active:r.length>0,action:{...J.createP",
+  "new_chunk": false
+ },
+ {
+  "text": ",options:se,selectPlaceholder:L?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingAgentSettingsPage.js",
+  "ctx": "(dt,{id:$.sections.general.items.model.id,title:$.sections.general.items.model.title,description:ce,value:M??``,options:se,selectPlaceholder:L?void 0:`Unavailable`,onValueChange:le,disabled:G,disabledReason:W}),m&&!A.isA",
+  "new_chunk": false
+ },
+ {
+  "text": "Enter a command.",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CodingEnvironmentSettingsPage.js",
+  "ctx": "DEVSERVER_HEADERS`,this.maxHeadersEnvironmentEntryBytes=131072,this.schema=t({command:r().max(1e4).regex(/\\S/,`Enter a command.`).refine(e=>!e.includes(`\\0`)),port:Dp,workingDirectory:r().max(4096).refine(e=>e===``||/\\S/",
+  "new_chunk": false
+ },
+ {
+  "text": "Attempted to dispose unknown listener",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/SandboxTerminalSession.js",
+  "ctx": "d?`,this._disposed),console.log(`size?`,this._size),console.log(`arr?`,JSON.stringify(this._listeners)),Error(`Attempted to dispose unknown listener`);this._size--,t[n]=void 0;let r=this._deliveryQueue.current===this;if(",
+  "new_chunk": false
+ },
+ {
+  "text": "?r.defaultCompareOption([new Date().toTimelessDate()]):c,u=a===void 0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FilterBlockHelper.js",
+  "ctx": "n when using fuzzy dates`);let e=i?.()?.[0],t=n.store.organization.fiscalYearStartMonth,a=N(e,t),l=c===`within`?r.defaultCompareOption([new Date().toTimelessDate()]):c,u=a===void 0?`in`:c.replace(`within`,`in`),d=c===`wi",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Fe?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CollaborativeEditor.js",
+  "ctx": ":!0}}if(i)try{ut.info(br,i)}catch{}}};function wr(e){return e==null?`nullish`:e instanceof Ue?`documentContent`:e instanceof Fe?`model`:e instanceof Ge?`lazy`:e instanceof Promise?`promise`:typeof e==`object`&&typeof e.t",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Ge?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CollaborativeEditor.js",
+  "ctx": ",i)}catch{}}};function wr(e){return e==null?`nullish`:e instanceof Ue?`documentContent`:e instanceof Fe?`model`:e instanceof Ge?`lazy`:e instanceof Promise?`promise`:typeof e==`object`&&typeof e.then==`function`?`thenabl",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,y.gapsLeftOut&&y.bucket?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/usePullRequestInsight.js",
+  "ctx": "maller ${y.hiddenSegments===1?`segment is`:`segments are`} hidden, since their values do not add up into Other`:void 0,y.gapsLeftOut&&y.bucket?`The dates span over ${Ut.format(ue.maxRows)} ${y.bucket}s, so the chart leav",
+  "new_chunk": false
+ },
+ {
+  "text": ",optionHint:t instanceof Ws&&t.hasParentDefinition?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IssueDetailsPaneSidebar.js",
+  "ctx": "n})}):null}return(0,Y.jsx)(Bo,{children:(0,Y.jsx)(La,{viewPreferences:t.viewPreferences,ordering:`viewOrdering`,optionHint:t instanceof Ws&&t.hasParentDefinition?`add as sub-issue`:void 0,children:(0,Y.jsx)(Om,{provider:",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.initiative?e.initiative.or[0].id.in.concat(s):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "ion:e=>`or`in e.initiative||`id`in e.initiative&&`in`in e.initiative.id?`is`:`not`,selectedValues(e){return`or`in e.initiative?e.initiative.or[0].id.in.concat(s):`and`in e.initiative?e.initiative.and[0].id.nin.concat(s):",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.initiative?e.initiative.and[0].id.nin.concat(s):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "e.initiative.id?`is`:`not`,selectedValues(e){return`or`in e.initiative?e.initiative.or[0].id.in.concat(s):`and`in e.initiative?e.initiative.and[0].id.nin.concat(s):`in`in e.initiative.id?e.initiative.id.in:e.initiative.i",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.document?e.document.or[0].id.in.concat(s):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "areOption:e=>`or`in e.document||`id`in e.document&&`in`in e.document.id?`is`:`not`,selectedValues(e){return`or`in e.document?e.document.or[0].id.in.concat(s):`and`in e.document?e.document.and[0].id.nin.concat(s):`in`in e",
+  "new_chunk": false
+ },
+ {
+  "text": "in e.document?e.document.and[0].id.nin.concat(s):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/NotificationFilterBlocks.js",
+  "ctx": "in`in e.document.id?`is`:`not`,selectedValues(e){return`or`in e.document?e.document.or[0].id.in.concat(s):`and`in e.document?e.document.and[0].id.nin.concat(s):`in`in e.document.id?e.document.id.in:e.document.id.nin}},ve",
+  "new_chunk": false
+ },
+ {
+  "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(x.teamProjectStatuses)?v.availabilityMessageForFeature(x.teamProjectStatuses):void 0,title:i>0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/SetParentTeamForm.js",
+  "ctx": "ffectiveHierarchySettings.requireProjectStatusInheritance?`The parent team requires project status inheritance`:s&&t.inheritProjectStatuses&&!t.organization.canAccess(x.teamProjectStatuses)?v.availabilityMessageForFeatur",
+  "new_chunk": false
+ },
+ {
+  "text": "Go to file…",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": "{preloadOrder:`skip`,resolveComponent:e=>e.default}),Dg=os(),Og=os(),kg=os();function Ag(e){return{id:Og,name:`Go to file…`,image:(0,Q.jsx)(En,{}),keyboardShortcut:{key:`p`,mod:!0,runWithInputFocus:!0},group:Li,keywords:",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,x,t.isResolved?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": ".isResolved?0:t.children.count(e=>!e.isClone),w=i||t.isResolved||r?``:TC.bodyExcerpt(t.bodyData),T=[b,y?`${y}/`:void 0,x,t.isResolved?`Resolved`:void 0,r?`Outdated`:void 0,C>0?bs(`reply`,C):void 0].concrete().join(`, `),",
+  "new_chunk": false
+ },
+ {
+  "text": ",id:p?void 0:a,variant:p?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestHeader.js",
+  "ctx": "],children:[(0,Q.jsx)(Eo,{agent:t.agent,label:_,focusable:!n,disableTooltip:!0}),(0,Q.jsxs)(X,{as:p?`span`:`h2`,id:p?void 0:a,variant:p?`small`:`mini`,color:`labelMuted`,sx:[bw.heading,bw.inlineLabel],children:[(0,Q.jsx)",
+  "new_chunk": false
+ },
+ {
+  "text": "&&d!=null?o.current?.getBoundingClientRect().right:void 0,E=T==null?Sr.mainPageMargin:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/useDiffFilesQuery.js",
+  "ctx": "eRef(null),y=Z.useRef(null),b=Z.useRef(null),S=Z.useRef(null),C=Z.useRef(``),{visibility:w}=m,T=i&&w!==`closed`&&d!=null?o.current?.getBoundingClientRect().right:void 0,E=T==null?Sr.mainPageMargin:`calc(100vw - ${T}px)`,",
+  "new_chunk": false
+ },
+ {
+  "text": ",animationScope:n.id,borderless:!0,overlay:A,instantOverlay:A,sidebarOpen:!!a&&!j,sidebarWidth:Math.max(y.agentChatEntityWidthFraction*b,b-La),sidebarMinWidth:Math.max(Ra,b-La),sidebarMaxWidthRatio:1,mainContentMinWidth:Ia,onSidebarResize:A?void 0:x,sidebarAutoSnap:S,sidebarResizeDoubleClickWidth:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AgentsSplitPage.js",
+  "ctx": "sx-2lah0s sx-11bjsca sx-19991ni sx-1r32g44 sx-18o3ruo sx-4or1e6`}}[!!P|0]}):null,(0,Y.jsx)(Rt,{position:`right`,animationScope:n.id,borderless:!0,overlay:A,instantOverlay:A,sidebarOpen:!!a&&!j,sidebarWidth:Math.max(y.age",
+  "new_chunk": false
+ },
+ {
+  "text": ",showTabs:te,activeTab:d?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationRunsPage.js",
+  "ctx": "(0,Z.jsx)(F,{mainGroup:!0,model:e}),(0,Z.jsx)(_t,{parent:b,workflowDefinition:e,subPage:te?void 0:`Run history`,showTabs:te,activeTab:d?void 0:`runs`,actions:D,navigationControls:v,hideAgentPicker:ee,subscriptionControl:",
+  "new_chunk": false
+ },
+ {
+  "text": ",n instanceof Je?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationPage.js",
+  "ctx": ")?.failed(`publish`,n instanceof Je?`offline`:`save_error`),new k(T.error,`Failed to ${E?`create`:`save`} loop`,n instanceof Je?`You cannot save a loop while offline.`:ye(n)?n.userPresentableMessage:void 0).show()))}fina",
+  "new_chunk": false
+ },
+ {
+  "text": ",\"aria-describedby\":!p&&Re?ft:void 0,className:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AutomationPage.js",
+  "ctx": "assName:`sx-78zum5 sx-dt5ytf sx-1rzw5jd`,children:[(0,Y.jsx)(`fieldset`,{disabled:U,\"aria-label\":`Loop trigger`,\"aria-describedby\":!p&&Re?ft:void 0,className:`sx-euugli sx-1ghz6dp sx-1717udv sx-c342km`,children:(0,Y.jsxs",
+  "new_chunk": false
+ },
+ {
+  "text": ",avatarUrl:Se.value??void 0,title:V.value??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AccountProfileSettingsPage.js",
+  "ctx": "),V=G(Y.profileDetails.title),Se=G(Y.profileDetails.avatar),Ce=xe(),q={displayName:P.value??``,name:M.value??``,avatarUrl:Se.value??void 0,title:V.value??``},Te=e=>{e.key.length===1&&!e.key.match(S.displayNameValidationR",
+  "new_chunk": false
+ },
+ {
+  "text": ",disableScrollPositionRestoration:x,railSection:x||g?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/ReviewsList.js",
+  "ctx": "gStart:0,itemComponent:Pn,stickyHeaderLevels:1,scrollRestorationId:x?`${v}-preview`:`${v}-${l.state?.tabId??0}`,disableScrollPositionRestoration:x,railSection:x||g?void 0:`reviews`,fitContent:x,disableMinWidth:x,disableS",
+  "new_chunk": false
+ },
+ {
+  "text": "in e&&e.where?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestInsightControlsPanel.js",
+  "ctx": "pace`,children:e.name}),(0,G.jsxs)(O,{variant:`small`,color:`labelMuted`,children:[V.describeMeasure(e),`where`in e&&e.where?`, counting only rows where`:null]}),`where`in e&&e.where?(0,G.jsx)(X,{lines:V.describeFilter(e",
+  "new_chunk": false
+ },
+ {
+  "text": ",s.source instanceof g?s.source.name:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageSuggestionAutomationRules.js",
+  "ctx": "}),!o&&s&&s?.action!==U.suggest&&(0,G.jsxs)(_,{variant:`mini`,color:`labelMuted`,children:[`Inherited from`,` `,s.source instanceof g?s.source.name:`workspace`]})]}),(0,G.jsxs)(S,{align:`center`,gap:6,children:[(0,G.jsx)",
+  "new_chunk": false
+ },
+ {
+  "text": ",t instanceof g?t.name:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageSuggestionAutomationRules.js",
+  "ctx": "led:a||i}),i&&(0,G.jsxs)(_,{variant:`mini`,color:`labelMuted`,style:{paddingLeft:4},children:[`Inherited from `,t instanceof g?t.name:`workspace`]})]}),(0,G.jsxs)(S,{align:`center`,gap:6,children:[i?(0,G.jsxs)(S,{align:`",
+  "new_chunk": false
+ },
+ {
+  "text": ":a.hasPermission(B.apiKeyCreation)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/AccountSecuritySettingsPage.js",
+  "ctx": "ions,e.passkeys]),a=O(),o=He(),s=a.apiKeys,c=s.length>0,l=a.guest?`Guest users cannot create personal API keys`:a.hasPermission(B.apiKeyCreation)?void 0:`Personal API keys are not enabled for this workspace`,u=!!l,[p,m]=",
+  "new_chunk": false
+ },
+ {
+  "text": ",d=t.isLinearAgentAccessible,p=le(se.workspaceManagedSettingsV1)&&r,g=t.agentAutomationEnabled?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkflowAgentAutomationSettingsPage.js",
+  "ctx": "geCredits(e),u=`loops-settings-usage-summary:${t.id}:${e.timezone??`UTC`}:${e.settings.firstDayOfWeekAsNumber}`,d=t.isLinearAgentAccessible,p=le(se.workspaceManagedSettingsV1)&&r,g=t.agentAutomationEnabled?void 0:`Requir",
+  "new_chunk": false
+ },
+ {
+  "text": ",paragraphs:c,primaryAction:s?ce:void 0,primaryActionTargets:s?[s]:void 0,primaryLabel:s?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CyclePage.js",
+  "ctx": "le currently, and no next cycle is scheduled.`];return(0,K.jsx)(U,{icon:(0,K.jsx)($,{}),title:`No active cycle`,paragraphs:c,primaryAction:s?ce:void 0,primaryActionTargets:s?[s]:void 0,primaryLabel:s?`Go to previous cycl",
+  "new_chunk": false
+ },
+ {
+  "text": ",children:C||e instanceof U?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DraftsPage.js",
+  "ctx": "ssName:`sx-b3r6kr sx-1iyjqo2 sx-1n4lwwq sx-16055dl`,children:ve?(0,Y.jsx)(q,{variant:`small`,color:`labelFaint`,children:C||e instanceof U?`Add description…`:ee.getPlaceholder(A)}):I})),(0,Y.jsx)(f,{ref:r,tabIndex:y?void",
+  "new_chunk": false
+ },
+ {
+  "text": ",content:p?.contentData??m,metadata:void 0,className:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WelcomeMessageInboxView.js",
+  "ctx": "ildren:f}),(0,h.jsx)(`div`,{className:`sx-1y1aw1k`,children:(0,h.jsx)(r,{\"aria-label\":`Welcome message content`,content:p?.contentData??m,metadata:void 0,className:`sx-h8yej3`})})]})})})})})});function v(e){let{children:",
+  "new_chunk": false
+ },
+ {
+  "text": "DOMPurify and Trusted Types",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/purify.es.js",
+  "ctx": "uses infinite recursion. Do not pass a policy whose callbacks wrap DOMPurify as TRUSTED_TYPES_POLICY; see the \"DOMPurify and Trusted Types\" section of the README.`)},F=function(e){at(),it++;try{return N.createHTML(e)}fin",
+  "new_chunk": false
+ },
+ {
+  "text": "?F(E,e.value):t.errors.key:void 0,children:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CreateTeamForm.js",
+  "ctx": "dentifier-description`,children:(0,R.jsx)(S,{debounceError:!0,error:t.submitCount>0?t.errors.key===`key_in_use`?F(E,e.value):t.errors.key:void 0,children:`Used as a prefix for team issues (e.g. ${e.value||`ENG`}-123)`})}",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:Pe,onValueChange:je,options:Ne,disabledReason:U.canAccess(p.privateTeams)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/CreateTeamForm.js",
+  "ctx": "w,{feature:p.privateTeams,title:`Change team access`,children:(0,R.jsx)(T,{id:`privateTeam`,title:`Team access`,value:Pe,onValueChange:je,options:Ne,disabledReason:U.canAccess(p.privateTeams)?void 0:`Your workspace doesn",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLength:n instanceof F?N.maxNameLength:I.maxNameLength,\"aria-label\":",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkspaceCustomersSettingsPage.js",
+  "ctx": "())}})}):null,(0,W.jsx)(m,{name:`name`,children:({field:t})=>(0,W.jsx)(_,{autoComplete:`off`,placeholder:`Name`,maxLength:n instanceof F?N.maxNameLength:I.maxNameLength,\"aria-label\":`Name`,ref:c,...t,onChange:async n=>{a",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLength:n instanceof F?N.maxDescriptionLength:I.maxDescriptionLength,\"aria-label\":",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/WorkspaceCustomersSettingsPage.js",
+  "ctx": "0,W.jsx)(m,{name:`description`,children:({field:t})=>(0,W.jsx)(_,{autoComplete:`off`,placeholder:`Description…`,maxLength:n instanceof F?N.maxDescriptionLength:I.maxDescriptionLength,\"aria-label\":`Description`,...t,onCha",
+  "new_chunk": false
+ },
+ {
+  "text": ",nowrap:!0,children:i.revenue===void 0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/SignalsListProvider.js",
+  "ctx": "cription:g||void 0,descriptionLineCount:2})}),(0,b.jsx)(c,{name:`revenue`,children:(0,b.jsx)(s,{variant:`small`,nowrap:!0,children:i.revenue===void 0?`—`:n(i.revenue,{compact:!0,currencyCode:x})})}),(0,b.jsx)(c,{name:`pr",
+  "new_chunk": false
+ },
+ {
+  "text": ",d?.lastPushed?new Date(d.lastPushed).toString():",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/IdentityProviderSettingsPage.js",
+  "ctx": ",` via push group`]}),description:p?(0,Q.jsxs)(A,{variant:`mini`,color:`labelMuted`,children:[`Latest push on `,d?.lastPushed?new Date(d.lastPushed).toString():`unknown`]}):(0,Q.jsxs)(A,{variant:`mini`,color:`labelMuted`",
+  "new_chunk": false
+ },
+ {
+  "text": "Sandbox destroyed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DebugRouter.js",
+  "ctx": "ry{let t=await e.graphQLClient.mutate(dm,{sandboxUrl:w,type:r});t.debugDestroySandbox.success?new L(I.success,`Sandbox destroyed`).show():new L(I.warning,`Sandbox may not have been destroyed`,t.debugDestroySandbox.error)",
+  "new_chunk": false
+ },
+ {
+  "text": "Sandbox may not have been destroyed",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DebugRouter.js",
+  "ctx": "ndboxUrl:w,type:r});t.debugDestroySandbox.success?new L(I.success,`Sandbox destroyed`).show():new L(I.warning,`Sandbox may not have been destroyed`,t.debugDestroySandbox.error).show()}catch(e){new L(I.error,`Error destro",
+  "new_chunk": false
+ },
+ {
+  "text": "Error destroying sandbox",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DebugRouter.js",
+  "ctx": " L(I.warning,`Sandbox may not have been destroyed`,t.debugDestroySandbox.error).show()}catch(e){new L(I.error,`Error destroying sandbox`,hn(e)).show()}finally{ee(null),te(null),D(null),fe(null),P(null),ve([]),be([]),we(n",
+  "new_chunk": false
+ },
+ {
+  "text": ",tip:h.inputTime===void 0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/DeveloperToolbar.js",
+  "ctx": "formanceReporting. A DOM-based estimate is labelled separately and is not a production completion measurement.`,tip:h.inputTime===void 0?`No recent eligible input was recorded.`:`${Math.round(h.startTime-h.inputTime)} ms",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,isSubmitting:ae||ce,onSubmit:Ne,onAlternateSubmit:Pe,alternateSubmitLabel:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/FastIssueCreateEditor.js",
+  "ctx": "d,isVisible:d,initialContent:f,onChange:p,editor:Oe,isGenerating:!1,disabledReason:ue?`Starting local session…`:void 0,isSubmitting:ae||ce,onSubmit:Ne,onAlternateSubmit:Pe,alternateSubmitLabel:`Start without opening`,has",
+  "new_chunk": false
+ }
+]
