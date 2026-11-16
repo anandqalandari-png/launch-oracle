@@ -2714,7 +2714,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-07",
@@ -2735,6 +2735,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "There is now a dedicated feature flags list with empty states, ownership, and a 'Removed from the codebase' marker, which strengthens the feature flag work."
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.6,
+    "note": "Detach actions for issues and projects and a workspace feature flags navigation key add more build-out evidence."
    }
   ],
   "evidence": [
@@ -2797,6 +2802,24 @@
     "kind": "copy",
     "first_seen": "2026-11-14",
     "new_chunk": false
+   },
+   {
+    "text": "Detach feature flag from issue",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Detach feature flags",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "workspace-feature-flags",
+    "kind": "key",
+    "first_seen": "2026-11-16",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -3342,12 +3365,17 @@
   "first_evidence": "2026-11-09",
   "window_days": 60,
   "deadline": "2027-01-08",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-09",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.5,
+    "note": "A 'Save current insight' action appears, tied to organization-level insight view preferences."
    }
   ],
   "evidence": [
@@ -3373,6 +3401,12 @@
     "text": "Set default for everyone",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Save current insight",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
     "new_chunk": false
    }
   ],
@@ -3521,7 +3555,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-10",
@@ -3547,6 +3581,11 @@
     "date": "2026-11-14",
     "confidence": 0.45,
     "note": "The new template markup sits right after 'data-writing-followup-suggestions-surface' in the code context. This suggests the suggestion surface now has its own rendered icon, so the UI is being built out."
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.4,
+    "note": "The new code reads options_loading_label, style_variants_loading_tone and suggested_followups from message metadata. This suggests style-variant follow-up options are being wired into the client."
    }
   ],
   "evidence": [
@@ -3626,6 +3665,12 @@
     "text": "),tx=H('<svg width=20 height=20 viewBox=",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "==typeof x?x.trim():",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
     "new_chunk": false
    }
   ],
@@ -4657,7 +4702,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-11",
@@ -4668,6 +4713,11 @@
     "date": "2026-11-12",
     "confidence": 0.5,
     "note": "Page ordering options (manual, name, last edited, created) and parent-document handling have been added."
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.6,
+    "note": "A breadcrumb toggle for pages shows nested document navigation is being polished."
    }
   ],
   "evidence": [
@@ -4699,6 +4749,18 @@
     "text": "Can’t remove from parent document",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Derived breadcrumb parents",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Shows the live parents of a page in the header breadcrumb instead of the stored navigation trail.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
     "new_chunk": false
    }
   ],
@@ -5156,6 +5218,11 @@
     "date": "2026-11-13",
     "confidence": 0.6,
     "note": "The settings UI is built, with a create/edit criterion page and category limits."
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.6,
+    "note": "Review criteria can be listed, saved and deleted through agent tools, and each has an 'Open in settings' link. This shows the feature is wired end to end."
    }
   ],
   "evidence": [
@@ -5199,6 +5266,30 @@
     "text": "This workspace has too many review criteria",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Review criterion",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Listing review criteria…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Saving review criterion…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Open in settings",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
     "new_chunk": false
    }
   ],
@@ -6227,12 +6318,17 @@
   "first_evidence": "2026-11-14",
   "window_days": 60,
   "deadline": "2027-01-13",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-14",
     "confidence": 0.55,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-16",
+    "confidence": 0.6,
+    "note": "Manual run pickers now handle a customer trigger type, so the feature is being built out."
    }
   ],
   "evidence": [
@@ -6258,6 +6354,18 @@
     "text": "Customer-triggered run",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Search for customer to run loop on…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "No matching customers",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
     "new_chunk": false
    }
   ],
@@ -6589,6 +6697,629 @@
    "open_questions": [
     "Is it available on all plans or only with Notion AI?",
     "Does it work on desktop, mobile and web, or only on some of them?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-16-restaurant-ratings-and-public-reviews-in",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Restaurant ratings and public reviews in ChatGPT",
+  "one_liner": "After ChatGPT shows a restaurant or place, users can rate it, write a review, polish the wording with AI, and publish it publicly or save it privately.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 75,
+  "deadline": "2027-01-30",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Been here? Leave a rating or share what stood out.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Other signed-in ChatGPT users can see your name, rating, and review.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Publish publicly",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "I'd like to write a restaurant review for this location.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Polish wording",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Review published",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Saved privately",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "ChatGPT recommends local businesses and restaurants but has no way to collect first-party feedback on them.",
+   "users": "Signed-in ChatGPT users who look up local places and restaurants.",
+   "what": "An inline review form with a star rating, a free-text field, a public or private visibility choice, a preview step, and an AI 'Polish wording' button with undo. Saved reviews can be edited. Inferred: saved stars feed an overall rating.",
+   "how_it_appears": "A generated-UI card under place or restaurant results with a 'Write a review' or 'Resume review' button, and a confirmation sheet for publishing or saving a rating.",
+   "rollout_guess": "Inferred: staged rollout to signed-in users in the local-business and restaurant experience, probably in the US first.",
+   "open_questions": [
+    "Will reviews be visible only to other signed-in ChatGPT users, as the copy says?",
+    "How will moderation and aggregate ratings be surfaced in place cards?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-16-courses-with-lesson-plans",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Courses with lesson plans",
+  "one_liner": "ChatGPT can create persistent courses with lesson plans, which users can manage and delete while keeping the related conversations.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 90,
+  "deadline": "2027-02-14",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Are you sure? This removes the course and its lesson plan. Your conversations will be kept.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn’t delete this course. Please try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Course actions",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Learners have no structured, persistent way to follow a multi-lesson curriculum inside ChatGPT.",
+   "users": "Learners and students using ChatGPT for study.",
+   "what": "A course object with a lesson plan and its own conversations, plus a card menu with a delete action and a confirmation step. Inferred: it is part of a learning or tutoring experience.",
+   "how_it_appears": "A generated-UI card in chat or a courses list, with an actions menu.",
+   "rollout_guess": "Inferred: gradual rollout, likely tied to a learning or education surface.",
+   "open_questions": [
+    "Is this a standalone Courses area or an inline card inside study conversations?",
+    "Which plans get access?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-16-credit-score-display-experian-vantagesco",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Credit score display (Experian VantageScore)",
+  "one_liner": "ChatGPT may show a user's Experian VantageScore 3.0 credit score in a personal-finance card.",
+  "category": "integration",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 90,
+  "deadline": "2027-02-14",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "VantageScore® 3.0 · Experian",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users who ask financial questions lack real data on their credit standing.",
+   "users": "Inferred: US users who connect personal-finance data.",
+   "what": "A card with a ready state that shows a credit score attributed to Experian's VantageScore 3.0 model. Inferred: it is part of a personal-finance feature.",
+   "how_it_appears": "A generated-UI card in chat with loading and ready states.",
+   "rollout_guess": "Inferred: US-only and limited to users who opt in and connect data.",
+   "open_questions": [
+    "Is the data pulled via a partner or entered by the user?",
+    "Which plans and regions are supported?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-16",
+   "ship_date": "2026-09-21",
+   "why": "was already public when forecast",
+   "source": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "quote": "Securely connect your Experian® credit report and VantageScore® 3.0 credit score to get personalized insights into what’s affecting your score",
+   "prd_match": 4,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "chatgpt-2026-11-16-sign-in-with-qr-code",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "Sign in with QR code",
+  "one_liner": "Logged-out users can continue into ChatGPT by scanning a QR code, presumably with their phone.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 45,
+  "deadline": "2026-12-31",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Continue with QR code",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Weiter mit QR-Code",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Continuer avec un code QR",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Typing credentials on a desktop is slow, and many users already have a signed-in phone app.",
+   "users": "Logged-out web visitors.",
+   "what": "A new auth option beside 'Continue with phone' and 'Create account', already localised into dozens of languages. Inferred: scanning the QR code with the mobile app approves the desktop sign-in.",
+   "how_it_appears": "A button in the logged-out inline auth modal.",
+   "rollout_guess": "Inferred: the strings are already translated, so launch is probably close.",
+   "open_questions": [
+    "Does it require the ChatGPT mobile app?",
+    "Is it available on all logged-out surfaces?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-label-values",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Label values",
+  "one_liner": "Give labels a typed value (ID, number, percentage, true/false, URL, person or people) that is set each time the label is applied to an issue, project or initiative.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 120,
+  "deadline": "2027-03-16",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Lets labels take a value, such as an ID, number, URL, or person, that is set whenever the label is applied to an issue, project, or initiative.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Label values",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Enter a percentage",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Enter true or false",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose a person",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose people",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Labels are only present or absent, so they cannot carry structured data such as an ID, a number or an owner.",
+   "users": "Teams that want structured metadata, such as Jira custom field sync users, on issues, projects and initiatives.",
+   "what": "Labels get a value type: number, percent, true/false, URL, person or people. The value is entered when the label is applied, and the input validates it, for example with 'Enter a percentage' or 'Choose a person'.",
+   "how_it_appears": "The 'Label values' entry sits in the list of experimental feature toggles. The value input appears when applying a label, and the validation messages come from the parser for each value type.",
+   "rollout_guess": "Inferred: it is currently an internal feature toggle. It would be tested with a few workspaces before general release.",
+   "open_questions": [
+    "Is this the mechanism behind Jira custom field sync into label groups?",
+    "Will it be limited to paid plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-revert-pull-request-from-reviews",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Revert pull request from Reviews",
+  "one_liner": "Open a draft revert pull request for a merged pull request directly from Linear.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 75,
+  "deadline": "2027-01-30",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Revert pull request",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Opening draft revert pull request…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Opening the revert pull request…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reverting a bad merge means leaving Linear for GitHub.",
+   "users": "Engineers who review and merge pull requests in Linear Reviews.",
+   "what": "A 'Revert pull request' command calls a revertPullRequest mutation and opens a draft revert PR. It shows progress toasts while it runs.",
+   "how_it_appears": "A command-menu and contextual action on a pull request, available to GitHub users with review permission and gated by a feature flag.",
+   "rollout_guess": "Inferred: it ships as part of the Reviews and Diffs expansion.",
+   "open_questions": [
+    "Does it work only for merged PRs?",
+    "Does the draft revert PR get linked to the original issue?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-dismiss-pull-request-reviews",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Dismiss pull request reviews",
+  "one_liner": "Dismiss an approval or changes-requested review on a pull request from Linear.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 75,
+  "deadline": "2027-01-30",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Dismiss my review…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Dismiss review…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Dismiss Reviews…",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "A stale or blocking review can hold up a merge, and clearing it today requires GitHub.",
+   "users": "Reviewers and PR authors using Linear Reviews.",
+   "what": "Dismiss your own review, or another reviewer's if you have permission, with keywords 'dismiss review approval changes requested'. It applies to open pull requests that have dismissable reviews.",
+   "how_it_appears": "Pull request actions in Reviews and the command menu.",
+   "rollout_guess": "Inferred: it ships alongside the other merge-control actions in Reviews.",
+   "open_questions": [
+    "Does a reason have to be given?",
+    "Who is allowed to dismiss other people's reviews?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-linear-review-sources-count",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Linear Review sources count",
+  "one_liner": "The clean Linear Review card shows how many sources, such as files, issues, PRs, commits and discussions, the review agent read.",
+  "category": "experiment",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 75,
+  "deadline": "2027-01-30",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Show how many sources Linear Review read on the clean review card.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Review sources",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "URL of each pull request you opened and read, other than the one under review. List each once, at most 60.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Permalink URL of each discussion you opened and read, such as a Slack thread or a comment thread. List each once, at most 60.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "A clean review with no findings gives no sign of how thorough it was.",
+   "users": "Pull request authors and reviewers.",
+   "what": "The review agent reports the files, issues, pull requests, commits, documents and discussions it read, and the clean review card shows the count.",
+   "how_it_appears": "A line on the clean-review card in the Diffs view, controlled by the 'diffs-review-show-sources' toggle.",
+   "rollout_guess": "Inferred: it is currently an internal toggle and could become the default.",
+   "open_questions": [
+    "Can a user expand the count into a list of sources?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-minimize-generated-and-test-files-in-dif",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Minimize generated and test files in diffs",
+  "one_liner": "Collapse generated-file and test-file diffs by default until expanded.",
+  "category": "expansion",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 60,
+  "deadline": "2027-01-15",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Minimize generated",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Minimize generated file diffs until expanded",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Minimize test file diffs until expanded",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Minimize tests",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Large generated and test diffs bury the code changes that matter.",
+   "users": "Reviewers in Linear Diffs.",
+   "what": "Two toggles, 'Minimize generated' and 'Minimize tests', fold those file diffs until the reviewer expands them.",
+   "how_it_appears": "Diffs view settings or options.",
+   "rollout_guess": "Inferred: a small Diffs update with no announcement beyond the changelog.",
+   "open_questions": [
+    "Are the defaults on or off?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-agent-code-annotations-on-pull-requests",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Agent code annotations on pull requests",
+  "one_liner": "Review agents attach line-level annotations with a severity and title to a pull request, delivered as a PR comment.",
+  "category": "new_feature",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 90,
+  "deadline": "2027-02-14",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "What a reviewer should know about these lines",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Short title shown above the description",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "The annotations are too long for a pull request comment. Shorten descriptions or drop annotations.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers need agent notes anchored to specific lines, not only a general summary.",
+   "users": "Reviewers and agent users.",
+   "what": "Annotations carry start and end lines, a severity of info, warning or error, an optional title and a description. They are validated against a length limit for the pull request comment.",
+   "how_it_appears": "In Reviews, anchored to lines in the diff, and in a PR comment.",
+   "rollout_guess": "Inferred: it is probably tied to the pull request evidence work.",
+   "open_questions": [
+    "Do humans create annotations too, or only agents?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-16-partial-linear-to-linear-migration-with-",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Partial Linear-to-Linear migration with fewer members",
+  "one_liner": "When migrating selected teams between Linear workspaces, import only the members of those teams.",
+  "category": "expansion",
+  "created": "2026-11-16",
+  "first_evidence": "2026-11-16",
+  "window_days": 90,
+  "deadline": "2027-02-14",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-16",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Offer an opt-in to leave out members outside the selected teams in partial Linear migrations.",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Map members of selected teams below. Other members will not be imported, and their records will show a “",
+    "kind": "copy",
+    "first_seen": "2026-11-16",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Partial migrations import every member of the source workspace, which adds unwanted seats and users.",
+   "users": "Admins merging or splitting workspaces.",
+   "what": "An opt-in limits the import to members of the selected teams. Other members are not imported and their records show a placeholder.",
+   "how_it_appears": "In the Linear import flow, at the member mapping step.",
+   "rollout_guess": "Inferred: it is currently behind an internal toggle and will be offered to migrating customers.",
+   "open_questions": [
+    "Is it visible in public release notes?"
    ]
   },
   "status": "open",
