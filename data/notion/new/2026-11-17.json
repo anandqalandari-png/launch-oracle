@@ -1,0 +1,282 @@
+[
+ {
+  "text": "feature_trial",
+  "kind": "key",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": "bject.values(n).map(({campaign:e})=>e),o=function(e){let t={};for(let a of e)t[a.campaign]=a;return t}([{type:\"feature_trial\",campaign:\"dashboard_trial_3_day\",primaryFeature:\"dashboard_view\",duration:{days:3},grants:[{fe",
+  "new_chunk": false
+ },
+ {
+  "text": "Finish uploading the file before moving it into a page.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ");let h=(0,i(752010).YK)({fileUploadNotReady:{id:\"moveToMenuActions.fileUploadNotReady.toast\",defaultMessage:\"Finish uploading the file before moving it into a page.\"},duplicatedToSpace:{id:\"moveToMenuActions.duplicatedT",
+  "new_chunk": false
+ },
+ {
+  "text": "are_upgrade_request_ai_entrypoints_enabled",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ").TR)(\"supportsNativeHome\")}function l(){return!i(139424).A.isMobile&&!!i(211589).default.checkGate({gateName:\"are_upgrade_request_ai_entrypoints_enabled\"})}function s(){return\"on\"===i(211589).default.getEligibleGroup({e",
+  "new_chunk": false
+ },
+ {
+  "text": "Could not convert the file page to an attachment.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "k:({newBlockStore:e,transaction:t})=>{n().NI({parentStore:b,childStore:e,transaction:t})}});if(!i)throw Error(\"Could not convert the file page to an attachment.\");m().Bn({store:i,source:e.pointer,fileIds:e.getFileIds(),t",
+  "new_chunk": false
+ },
+ {
+  "text": "Couldn’t create the file. Please try again.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "atePageButton.file\",defaultMessage:\"File\"},creationFailed:{id:\"sidebar.createFilePage.failed\",defaultMessage:\"Couldn’t create the file. Please try again.\"},folderUploadUnsupported:{id:\"sidebar.createFilePage.folderUpload",
+  "new_chunk": false
+ },
+ {
+  "text": "Folder uploads aren’t supported. Choose individual files instead.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": "ase try again.\"},folderUploadUnsupported:{id:\"sidebar.createFilePage.folderUploadUnsupported\",defaultMessage:\"Folder uploads aren’t supported. Choose individual files instead.\"}}),i=new(n(552709)).O2(\"quickAddFilePage\",a",
+  "new_chunk": false
+ },
+ {
+  "text": "===m?n(632079).Tj.background.secondary:n(632079).Tj.background.elevated:void 0,height:68,position:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/mainApp.js",
+  "ctx": ".useState)(!1),g=(0,r.useRef)(null),m=(0,n(960253).e)(),f=(0,n(960253).I)(()=>({container:{background:c?\"light\"===m?n(632079).Tj.background.secondary:n(632079).Tj.background.elevated:void 0,height:68,position:\"fixed\",top",
+  "new_chunk": false
+ },
+ {
+  "text": "!==P.indent&&!(parseInt(P.indent,10)===P.indent&&P.indent>0))throw TypeError('option",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "\\\"customInspect\\\", if provided, must be `true`, `false`, or `'symbol'`\");if(z(P,\"indent\")&&null!==P.indent&&\" \"!==P.indent&&!(parseInt(P.indent,10)===P.indent&&P.indent>0))throw TypeError('option \"indent\" must be \"\\\\t\", ",
+  "new_chunk": true
+ },
+ {
+  "text": "!=typeof P.numericSeparator)throw TypeError('option",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "row TypeError('option \"indent\" must be \"\\\\t\", an integer > 0, or `null`');if(z(P,\"numericSeparator\")&&\"boolean\"!=typeof P.numericSeparator)throw TypeError('option \"numericSeparator\", if provided, must be `true` or `false",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.allowPrototypes?e.allowPrototypes:a.allowPrototypes,allowSparse:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "t?a.charset:e.charset;return{allowDots:void 0===e.allowDots?a.allowDots:!!e.allowDots,allowPrototypes:\"boolean\"==typeof e.allowPrototypes?e.allowPrototypes:a.allowPrototypes,allowSparse:\"boolean\"==typeof e.allowSparse?e.",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.allowSparse?e.allowSparse:a.allowSparse,arrayLimit:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "s,allowPrototypes:\"boolean\"==typeof e.allowPrototypes?e.allowPrototypes:a.allowPrototypes,allowSparse:\"boolean\"==typeof e.allowSparse?e.allowSparse:a.allowSparse,arrayLimit:\"number\"==typeof e.arrayLimit?e.arrayLimit:a.ar",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.arrayLimit?e.arrayLimit:a.arrayLimit,charset:t,charsetSentinel:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "s:a.allowPrototypes,allowSparse:\"boolean\"==typeof e.allowSparse?e.allowSparse:a.allowSparse,arrayLimit:\"number\"==typeof e.arrayLimit?e.arrayLimit:a.arrayLimit,charset:t,charsetSentinel:\"boolean\"==typeof e.charsetSentinel",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.charsetSentinel?e.charsetSentinel:a.charsetSentinel,comma:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "owSparse,arrayLimit:\"number\"==typeof e.arrayLimit?e.arrayLimit:a.arrayLimit,charset:t,charsetSentinel:\"boolean\"==typeof e.charsetSentinel?e.charsetSentinel:a.charsetSentinel,comma:\"boolean\"==typeof e.comma?e.comma:a.comm",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.comma?e.comma:a.comma,decoder:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "arset:t,charsetSentinel:\"boolean\"==typeof e.charsetSentinel?e.charsetSentinel:a.charsetSentinel,comma:\"boolean\"==typeof e.comma?e.comma:a.comma,decoder:\"function\"==typeof e.decoder?e.decoder:a.decoder,delimiter:\"string\"=",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.decoder?e.decoder:a.decoder,delimiter:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "Sentinel?e.charsetSentinel:a.charsetSentinel,comma:\"boolean\"==typeof e.comma?e.comma:a.comma,decoder:\"function\"==typeof e.decoder?e.decoder:a.decoder,delimiter:\"string\"==typeof e.delimiter||n().isRegExp(e.delimiter)?e.de",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.delimiter||n().isRegExp(e.delimiter)?e.delimiter:a.delimiter,depth:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "an\"==typeof e.comma?e.comma:a.comma,decoder:\"function\"==typeof e.decoder?e.decoder:a.decoder,delimiter:\"string\"==typeof e.delimiter||n().isRegExp(e.delimiter)?e.delimiter:a.delimiter,depth:\"number\"==typeof e.depth||!1===",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.depth||!1===e.depth?+e.depth:a.depth,ignoreQueryPrefix:!0===e.ignoreQueryPrefix,interpretNumericEntities:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "ecoder,delimiter:\"string\"==typeof e.delimiter||n().isRegExp(e.delimiter)?e.delimiter:a.delimiter,depth:\"number\"==typeof e.depth||!1===e.depth?+e.depth:a.depth,ignoreQueryPrefix:!0===e.ignoreQueryPrefix,interpretNumericEn",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.interpretNumericEntities?e.interpretNumericEntities:a.interpretNumericEntities,parameterLimit:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "th||!1===e.depth?+e.depth:a.depth,ignoreQueryPrefix:!0===e.ignoreQueryPrefix,interpretNumericEntities:\"boolean\"==typeof e.interpretNumericEntities?e.interpretNumericEntities:a.interpretNumericEntities,parameterLimit:\"num",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.parameterLimit?e.parameterLimit:a.parameterLimit,parseArrays:!1!==e.parseArrays,plainObjects:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "typeof e.interpretNumericEntities?e.interpretNumericEntities:a.interpretNumericEntities,parameterLimit:\"number\"==typeof e.parameterLimit?e.parameterLimit:a.parameterLimit,parseArrays:!1!==e.parseArrays,plainObjects:\"bool",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.plainObjects?e.plainObjects:a.plainObjects,strictNullHandling:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "typeof e.parameterLimit?e.parameterLimit:a.parameterLimit,parseArrays:!1!==e.parseArrays,plainObjects:\"boolean\"==typeof e.plainObjects?e.plainObjects:a.plainObjects,strictNullHandling:\"boolean\"==typeof e.strictNullHandli",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.addQueryPrefix?e.addQueryPrefix:s.addQueryPrefix,allowDots:void 0===e.allowDots?s.allowDots:!!e.allowDots,charset:t,charsetSentinel:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "rmatters[n],l=s.filter;return(\"function\"==typeof e.filter||a(e.filter))&&(l=e.filter),{addQueryPrefix:\"boolean\"==typeof e.addQueryPrefix?e.addQueryPrefix:s.addQueryPrefix,allowDots:void 0===e.allowDots?s.allowDots:!!e.al",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.charsetSentinel?e.charsetSentinel:s.charsetSentinel,delimiter:void 0===e.delimiter?s.delimiter:e.delimiter,encode:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "x:s.addQueryPrefix,allowDots:void 0===e.allowDots?s.allowDots:!!e.allowDots,charset:t,charsetSentinel:\"boolean\"==typeof e.charsetSentinel?e.charsetSentinel:s.charsetSentinel,delimiter:void 0===e.delimiter?s.delimiter:e.d",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.encode?e.encode:s.encode,encoder:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "nel?e.charsetSentinel:s.charsetSentinel,delimiter:void 0===e.delimiter?s.delimiter:e.delimiter,encode:\"boolean\"==typeof e.encode?e.encode:s.encode,encoder:\"function\"==typeof e.encoder?e.encoder:s.encoder,encodeValuesOnly",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.encoder?e.encoder:s.encoder,encodeValuesOnly:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": " 0===e.delimiter?s.delimiter:e.delimiter,encode:\"boolean\"==typeof e.encode?e.encode:s.encode,encoder:\"function\"==typeof e.encoder?e.encoder:s.encoder,encodeValuesOnly:\"boolean\"==typeof e.encodeValuesOnly?e.encodeValuesOn",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.encodeValuesOnly?e.encodeValuesOnly:s.encodeValuesOnly,filter:l,format:n,formatter:i,serializeDate:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": " e.encode?e.encode:s.encode,encoder:\"function\"==typeof e.encoder?e.encoder:s.encoder,encodeValuesOnly:\"boolean\"==typeof e.encodeValuesOnly?e.encodeValuesOnly:s.encodeValuesOnly,filter:l,format:n,formatter:i,serializeDate",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.serializeDate?e.serializeDate:s.serializeDate,skipNulls:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "e.encodeValuesOnly?e.encodeValuesOnly:s.encodeValuesOnly,filter:l,format:n,formatter:i,serializeDate:\"function\"==typeof e.serializeDate?e.serializeDate:s.serializeDate,skipNulls:\"boolean\"==typeof e.skipNulls?e.skipNulls:",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e.skipNulls?e.skipNulls:s.skipNulls,sort:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "ormatter:i,serializeDate:\"function\"==typeof e.serializeDate?e.serializeDate:s.serializeDate,skipNulls:\"boolean\"==typeof e.skipNulls?e.skipNulls:s.skipNulls,sort:\"function\"==typeof e.sort?e.sort:null,strictNullHandling:\"b",
+  "new_chunk": true
+ },
+ {
+  "text": "==typeof e?l=Symbol.prototype.toString.call(e):",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/10356.js",
+  "ctx": "codeURIComponent(n)}catch(e){return n}},encode:function(e,t,r,o,i){if(0===e.length)return e;var l=e;if(\"symbol\"==typeof e?l=Symbol.prototype.toString.call(e):\"string\"!=typeof e&&(l=String(e)),\"iso-8859-1\"===r)return esca",
+  "new_chunk": true
+ },
+ {
+  "text": "?void 0:(null==l?void 0:l.progress)??0,isPublicSync:(null==l?void 0:l.isPublicSync)??!1,externalSourceName:(null==l?void 0:l.external_source_name)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/54715.js",
+  "ctx": ".isPrivateAuth)??!1,ingestionProgress:(null==l?void 0:l.progress)>=100||(null==l?void 0:l.status)===\"completed\"?void 0:(null==l?void 0:l.progress)??0,isPublicSync:(null==l?void 0:l.isPublicSync)??!1,externalSourceName:(n",
+  "new_chunk": true
+ },
+ {
+  "text": ",externalSourceName:void 0,sessionId:s(92513).JW(),analyticsFrom:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/54715.js",
+  "ctx": "ar n=()=>s(546605);class a extends n().Store{getInitialState(){return{currentScreen:\"none\",status:\"not_started\",externalSourceName:void 0,sessionId:s(92513).JW(),analyticsFrom:\"unknown\",isConnected:!1,isPersonalAuthCompl",
+  "new_chunk": true
+ },
+ {
+  "text": ",isBackendConnected:!1,externalSourceName:void 0,emailAddresses:[],sessionId:s(92513).JW(),analyticsFrom:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/54715.js",
+  "ctx": "()=>a},{F0:i})},875925(e,t,s){var n=()=>s(546605);function a(){return{currentScreen:\"none\",status:\"not_started\",isBackendConnected:!1,externalSourceName:void 0,emailAddresses:[],sessionId:s(92513).JW(),analyticsFrom:\"unk",
+  "new_chunk": true
+ },
+ {
+  "text": "PDL: WebCrypto unavailable (needs a secure context)",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "nction _(){var e=self.crypto;if(e==null||e.subtle==null||typeof e.getRandomValues!=\"function\")throw new Error(\"PDL: WebCrypto unavailable (needs a secure context)\");return e}function f(){return g.apply(this,arguments)}fu",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: expand_message_xmd length out of range",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "ray(64);return t.lowlevel.crypto_hash(n,e,e.length),n}function S(e,t,n){if(n>64||t.length>255)throw new Error(\"PDL: expand_message_xmd length out of range\");var r=y(t,[t.length]),o=v(y(new Uint8Array(128),e,b(n),[0],r));",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: input hashes to the identity element",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "],r));return v(y(o,[1],r)).subarray(0,n)}function R(t){var n=e.fromHash(S(t,h(c),64));if(C(n))throw new Error(\"PDL: input hashes to the identity element\");return n}function L(){var e=new Uint8Array(64);_().getRandomValue",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: random source returned zeros",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "r n=new Float64Array(e),r=new Uint8Array(32);if(t.lowlevel.modL(r,n),e.fill(0),n.fill(0),C(r))throw new Error(\"PDL: random source returned zeros\");return r}function E(t,n){return e.scalarMult(n,R(t))}function k(t,r,o){if",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: evaluated element must be 32 bytes",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "eros\");return r}function E(t,n){return e.scalarMult(n,R(t))}function k(t,r,o){if(o.length!==n)throw new Error(\"PDL: evaluated element must be 32 bytes\");var a=e.scalarMult(e.scalar.invert(r),o);if(C(a))throw new Error(\"P",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: evaluated element unblinds to the identity",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "r(\"PDL: evaluated element must be 32 bytes\");var a=e.scalarMult(e.scalar.invert(r),o);if(C(a))throw new Error(\"PDL: evaluated element unblinds to the identity\");return v(y(b(t.length),t,b(n),a,h(\"Finalize\")))}function I(",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: ChaCha20 block counter overflow",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "5,857760878,2036477234,1797285236];function M(e,t,n,r){if(n+Math.ceil(r.length/64)>4294967296)throw new Error(\"PDL: ChaCha20 block counter overflow\");var o=new DataView(e.buffer,e.byteOffset,32),a=new DataView(t.buffer,t",
+  "new_chunk": false
+ },
+ {
+  "text": "PDL: search key longer than 65535 bytes",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "12),e[t]+=e[n],e[o]=A(e[o]^e[t],8),e[r]+=e[o],e[n]=A(e[n]^e[r],7)}function O(e){if(e.length>s)throw new Error(\"PDL: search key longer than 65535 bytes\");var t=e.slice(),n=L(),r=E(t,n),o=!1,a=!1,i=null,l=function(){n.fill",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid argument",
+  "kind": "copy",
+  "file": "connect.facebook.net/signals/config/499229960464487",
+  "ctx": "on $(e){var t=l();return r.scalarbase(t,e),k(t)}function P(e,t){var n=l(),o=l();if(T(n,t)!==0)throw new Error(\"Invalid argument\");return r.scalarmult(o,n,e),k(o)}function N(e){var t=l();return T(t,e)!==-1}function M(e,t)",
+  "new_chunk": false
+ }
+]

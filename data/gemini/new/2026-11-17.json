@@ -1,0 +1,891 @@
+[
+ {
+  "text": "==typeof _.Pha&&e instanceof _.Pha?c.push(2,e.YOg):",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/excm=_b/ed=1/dg=0/br=1/wt=2/ujg=1/rs=AKrAJMo2imQQ7aTumrvrEtcfp_dTqEr2mw/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=_b",
+  "ctx": "ction(a,...b){var c=a[0];if(a.length===1)return c+\"_\";c=[0,c];for(let d=0;d<b.length;d++){let e=b[d];\"function\"==typeof _.Pha&&e instanceof _.Pha?c.push(2,e.YOg):\"function\"==typeof _.Qha&&e instanceof _.Qha?c.push(3,e.dL",
+  "new_chunk": true
+ },
+ {
+  "text": "You're offline. Check internet connection. Try again",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "till be running \\u2014 try refreshing.\", Ew:_.sE(_.qE(new _.Iu,5),67)}:{I4:\"snackbar\",error:a,message:this.oa?\"You're offline. Check internet connection. Try again\":\"Check your internet connection and try again\",soa:this",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:(tc=c==null?void 0:c.getName())!=null?tc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",Cc,xc,vc,Jc,Tc,ed,Id,Vd,Ve,Ce,gf,Jd,Pc,Hd;return Object.assign({},{id:(Jb=a==null?void 0:_.m(a,1))!=null?Jb:\"\",title:(tc=c==null?void 0:c.getName())!=null?tc:\"\",instruction:(Cc=b==null?void 0:_.m(b,1))!=null?Cc:\"\",descr",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(xc=c==null?void 0:c.Sd())!=null?xc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ll?Jb:\"\",title:(tc=c==null?void 0:c.getName())!=null?tc:\"\",instruction:(Cc=b==null?void 0:_.m(b,1))!=null?Cc:\"\",description:(xc=c==null?void 0:c.Sd())!=null?xc:\"\",BC:(vc=c==null?void 0:_.Pf(c,4).map(qe=>qe))!=null?vc:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(Tc=c==null?void 0:c.Sd())!=null?Tc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "l?xc:\"\",title:(vc=c==null? void 0:c.getName())!=null?vc:\"\",instruction:(Jc=b==null?void 0:_.m(b,1))!=null?Jc:\"\",description:(Tc=c==null?void 0:c.Sd())!=null?Tc:\"\",BC:(ed=c==null?void 0:_.Pf(c,4).map(Ue=>Ue))!=null?ed:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(te=(Id=Tc.getValue)==null?void 0:Id.call(Tc))!=null?te:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "qe,Pe,Ue,xg,le,te,Oe;return Object.assign({},{label:(le=(ed=Tc.getLabel)==null?void 0:ed.call(Tc))!= null?le:\"\",value:(te=(Id=Tc.getValue)==null?void 0:Id.call(Tc))!=null?te:\"\",HDc:(Oe=(Vd=Tc.oa)==null?void 0:Vd.call(Tc)",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Jf=(gf=vc.getValue)==null?void 0:gf.call(vc))!=null?Jf:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",xg,le,te,Oe,Bf,Jf,Sf;return Object.assign({},{label:(Bf=(Ce=vc.getLabel)==null?void 0:Ce.call(vc))!=null?Bf:\"\",value:(Jf=(gf=vc.getValue)==null?void 0:gf.call(vc))!=null?Jf:\"\"},Id&&{description:Id},Tc?{i8:{eX:(Sf=(Jd=Tc",
+  "new_chunk": true
+ },
+ {
+  "text": ",turnId:Yp,Ah:(ht=Pr==null?void 0:Pr.id)!=null?ht:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ull?void 0:Pr.id)!=null?Ju:\"\",uT:!0,If:{conversationId:(TF=(gt=_.l(a,_.CB,1))==null?void 0:gt.qg())!=null?TF:\"\",turnId:Yp,Ah:(ht=Pr==null?void 0:Pr.id)!=null?ht:\"\"}},Bx=cr.map(ij=>_.PJd(ij,Xt)),EI,Cx=(EI=a.Pl())==null?vo",
+  "new_chunk": true
+ },
+ {
+  "text": "in a?a.KK:a.title)!=null?e:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "){if(!a)return!1;var b,c,d=(c=(b=a.artifactId)==null?void 0:b.toLowerCase())!=null?c:\"\",e;b=((e=\"artifactTitle\"in a?a.KK:a.title)!=null?e:\"\").toLowerCase();return\"sparkArtifactType\"in a&&a.Bo===6||d.includes(\"personal_sn",
+  "new_chunk": true
+ },
+ {
+  "text": ",Ah:(xc=Jb==null?void 0:Jb.id)!=null?xc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "xc;Aa={responseId:(Cc=Jb==null?void 0:Jb.id)!=null?Cc:\"\",uT:_.Ff(b,15),If:{conversationId:W,turnId:T!=null?T:\"\",Ah:(xc=Jb==null?void 0:Jb.id)!=null?xc:\"\"}};Cc=_.l(b,_.kH, 7);xc=d.Je===26;x=a.Yc||x?v:void 0;var vc;(v=!!(v",
+  "new_chunk": true
+ },
+ {
+  "text": ",parentResponseId:!Ue||Jd&&(_.YB(Ue.response)||Ue.response.turnId!==((Sj=gf)==null?void 0:Sj.turnId))?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "== null?void 0:Rp.conversationId)||(qe.Rb.length>0?qe.id||(Hd==null?void 0:Hd.conversationId)||\"\":\"\"),Yj:Of||\"\",parentResponseId:!Ue||Jd&&(_.YB(Ue.response)||Ue.response.turnId!==((Sj=gf)==null?void 0:Sj.turnId))?\"\":((Ir",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.uBa().Ql,selected:!1,YD:this.uBa().tooltip||void 0,veId:194114,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "null?void 0:a.L1)});this.Dd=_.Y(()=>({id:_.bR.MGb,label:\"Photos\",ariaLabel:\"Open mobile gallery\",Ym:\"add_image\",disabled:this.uBa().Ql,selected:!1,YD:this.uBa().tooltip||void 0,veId:194114,kind:\"menu-item\"})); this.l2=_.",
+  "new_chunk": true
+ },
+ {
+  "text": ",goal:a.displayText,category:b,icon:c,wfh:a.k2d,type:d,FHg:(h=(f=a.OKe)==null?void 0:_.m(f,1))!=null?h:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "DASHER\": a.P5a.includes(8)?\"LICENSED_EDU\":a.P5a.includes(9)?\"UNLICENSED_EDU\":\"\");var f,g,h,q;b={prompt:a.sW||\"\",goal:a.displayText,category:b,icon:c,wfh:a.k2d,type:d,FHg:(h=(f=a.OKe)==null?void 0:_.m(f,1))!=null?h:\"\",rag",
+  "new_chunk": true
+ },
+ {
+  "text": "location-upsell-promo-dialog",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "scovery-card-promo-dialog\"||((b=a==null?void 0:a.startsWith(\"discovery-card-promo-dialog-\"))!=null?b:!1)||a===\"location-upsell-promo-dialog\"};j4i=function(a,b,c){c=(a=!c&&_.w3i(a))?_.x3i(b).pipe(_.mt(1),_.uv({bufferSize:",
+  "new_chunk": true
+ },
+ {
+  "text": "Type to search for more",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ".qz;this.tPc=Z7m;this.vch=\"/ is now @. Access your skills, connectors and more from a single place.\";this.Tkh=\"Type to search for more\";this.z$c=_.Q([]);this.hja=_.Q(\"\");this.led=_.Q(!1);this.gpe=_.Q(!1);this.Pra=_.Q(!0)",
+  "new_chunk": true
+ },
+ {
+  "text": "Decoded video frame does not cover its full rectangle area. Expecting at least",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "eak;case \"frame\":if(D.frame.ready){var K=D.frame.frame;(K.codedWidth<D.width||K.codedHeight<D.height)&&l.Warn(\"Decoded video frame does not cover its full rectangle area. Expecting at least \"+D.width+\"x\"+D.height+\" but g",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:b.description,logoUrl:(g=(d=b.e4)==null?void 0:d.KKa)!=null?g:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ol(\"\", {vk:!0}))});var d,e,f,g,h,q,t;this.ZH.setValue({id:b.id,title:b.title,readableUrlId:(f=b.LEc)!=null?f:\"\",description:b.description,logoUrl:(g=(d=b.e4)==null?void 0:d.KKa)!=null?g:\"\",instruction:(h=b.instruction)!=",
+  "new_chunk": true
+ },
+ {
+  "text": ",zeroStatePrompts:[...b.BC],defaultFeatureMode:(q=b.qga)!=null?q:null,brandName:(t=(e=b.nba)==null?void 0:e.NTa)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ption:b.description,logoUrl:(g=(d=b.e4)==null?void 0:d.KKa)!=null?g:\"\",instruction:(h=b.instruction)!=null?h:\"\",zeroStatePrompts:[...b.BC],defaultFeatureMode:(q=b.qga)!=null?q:null,brandName:(t=(e=b.nba)==null?void 0:e.N",
+  "new_chunk": true
+ },
+ {
+  "text": ",content:(f=(c=b.cUa)==null?void 0:c.description)!=null?f:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=HwBxOc",
+  "ctx": "Ca.next(a.text),!0;default:return!1}}Ig(a){if(a.type===\"showTooltip\"){var b=a.tooltip,c;let e,f;var d={title:\"\",content:(f=(c=b.cUa)==null?void 0:c.description)!=null?f:\"\",Fza:(e=b.Ce)==null?void 0:e.veId};b=this.Ab.oa.g",
+  "new_chunk": true
+ },
+ {
+  "text": "Not dropping self-originated client sync signal because it contains force REFRESH_CONVERSATION, REFRESH_SPACE, REFRESH_USER_PREFERENCES, SPARK_UPDATE_ARTIFACT, TIME_LIMIT_*, WELLBEING_SHOW_NUDGE, or YOUR_DAY_RELOAD_FEED",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=AdpaDf,DTcCS,HwBxOc,MGIlxc,OpU7Tc,UE0P2d,Z8wCif,_b,eK0zfd,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=BenWQc",
+  "ctx": ");var f;(f=_.m(d,3))&&f===a.Hb.mpb?s5o(d)||t5o(d)||a.Ua&&u5o(d)||v5o(d)||w5o(d)||x5o(d)||y5o(d)?(a.logger.log(\"Not dropping self-originated client sync signal because it contains force REFRESH_CONVERSATION, REFRESH_SPACE",
+  "new_chunk": true
+ },
+ {
+  "text": ",status:1,pinned:!1,Axb:void 0,ZXb:new Date,ZNa:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,HbEaCf,HwBxOc,LVUOyb,MGIlxc,No94jc,OpU7Tc,QuxHpf,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=GzXWE",
+  "ctx": "e.dispatch((0,_.L8f)({pageSize:11,filter:a}))}Vec(){var a={conversationId:\"__placeholder_goal__\",description:\"\",status:1,pinned:!1,Axb:void 0,ZXb:new Date,ZNa:\"Initializing task\\u2026\",zwa:\"\"};this.store.dispatch((0,_.R8",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:h.title,description:h.description,i6:h.i6,yoc:h.yoc,GJc:!0,disabled:t,imh:!1,DMa:q,Ym:v,modeCategory:h.modeCategory,b9b:(x=h.IGa)==null?void 0:x.b3a,modeVariantId:h.modeVariantId,sjb:HFm(h),Ja:q?359084:242569,Ala:q||!e&&!g?!1:h.Ala,Bia:h.Bia,Ebg:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,qxlpjc,v9r4Te,vLefie,wqvyKc,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=TRJwtb",
+  "ctx": "?void 0:v.Ym){case \"LOCK\":v=\"lock\";break a}v=void 0}var x,B;return Object.assign({},{mode:d,modeId:h.id,icon:\"\",title:h.title,description:h.description,i6:h.i6,yoc:h.yoc,GJc:!0,disabled:t,imh:!1,DMa:q,Ym:v,modeCategory:h",
+  "new_chunk": true
+ },
+ {
+  "text": "Get access to all Gemini models",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,qxlpjc,v9r4Te,vLefie,wqvyKc,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=TRJwtb",
+  "ctx": "1;for(let q of d)if(pKm(this,q,f,g,e))return!0;return!1})),{initialValue:!1}):_.Q(!1);this.oHa=\"New\";this.Llb=\"Get access to all Gemini models\";this.nbc=\"Sign in\";this.sRd=\"Get our most capable models & features\";this.ty",
+  "new_chunk": true
+ },
+ {
+  "text": "Get our most capable models & features",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,qxlpjc,v9r4Te,vLefie,wqvyKc,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=TRJwtb",
+  "ctx": "itialValue:!1}):_.Q(!1);this.oHa=\"New\";this.Llb=\"Get access to all Gemini models\";this.nbc=\"Sign in\";this.sRd=\"Get our most capable models & features\";this.tya=\"Upgrade\";this.kTc=\"Get access to select Pro features\";this.",
+  "new_chunk": true
+ },
+ {
+  "text": "Reuse in composer",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bNyBZd,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=N9BqIf",
+  "ctx": "eMetadata\",\"veMutable\"],[1,\"gds-icon-m\",\"action-button-icon\",3,\"fontIcon\"],[\"mat-icon-button\",\"\",\"aria-label\",\"Reuse in composer\",\"gemTooltip\",\"Reuse in composer\",1,\"action-button\",\"reuse-in-composer-button\",3,\"click\",\"d",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.Jfb>=1E3?\"P0\":\"P1\",Brb:\"Quick Win\",category:\"CACHE_ORDERING\",GLc:[b.Blc,b.HGg],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "B[1]}>\\n${B[2]}`,c-20,c+B[0].length+25)}}return b},yDl=function(a){return[...a.C5a.map(b=>({id:`action-${b.id}`,priority:b.Jfb>=1E3?\"P0\":\"P1\",Brb:\"Quick Win\",category:\"CACHE_ORDERING\",GLc:[b.Blc,b.HGg],title:`Move dynami",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P0\":\"P1\",Brb:\"Quick Win\",category:\"CONFLICT\",\nGLc:[b.ula,b.vla],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "on:b.eU,isb:b.Jfb,qBb:b.Jfb*1.5+300,owner:\"ALS Runtime & Context Team\"})),...a.x6a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P0\":\"P1\",Brb:\"Quick Win\",category:\"CONFLICT\", GLc:[b.ula,b.vla],title:`Resolve",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",Brb:b.severity===\"CRITICAL\"||b.severity===\"HIGH\"&&!b.fld?\"Major Overhaul\":\"Quick Win\",category:\"BLOAT\",GLc:[b.v5a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "b:60,qBb:b.severity===\"HIGH\"?950:550,owner:\"Gemini SI Governance Team\"})),...a.G8a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",Brb:b.severity===\"CRITICAL\"||b.severity=",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",Brb:\"Quick Win\",category:\"REDUNDANCY\",GLc:[b.ula,b.vla],title:b.zzb===\"CROSS_SILO_CAPABILITY\"?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ns} tok)`,action:b.eU,isb:b.VPb,qBb:b.VPb* (b.fld?1.2:1),owner:b.owner})),...a.Reb.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",Brb:\"Quick Win\",category:\"REDUNDANCY\",GLc:",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:c?\"P1\":\"P2\",Brb:\"Quick Win\",category:\"TYPO\",GLc:[b.v5a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "= \"UNBALANCED_XML_TAG\"||b.G8b===\"UNBALANCED_PARENTHESES\",d=b.gad.replace(/\\s+/g,\" \");return{id:`action-${b.id}`,priority:c?\"P1\":\"P2\",Brb:\"Quick Win\",category:\"TYPO\",GLc:[b.v5a],title:`Fix ${wDl[b.G8b]} '${d}' in '${b.v5a",
+  "new_chunk": true
+ },
+ {
+  "text": ",action:(T=f==null?void 0:f.action)!=null?T:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TK6Kl,TMsYl,TRJwtb,UE0P2d,UghKfd,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,v9r4Te,vLefie,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "((H=this.turn())==null?void 0:H.x3b);var N,T;return{title:q,condition:(N=f==null?void 0:f.condition)!=null?N:\"\",action:(T=f==null?void 0:f.action)!=null?T:\"\",ew:g,badge:B}}}}});this.Ua=_.jA(this.Oh); this.IJc=_.X(!0);thi",
+  "new_chunk": true
+ },
+ {
+  "text": ",Yj:(q=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?q:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "var d,e,f,g,h,q,t,v,x={conversationId:(h=b==null?void 0:(d=b.request)==null?void 0:d.conversationId)!=null?h:\"\",Yj:(q=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?q:\"\",parentResponseId:(t=b==null?void 0:(f=",
+  "new_chunk": true
+ },
+ {
+  "text": "Correct answer",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "ufffd0\\ufffd results \",\" Your report \",\"Correct\",a,b,\"Score\",\" Try again \",\" New quiz \",c,\"Skipped\",\"Correct\",\"Correct answer\",\"Incorrect\",\"Your answer\",\"Right answer!\",\"Exactly!\",\"Not quite.\",\" Review quiz \",\" View proj",
+  "new_chunk": true
+ },
+ {
+  "text": "Your answer",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": " report \",\"Correct\",a,b,\"Score\",\" Try again \",\" New quiz \",c,\"Skipped\",\"Correct\",\"Correct answer\",\"Incorrect\",\"Your answer\",\"Right answer!\",\"Exactly!\",\"Not quite.\",\" Review quiz \",\" View project \",\" View notebook \",[1,\"a",
+  "new_chunk": true
+ },
+ {
+  "text": "Right answer!",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "rect\",a,b,\"Score\",\" Try again \",\" New quiz \",c,\"Skipped\",\"Correct\",\"Correct answer\",\"Incorrect\",\"Your answer\",\"Right answer!\",\"Exactly!\",\"Not quite.\",\" Review quiz \",\" View project \",\" View notebook \",[1,\"assessment-summ",
+  "new_chunk": true
+ },
+ {
+  "text": "is-compact-preview",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "on(a,b){a&2&&_.R(\"is-embedded\",b.isEmbedded)(\"is-side-panel\",b.oda())(\"is-floaty\",b.hzg())(\"lm-enabled\",b.Kc)(\"is-compact-preview\",b.ELa())},inputs:{dB:[1,\"mapContent\"],draft:[1,\"draft\"],turn:[1,\"turn\"],E0a:[1,\"showAttri",
+  "new_chunk": true
+ },
+ {
+  "text": "map-preview-button",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "\",3,\"click\",\"trailingIcon\",\"url\"],[1,\"search-this-area-container\"],[\"type\",\"button\",\"aria-label\",\"Open map\",1,\"map-preview-button\"], [1,\"map\"],[1,\"map-scrim\"],[3,\"mouseenter\",\"mouseleave\",\"placeContent\",\"turn\"],[1,\"open-",
+  "new_chunk": true
+ },
+ {
+  "text": "Items per page:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ") var(--%NS%lumi-sys-elevation--level2-color)}']});var ruk=class{constructor(){this.changes=new _.Ms;this.LFg=\"Items per page:\";this.yFe=\"Next page\";this.SKe=\"Previous page\";this.Lie=\"First page\";this.nze=\"Last page\";thi",
+  "new_chunk": true
+ },
+ {
+  "text": "Next page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "ion--level2-color)}']});var ruk=class{constructor(){this.changes=new _.Ms;this.LFg=\"Items per page:\";this.yFe=\"Next page\";this.SKe=\"Previous page\";this.Lie=\"First page\";this.nze=\"Last page\";this.Zng=(a,b,c)=>{if(c==0||b=",
+  "new_chunk": true
+ },
+ {
+  "text": "Previous page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "});var ruk=class{constructor(){this.changes=new _.Ms;this.LFg=\"Items per page:\";this.yFe=\"Next page\";this.SKe=\"Previous page\";this.Lie=\"First page\";this.nze=\"Last page\";this.Zng=(a,b,c)=>{if(c==0||b==0)return`0 of ${c}`;",
+  "new_chunk": true
+ },
+ {
+  "text": "First page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "tor(){this.changes=new _.Ms;this.LFg=\"Items per page:\";this.yFe=\"Next page\";this.SKe=\"Previous page\";this.Lie=\"First page\";this.nze=\"Last page\";this.Zng=(a,b,c)=>{if(c==0||b==0)return`0 of ${c}`;c=Math.max(c,0);a*=b;retu",
+  "new_chunk": true
+ },
+ {
+  "text": "Last page",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": " _.Ms;this.LFg=\"Items per page:\";this.yFe=\"Next page\";this.SKe=\"Previous page\";this.Lie=\"First page\";this.nze=\"Last page\";this.Zng=(a,b,c)=>{if(c==0||b==0)return`0 of ${c}`;c=Math.max(c,0);a*=b;return`${a+1} \\u2013 ${a<c",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Bt||!a.OCa()?a.Bt.vAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "[\"PieChart\",\"Pie chart\"]]),Nxk=function(a){var b;return(b=a.Bt.title)!=null?b:\"\"},Oxk=function(a){return\"vAxis\"in a.Bt||!a.OCa()?a.Bt.vAxis.title:\"\"},Pxk=function(a){return\"hAxis\"in a.Bt||!a.OCa()?a.Bt.hAxis.title:\"\"},Rx",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.Bt||!a.OCa()?a.Bt.hAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.xSEpcC_s2bU.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.nGiXLWsNsXM.L.B1.O/am=xDcCoMQ-YNP-PrjBP4EOHJCAIiAnCEIXAAAAACAE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,GzXWE,HbEaCf,HwBxOc,ItLZxc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,TMsYl,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,eK0zfd,fSXoCf,k9O9ef,mlMvR,o2mxrc,v9r4Te,vLefie,wqvyKc,xy0Mif/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqQ6Mn8OavHjL9GxL1f3xp9swU6gA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ")!=null?b:\"\"},Oxk=function(a){return\"vAxis\"in a.Bt||!a.OCa()?a.Bt.vAxis.title:\"\"},Pxk=function(a){return\"hAxis\"in a.Bt||!a.OCa()?a.Bt.hAxis.title:\"\"},Rxk=function(a){google&& (new Promise(b=>{_.wub(Lxk,{}).then(()=>{goog",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,onClick:D,ref:y,rel:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/UsagePageSurface.js",
+  "ctx": "||t[37]!==I||t[38]!==z?(q=z?(0,$.jsxs)(v,{action:I?(0,$.jsx)(R,{as:`a`,href:I.url,icon:I.leadingPlusIcon?`plus`:void 0,onClick:D,ref:y,rel:`noopener noreferrer`,size:`s`,target:`_blank`,variant:`tonal`,children:I.label})",
+  "new_chunk": false
+ },
+ {
+  "text": ",padding:c?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/AvatarWhoCanUseSurface.js",
+  "ctx": "jsx)(ee,{likenessUuid:V,variant:`emptyState`,viewer:g.sharing}):null]}):(0,M.jsx)(p,{direction:`column`,gap:`m`,padding:c?void 0:`m`,role:`list`,width:`100%`,children:e.map(e=>{let t=e.recipientObfuscatedGaiaId??``,r=O==",
+  "new_chunk": false
+ },
+ {
+  "text": "TanStack navigation blockers are not supported in React islands.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/mountIsland.js",
+  "ctx": "anGoBack(){return r.state.__TSR_index>0},createHref(t){return e.createHref(ck(t,n.href))},block(){throw Error(`TanStack navigation blockers are not supported in React islands.`)},_getBlockers(){return[]},flush(){},destro",
+  "new_chunk": false
+ },
+ {
+  "text": ",background:n.isGenerating?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/WorldsPageSurface.js",
+  "ctx": "er`,position:`absolute`,src:n.imageUrl,sx:$.heroCoverImage,width:`full`}):(0,Q.jsx)(w,{align:`center`,as:`span`,background:n.isGenerating?void 0:`surface-container-highest`,height:`full`,justify:`center`,sx:n.isGeneratin",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-vega-quote-text\":D||void 0,\"data-vega-request-id\":o,maxWidth:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "children:[(0,$.jsx)(k,{borderRadius:`xl-increased`,\"data-vega-bubble-id\":a,\"data-vega-quote-highlight\":_?`true`:void 0,\"data-vega-quote-text\":D||void 0,\"data-vega-request-id\":o,maxWidth:`100%`,minWidth:0,sx:_?$p.quoteHig",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,maxWidth:Gu,minWidth:0,width:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "):null,B&&G?(0,$.jsx)(O,{alignSelf:`flex-start`,as:`child`,children:(0,$.jsx)(k,{animate:x?`fast-shared-axis-y`:void 0,maxWidth:Gu,minWidth:0,width:`full`,children:(0,$.jsx)(ct,{conversationId:C.currentTurnIdentifiers?.c",
+  "new_chunk": false
+ },
+ {
+  "text": ",ref:be,tabIndex:f?-1:void 0,type:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "{end:`m`,start:`l`,vertical:S?`xs`:`s`},children:(0,$.jsxs)(N,{...n,\"data-testid\":`vega-thinking-header-toggle`,ref:be,tabIndex:f?-1:void 0,type:`button`,children:[We,He,(0,$.jsx)(k,{animate:`fade`,as:`span`,display:`fle",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,justify:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "{collapsedDirection:`end`,expanded:t,size:`m`})})]})}):(0,$.jsxs)(A,{align:`center`,direction:`row`,gap:We?`xs`:void 0,justify:`center`,minHeight:S?40:48,padding:{horizontal:`l`,vertical:S?`xs`:`s`},children:[We,He]})},t",
+  "new_chunk": false
+ },
+ {
+  "text": ",In=yt?Tt.clearQuotes:void 0,Ln=yt?Tt.dismissCapAlert:void 0,Rn=yt?Tt.removeQuoteAt:void 0,zn=yt?Tt.restoreFromHighlightToAskContext:void 0,Bn=yt?Tt.restoreQuoteAt:void 0,Vn=X?void 0:B,Hn=yt?Tt.quotes:void 0,Un=yt?Tt.capAlertVisible:!1,Wn=It?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatLayoutSurface.js",
+  "ctx": "n=D?`hidden`:`visible`,Pn=s.routeZeroStateFeatureMode!==void 0||s.deeplinkFeatureMode!==void 0,Fn=`${Kt}:${Ee}`,In=yt?Tt.clearQuotes:void 0,Ln=yt?Tt.dismissCapAlert:void 0,Rn=yt?Tt.removeQuoteAt:void 0,zn=yt?Tt.restoreFr",
+  "new_chunk": false
+ },
+ {
+  "text": "normalizeModeFeatureQuota_banner",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/chatScrollport.js",
+  "ctx": "zeModeFeatureQuota_response`};x.hash=`b5b7c082c99adcc811851cc04e6272f9`;var S={kind:`InlineDataFragment`,name:`normalizeModeFeatureQuota_banner`};S.hash=`d82338de8dd6c143ae9ca4e19537e4d3`,c();var C=s(),w=S,T=x,ie=b,E={di",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLines:O?void 0:j?2:3,sx:j?H.previewDarkenName:!O&&H.fileName,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/chatScrollport.js",
+  "ctx": "A||t[51]!==O||t[52]!==k||t[53]!==d||t[54]!==ae||t[55]!==j||t[56]!==M?(Z=!k&&!M&&(!A||j)&&(0,B.jsx)(_,{as:`span`,maxLines:O?void 0:j?2:3,sx:j?H.previewDarkenName:!O&&H.fileName,variant:`body-small`,wrap:O?`truncate`:void ",
+  "new_chunk": false
+ },
+ {
+  "text": "apps_upsell_shared_recommendation_RecommendationSurface",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeminiQuotaBanner.js",
+  "ctx": "nkedField`,name:`recommendationsForSurfaceResponses`,plural:!0,selections:[{alias:null,args:null,concreteType:`apps_upsell_shared_recommendation_RecommendationSurface`,kind:`LinkedField`,name:`recommendationSurface`,plur",
+  "new_chunk": false
+ },
+ {
+  "text": "apps_upsell_shared_recommendation_CommonRecommendation",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeminiQuotaBanner.js",
+  "ctx": "mendation`,kind:`LinkedField`,name:`recommendations`,plural:!0,selections:[{alias:null,args:null,concreteType:`apps_upsell_shared_recommendation_CommonRecommendation`,kind:`LinkedField`,name:`commonRecommendation`,plural",
+  "new_chunk": false
+ },
+ {
+  "text": "apps_upsell_shared_recommendation_templates_Nudge",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeminiQuotaBanner.js",
+  "ctx": "tion`,kind:`LinkedField`,name:`commonRecommendation`,plural:!1,selections:[{alias:null,args:null,concreteType:`apps_upsell_shared_recommendation_templates_Nudge`,kind:`LinkedField`,name:`nudge`,plural:!1,selections:[{ali",
+  "new_chunk": false
+ },
+ {
+  "text": "apps_upsell_shared_recommendation_ActionBehaviorV2",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeminiQuotaBanner.js",
+  "ctx": "ion_templates_Nudge`,kind:`LinkedField`,name:`nudge`,plural:!1,selections:[{alias:null,args:null,concreteType:`apps_upsell_shared_recommendation_ActionBehaviorV2`,kind:`LinkedField`,name:`primaryAction`,plural:!1,selecti",
+  "new_chunk": false
+ },
+ {
+  "text": "apps_upsell_shared_recommendation_templates_ActionWithIcons",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeminiQuotaBanner.js",
+  "ctx": ":`primaryAction`,plural:!1,selections:n,storageKey:null}],storageKey:null},{alias:null,args:null,concreteType:`apps_upsell_shared_recommendation_templates_ActionWithIcons`,kind:`LinkedField`,name:`actionWithIcons`,plural",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,shadow:!0,sx:[$i.panel,g?$i.panelDownward:$i.panelUpward],zIndex:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/useInitialPromptAutoSubmit.js",
+  "ctx": "-v2-panel`,inset:{horizontal:`s`},onMouseDown:Zi,overflow:`hidden`,position:`absolute`,ref:y,role:p||m?`status`:void 0,shadow:!0,sx:[$i.panel,g?$i.panelDownward:$i.panelUpward],zIndex:`dropdown`,children:(0,Z.jsx)(M,{pad",
+  "new_chunk": false
+ },
+ {
+  "text": ",children:[L.rating===void 0?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/MapsNodeView.js",
+  "ctx": "id 0||L.priceLabel||L.category?(0,x.jsx)(c,{as:`p`,inlineIsolate:!0,margin:`none`,muted:!0,variant:`body-small`,children:[L.rating===void 0?void 0:`${L.rating.toFixed(1)} ★`,L.userRatingCount?`(${L.userRatingCount})`:voi",
+  "new_chunk": false
+ },
+ {
+  "text": ",sx:[P.rowText,l&&P.rowTextTruncate,d&&P.rowTextFirstTruncateWithSibling,s&&P.rowTextStrikeout,i?P.customColor(i):void 0],variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "oken?.toLowerCase(),s=o===`strikeout`,l=o===`truncate`,d=l&&n&&r===t;return(0,w.jsx)(_,{as:`span`,margin:`none`,sx:[P.rowText,l&&P.rowTextTruncate,d&&P.rowTextFirstTruncateWithSibling,s&&P.rowTextStrikeout,i?P.customColo",
+  "new_chunk": false
+ },
+ {
+  "text": "Google Sans Flex, Google Sans, Roboto, Arial, sans-serif",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/VegaLiteJsonFileNodeView.js",
+  "ctx": "`,`#0842A0`,`#062E6F`],ae=[`#B3261E`,`#E46962`,`#F2B8B5`,`#F9DEDC`,`#D3E3FD`,`#7CACF8`,`#1B6EF3`,`#0842A0`],Z=`Google Sans Flex, Google Sans, Roboto, Arial, sans-serif`,oe=[`layer`,`hconcat`,`vconcat`,`concat`,`facet`,`r",
+  "new_chunk": true
+ },
+ {
+  "text": ",b.style.height=O?u.latestReportedHeight===void 0?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SandboxFrame.js",
+  "ctx": "rame:b};if(I.current=x,b&&(b.title=B().title,b.style.border=`none`,b.style.display=`block`,b.style.width=`100%`,b.style.height=O?u.latestReportedHeight===void 0?`auto`:`${u.latestReportedHeight}px`:`100%`),b){if(yield ne",
+  "new_chunk": false
+ },
+ {
+  "text": "Can not convert",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "eturn t;if(Array.isArray(t))return this.fromArray(t);if(t.attrs)return new e([t],t.nodeSize);throw RangeError(`Can not convert `+t+` to a Fragment`+(t.nodesBetween?` (looks like multiple versions of prosemirror-model wer",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for Mark.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": ".name};for(let t in this.attrs){e.attrs=this.attrs;break}return e}static fromJSON(e,t){if(!t)throw RangeError(`Invalid input for Mark.fromJSON`);let n=e.marks[t.type];if(!n)throw RangeError(`There is no mark type ${t.typ",
+  "new_chunk": false
+ },
+ {
+  "text": "Removing non-flat range",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ybeChild(r),{index:o,offset:s}=e.findIndex(n);if(i==t||a.isText){if(s!=n&&!e.child(o).isText)throw RangeError(`Removing non-flat range`);return e.cut(0,t).append(e.cut(n))}if(r!=o)throw RangeError(`Removing non-flat rang",
+  "new_chunk": false
+ },
+ {
+  "text": "Inserted content deeper than insertion position",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "content,t-a-1,n);return s&&e.replaceChild(i,o.copy(s))}function pe(e,t,n){if(n.openStart>e.depth)throw new ue(`Inserted content deeper than insertion position`);if(e.depth-n.openStart!=t.depth-n.openEnd)throw new ue(`Inc",
+  "new_chunk": false
+ },
+ {
+  "text": "Inconsistent open depths",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": " ue(`Inserted content deeper than insertion position`);if(e.depth-n.openStart!=t.depth-n.openEnd)throw new ue(`Inconsistent open depths`);return me(e,t,n,0)}function me(e,t,n,r){let i=e.index(r),a=e.node(r);if(i==t.index",
+  "new_chunk": false
+ },
+ {
+  "text": "Cannot join",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "end:o}=Se(n,e);return ye(a,be(e,i,o,t,r))}}function he(e,t){if(!t.type.compatibleContent(e.type))throw new ue(`Cannot join `+t.type.name+` onto `+e.type.name)}function ge(e,t,n){let r=e.node(n);return he(r,t.node(n)),r}f",
+  "new_chunk": false
+ },
+ {
+  "text": "There is no position before the top-level node",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "solveDepth(e),this.start(e)+this.node(e).content.size}before(e){if(e=this.resolveDepth(e),!e)throw RangeError(`There is no position before the top-level node`);return e==this.depth+1?this.pos:this.path[e*3-1]}after(e){if",
+  "new_chunk": false
+ },
+ {
+  "text": "There is no position after the top-level node",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ode`);return e==this.depth+1?this.pos:this.path[e*3-1]}after(e){if(e=this.resolveDepth(e),!e)throw RangeError(`There is no position after the top-level node`);return e==this.depth+1?this.pos:this.path[e*3-1]+this.path[e*",
+  "new_chunk": false
+ },
+ {
+  "text": "No value supplied for attribute",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ll);for(let r in e){let i=t&&t[r];if(i===void 0){let t=e[r];if(t.hasDefault)i=t.default;else throw RangeError(`No value supplied for attribute `+r)}n[r]=i}return n}function qe(e,t,n,r){for(let r in t)if(!(r in e))throw R",
+  "new_chunk": false
+ },
+ {
+  "text": "NodeType.create can't construct text nodes",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "{return!e&&this.defaultAttrs?this.defaultAttrs:Ke(this.attrs,e)}create(e=null,t,n){if(this.isText)throw Error(`NodeType.create can't construct text nodes`);return new ke(this,this.computeAttrs(e),U.from(t),W.setFrom(n))}",
+  "new_chunk": false
+ },
+ {
+  "text": "Schema is missing its top node type ('",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "Object.create(null);t.forEach((t,i)=>r[t]=new e(t,n,i));let i=n.spec.topNode||`doc`;if(!r[i])throw RangeError(`Schema is missing its top node type ('`+i+`')`);if(!r.text)throw RangeError(`Every schema needs a 'text' type",
+  "new_chunk": false
+ },
+ {
+  "text": "Content hole not allowed in a leaf node spec",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "{let{dom:n,contentDOM:r}=Ct(yt(t),this.nodes[e.type.name](e),null,e.attrs);if(r){if(e.isLeaf)throw RangeError(`Content hole not allowed in a leaf node spec`);this.serializeFragment(e.content,t,r)}return n}serializeNode(e",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid array passed to renderSpec",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ull)return{dom:t};if(t.dom&&t.dom.nodeType!=null)return t;let i=t[0],a;if(typeof i!=`string`)throw RangeError(`Invalid array passed to renderSpec`);if(r&&(a=xt(r))&&a.indexOf(t)>-1)throw RangeError(`Using an array from a",
+  "new_chunk": false
+ },
+ {
+  "text": "Using an array from an attribute object as a DOM spec. This may be an attempted cross site scripting attack.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ing`)throw RangeError(`Invalid array passed to renderSpec`);if(r&&(a=xt(r))&&a.indexOf(t)>-1)throw RangeError(`Using an array from an attribute object as a DOM spec. This may be an attempted cross site scripting attack.`",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for Step.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "=class{getMap(){return Pt.empty}merge(e){return null}static fromJSON(e,t){if(!t||!t.stepType)throw RangeError(`Invalid input for Step.fromJSON`);let n=It[t.stepType];if(!n)throw RangeError(`No step type ${t.stepType} def",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for AddMarkStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "this.from,to:this.to}}static fromJSON(t,n){if(typeof n.from!=`number`||typeof n.to!=`number`)throw RangeError(`Invalid input for AddMarkStep.fromJSON`);return new e(n.from,n.to,t.markFromJSON(n.mark))}};Lt.jsonID(`addMar",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for RemoveMarkStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "this.from,to:this.to}}static fromJSON(t,n){if(typeof n.from!=`number`||typeof n.to!=`number`)throw RangeError(`Invalid input for RemoveMarkStep.fromJSON`);return new e(n.from,n.to,t.markFromJSON(n.mark))}};Lt.jsonID(`rem",
+  "new_chunk": false
+ },
+ {
+  "text": "No node at mark step's position",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "nds Lt{constructor(e,t){super(),this.pos=e,this.mark=t}apply(e){let t=e.nodeAt(this.pos);if(!t)return Rt.fail(`No node at mark step's position`);let n=t.type.create(t.attrs,null,this.mark.addToSet(t.marks));return Rt.fro",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for AddNodeMarkStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "deMark`,pos:this.pos,mark:this.mark.toJSON()}}static fromJSON(t,n){if(typeof n.pos!=`number`)throw RangeError(`Invalid input for AddNodeMarkStep.fromJSON`);return new e(n.pos,t.markFromJSON(n.mark))}};Lt.jsonID(`addNodeM",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for RemoveNodeMarkStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "deMark`,pos:this.pos,mark:this.mark.toJSON()}}static fromJSON(t,n){if(typeof n.pos!=`number`)throw RangeError(`Invalid input for RemoveNodeMarkStep.fromJSON`);return new e(n.pos,t.markFromJSON(n.mark))}};Lt.jsonID(`remov",
+  "new_chunk": false
+ },
+ {
+  "text": "Structure replace would overwrite content",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "rom=e,this.to=t,this.slice=n,this.structure=r}apply(e){return this.structure&&Kt(e,this.from,this.to)?Rt.fail(`Structure replace would overwrite content`):Rt.fromReplace(e,this.from,this.to,this.slice)}getMap(){return ne",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for ReplaceStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "e&&(e.structure=!0),e}static fromJSON(t,n){if(typeof n.from!=`number`||typeof n.to!=`number`)throw RangeError(`Invalid input for ReplaceStep.fromJSON`);return new e(n.from,n.to,G.fromJSON(t,n.slice),!!n.structure)}};Lt.j",
+  "new_chunk": false
+ },
+ {
+  "text": "Structure gap-replace would overwrite content",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ructure=o}apply(e){if(this.structure&&(Kt(e,this.from,this.gapFrom)||Kt(e,this.gapTo,this.to)))return Rt.fail(`Structure gap-replace would overwrite content`);let t=e.slice(this.gapFrom,this.gapTo);if(t.openStart||t.open",
+  "new_chunk": false
+ },
+ {
+  "text": "Gap is not a flat range",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ace would overwrite content`);let t=e.slice(this.gapFrom,this.gapTo);if(t.openStart||t.openEnd)return Rt.fail(`Gap is not a flat range`);let n=this.slice.insertAt(this.insert,t.content);return n?Rt.fromReplace(e,this.fro",
+  "new_chunk": false
+ },
+ {
+  "text": "Content does not fit in gap",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "nge`);let n=this.slice.insertAt(this.insert,t.content);return n?Rt.fromReplace(e,this.from,this.to,n):Rt.fail(`Content does not fit in gap`)}getMap(){return new Pt([this.from,this.gapFrom-this.from,this.insert,this.gapTo",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for ReplaceAroundStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "o!=`number`||typeof n.gapFrom!=`number`||typeof n.gapTo!=`number`||typeof n.insert!=`number`)throw RangeError(`Invalid input for ReplaceAroundStep.fromJSON`);return new e(n.from,n.to,n.gapFrom,n.gapTo,G.fromJSON(t,n.slic",
+  "new_chunk": false
+ },
+ {
+  "text": "Wrapper type given to Transform.wrap does not form valid content of its parent wrapper",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ngth-1;e>=0;e--){if(r.size){let t=n[e].type.contentMatch.matchFragment(r);if(!t||!t.validEnd)throw RangeError(`Wrapper type given to Transform.wrap does not form valid content of its parent wrapper`)}r=U.from(n[e].type.c",
+  "new_chunk": false
+ },
+ {
+  "text": "Type given to setBlockType should be a textblock",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "nd;e.step(new Gt(i,a,i,a,new G(r,0,0),n.length,!0))}function an(e,t,n,r,i){if(!r.isTextblock)throw RangeError(`Type given to setBlockType should be a textblock`);let a=e.steps.length;e.doc.nodesBetween(t,n,(t,n)=>{let o=",
+  "new_chunk": false
+ },
+ {
+  "text": "No node at attribute step's position",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "tor(e,t,n){super(),this.pos=e,this.attr=t,this.value=n}apply(e){let t=e.nodeAt(this.pos);if(!t)return Rt.fail(`No node at attribute step's position`);let n=Object.create(null);for(let e in t.attrs)n[e]=t.attrs[e];n[this.",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for AttrStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "tr,value:this.value}}static fromJSON(t,n){if(typeof n.pos!=`number`||typeof n.attr!=`string`)throw RangeError(`Invalid input for AttrStep.fromJSON`);return new e(n.pos,n.attr,n.value)}};Lt.jsonID(`attr`,Nn);var Pn=class ",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for DocAttrStep.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "e:`docAttr`,attr:this.attr,value:this.value}}static fromJSON(t,n){if(typeof n.attr!=`string`)throw RangeError(`Invalid input for DocAttrStep.fromJSON`);return new e(n.attr,n.value)}};Lt.jsonID(`docAttr`,Pn);var Fn=class ",
+  "new_chunk": false
+ },
+ {
+  "text": "No node at position",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "k(e,t){return this.step(new Ht(e,t)),this}removeNodeMark(e,t){let n=this.doc.nodeAt(e);if(!n)throw RangeError(`No node at position `+e);if(t instanceof W)t.isInSet(n.marks)&&this.step(new Ut(e,t));else{let r=n.marks,i,a=",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for Selection.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "return Gn(e,e,e.content.size,e.childCount,-1)||new Un(e)}static fromJSON(e,t){if(!t||!t.type)throw RangeError(`Invalid input for Selection.fromJSON`);let n=Ln[t.type];if(!n)throw RangeError(`No selection type ${t.type} d",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for TextSelection.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "r,head:this.head}}static fromJSON(t,n){if(typeof n.anchor!=`number`||typeof n.head!=`number`)throw RangeError(`Invalid input for TextSelection.fromJSON`);return new e(t.resolve(n.anchor),t.resolve(n.head))}static create(",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for NodeSelection.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "}}getBookmark(){return new Hn(this.anchor)}static fromJSON(t,n){if(typeof n.anchor!=`number`)throw RangeError(`Invalid input for NodeSelection.fromJSON`);return new e(t.resolve(n.anchor))}static create(t,n){return new e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Selection passed to setSelection must point at the current document",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "urSelectionFor=this.steps.length),this.curSelection}setSelection(e){if(e.$from.doc!=this.doc)throw RangeError(`Selection passed to setSelection must point at the current document`);return this.curSelection=e,this.curSele",
+  "new_chunk": false
+ },
+ {
+  "text": "Adding different instances of a keyed plugin (",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "yKey=Object.create(null),this.fields=$n.slice(),t&&t.forEach(e=>{if(this.pluginsByKey[e.key])throw RangeError(`Adding different instances of a keyed plugin (`+e.key+`)`);this.plugins.push(e),this.pluginsByKey[e.key]=e,e.",
+  "new_chunk": false
+ },
+ {
+  "text": "Applying a mismatched transaction",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": ",n:t.length})}}if(!i)return{state:n,transactions:t}}}applyInner(t){if(!t.before.eq(this.doc))throw RangeError(`Applying a mismatched transaction`);let n=new e(this.config),r=this.config.fields;for(let e=0;e<r.length;e++)",
+  "new_chunk": false
+ },
+ {
+  "text": "The JSON fields `doc` and `selection` are reserved",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "dMarks.map(e=>e.toJSON())),e&&typeof e==`object`)for(let n in e){if(n==`doc`||n==`selection`)throw RangeError(\"The JSON fields `doc` and `selection` are reserved\");let r=e[n],i=r.spec.state;i&&i.toJSON&&(t[n]=i.toJSON.ca",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid input for EditorState.fromJSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "state;i&&i.toJSON&&(t[n]=i.toJSON.call(r,this[r.key]))}return t}static fromJSON(t,n,r){if(!n)throw RangeError(`Invalid input for EditorState.fromJSON`);if(!t.schema)throw RangeError(`Required config field 'schema' missin",
+  "new_chunk": false
+ },
+ {
+  "text": "Required config field 'schema' missing",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "romJSON(t,n,r){if(!n)throw RangeError(`Invalid input for EditorState.fromJSON`);if(!t.schema)throw RangeError(`Required config field 'schema' missing`);let i=new er(t.schema,t.plugins),a=new e(i);return i.fields.forEach(",
+  "new_chunk": false
+ },
+ {
+  "text": "Wrong `markdown-it` preset \"",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "is.options,e),this},Rc.prototype.configure=function(e){let t=this;if(xa(e)){let t=e;if(e=jc[t],!e)throw Error('Wrong `markdown-it` preset \"'+t+`\", check name`)}if(!e)throw Error(\"Wrong `markdown-it` preset, can't be empt",
+  "new_chunk": false
+ },
+ {
+  "text": "Wrong `markdown-it` preset, can't be empty",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "(xa(e)){let t=e;if(e=jc[t],!e)throw Error('Wrong `markdown-it` preset \"'+t+`\", check name`)}if(!e)throw Error(\"Wrong `markdown-it` preset, can't be empty\");return e.options&&t.set(e.options),e.components&&Object.keys(e.c",
+  "new_chunk": false
+ },
+ {
+  "text": "MarkdownIt. Failed to enable unknown rule(s):",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "is.inline.ruler2.enable(e,!0));let r=e.filter(function(e){return n.indexOf(e)<0});if(r.length&&!t)throw Error(`MarkdownIt. Failed to enable unknown rule(s): `+r);return this},Rc.prototype.disable=function(e,t){let n=[];A",
+  "new_chunk": false
+ },
+ {
+  "text": "MarkdownIt. Failed to disable unknown rule(s):",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "s.inline.ruler2.disable(e,!0));let r=e.filter(function(e){return n.indexOf(e)<0});if(r.length&&!t)throw Error(`MarkdownIt. Failed to disable unknown rule(s): `+r);return this},Rc.prototype.use=function(e){let t=[this].co",
+  "new_chunk": false
+ },
+ {
+  "text": "Input data should be a String",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ll(arguments,1));return e.apply(e,t),this},Rc.prototype.parse=function(e,t){if(typeof e!=`string`)throw Error(`Input data should be a String`);let n=new this.core.State(e,this,t);return this.core.process(n),n.tokens},Rc.",
+  "new_chunk": false
+ },
+ {
+  "text": "Token type `",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "t.marks)}parseTokens(e){for(let t=0;t<e.length;t++){let n=e[t],r=this.tokenHandlers[n.type];if(!r)throw Error(\"Token type `\"+n.type+\"` not supported by Markdown parser\");r(this,n,e,t)}}addNode(e,t,n){let r=this.top(),i=e",
+  "new_chunk": false
+ },
+ {
+  "text": "doc-math-preview",
+  "kind": "key",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "k?`doc-math-block`:`doc-math-inline`;let a=document.createElement(this.isBlock?`div`:`span`);a.dataset.testid=`doc-math-preview`,a.className={0:{className:`xt0psk2`},1:{className:`x1lliihq xjwf9q1 xw2csxc`}}[!!this.isBlo",
+  "new_chunk": false
+ },
+ {
+  "text": "No node after pos",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "terPos(e){let{node:t,offset:n}=this.domFromPos(e,0);if(t.nodeType!=1||n==t.childNodes.length)throw RangeError(`No node after pos `+e);return t.childNodes[n]}setSelection(e,t,n,r=!1){let i=Math.min(e,t),a=Math.max(e,t);fo",
+  "new_chunk": false
+ },
+ {
+  "text": "Text must be rendered as a DOM text node",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "d=l&&l.contentDOM;if(n.isText){if(!u)u=document.createTextNode(n.text);else if(u.nodeType!=3)throw RangeError(`Text must be rendered as a DOM text node`)}else if(!u){let e=_t.renderSpec(document,n.type.spec.toDOM(n),null",
+  "new_chunk": false
+ },
+ {
+  "text": "ProseMirror expects the CSS white-space property to be set, preferably to 'pre-wrap'. It is recommended to load style/prosemirror.css from the prosemirror-view package.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": "ine`].indexOf(getComputedStyle(e.dom).whiteSpace)!==-1)){if(e.requiresGeckoHackNode=ku,tm)return;console.warn(`ProseMirror expects the CSS white-space property to be set, preferably to 'pre-wrap'. It is recommended to lo",
+  "new_chunk": false
+ },
+ {
+  "text": "DOM position not inside the editor",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDocContent.js",
+  "ctx": ");return t?t.nodeDOM:null}posAtDOM(e,t,n=-1){let r=this.docView.posFromDOM(e,t,n);if(r==null)throw RangeError(`DOM position not inside the editor`);return r}endOfTextblock(e,t){return _d(this,t||this.state,e)}pasteHTML(e",
+  "new_chunk": false
+ },
+ {
+  "text": ",sx:d&&!o?Wt.clamped:void 0,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GmailActionCard.js",
+  "ctx": "0]!==o||t[61]!==n.bodyText||t[62]!==n.htmlBody?(R=n.htmlBody?(0,X.jsx)(D,{as:`div`,id:l,overflowWrap:`anywhere`,sx:d&&!o?Wt.clamped:void 0,variant:`body-medium`,children:(0,X.jsx)(Lt,{html:n.htmlBody})}):n.bodyText?(0,X.",
+  "new_chunk": false
+ },
+ {
+  "text": ",disabled:Z,download:Y,href:Z?void 0:X,icon:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/MusicGenerationOutputNodeView.js",
+  "ctx": "ranslucent`})}):(0,g.jsx)(re,{\"aria-disabled\":Z||void 0,\"aria-label\":qt,as:`a`,\"data-test-id\":`download-button`,disabled:Z,download:Y,href:Z?void 0:X,icon:`download`,onClick:e=>{if(Z){e.preventDefault();return}u&&(e.prev",
+  "new_chunk": false
+ },
+ {
+  "text": ",tabIndex:Z?-1:void 0,target:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/MusicGenerationOutputNodeView.js",
+  "ctx": "eturn}u&&(e.preventDefault(),u(!h&&X&&(X===T||X===M)?`video`:`audio`,X,Tt))},rel:`noopener noreferrer`,size:`m`,tabIndex:Z?-1:void 0,target:`_blank`,variant:`translucent`})),t[161]=O,t[162]=qt,t[163]=Tt,t[164]=h,t[165]=Z",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sx:[W.cell,n?W.headerCell:W.bodyCell,b&&W.twoColumnCell,s&&W.firstCell,c&&W.lastCell],textAlign:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ListNodeView.js",
+  "ctx": ";return(0,V.jsxs)(p,{as:n?`th`:`td`,colSpan:t.colspan,overflowWrap:`break-word`,rowSpan:t.rowspan,scope:n?`col`:void 0,sx:[W.cell,n?W.headerCell:W.bodyCell,b&&W.twoColumnCell,s&&W.firstCell,c&&W.lastCell],textAlign:`star",
+  "new_chunk": false
+ },
+ {
+  "text": "City Water Overview",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ImmersiveWorldLightbox.js",
+  "ctx": "y_water_[a-z0-9]*?_?(?:\\d+_)+([a-z0-9_]+)\\b/gi,(e,t)=>`\"${Gt(t)}\"`).replace(/\\bn0_city_water_[a-z0-9_]+\\b/gi,`\"City Water Overview\"`).replace(/\\bn0_\\d+_stop_(\\d+)\\b/gi,`\"Stop $1\"`).replace(/\\s{2,}/g,` `).trim(),/^[a-z]/.",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,N=y&&u?u.snapMaxHeightPx:void 0,P=y?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ModelResponseContentView.js",
+  "ctx": "t[22]=y,t[23]=D,t[24]=O):O=t[24],(0,Y.useEffect)(E,O);let k=b,A=y?`pointer`:void 0,j=y?`true`:void 0,M=v?`true`:void 0,N=y&&u?u.snapMaxHeightPx:void 0,P=y?`hidden`:void 0,ee=y&&x?At.collapsedMask(x):void 0,F;return t[25]",
+  "new_chunk": false
+ },
+ {
+  "text": "Failed to parse JSON",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatTurnDebugInfo.js",
+  "ctx": "ogle\\.com\\/)\\S*/;function k(e){let t=null,n=e.systemHealthMetricsJson;if(n)try{t=JSON.parse(n)}catch{t={error:`Failed to parse JSON`,raw:n}}let r=e.sherlogUrl||e.debugText&&O.exec(e.debugText)?.[0]||``;return{rawModelRes",
+  "new_chunk": false
+ },
+ {
+  "text": ",grow:g?1:void 0,justify:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/VegaActivityItemRow.js",
+  "ctx": "]!==a||t[19]!==n?(T=a?(0,w.jsx)(l,{align:`center`,as:`child`,borderRadius:`l-increased`,direction:`row`,gap:`m`,grow:g?1:void 0,justify:`space-between`,minWidth:g?0:void 0,padding:`s`,textAlign:`start`,width:g?void 0:`10",
+  "new_chunk": true
+ },
+ {
+  "text": ",minWidth:g?0:void 0,padding:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/VegaActivityItemRow.js",
+  "ctx": ":`center`,as:`child`,borderRadius:`l-increased`,direction:`row`,gap:`m`,grow:g?1:void 0,justify:`space-between`,minWidth:g?0:void 0,padding:`s`,textAlign:`start`,width:g?void 0:`100%`,children:(0,w.jsx)(d,{as:`button`,\"d",
+  "new_chunk": true
+ },
+ {
+  "text": ",width:g?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/VegaActivityItemRow.js",
+  "ctx": "rection:`row`,gap:`m`,grow:g?1:void 0,justify:`space-between`,minWidth:g?0:void 0,padding:`s`,textAlign:`start`,width:g?void 0:`100%`,children:(0,w.jsx)(d,{as:`button`,\"data-testid\":n,onClick:a,type:`button`,children:C})",
+  "new_chunk": true
+ }
+]

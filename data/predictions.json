@@ -222,7 +222,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-05",
@@ -233,6 +233,11 @@
     "date": "2026-11-06",
     "confidence": 0.55,
     "note": "New UI strings show a Private/Shared visibility picker and an 'Only you' collaborators tooltip, which point to the feature being built."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.6,
+    "note": "Private-copy and lost-access states are built."
    }
   ],
   "evidence": [
@@ -258,6 +263,30 @@
     "text": "Only you",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Duplicated to My documents",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Only you can see the copy",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "You no longer have access to this document",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Go to Shared with me",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -837,6 +866,11 @@
     "date": "2026-11-12",
     "confidence": 0.5,
     "note": "Quiz UI strings ('New quiz', 'Not answered') add to the existing results/report/review quiz flow, which suggests a fuller quiz experience in the build."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.5,
+    "note": "New quiz result copy covers per-question feedback: correct and incorrect answers, the user's own answer, and encouraging messages. This supports a polished quiz review UI."
    }
   ],
   "evidence": [
@@ -910,6 +944,24 @@
     "text": "Not answered",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": true
+   },
+   {
+    "text": "Correct answer",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": true
+   },
+   {
+    "text": "Your answer",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": true
+   },
+   {
+    "text": "Right answer!",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": true
    }
   ],
@@ -2304,12 +2356,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 60,
   "deadline": "2027-01-06",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.55,
+    "note": "Workspace GitHub settings now has a 'Branch naming' section."
    }
   ],
   "evidence": [
@@ -2341,6 +2398,12 @@
     "text": "Save format",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Set the format for branch names copied from Linear issues across your workspace",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -2604,7 +2667,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
@@ -2625,6 +2688,11 @@
     "date": "2026-11-13",
     "confidence": 0.6,
     "note": "There is now a setup flow for installing local agents (macOS and Linux) that run in the background and connect to Linear."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.5,
+    "note": "Local agent connection and sign-in management found in the desktop app."
    }
   ],
   "evidence": [
@@ -2686,6 +2754,24 @@
     "text": "Local agents connected",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect a local agent",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Update the desktop app to sign in local agents",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "No local agents are turned on",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -3231,7 +3317,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-09",
@@ -3242,6 +3328,11 @@
     "date": "2026-11-14",
     "confidence": 0.45,
     "note": "A 'Triage autopilot' menu control with assessing and fixing phases appeared in the UI."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.6,
+    "note": "New triage card states (Assessing/Fixing/error), a setup entry and a 'View investigation' action all support the feature."
    }
   ],
   "evidence": [
@@ -3267,6 +3358,24 @@
     "text": "Triage autopilot",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Set up triage autopilot…",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Error while triaging the issue",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn’t finish the fix",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -3937,6 +4046,11 @@
     "date": "2026-11-13",
     "confidence": 0.55,
     "note": "Commands for turning autopilot on and off and an agent-guided setup flow now exist."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.55,
+    "note": "Settings UI with an enable toggle, capabilities and configure action found."
    }
   ],
   "evidence": [
@@ -4004,6 +4118,18 @@
     "text": "Set up the project's recurring work",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Let project autopilot keep this project coordinated and up to date",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Configure project autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -4702,7 +4828,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.6,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-11",
@@ -4718,6 +4844,11 @@
     "date": "2026-11-16",
     "confidence": 0.6,
     "note": "A breadcrumb toggle for pages shows nested document navigation is being polished."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.55,
+    "note": "Page-creation action and parent-document filter option found."
    }
   ],
   "evidence": [
@@ -4761,6 +4892,18 @@
     "text": "Shows the live parents of a page in the header breadcrumb instead of the stored navigation trail.",
     "kind": "copy",
     "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Add a page inside this document",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Show non-matching parent documents",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -5044,12 +5187,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.3,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "The code shows a likenessUuid empty state with sharing and a list of recipients identified by obfuscated Gaia ID. This points to a built sharing management UI."
    }
   ],
   "evidence": [
@@ -5063,6 +5211,12 @@
     "text": "Pending avatar invitations",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": ",padding:c?void 0:",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -5091,7 +5245,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
@@ -5102,6 +5256,11 @@
     "date": "2026-11-14",
     "confidence": 0.45,
     "note": "The code around these fragments shows new UI test ids 'vega-consent-bubble' and 'vega-response-card', so Vega has real consent and response UI in the client."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "Vega chat bubbles now carry quote-highlight and request-id attributes, and there is a thinking-header toggle. This suggests the Vega UI is being built out."
    }
   ],
   "evidence": [
@@ -5127,6 +5286,12 @@
     "text": ":void 0,maxWidth:ap,minWidth:0,width:",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,\"data-vega-quote-text\":D||void 0,\"data-vega-request-id\":o,maxWidth:",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -5453,7 +5618,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.6,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-12",
@@ -5464,6 +5629,11 @@
     "date": "2026-11-13",
     "confidence": 0.6,
     "note": "Run-trigger copy and a feature gate for dry runs now exist."
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.55,
+    "note": "Dry-run handling with unsaved changes is implemented."
    }
   ],
   "evidence": [
@@ -5489,6 +5659,18 @@
     "text": "Dry runs are not enabled",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Save or discard your changes before a dry run",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Save and run loop",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -6224,12 +6406,17 @@
   "first_evidence": "2026-11-14",
   "window_days": 75,
   "deadline": "2027-01-28",
-  "confidence": 0.2,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-14",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.35,
+    "note": "A new offline-specific snackbar message gives the offline state its own UI. This is weak support for the queued-send behaviour."
    }
   ],
   "evidence": [
@@ -6243,6 +6430,12 @@
     "text": "Unsend Pending Request",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": true
+   },
+   {
+    "text": "You're offline. Check internet connection. Try again",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": true
    }
   ],
@@ -6945,12 +7138,17 @@
   "first_evidence": "2026-11-16",
   "window_days": 120,
   "deadline": "2027-03-16",
-  "confidence": 0.35,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-16",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-17",
+    "confidence": 0.6,
+    "note": "Editing UI and type-change safeguards are built."
    }
   ],
   "evidence": [
@@ -6988,6 +7186,30 @@
     "text": "Choose people",
     "kind": "copy",
     "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Change label value",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Edit label values…",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Can’t change the value type",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Add a value to this label",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
     "new_chunk": false
    }
   ],
@@ -7320,6 +7542,910 @@
    "rollout_guess": "Inferred: it is currently behind an internal toggle and will be offered to migrating customers.",
    "open_questions": [
     "Is it visible in public release notes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-17-menu-for-skills-connectors-and-more-in-t",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "@ menu for skills, connectors and more in the composer",
+  "one_liner": "Users type @ in the prompt box, instead of /, to reach their skills, connectors and other tools from one searchable menu.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 45,
+  "deadline": "2027-01-01",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Type to search for more",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Skills, connectors and tools are reached through separate triggers and menus, which makes them hard to find.",
+   "users": "Gemini web users who use skills, connectors or extensions.",
+   "what": "The composer's '/' command trigger becomes '@'. It opens one searchable menu of skills, connectors and more. A banner explains the change: \"/ is now @. Access your skills, connectors and more from a single place.\"",
+   "how_it_appears": "A popup in the prompt composer with a search field. Its hint reads 'Type to search for more', and a one-time notice announces the switch from / to @.",
+   "rollout_guess": "Likely a gradual rollout to signed-in web users alongside the Skills work.",
+   "open_questions": [
+    "Is this already live for some users, with only the migration notice new?",
+    "Does the @ menu also cover Gems and apps?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-17-highlight-to-ask-quote-selected-text-int",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Highlight to ask (quote selected text into the composer)",
+  "one_liner": "Users select text in a response and quote it into the composer, with a cap on the number of quotes and the option to remove or restore them.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": ",In=yt?Tt.clearQuotes:void 0,Ln=yt?Tt.dismissCapAlert:void 0,Rn=yt?Tt.removeQuoteAt:void 0,zn=yt?Tt.restoreFromHighlightToAskContext:void 0,Bn=yt?Tt.restoreQuoteAt:void 0,Vn=X?void 0:B,Hn=yt?Tt.quotes:void 0,Un=yt?Tt.capAlertVisible:!1,Wn=It?",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Asking a follow-up about one passage of a long answer means copying and pasting it by hand.",
+   "users": "All Gemini chat users.",
+   "what": "Users highlight part of a response and ask about it. The highlight becomes a quote chip in the composer. Several quotes can be added up to a cap, and each can be removed or restored.",
+   "how_it_appears": "Quote chips above the composer input. A cap alert appears when too many quotes are added. Vega chat bubbles also carry quote highlight attributes.",
+   "rollout_guess": "Possibly already in limited testing, so a gradual rollout is likely.",
+   "open_questions": [
+    "Is this part of the Vega surface only, or the main chat too?",
+    "What is the maximum number of quotes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-17-file-pages-upload-files-as-pages-from-th",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "File pages: upload files as pages from the sidebar",
+  "one_liner": "Add a file from the sidebar's quick-add button so it becomes its own page, and move it into another page or convert it back to an attachment.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 75,
+  "deadline": "2027-01-31",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Couldn’t create the file. Please try again.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Finish uploading the file before moving it into a page.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not convert the file page to an attachment.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Folder uploads aren’t supported. Choose individual files instead.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Files in Notion only exist as attachments inside pages, so users cannot keep a standalone file in the sidebar or workspace tree.",
+   "users": "All workspace members who upload PDFs, documents and other files.",
+   "what": "A 'File' page type created from the sidebar create menu. The user picks individual files (folders are rejected) and each becomes a page. A file page can be moved into another page, which waits for the upload to finish, or converted into an attachment block.",
+   "how_it_appears": "Sidebar quick-add menu with a 'File' option (quickAddFilePage), the move-to menu, and a convert-to-attachment action.",
+   "rollout_guess": "Likely a gradual rollout to all plans, possibly announced alongside file or AI-search improvements.",
+   "open_questions": [
+    "Are file pages searchable or readable by Notion AI?",
+    "Which plans or file types are supported, and what are the size limits?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-17-3-day-dashboard-view-feature-trial",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "3-day Dashboard view feature trial",
+  "one_liner": "Workspaces without Dashboard views get a 3-day trial of the dashboard_view feature.",
+  "category": "pricing",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "feature_trial",
+    "kind": "key",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Dashboard views are gated to higher plans, so non-paying users cannot try them before upgrading.",
+   "users": "Free and lower-tier workspace admins and members.",
+   "what": "A time-limited trial campaign named dashboard_trial_3_day. It grants the dashboard_view feature for 3 days.",
+   "how_it_appears": "Inferred: a trial prompt or banner when a user tries to add a Dashboard view, plus an upgrade nudge as the trial ends.",
+   "rollout_guess": "Inferred: an experiment on a share of eligible workspaces rather than a public announcement.",
+   "open_questions": [
+    "Which plans are eligible?",
+    "Will the trial be announced, or only appear as an in-product prompt?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-triage-autopilot-team-connectors",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Triage Autopilot team connectors",
+  "one_liner": "Team admins choose which MCP connectors Triage Autopilot may use on a team's issues, with an option to stop it from automatically picking up connectors shared with Loops.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Triage Autopilot connectors",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Connectors this team shares with Loops later won't be added to Triage Autopilot. You can still add connectors here.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Stop adding connectors automatically?",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn't update Triage Autopilot connectors",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Triage Autopilot will stop using this connector on this team's issues",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Triage Autopilot needs controlled access to external tools without every connector leaking into it.",
+   "users": "Team admins and owners who use Triage Autopilot.",
+   "what": "A team settings section listing the connectors Triage Autopilot can use. It defaults to connectors shared with Loops, can be switched to manual management, and warns when a connector is no longer accessible.",
+   "how_it_appears": "Team settings under Triage, as a 'Triage Autopilot connectors' card with a 'Review connectors' prompt.",
+   "rollout_guess": "Ships alongside Triage Autopilot itself.",
+   "open_questions": [
+    "Is it limited to a paid plan?",
+    "Do sub-teams inherit connectors?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-paper-mcp-connector",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Paper MCP connector",
+  "one_liner": "Connect Paper from the connector directory so Linear Agent can read and edit designs in Paper files.",
+  "category": "integration",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 45,
+  "deadline": "2027-01-01",
+  "confidence": 0.65,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.65,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Paper MCP connector",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "List the built-in Paper MCP connector in the connector directory.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Paper to let Linear Agent read and edit designs in your Paper files, so issues and project briefs include the details needed to build them and designs stay in step with the work",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Designs and components from Paper",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Design context lives outside Linear, so agents lack it when writing issues and briefs.",
+   "users": "Teams that design in Paper and use Linear Agent.",
+   "what": "A built-in Paper connector with use cases such as adding design context to an issue and updating styles or tokens when requirements change.",
+   "how_it_appears": "Connector directory listing, and Linear Agent chats.",
+   "rollout_guess": "The flag is currently off, so it is likely to be enabled gradually.",
+   "open_questions": [
+    "Is Paper OAuth-only?",
+    "Is it workspace-level or personal?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-code-widgets-in-linear-agent",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Code widgets in Linear Agent",
+  "one_liner": "Linear Agent writes small sandboxed HTML widgets, such as charts, and shows them inside web and desktop chats.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 75,
+  "deadline": "2027-01-31",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Let the Linear Agent write small sandboxed HTML widgets, such as charts, and show them in web and desktop chats",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Code widgets",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "default-src 'none'",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "form-action 'none'",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agent answers are limited to text and static content.",
+   "users": "Linear Agent users on web and desktop.",
+   "what": "The agent generates HTML widgets rendered in a locked-down sandboxed iframe, with a strict CSP.",
+   "how_it_appears": "Inline in Linear Agent chat.",
+   "rollout_guess": "Flag-gated, then broader release.",
+   "open_questions": [
+    "Can widgets be saved to documents?",
+    "Can they be interactive?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-gemini-4-models-for-linear-agent-coding",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Gemini 4 models for Linear Agent coding",
+  "one_liner": "Use Gemini 4 Carbon and Hydrogen as coding models for Linear Agent, backed by the Gemini Interactions API.",
+  "category": "expansion",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Send Gemini requests through the Interactions API, and offer Gemini 4 Carbon and Hydrogen as Linear Agent coding models.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Gemini 4 Hydrogen",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Gemini Interactions API",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users want more model choice for coding agents.",
+   "users": "Linear Code and cloud coding agent users.",
+   "what": "Gemini 4 Carbon and Hydrogen appear in the coding model picker.",
+   "how_it_appears": "Model selection for coding environments.",
+   "rollout_guess": "Likely tied to Google's model availability.",
+   "open_questions": [
+    "Inferred: the model names may be internal placeholders.",
+    "Will it need a Google API key?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-loop-linter",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Loop linter",
+  "one_liner": "Linear checks Loops for setup problems in the background and suggests fixes on runs and in the editor.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 75,
+  "deadline": "2027-01-31",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Check Loops for setup problems in the background and suggest fixes on runs and in the editor.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Loop linter",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loops fail silently because of misconfiguration.",
+   "users": "Loop authors.",
+   "what": "Background validation with fix suggestions.",
+   "how_it_appears": "Loop editor and run detail pages.",
+   "rollout_guess": "Flag-gated, then broader release.",
+   "open_questions": [
+    "Is the check automatic or on demand?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-code-suggestions-in-pull-request-reviews",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Code suggestions in pull request reviews",
+  "one_liner": "Suggest code changes in review comments and commit them from the Diff, either one at a time or as part of a commit.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Suggest code changes in pull request review comments and commit them from the Diff",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggest code changes",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggestion committed",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggestion added to commit",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Cannot apply a suggestion from a resolved thread",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers cannot propose or apply concrete code edits from Linear Reviews.",
+   "users": "Pull request reviewers and authors.",
+   "what": "A suggestion block in comments, with apply and commit actions plus undo.",
+   "how_it_appears": "Diff comment composer and review threads.",
+   "rollout_guess": "Likely ships with Diff editing.",
+   "open_questions": [
+    "Does it sync suggestion syntax with GitHub?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-desktop-inbox-swipe-actions",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Desktop inbox swipe actions",
+  "one_liner": "Delete or mark inbox notifications read with two-finger trackpad swipes on macOS.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Delete or mark inbox notifications read with two-finger trackpad swipes on macOS.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Desktop inbox swipe actions",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Triaging the inbox needs clicks or keyboard shortcuts.",
+   "users": "macOS desktop app users.",
+   "what": "Swipe gestures on inbox rows.",
+   "how_it_appears": "Desktop app inbox list.",
+   "rollout_guess": "Flag then desktop release.",
+   "open_questions": [
+    "Are the gestures configurable?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-pause-automatic-updates-on-customer-feed",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pause automatic updates on customer feedback groups",
+  "one_liner": "Pause and resume automatic title, summary and grouping updates, while manual corrections stay protected.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 75,
+  "deadline": "2027-01-31",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Pause title, summary, and grouping updates. New customer feedback will still be added.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Resume title, summary, and grouping updates. Manual corrections stay protected.",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Customer feedback matched to this project will appear here",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Automated summaries overwrite hand-edited content.",
+   "users": "Customer feedback and Customer Requests owners.",
+   "what": "A pause/resume action in the command menu and tooltips.",
+   "how_it_appears": "Command menu on a feedback or theme item.",
+   "rollout_guess": "Ships with the customer feedback grouping feature.",
+   "open_questions": [
+    "Inferred: the model type is not named in the strings."
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-slash-commands-in-agent-chats",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Slash commands in agent chats",
+  "one_liner": "Type /snooze, /rename or /thread in a Workbench chat to snooze, rename or start a thread.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Describe the task after /thread",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Type the new name after /rename",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Type a time, such as 2 days or Friday 4 pm",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not start thread",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Managing chats needs menus.",
+   "users": "Workbench and Linear Agent users.",
+   "what": "Slash commands with inline options, including natural-language snooze times.",
+   "how_it_appears": "Agent chat composer.",
+   "rollout_guess": "Likely ships with Workbench snooze.",
+   "open_questions": [
+    "What other commands will there be?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-address-review-suggestions-with-agent",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Address review suggestions with Agent",
+  "one_liner": "Hand individual or all review suggestions to Linear Agent to address.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Address all with Agent",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": true
+   },
+   {
+    "text": "Address with Agent",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Applying review feedback is manual.",
+   "users": "Pull request authors.",
+   "what": "Row and group buttons that send suggestions to Agent.",
+   "how_it_appears": "A suggestions group in Reviews.",
+   "rollout_guess": "Likely alongside Autopilot.",
+   "open_questions": [
+    "Inferred: the suggestions come from Linear Review."
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-write-release-notes-with-linear-agent",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Write release notes with Linear Agent",
+  "one_liner": "Agent drafts release notes from a release in a side pane.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 75,
+  "deadline": "2027-01-31",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Release notes Agent pane is unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn't write release notes",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Unable to send the release notes request",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Try again after the note finishes saving",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Release notes are written by hand.",
+   "users": "Release managers.",
+   "what": "An agent request that fills a release note.",
+   "how_it_appears": "Release note editor.",
+   "rollout_guess": "Part of the Releases feature.",
+   "open_questions": [
+    "Is it limited to a plan tier?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-pull-request-checks-view-and-rerun",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request checks view and rerun",
+  "one_liner": "Open a pull request's checks in Linear, see missing required checks, and rerun a check.",
+  "category": "new_feature",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Check rerun requested",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Failed to rerun check",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Pull request checks",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Some required checks have not reported a result",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Checks are still running",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users must go to the code host to inspect and rerun CI.",
+   "users": "Pull request authors and reviewers.",
+   "what": "A checks popover with a rerun action and warnings for required checks that have not reported.",
+   "how_it_appears": "Reviews and the command menu.",
+   "rollout_guess": "Incremental Reviews release.",
+   "open_questions": [
+    "Is it GitHub-only?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-17-greptile-review-status-in-pull-request-a",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Greptile review status in pull request activity",
+  "one_liner": "Pull request activity shows when Greptile was asked to review, completed, or skipped for lack of credits.",
+  "category": "integration",
+  "created": "2026-11-17",
+  "first_evidence": "2026-11-17",
+  "window_days": 60,
+  "deadline": "2027-01-16",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-17",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Greptile completed code review",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Greptile skipped code review: out of review credits",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Greptile is asked to review",
+    "kind": "copy",
+    "first_seen": "2026-11-17",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Third-party review bot activity is not summarized in Linear.",
+   "users": "Teams using Greptile.",
+   "what": "Status rows in the PR timeline.",
+   "how_it_appears": "Reviews activity feed.",
+   "rollout_guess": "May already be quietly live.",
+   "open_questions": [
+    "Is this just new activity formatting?"
    ]
   },
   "status": "open",
