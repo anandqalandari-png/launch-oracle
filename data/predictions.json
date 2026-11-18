@@ -238,6 +238,11 @@
     "date": "2026-11-17",
     "confidence": 0.6,
     "note": "Private-copy and lost-access states are built."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "New sharing audience labels and a personal documents overview."
    }
   ],
   "evidence": [
@@ -288,6 +293,18 @@
     "kind": "copy",
     "first_seen": "2026-11-17",
     "new_chunk": false
+   },
+   {
+    "text": "Documents shared with you directly, including personal documents and documents from private teams you're not in",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Only members of the team and people it's shared with",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -315,7 +332,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-05",
@@ -341,6 +358,11 @@
     "date": "2026-11-13",
     "confidence": 0.45,
     "note": "Commit-signing policy copy now shows a signing key requirement for sessions."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "Final copy including the pricing impact."
    }
   ],
   "evidence": [
@@ -432,6 +454,18 @@
     "text": "Workspace rules for Linear Code sessions",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Pin new Linear Code sandboxes to the US. Region pinning raises the sandbox compute price.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "EU workspaces always pin new Linear Code sandboxes to the EU. Region pinning raises the sandbox compute price.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -777,8 +811,16 @@
     "Is this part of an agent mode or a separate shopping surface?"
    ]
   },
-  "status": "open",
-  "resolution": null
+  "status": "shipped",
+  "resolution": {
+   "date": "2026-11-18",
+   "ship_date": "2026-11-17",
+   "lead_days": 11,
+   "source": "https://gemini.google/release-notes/",
+   "quote": "Simply set your item and maximum price limit when starting a Task.",
+   "prd_match": 3,
+   "by": "grader"
+  }
  },
  {
   "id": "gemini-2026-11-06-page-aware-quick-actions",
@@ -1201,7 +1243,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.58,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-06",
@@ -1222,6 +1264,11 @@
     "date": "2026-11-11",
     "confidence": 0.58,
     "note": "More onboarding v2 copy, covering the filing suggestions review step and a speaker labels step that asks users to connect Google Meet or Zoom."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "New copy for the filing step shows a full flow: suggestions, a database chooser, a 'Save and continue' button and a 'Organizing your meetings' interstitial. This points to a near-complete UI."
    }
   ],
   "evidence": [
@@ -1307,6 +1354,24 @@
     "text": "Connect Notion to Google Meet or Zoom to get more accurate notes.",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose how to organize your meetings",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Save meeting notes to specific databases so they are easier to find in Notion. Review our suggestions below.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "By default, your meeting notes are saved to {location}.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -1763,12 +1828,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 60,
   "deadline": "2027-01-05",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.55,
+    "note": "Trigger behaviour copy confirms the details."
    }
   ],
   "evidence": [
@@ -1794,6 +1864,12 @@
     "text": "Invite Linear to each selected channel before publishing. Automatic channel joining is disabled.",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "Runs when anyone adds one of these reactions to a top-level message in a public, non-shared channel. The loop runs at most once per message.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -2117,12 +2193,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.3,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.4,
+    "note": "A new live-mobile conversation menu adds microphone and voice submenus. This points to a more complete Live voice UI with device and voice selection."
    }
   ],
   "evidence": [
@@ -2154,6 +2235,30 @@
     "text": "Invalid Opus packet TOC header.",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": true
+   },
+   {
+    "text": "Change Gemini’s voice",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": "Default microphone",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": "Microphone options",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": "Voice options",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": true
    }
   ],
@@ -2497,7 +2602,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 75,
   "deadline": "2027-01-21",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
@@ -2508,6 +2613,11 @@
     "date": "2026-11-09",
     "confidence": 0.55,
     "note": "A detailed evidence report schema now includes environments, metrics, scenarios, before and after runs, and attachments, which points to a mature feature."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.5,
+    "note": "The agent tool display for submitting evidence now exists."
    }
   ],
   "evidence": [
@@ -2551,6 +2661,12 @@
     "text": "Each case the agent tested and its runs",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Attached evidence reports",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -3333,6 +3449,11 @@
     "date": "2026-11-17",
     "confidence": 0.6,
     "note": "New triage card states (Assessing/Fixing/error), a setup entry and a 'View investigation' action all support the feature."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "Triage mode Manual/Autopilot selector, a reporter-question flow and reassessment states."
    }
   ],
   "evidence": [
@@ -3376,6 +3497,24 @@
     "text": "Couldn’t finish the fix",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear investigates and fixes issues",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Autopilot would assign to",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Reassessing after reply…",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -3695,6 +3834,11 @@
     "date": "2026-11-16",
     "confidence": 0.4,
     "note": "The new code reads options_loading_label, style_variants_loading_tone and suggested_followups from message metadata. This suggests style-variant follow-up options are being wired into the client."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.4,
+    "note": "The surrounding code includes the markup `data-writing-followup-suggestions-surface`, a dedicated UI surface for writing follow-up suggestions. This corroborates the open forecast but gives no launch timing."
    }
   ],
   "evidence": [
@@ -3780,6 +3924,12 @@
     "text": "==typeof x?x.trim():",
     "kind": "copy",
     "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "),tx=P('<svg width=20 height=20 viewBox=",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -3919,7 +4069,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-10",
@@ -3935,6 +4085,11 @@
     "date": "2026-11-12",
     "confidence": 0.5,
     "note": "New launch states and disabled reasons for building from an issue."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.55,
+    "note": "Build prompt editor with model and agent options."
    }
   ],
   "evidence": [
@@ -4002,6 +4157,18 @@
     "text": "This agent receives only the issue and your message. Remove the attachments and try again.",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Add build instructions…",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Start without opening",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -4169,6 +4336,11 @@
     "date": "2026-11-13",
     "confidence": 0.6,
     "note": "The UI flag, the engage control, and the phase and stop-reason copy are now present, so the feature looks near-complete."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "Task scopes (fix vs fix & merge) and engage/disengage flows are implemented."
    }
   ],
   "evidence": [
@@ -4200,6 +4372,24 @@
     "text": "Shows Autopilot on pull requests and lets the person engage it. Autopilot also needs pull-request-autopilot, which the backend checks per workspace.",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not engage Autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Autopilot needs at least one task",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Fix & merge",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -4623,12 +4813,17 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.2,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-11",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.4,
+    "note": "New code shows a view-only mode and a 'taking control' state that sets viewOnly to false. This confirms the user can take over the agent's remote browser, not just watch it."
    }
   ],
   "evidence": [
@@ -4642,6 +4837,12 @@
     "text": "Step 2: noVNC RFB instance setup initiated.",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": true
+   },
+   {
+    "text": "Connection state set to CONNECTED_FULL_CONTROL.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": true
    }
   ],
@@ -4670,7 +4871,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 75,
   "deadline": "2027-01-25",
-  "confidence": 0.5,
+  "confidence": 0.7,
   "history": [
    {
     "date": "2026-11-11",
@@ -4681,6 +4882,11 @@
     "date": "2026-11-12",
     "confidence": 0.5,
     "note": "Another Google MCP connector (Google Contacts, via the People API MCP) is defined."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.7,
+    "note": "Finished directory copy now exists for Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and Contacts."
    }
   ],
   "evidence": [
@@ -4700,6 +4906,24 @@
     "text": "Google Contacts",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Google Slides to let Linear Agent read and edit presentations, so plans and reviews in Slides connect to work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Gmail to let Linear Agent search and read your email and draft replies, so requests and reports that arrive by email become context for work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Google Calendar to let Linear Agent read your calendars, check availability, and manage events, so meetings and deadlines line up with work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -4828,7 +5052,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-11",
@@ -4849,6 +5073,11 @@
     "date": "2026-11-17",
     "confidence": 0.55,
     "note": "Page-creation action and parent-document filter option found."
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "Page creation, move and duplication flows with error handling suggest it is close to shipping."
    }
   ],
   "evidence": [
@@ -4904,6 +5133,24 @@
     "text": "Show non-matching parent documents",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Create document page",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Can’t create document page",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Can’t move a document into one of its own document pages",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -6300,12 +6547,17 @@
   "first_evidence": "2026-11-14",
   "window_days": 90,
   "deadline": "2027-02-12",
-  "confidence": 0.07,
+  "confidence": 0.3,
   "history": [
    {
     "date": "2026-11-14",
     "confidence": 0.07,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.3,
+    "note": "New error strings show the 3D characters are loaded as per-character models in a page footer, and a three.js runtime (Raycaster, BufferGeometryUtils) is bundled. This indicates a real rendering feature, probably a decorative footer on logge"
    }
   ],
   "evidence": [
@@ -6338,6 +6590,24 @@
     "kind": "copy",
     "first_seen": "2026-11-14",
     "new_chunk": true
+   },
+   {
+    "text": "Missing footer character model",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Footer character unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "THREE.Raycaster: Unsupported camera type:",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -6729,6 +6999,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.5,
+    "note": "Progress widget save prompt."
    }
   ],
   "evidence": [
@@ -6773,6 +7048,12 @@
     "kind": "copy",
     "first_seen": "2026-11-14",
     "new_chunk": true
+   },
+   {
+    "text": "Add this progress widget to the dashboard?",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -7085,12 +7366,17 @@
   "first_evidence": "2026-11-16",
   "window_days": 45,
   "deadline": "2026-12-31",
-  "confidence": 0.4,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-16",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "The key lightweight-web.auth.continue-with-qr-code now appears translated into Polish, Latvian, Albanian and Somali, sitting next to the existing continue-with-phone option. Translation into many locales suggests the sign-in option is close"
    }
   ],
   "evidence": [
@@ -7110,6 +7396,30 @@
     "text": "Continuer avec un code QR",
     "kind": "copy",
     "first_seen": "2026-11-16",
+    "new_chunk": false
+   },
+   {
+    "text": "Kontynuuj z kodem QR",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Turpināt ar kvadrātkodu",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Vazhdo me kodin QR",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Ku sii wad QR koodhka",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -7740,12 +8050,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-18",
+    "confidence": 0.55,
+    "note": "Further UI for team connectors."
    }
   ],
   "evidence": [
@@ -7777,6 +8092,24 @@
     "text": "Triage Autopilot will stop using this connector on this team's issues",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Connectors you can add that this team hasn't added to Triage Autopilot yet",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Connectors this team shares with Loops are added automatically",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Stop adding connectors automatically",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
     "new_chunk": false
    }
   ],
@@ -8446,6 +8779,723 @@
    "rollout_guess": "May already be quietly live.",
    "open_questions": [
     "Is this just new activity formatting?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-18-auto-model-selection-indicator",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Auto model selection indicator",
+  "one_liner": "Gemini shows which model it picked when auto model selection is on, with labels like 'Used auto model selection'.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Used auto model selection",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users can't tell which model answered when Gemini chooses one for them.",
+   "users": "Gemini web users of the mode picker.",
+   "what": "A response label saying auto model selection was used, with a variant that names the chosen model.",
+   "how_it_appears": "Inferred: a small caption on a response, next to the 'Done' label in the same string group.",
+   "rollout_guess": "Inferred: ships with an auto mode in the model picker, if it is not already live.",
+   "open_questions": [
+    "Is auto selection already live, with only this label new?",
+    "Is the label shown to all users or only some tiers?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-18-branded-gems-with-default-feature-mode",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Branded Gems with default feature mode",
+  "one_liner": "Gems get a brand name and logo, a default feature mode and preset starter prompts, so branded or partner assistants can be built.",
+  "category": "experiment",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 90,
+  "deadline": "2027-02-16",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": ",zeroStatePrompts:[...b.yC],defaultFeatureMode:(q=b.nga)!=null?q:null,brandName:(t=(e=b.mba)==null?void 0:e.NTa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": ",description:b.description,logoUrl:(g=(d=b.f4)==null?void 0:d.JKa)!=null?g:",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Gems are generic and have no identity or preset mode.",
+   "users": "Gem creators and possibly partners.",
+   "what": "Gem objects carry a brandName, logoUrl, zeroStatePrompts and defaultFeatureMode.",
+   "how_it_appears": "Inferred: a Gem landing page with a readable URL, a logo and suggested prompts.",
+   "rollout_guess": "Inferred: starts with a limited set of first-party or partner Gems.",
+   "open_questions": [
+    "Is this user-created or Google-curated only?",
+    "How does it relate to the Gems-to-skills migration?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-18-auto-attach-shared-meeting-notes-to-cale",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Auto-attach shared meeting notes to calendar events",
+  "one_liner": "Shared Notion meeting notes get linked on the user's calendar events automatically, and users can turn this off.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Access meeting note links on your calendar.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": "Shared meeting notes are automatically attached to your calendar events. You can change this setting anytime.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "After a meeting, people can't easily find the Notion notes from the calendar event.",
+   "users": "Notion Calendar and Notetaker users who share meeting notes with attendees.",
+   "what": "When meeting notes are shared, a link to them is added to the matching calendar event. A callout explains this and offers 'Got it' or 'Turn off'.",
+   "how_it_appears": "A one-time callout in the meeting notes or calendar flow, with a setting to disable the behaviour.",
+   "rollout_guess": "Likely staged rollout to Notetaker users, announced alongside meeting notes updates.",
+   "open_questions": [
+    "Is the attachment limited to Google Calendar events?",
+    "Is it on by default for every user?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-18-external-personal-agents-with-model-pick",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "External personal agents with model picker (Labs)",
+  "one_liner": "A Labs feature that lets users run external personal agents and choose the model they use.",
+  "category": "experiment",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 90,
+  "deadline": "2027-02-16",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "labs_external_personal_agents_model_picker",
+    "kind": "key",
+    "first_seen": "2026-11-18",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users want to bring or connect their own agent harnesses and choose which model powers them.",
+   "users": "Labs opt-in power users.",
+   "what": "Inferred: a Labs-gated external personal agents capability with a model picker. The 'labs_external_personal_agents' key appears next to it in the same code, and the code matches agents against a 'harness'.",
+   "how_it_appears": "Notion Labs settings, then an agent surface with a model selector.",
+   "rollout_guess": "Labs opt-in only, with limited visibility and no formal release.",
+   "open_questions": [
+    "What does 'external' mean here: third-party agents or a local harness?",
+    "Will it leave Labs?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-project-scoped-agent-chats",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Project-scoped Agent chats",
+  "one_liner": "Agent chats belong to a project, chosen when the chat starts or inferred from its context, and Workbench groups chats by project.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Project-scoped Agent chats",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Agent chats belong to a project, picked when the chat starts or resolved from its context, and Workbench groups chats by it.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "New chat in project",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agent chats pile up in Workbench with no link to the project they concern.",
+   "users": "Workbench and Linear Agent users",
+   "what": "Each chat is tied to a project and Workbench groups chats by it. A 'New chat in project' action starts a chat already scoped.",
+   "how_it_appears": "Workbench sidebar groups, project pages, and a project picker in the chat composer.",
+   "rollout_guess": "Behind a feature flag and likely to ship with the other Workbench changes.",
+   "open_questions": [
+    "Is the project required or optional?",
+    "Are existing chats back-filled?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-personal-agent-usage",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Personal agent usage",
+  "one_liner": "Members can see what their own Linear Agent chats and coding sessions billed them, in settings and the Workbench sidebar.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Personal agent usage",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Show members what their own coding sessions billed, in settings and the Workbench sidebar",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "What your Linear Agent chats and coding sessions billed you",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Members cannot see their own AI spend, and only admins see usage.",
+   "users": "Members of workspaces on usage-billed agent plans",
+   "what": "A personal Usage tab in settings, plus a usage indicator in the Workbench sidebar.",
+   "how_it_appears": "A 'Usage' tab in personal settings and the Workbench sidebar.",
+   "rollout_guess": "Likely to ship alongside the AI spend limit work.",
+   "open_questions": [
+    "Do admins have to turn it on for members?",
+    "Are costs shown in credits or dollars?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-related-work-in-workbench-chats",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Related work in Workbench chats",
+  "one_liner": "A Workbench chat with Linear Agent shows other people's work that background research found related to the chat.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Related work in Workbench chats",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Show other people's work that background research finds related to a Workbench chat with Linear Agent in the agent's response.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Related work",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "People duplicate work because they cannot see what others are already doing on the same topic.",
+   "users": "Workbench and Agent users",
+   "what": "A 'Related work' section with a count appears in the agent's response, listing related issues and projects.",
+   "how_it_appears": "Inside agent chat responses in Workbench.",
+   "rollout_guess": "Behind a flag, likely a gradual rollout.",
+   "open_questions": [
+    "Which entities count as related work?",
+    "Is the research run on every chat?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-desktop-global-command-menu-shortcut",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Desktop global command menu shortcut",
+  "one_liner": "Set a system-wide keyboard shortcut in the Linear desktop app to open the command menu from any app.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 45,
+  "deadline": "2027-01-02",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Open the command menu from any app",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not load the global shortcut",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not record a shortcut",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not save the global shortcut",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "The command menu is only reachable once Linear is focused.",
+   "users": "Linear desktop app users",
+   "what": "A preference to record a global shortcut that summons the command menu from any app.",
+   "how_it_appears": "Desktop app preferences, as 'Global command menu'.",
+   "rollout_guess": "A desktop release note item, likely quick to ship.",
+   "open_questions": [
+    "Is there a default shortcut?",
+    "Which platforms are supported?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-insights-slice-limit",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Insights slice limit",
+  "one_liner": "Distribution charts can show only their largest slices and group the rest as 'Other'.",
+  "category": "new_feature",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Insights slice limit",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Let distribution charts show only their largest slices and group the rest as Other",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "A share limit is a fraction of the total, at most 1",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Charts with many categories are unreadable.",
+   "users": "Insights and dashboard users",
+   "what": "A limit by count or by share of the total, with an optional 'Other' group.",
+   "how_it_appears": "Chart configuration in Insights and dashboards.",
+   "rollout_guess": "Likely ships with other dashboard work.",
+   "open_questions": [
+    "Is the limit a top N or a share?",
+    "Which chart types support it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-merge-queue-status-in-reviews",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Merge queue status in Reviews",
+  "one_liner": "Reviews shows merge queue state for a pull request, including why it was removed, and surfaces Trunk merge queue checks.",
+  "category": "integration",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Removed from merge queue due to failed checks",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Removed from merge queue due to a merge conflict",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Removed from merge queue because GitHub refused the merge",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Trunk merge queue",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "People cannot tell from Linear why a pull request left the merge queue.",
+   "users": "Teams using GitHub merge queue or Trunk",
+   "what": "Activity entries for queue removal reasons and Trunk merge queue check details.",
+   "how_it_appears": "Pull request activity and the checks view in Reviews.",
+   "rollout_guess": "Ships as part of the Reviews improvements.",
+   "open_questions": [
+    "Is merge queue enqueueing supported from Linear?",
+    "Which queue providers are supported?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-rootly-and-typeform-connectors",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Rootly and Typeform connectors",
+  "one_liner": "Connect Rootly and Typeform from the connector directory so Linear Agent can read incidents, on-call schedules, forms and responses.",
+  "category": "integration",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 45,
+  "deadline": "2027-01-02",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Connect Rootly to let Linear Agent read incidents, alerts, and on-call schedules, so incident follow-ups land in Linear with full context",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Typeform to let Linear Agent read your forms and their responses, so feedback and requests collected in surveys become context for work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Turn incident action items into issues",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Create issues from bug reports submitted through a form",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Incident and survey data sits outside Linear Agent's reach.",
+   "users": "Workspaces using Linear Agent with MCP connectors",
+   "what": "Two new directory entries with taglines and use cases.",
+   "how_it_appears": "Connector directory in settings and Agent.",
+   "rollout_guess": "Directory entries are usually quick to ship.",
+   "open_questions": [
+    "Is access read-only?",
+    "Are they available on all plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-allowed-coding-models-for-the-workspace",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Allowed coding models for the workspace",
+  "one_liner": "Admins choose a default coding model and restrict which models their team can use, with an option to allow future models automatically.",
+  "category": "expansion",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Choose a default model and control which models your team can use",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Your team needs a model to code with",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Enable future models",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Blocked by allowed models",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Admins cannot limit which models coding agents use.",
+   "users": "Workspace admins using Linear Code",
+   "what": "An allowlist of models, a default model, and an 'Enable future models' toggle.",
+   "how_it_appears": "Coding agent settings, under a 'Models' section.",
+   "rollout_guess": "Probably ships alongside region pinning and the other admin controls.",
+   "open_questions": [
+    "Is it per team or per workspace?",
+    "Which plans get it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-document-table-of-contents-column",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Document table of contents column",
+  "one_liner": "Keep a document's outline open as a column beside the text, with its pages listed above the headings.",
+  "category": "experiment",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 60,
+  "deadline": "2027-01-17",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Document table of contents",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Keep the document outline open as a column beside the text, with the document's pages above the headings.",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Long documents with nested pages are hard to navigate.",
+   "users": "Document authors and readers",
+   "what": "A persistent outline column that includes child pages.",
+   "how_it_appears": "Beside the document body.",
+   "rollout_guess": "Likely ships with nested document pages.",
+   "open_questions": [
+    "Is it always on?",
+    "Does it work on mobile?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-18-rolling-today-date-filters",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Rolling Today date filters",
+  "one_liner": "Date filters use calendar days and a single saved timezone.",
+  "category": "experiment",
+  "created": "2026-11-18",
+  "first_evidence": "2026-11-18",
+  "window_days": 90,
+  "deadline": "2027-02-16",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-18",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Rolling Today filters",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Use calendar days and one saved timezone for date filters",
+    "kind": "copy",
+    "first_seen": "2026-11-18",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Date filters shift with local time and hours.",
+   "users": "Users of views and filters",
+   "what": "Calendar-day semantics and a saved timezone.",
+   "how_it_appears": "Date filter behaviour across views.",
+   "rollout_guess": "A quiet change that may never be announced.",
+   "open_questions": [
+    "Is it announced at all?"
    ]
   },
   "status": "open",

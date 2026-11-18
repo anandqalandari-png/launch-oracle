@@ -1,0 +1,205 @@
+[
+ {
+  "text": "==typeof i?i:void 0,email:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": "==(n=e.query)?void 0:n.email,s=null==(r=e.query)?void 0:r.syncId;return[{name:\"adminSyncsHome\",spaceId:\"string\"==typeof i?i:void 0,email:\"string\"==typeof o?o:void 0,syncId:\"string\"==typeof s?s:void 0},a(168962).JZ.adminS",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof o?o:void 0,syncId:",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": "l==(r=e.query)?void 0:r.syncId;return[{name:\"adminSyncsHome\",spaceId:\"string\"==typeof i?i:void 0,email:\"string\"==typeof o?o:void 0,syncId:\"string\"==typeof s?s:void 0},a(168962).JZ.adminSyncsHome]}let i=(0,a(55002).g)({pa",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid Date",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/84643.js",
+  "ctx": ")(e)}r.d(t,{$:()=>n})},179358(e,t,r){let n=new WeakMap;function i(e){let t=r(247438).Cok(e);if(t.length>0){if(\"Invalid Date\"===t[0].start_date||\"Invalid date\"===t[0].start_date)return;return t[0]}let n=r(247438).k4p(e);r",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid date",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/84643.js",
+  "ctx": "r){let n=new WeakMap;function i(e){let t=r(247438).Cok(e);if(t.length>0){if(\"Invalid Date\"===t[0].start_date||\"Invalid date\"===t[0].start_date)return;return t[0]}let n=r(247438).k4p(e);return(0,r(687654).Z$)(n)}function ",
+  "new_chunk": false
+ },
+ {
+  "text": "Pulling out key decisions",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "tifyingDecisions:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.identifyingDecisions\",defaultMessage:\"Pulling out key decisions\"},organizingTopics:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.organizing",
+  "new_chunk": false
+ },
+ {
+  "text": "Organizing discussion topics",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "s\"},organizingTopics:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.organizingTopics\",defaultMessage:\"Organizing discussion topics\"},checkingDetails:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.checking",
+  "new_chunk": false
+ },
+ {
+  "text": "Checking details against the transcript",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ics\"},checkingDetails:{id:\"transcriptionBlock.reasoningSteps.summaryProgress.checkingDetails\",defaultMessage:\"Checking details against the transcript\"},finalizingSummary:{id:\"transcriptionBlock.reasoningSteps.summaryProg",
+  "new_chunk": false
+ },
+ {
+  "text": "This can’t be moved because the destination is in another workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Name}\"},destinationInOtherWorkspace:{id:\"moveToMenuActions.destinationInOtherWorkspace.toast\",defaultMessage:\"This can’t be moved because the destination is in another workspace\"}});class v extends Error{constructor(){su",
+  "new_chunk": false
+ },
+ {
+  "text": "Move destination is in another workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "e transaction size limit\"),this.name=\"MoveTooLargeError\"}}class b extends Error{metadata;constructor(e){super(\"Move destination is in another workspace\"),this.name=\"MoveDestinationInOtherWorkspaceError\",this.metadata=e}}",
+  "new_chunk": false
+ },
+ {
+  "text": "Integration creation requires at least one permission.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/RecordModel.js",
+  "ctx": "ss tg extends tl{ops=new tp(tu.asUnionOfModel(this));static create(e){if(0===e.permissions.length)throw Error(\"Integration creation requires at least one permission.\");let{parent:t,createdBy:i,updatedBy:a,alive:s,...n}=e",
+  "new_chunk": false
+ },
+ {
+  "text": "),serviceWorkerBuildTarget:String((null==(a=e.data)?void 0:a.buildTarget)??",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/15408.js",
+  "ctx": "n:String((null==(t=e.data)?void 0:t.version)??(null==(r=e.data)||null==(r=r.error)?void 0:r.version)??\"unknown\"),serviceWorkerBuildTarget:String((null==(a=e.data)?void 0:a.buildTarget)??\"unknown\")}}function c(e){let t=e.",
+  "new_chunk": false
+ },
+ {
+  "text": "emergency_overrides_e2e_test_gate",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DeferredNotionListeners.js",
+  "ctx": "ct)(()=>{n(211589).default.waitUntilStatsigReadyAsync().then(()=>{let e=n(211589).default.checkGate({gateName:\"emergency_overrides_e2e_test_gate\",enableEventTrailLogging:!0});(0,b().u)({event:{eventName:\"emergency_overri",
+  "new_chunk": false
+ },
+ {
+  "text": "emergency_overrides_e2e_test_gate_check",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DeferredNotionListeners.js",
+  "ctx": "ckGate({gateName:\"emergency_overrides_e2e_test_gate\",enableEventTrailLogging:!0});(0,b().u)({event:{eventName:\"emergency_overrides_e2e_test_gate_check\",eventProperties:{gate_value:e}}})})},[]),(0,n(819013).H)(),g=(0,n(55",
+  "new_chunk": false
+ },
+ {
+  "text": "Choose how to organize your meetings",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "es with attendees\"},filingTitle:{id:\"meetingNotesOnboardingV2.filingChooseHowToOrganizeTitle\",defaultMessage:\"Choose how to organize your meetings\"},filingDescription:{id:\"meetingNotesOnboardingV2.filingReviewSuggestions",
+  "new_chunk": false
+ },
+ {
+  "text": "Save meeting notes to specific databases so they are easier to find in Notion. Review our suggestions below.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "tings\"},filingDescription:{id:\"meetingNotesOnboardingV2.filingReviewSuggestionsDescriptionV4\",defaultMessage:\"Save meeting notes to specific databases so they are easier to find in Notion. Review our suggestions below.\"}",
+  "new_chunk": false
+ },
+ {
+  "text": "Where notes get saved",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "ge:\"Meeting\"},filingLocationHeader:{id:\"meetingNotesOnboardingV2.filingWhereNotesSavedHeader\",defaultMessage:\"Where notes get saved\"},filingChooseDatabase:{id:\"meetingNotesOnboardingV2.filingChooseDatabase\",defaultMessag",
+  "new_chunk": false
+ },
+ {
+  "text": "Choose a database",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "re notes get saved\"},filingChooseDatabase:{id:\"meetingNotesOnboardingV2.filingChooseDatabase\",defaultMessage:\"Choose a database\"},filingSaveAndContinue:{id:\"meetingNotesOnboardingV2.filingSaveAndContinue\",defaultMessage:",
+  "new_chunk": false
+ },
+ {
+  "text": "Save and continue",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "hoose a database\"},filingSaveAndContinue:{id:\"meetingNotesOnboardingV2.filingSaveAndContinue\",defaultMessage:\"Save and continue\"},filingInterstitialHeading:{id:\"meetingNotesOnboardingV2.filingInterstitialHeading\",default",
+  "new_chunk": false
+ },
+ {
+  "text": "Organizing your meetings",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "continue\"},filingInterstitialHeading:{id:\"meetingNotesOnboardingV2.filingInterstitialHeading\",defaultMessage:\"Organizing your meetings\"},filingInterstitialLooking:{id:\"meetingNotesOnboardingV2.filingInterstitialLooking\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Looking at your meetings…",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "meetings\"},filingInterstitialLooking:{id:\"meetingNotesOnboardingV2.filingInterstitialLooking\",defaultMessage:\"Looking at your meetings…\"},filingInterstitialOrganizing:{id:\"meetingNotesOnboardingV2.filingInterstitialOrgan",
+  "new_chunk": false
+ },
+ {
+  "text": "Deciding how to organize notes…",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "s…\"},filingInterstitialOrganizing:{id:\"meetingNotesOnboardingV2.filingInterstitialOrganizing\",defaultMessage:\"Deciding how to organize notes…\"},filingFindingLocation:{id:\"meetingNotesOnboardingV2.filingFindingLocation\",d",
+  "new_chunk": false
+ },
+ {
+  "text": "Finding where {meeting} files",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": " organize notes…\"},filingFindingLocation:{id:\"meetingNotesOnboardingV2.filingFindingLocation\",defaultMessage:\"Finding where {meeting} files\"},filingDefaultNote:{id:\"meetingNotesOnboardingV2.filingDefaultNote\",defaultMess",
+  "new_chunk": false
+ },
+ {
+  "text": "By default, your meeting notes are saved to {location}.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/41685.js",
+  "ctx": "ng where {meeting} files\"},filingDefaultNote:{id:\"meetingNotesOnboardingV2.filingDefaultNote\",defaultMessage:\"By default, your meeting notes are saved to {location}.\"},filingScrollDown:{id:\"meetingNotesOnboardingV2.filin",
+  "new_chunk": false
+ },
+ {
+  "text": "===ey||eO||eI),eW=ew.apple&&!eI,eV=ew.passkey&&!eI,eD=ew.sso&&ef&&!eI,eK=ew.email&&eE,eG=eI?void 0:ew.widthVariant,eU=E||eP||eS||eB||eW||eV||eD||eK,ez=eb?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/64975.js",
+  "ctx": "!eC&&!Y&&!eg),eN=f||i(392096).qg(y).pathname===i(25408).GJ.startupsApplication,eO=!eu,eR=!E&&(eb&&\"email_above\"===ey||eO||eI),eW=ew.apple&&!eI,eV=ew.passkey&&!eI,eD=ew.sso&&ef&&!eI,eK=ew.email&&eE,eG=eI?void 0:ew.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": ":\"properties\"in(null==i?void 0:i.value)&&(0,a().O9)(i.value.properties)&&\"title\"in i.value.properties&&(0,a().O9)(null==i?void 0:i.value.properties.title)?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/74915.js",
+  "ctx": "ype\"in i.value?i.value.type:n.table;return\"name\"in(null==i?void 0:i.value)?`${s} ${i.value.id} ${i.value.name}`:\"properties\"in(null==i?void 0:i.value)&&(0,a().O9)(i.value.properties)&&\"title\"in i.value.properties&&(0,a()",
+  "new_chunk": true
+ },
+ {
+  "text": "Access meeting note links on your calendar.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/use-meeting-note-calendar-attachment.js",
+  "ctx": "ar n=a(635790);let l=(0,a(752010).YK)({title:{id:\"meetingNoteCalendarAttachmentCallout.title\",defaultMessage:\"Access meeting note links on your calendar.\"},body:{id:\"meetingNoteCalendarAttachmentCallout.body\",defaultMess",
+  "new_chunk": true
+ },
+ {
+  "text": "Shared meeting notes are automatically attached to your calendar events. You can change this setting anytime.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/use-meeting-note-calendar-attachment.js",
+  "ctx": "s meeting note links on your calendar.\"},body:{id:\"meetingNoteCalendarAttachmentCallout.body\",defaultMessage:\"Shared meeting notes are automatically attached to your calendar events. You can change this setting anytime.\"",
+  "new_chunk": true
+ },
+ {
+  "text": "Got it",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/use-meeting-note-calendar-attachment.js",
+  "ctx": "You can change this setting anytime.\"},gotIt:{id:\"meetingNoteCalendarAttachmentCallout.gotIt\",defaultMessage:\"Got it\"},turnOff:{id:\"meetingNoteCalendarAttachmentCallout.turnOff\",defaultMessage:\"Turn off\"}}),o=\"meeting_no",
+  "new_chunk": true
+ },
+ {
+  "text": "labs_external_personal_agents_model_picker",
+  "kind": "key",
+  "file": "app.notion.com/_assets/45734.js",
+  "ctx": "return!1}function o(e){if(void 0!==e)return a.find(t=>t.matchesHarness(e))}n.d(t,{QN:()=>o,fM:()=>i},{L9:a,Qo:\"labs_external_personal_agents_model_picker\",hx:\"labs_external_personal_agents\"})},539699(e,t,n){n(740776),n(9",
+  "new_chunk": true
+ }
+]
