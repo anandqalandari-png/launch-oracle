@@ -1,0 +1,247 @@
+[
+ {
+  "text": "No longer updates",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "0302);function c(){return(0,d.jsx)(i(746434).E,{style:u.badge,content:(0,d.jsx)(i(752010).sA,{defaultMessage:\"No longer updates\",id:\"externalObjectInstance.deprecatedIntegrationBadge.label\"})})}let u={badge:{marginInline",
+  "new_chunk": false
+ },
+ {
+  "text": "new_tab_open",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "his.clear(e);t&&this.args.hasTab(e)&&this.emit(t,\"virtual_tab_mount_timeout\")}emit(e,t){this.args.track({flow:\"new_tab_open\",success:void 0===t,duration_ms:Math.max(0,this.args.now()-e.startTimeMs),...t?{failure_reason:t",
+  "new_chunk": false
+ },
+ {
+  "text": "Integration is deprecated.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "?f:o.redirect_uris[0],v=r(t);if(!v)return{error:\"User must be signed in.\"};if((0,i(49361).cM)(u))return{error:\"Integration is deprecated.\"};let b=function(e){if(\"external\"===e.type&&(0,i(49361).XS)(e.id))return e}(o);if(",
+  "new_chunk": false
+ },
+ {
+  "text": "Integration is not supported.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "recated.\"};let b=function(e){if(\"external\"===e.type&&(0,i(49361).XS)(e.id))return e}(o);if(g&&!b)return{error:\"Integration is not supported.\"};let y=await t.api.callApi({eventName:\"createOauthAuthorizationCode\",environme",
+  "new_chunk": false
+ },
+ {
+  "text": "mobile_native_phone_new_page",
+  "kind": "key",
+  "file": "app.notion.com/_assets/68815.js",
+  "ctx": "e\",supportedPlatforms:[\"react-native\"],supportedDeviceTypes:[\"phone\"],position:\"absolute\"},newPagePhone:{type:\"mobile_native_phone_new_page\",supportedPlatforms:[\"react-native\"],supportedDeviceTypes:[\"phone\"],position:\"re",
+  "new_chunk": true
+ },
+ {
+  "text": "Trigger batching is not enabled for this workspace.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "752010).YK)({trigger_batching_unavailable:{id:\"transactionErrors.triggerBatching.unavailable\",defaultMessage:\"Trigger batching is not enabled for this workspace.\"},trigger_batching_daily_only:{id:\"transactionErrors.trigg",
+  "new_chunk": false
+ },
+ {
+  "text": "Trigger batching currently supports daily schedules only. Set frequency to ‘day’ and interval to 1.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "is workspace.\"},trigger_batching_daily_only:{id:\"transactionErrors.triggerBatching.dailyOnly\",defaultMessage:\"Trigger batching currently supports daily schedules only. Set frequency to ‘day’ and interval to 1.\"},trigger_",
+  "new_chunk": false
+ },
+ {
+  "text": "Batching requires a Custom Agent trigger without an external harness, script, or Worker target.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "nterval to 1.\"},trigger_batching_slack_only:{id:\"transactionErrors.triggerBatching.slackOnly\",defaultMessage:\"Batching requires a Custom Agent trigger without an external harness, script, or Worker target.\"},trigger_batc",
+  "new_chunk": false
+ },
+ {
+  "text": "Choose a valid timezone, an hour from 0 to 23, and a minute from 0 to 59 for daily batching.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "r target.\"},trigger_batching_invalid_time:{id:\"transactionErrors.triggerBatching.invalidTime\",defaultMessage:\"Choose a valid timezone, an hour from 0 to 23, and a minute from 0 to 59 for daily batching.\"},personal_schedu",
+  "new_chunk": false
+ },
+ {
+  "text": "AI training can’t be turned on for this workspace. Contact your Notion account team to change it.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "isted_workspace:{id:\"transactionErrors.aiTrainingNotAllowedForSalesAssistedWorkspace.message\",defaultMessage:\"AI training can’t be turned on for this workspace. Contact your Notion account team to change it.\"},public_acc",
+  "new_chunk": false
+ },
+ {
+  "text": "meeting_notes_launch_day_modal",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DeferredNotionListeners.js",
+  "ctx": "&!0!==t.getSettingsStore().getKeyValue(\"meetings_page_shortcut_added\")&&n(211589).default.checkGate({gateName:\"meeting_notes_launch_day_modal\",disableExposureLogging:!0})&&n(211589).default.checkGate({gateName:\"meeting_n",
+  "new_chunk": false
+ },
+ {
+  "text": "Open the installer in your Downloads folder",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "ad it here</link>.\"},installOpenInstaller:{id:\"meetingNotesOnboardingV2.installOpenInstaller\",defaultMessage:\"Open the installer in your Downloads folder\"},installClickInstall:{id:\"meetingNotesOnboardingV2.installClickIn",
+  "new_chunk": true
+ },
+ {
+  "text": "Then, click to install Notion Notetaker",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "our Downloads folder\"},installClickInstall:{id:\"meetingNotesOnboardingV2.installClickInstall\",defaultMessage:\"Then, click to install Notion Notetaker\"},alreadyHaveApp:{id:\"meetingNotesOnboardingV2.alreadyHaveApp\",default",
+  "new_chunk": true
+ },
+ {
+  "text": "Already have the app?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "ck to install Notion Notetaker\"},alreadyHaveApp:{id:\"meetingNotesOnboardingV2.alreadyHaveApp\",defaultMessage:\"Already have the app?\"},permissionsTitle:{id:\"meetingNotesOnboardingV2.permissionsTitle\",defaultMessage:\"Allow",
+  "new_chunk": true
+ },
+ {
+  "text": "Transcribe your voice",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "next week, it’s my biggest risk this sprint.\"},hearYou:{id:\"meetingNotesOnboardingV2.hearYou\",defaultMessage:\"Transcribe your voice\"},hearOthers:{id:\"meetingNotesOnboardingV2.hearOthers\",defaultMessage:\"Transcribe others",
+  "new_chunk": true
+ },
+ {
+  "text": "Transcribe others’ voices",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": ",defaultMessage:\"Transcribe your voice\"},hearOthers:{id:\"meetingNotesOnboardingV2.hearOthers\",defaultMessage:\"Transcribe others’ voices\"},enable:{id:\"meetingNotesOnboardingV2.enable\",defaultMessage:\"Enable\"},identifySpea",
+  "new_chunk": true
+ },
+ {
+  "text": "Label individual voices",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "le\",defaultMessage:\"Enable\"},identifySpeakers:{id:\"meetingNotesOnboardingV2.identifySpeakers\",defaultMessage:\"Label individual voices\"},speakerLabelsGoogleMeet:{id:\"meetingNotesOnboardingV2.speakerLabelsGoogleMeet\",defau",
+  "new_chunk": true
+ },
+ {
+  "text": "Install extension",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "Zoom\",defaultMessage:\"Zoom\"},installExtension:{id:\"meetingNotesOnboardingV2.installExtension\",defaultMessage:\"Install extension\"},installed:{id:\"meetingNotesOnboardingV2.installed\",defaultMessage:\"Installed\"},installSpea",
+  "new_chunk": true
+ },
+ {
+  "text": "Installed",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "nsion\",defaultMessage:\"Install extension\"},installed:{id:\"meetingNotesOnboardingV2.installed\",defaultMessage:\"Installed\"},installSpeakerLabelsGoogleMeet:{id:\"meetingNotesOnboardingV2.installSpeakerLabelsGoogleMeet\",defau",
+  "new_chunk": true
+ },
+ {
+  "text": "Install extension for Google Meet speaker labels",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": ",installSpeakerLabelsGoogleMeet:{id:\"meetingNotesOnboardingV2.installSpeakerLabelsGoogleMeet\",defaultMessage:\"Install extension for Google Meet speaker labels\"},enableSpeakerLabelsZoom:{id:\"meetingNotesOnboardingV2.enabl",
+  "new_chunk": true
+ },
+ {
+  "text": "Enable device control",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "s for Zoom\"},enableDeviceControlTitle:{id:\"meetingNotesOnboardingV2.enableDeviceControlTitle\",defaultMessage:\"Enable device control\"},enableDeviceControlBody:{id:\"meetingNotesOnboardingV2.enableDeviceControlBody\",default",
+  "new_chunk": true
+ },
+ {
+  "text": "Add Notion to your device control list when prompted",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "vice control\"},enableDeviceControlBody:{id:\"meetingNotesOnboardingV2.enableDeviceControlBody\",defaultMessage:\"Add Notion to your device control list when prompted\"},enabled:{id:\"meetingNotesOnboardingV2.enabled\",defaultM",
+  "new_chunk": true
+ },
+ {
+  "text": "Knows who said what",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "ge:\"Speaker labels\"},introKnowWhoSaidWhat:{id:\"meetingNotesOnboardingV2.introKnowWhoSaidWhat\",defaultMessage:\"Knows who said what\"},introAutoOrganization:{id:\"meetingNotesOnboardingV2.introAutoOrganization\",defaultMessag",
+  "new_chunk": true
+ },
+ {
+  "text": "Get started",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/19451.js",
+  "ctx": "defaultMessage:\"Try for free\"},introGetStarted:{id:\"meetingNotesOnboardingV2.introGetStarted\",defaultMessage:\"Get started\"}});n.d(t,{},{M:i})}}]);",
+  "new_chunk": true
+ },
+ {
+  "text": "OpenAI GPT-6.2 Astra",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "te:32,outputRate:120,cachedRate:1.6,cachedWriteRate:40}}},displayName:\"GPT-6.2 Astra\",displayNameWithProvider:\"OpenAI GPT-6.2 Astra\",displayGroup:\"intelligent\"},{notionName:\"orchard-oncall\",lifecycle:\"active\",modelFamily",
+  "new_chunk": false
+ },
+ {
+  "text": "OpenAI GPT-6.2 Sol",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "putRate:8,outputRate:30,cachedRate:.4,cachedWriteRate:10}}},displayName:\"GPT-6.2 Sol\",displayNameWithProvider:\"OpenAI GPT-6.2 Sol\",displayGroup:\"intelligent\"},{notionName:\"onico\",lifecycle:\"retired\",retiredBy:\"notion\",re",
+  "new_chunk": false
+ },
+ {
+  "text": ",c,d=(c=a==null?void 0:a.pathname)!=null?c:",
+  "kind": "copy",
+  "file": "www.googletagmanager.com/gtag/js",
+  "ctx": "=a.indexOf(\"#\");return b===-1?a:a.slice(0,b)},eP=function(){var a=A.location,b=(a==null?0:a.href)?WO(a.href):\"\",c,d=(c=a==null?void 0:a.pathname)!=null?c:\"\",e,f=(e=a==null?void 0:a.search)!=null?e:\"\",g=new Set;b&&g.add(b",
+  "new_chunk": false
+ },
+ {
+  "text": "OutOfStock InStock PreOrder BackOrder SoldOut Discontinued LimitedAvailability InStoreOnly OnlineOnly PreSale MadeToOrder Reserved",
+  "kind": "copy",
+  "file": "www.googletagmanager.com/gtag/js",
+  "ctx": "\",availability:\"a\", lowPrice:\"lp\"},cP=new Set([\"UsedCondition\",\"RefurbishedCondition\",\"DamagedCondition\"]),KO=\"OutOfStock InStock PreOrder BackOrder SoldOut Discontinued LimitedAvailability InStoreOnly OnlineOnly PreSale",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid scope found.",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "d+\"]. Scope should be a non-empty string without space.\"); var f=null}else f=e;var g=f;if(g===null)return _.G(\"Invalid scope found.\"),null;g&&b.push(g)}}finally{_.yd(a,c)}}return b},yu=function(a){return(a=a&&a.scope&&a.",
+  "new_chunk": false
+ },
+ {
+  "text": "Background token refresh failed:",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "{var f=d==null?void 0:d.tokenResponse;if((d==null?void 0:d.error)==null&&f!=null&&qu(f))e(f);else{var g,h;_.G(\"Background token refresh failed: \"+((h=(g=ru(d==null?void 0:d.error))!= null?g:ru(f==null?void 0:f.error))!=n",
+  "new_chunk": false
+ },
+ {
+  "text": "IDP Iframe not ready",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "c=_.zd(this.u,a);_.I(\"enable_authz_token_refresh\")?(Qw(this),this.l?this.A===void 0?this.D.length>=10?Uw(this,\"IDP Iframe not ready\",\"idp_iframe_not_initialized\"):this.D.push(function(){Vw(b,c)}):Vw(this,c):Uw(this,\"IDP ",
+  "new_chunk": false
+ },
+ {
+  "text": "IDP Iframe failed to initialize",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "this,\"IDP Iframe not ready\",\"idp_iframe_not_initialized\"):this.D.push(function(){Vw(b,c)}):Vw(this,c):Uw(this,\"IDP Iframe failed to initialize\",\"idp_iframe_not_initialized\")):Uw(this,\"IDP Iframe failed to initialize\",\"id",
+  "new_chunk": false
+ },
+ {
+  "text": "Request could not be auto-approved",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "error,c){case \"USER_LOGGED_OUT\":Uw(a,\"User logged out\",\"user_logged_out\");break;case \"IMMEDIATE_FAILED\":Uw(a, \"Request could not be auto-approved\",\"immediate_failed\");break;default:Uw(a,c||\"unknown_error\",\"unknown\")}else",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid request",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "\"unknown_error\",\"unknown\")}else if((c==null?void 0:c.error)!=null)switch(c.error){case \"invalid_request\":Uw(a,\"Invalid request\",\"bad_request\");break;case \"account_selection_required\":case \"not_approved\":Uw(a,\"No single a",
+  "new_chunk": false
+ },
+ {
+  "text": "No single approved session",
+  "kind": "copy",
+  "file": "accounts.google.com/gsi/client",
+  "ctx": "quest\":Uw(a,\"Invalid request\",\"bad_request\");break;case \"account_selection_required\":case \"not_approved\":Uw(a,\"No single approved session\",\"no_user_bound\");break;case \"issue_token_failed\":Uw(a,\"Request could not be auto-",
+  "new_chunk": false
+ }
+]

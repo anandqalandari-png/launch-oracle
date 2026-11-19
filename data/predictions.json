@@ -10,12 +10,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 45,
   "deadline": "2026-12-20",
-  "confidence": 0.1,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.1,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "Debug output reports suggestions dismissed in the session as a cause for showing none, which suggests the dismiss behavior is implemented."
    }
   ],
   "evidence": [
@@ -42,6 +47,18 @@
     "kind": "copy",
     "first_seen": "2026-11-05",
     "new_chunk": true
+   },
+   {
+    "text": "Debug: 0 Suggestions Displayed",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Status: NONE (0 suggestions displayed)",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -169,12 +186,17 @@
   "first_evidence": "2026-11-05",
   "window_days": 75,
   "deadline": "2027-01-19",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-05",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "A UI flag and a \"Split suggested\" list now exist at the end of agent chats, so the feature is being wired into the UI."
    }
   ],
   "evidence": [
@@ -194,6 +216,24 @@
     "text": "Keep part 1 in this pull request. Put each later part on its own stacked branch, with a pull request based on the part below it. Keep the total changes the same, and adjust the parts where the code calls for it.",
     "kind": "copy",
     "first_seen": "2026-11-05",
+    "new_chunk": false
+   },
+   {
+    "text": "Split pull requests in agent chats",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Show split suggestions for the chat's pull requests at the end of an agent chat.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Split suggested",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -1269,6 +1309,11 @@
     "date": "2026-11-18",
     "confidence": 0.6,
     "note": "New copy for the filing step shows a full flow: suggestions, a database chooser, a 'Save and continue' button and a 'Organizing your meetings' interstitial. This points to a near-complete UI."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.6,
+    "note": "Many new onboarding v2 strings: transcribe your voice and others, speaker labels for Google Meet and Zoom, device control, the Notetaker installer flow, and a 'Get started' intro. A meeting_notes_launch_day_modal gate suggests a launch-day "
    }
   ],
   "evidence": [
@@ -1372,6 +1417,30 @@
     "text": "By default, your meeting notes are saved to {location}.",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Label individual voices",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "Install extension for Google Meet speaker labels",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "Enable device control",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "meeting_notes_launch_day_modal",
+    "kind": "key",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -1839,6 +1908,11 @@
     "date": "2026-11-18",
     "confidence": 0.55,
     "note": "Trigger behaviour copy confirms the details."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.55,
+    "note": "New copy describes the reaction trigger's run-once-per-message behavior. A separate flag extends Slack triggers to private channels, so the work is still progressing."
    }
   ],
   "evidence": [
@@ -1870,6 +1944,18 @@
     "text": "Runs when anyone adds one of these reactions to a top-level message in a public, non-shared channel. The loop runs at most once per message.",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Start loops from private Slack channels that Linear and the person setting up the trigger are in.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Runs when anyone adds one of these reactions to a top-level message in the selected channels. The loop runs at most once per message.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -1909,6 +1995,11 @@
     "date": "2026-11-13",
     "confidence": 0.45,
     "note": "The flag text confirms the rail design, and Pin to Workbench actions have been added."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "A flag description confirms the compact rail and adds that personal settings open in a modal and workspace settings go fullscreen."
    }
   ],
   "evidence": [
@@ -1940,6 +2031,12 @@
     "text": "Pin to Workbench",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Group existing navigation into Inbox, Home, Workbench, Reviews, and Search in a compact rail. Show personal settings in a modal and workspace settings fullscreen.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -2287,7 +2384,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-07",
@@ -2308,6 +2405,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "The task editor code handles startTime and endTime with Immediately/Specific and Never/Specific options, a gmailTrigger emailQuery, and a second 'electricTrigger' query type."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "The task editor handles gmailTrigger and electricTrigger queries, specific or immediate start times, and end times set to Never or Specific."
    }
   ],
   "evidence": [
@@ -2339,6 +2441,12 @@
     "text": ",p=N(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?F.SPECIFIC:F.IMMEDIATELY,g=N(e.endTime),_=g===void 0?B(t,1):new Date(g),v=g===void 0?I.NEVER:I.SPECIFIC,y=g===void 0?",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": ",p=F(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?L.SPECIFIC:L.IMMEDIATELY,g=F(e.endTime),_=g===void 0?le(t,1):new Date(g),v=g===void 0?R.NEVER:R.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -2602,7 +2710,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 75,
   "deadline": "2027-01-21",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-07",
@@ -2618,6 +2726,11 @@
     "date": "2026-11-18",
     "confidence": 0.5,
     "note": "The agent tool display for submitting evidence now exists."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "A new \"Evidence report\" panel label shows the evidence UI is being built out in Reviews."
    }
   ],
   "evidence": [
@@ -2667,6 +2780,12 @@
     "text": "Attached evidence reports",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Evidence report",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -3163,7 +3282,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 45,
   "deadline": "2026-12-24",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-09",
@@ -3179,6 +3298,11 @@
     "date": "2026-11-13",
     "confidence": 0.5,
     "note": "The tool picker now has a 'Skills and Tools' heading and skill status labels such as 'This skill requires review'. A 'Computer use' tool entry (cua_computer_control) appears alongside them."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.55,
+    "note": "There is a skill editor with a file tree and a save button, zip upload, SKILL.md frontmatter validation errors, and a canShare flag. This points to a fairly complete skills authoring flow."
    }
   ],
   "evidence": [
@@ -3247,6 +3371,18 @@
     "kind": "copy",
     "first_seen": "2026-11-13",
     "new_chunk": true
+   },
+   {
+    "text": "The skill name is invalid. It must be 1–64 characters, using letters or non-Latin characters (no uppercase), numbers, and hyphens only.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "Failed to load skill structure",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -3433,7 +3569,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.6,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-09",
@@ -3454,6 +3590,11 @@
     "date": "2026-11-18",
     "confidence": 0.6,
     "note": "Triage mode Manual/Autopilot selector, a reporter-question flow and reassessment states."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "The triage card now shows duplicate verdicts, investigation progress, and fix or implementation outcomes, so it appears to go beyond triage."
    }
   ],
   "evidence": [
@@ -3516,6 +3657,36 @@
     "kind": "copy",
     "first_seen": "2026-11-18",
     "new_chunk": false
+   },
+   {
+    "text": "Autopilot would mark as duplicate of",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Investigating the issue…",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn’t investigate the issue",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Fixed and pushed",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Implementation failed",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -3543,7 +3714,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 75,
   "deadline": "2027-01-23",
-  "confidence": 0.55,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-09",
@@ -3554,6 +3725,11 @@
     "date": "2026-11-10",
     "confidence": 0.55,
     "note": "New resources UI with sections that can be created and renamed, and workspace and team resources variants."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "A flag named \"overview-pills\" ties the Resources section to the new project and initiative property pills."
    }
   ],
   "evidence": [
@@ -3585,6 +3761,18 @@
     "text": "Workspace resources",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Show project and initiative properties as pills, with a Resources section",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Overview pills",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -4813,7 +5001,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-11",
@@ -4824,6 +5012,11 @@
     "date": "2026-11-18",
     "confidence": 0.4,
     "note": "New code shows a view-only mode and a 'taking control' state that sets viewOnly to false. This confirms the user can take over the agent's remote browser, not just watch it."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "A log line shows the remote view switching from view-only to taking control, with a 'connected-full-control' state. This supports user takeover of the agent's browser."
    }
   ],
   "evidence": [
@@ -4843,6 +5036,12 @@
     "text": "Connection state set to CONNECTED_FULL_CONTROL.",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": "RFB viewOnly set to false (taking control).",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": true
    }
   ],
@@ -5052,7 +5251,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.6,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-11",
@@ -5078,6 +5277,11 @@
     "date": "2026-11-18",
     "confidence": 0.6,
     "note": "Page creation, move and duplication flows with error handling suggest it is close to shipping."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "Inline creation of document pages is now built. Public links will also cover sub-pages."
    }
   ],
   "evidence": [
@@ -5151,6 +5355,24 @@
     "text": "Can’t move a document into one of its own document pages",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "New document page title",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Document page title",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Discard document page",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -5434,7 +5656,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-12",
@@ -5445,6 +5667,11 @@
     "date": "2026-11-17",
     "confidence": 0.4,
     "note": "The code shows a likenessUuid empty state with sharing and a list of recipients identified by obfuscated Gaia ID. This points to a built sharing management UI."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.45,
+    "note": "A likeness sharing list and empty state are rendered with a 'viewer: g.sharing' prop, and likeness attachments are keyed by likenessUuid."
    }
   ],
   "evidence": [
@@ -5464,6 +5691,12 @@
     "text": ",padding:c?void 0:",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": ",padding:s?void 0:",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -5492,7 +5725,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-12",
@@ -5508,6 +5741,11 @@
     "date": "2026-11-17",
     "confidence": 0.4,
     "note": "Vega chat bubbles now carry quote-highlight and request-id attributes, and there is a thinking-header toggle. This suggests the Vega UI is being built out."
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "A Vega app definition has the subtitle 'Your Gemini companion, tasks, and spaces.' and notifies via Google Chat by default. A '/daily-brief/thread' route is also present. Together these suggest Vega is a companion that sits beside or replac"
    }
   ],
   "evidence": [
@@ -5540,6 +5778,18 @@
     "kind": "copy",
     "first_seen": "2026-11-17",
     "new_chunk": false
+   },
+   {
+    "text": "Your Gemini companion, tasks, and spaces.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "/daily-brief/thread",
+    "kind": "flag",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -6135,12 +6385,17 @@
   "first_evidence": "2026-11-13",
   "window_days": 90,
   "deadline": "2027-02-11",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-13",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "The attachment code lazy-loads a VideoTrimmerDialog chunk, so the trimmer is wired into the attachment flow."
    }
   ],
   "evidence": [
@@ -6172,6 +6427,12 @@
     "text": "Unsupported MP4 container: moov contains no trak boxes",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "&&e.likenessUuid!==void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -6494,12 +6755,17 @@
   "first_evidence": "2026-11-13",
   "window_days": 45,
   "deadline": "2026-12-28",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-13",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "The session model label now appends \" · Fast\" when fast mode is on, so the UI is being built."
    }
   ],
   "evidence": [
@@ -7909,12 +8175,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.55,
+    "note": "The composer wiring now passes quotes, capAlertVisible and restoreFromHighlightToAskContext, so the UI integration is in place."
    }
   ],
   "evidence": [
@@ -7922,6 +8193,12 @@
     "text": ",In=yt?Tt.clearQuotes:void 0,Ln=yt?Tt.dismissCapAlert:void 0,Rn=yt?Tt.removeQuoteAt:void 0,zn=yt?Tt.restoreFromHighlightToAskContext:void 0,Bn=yt?Tt.restoreQuoteAt:void 0,Vn=X?void 0:B,Hn=yt?Tt.quotes:void 0,Un=yt?Tt.capAlertVisible:!1,Wn=It?",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "||void 0,tr=Y?void 0:U,nr=Et?Mt.quotes:void 0,rr=Et?Mt.capAlertVisible:!1,ir=Kt?",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -8256,12 +8533,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.55,
+    "note": "A flag for the Interactions API now lists a third model, Gemini 4 Neon."
    }
   ],
   "evidence": [
@@ -8281,6 +8563,18 @@
     "text": "Gemini Interactions API",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Send Gemini requests through the Interactions API, and offer Gemini 4 Carbon, Hydrogen and Neon as Linear Agent coding models.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Gemini 4 Neon",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -8355,12 +8649,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.6,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "Validation messages for applying suggestions suggest the apply flow is in place."
    }
   ],
   "evidence": [
@@ -8392,6 +8691,18 @@
     "text": "Cannot apply a suggestion from a resolved thread",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Cannot apply a suggestion to deleted lines",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Cannot apply a suggestion from a pending review",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -8836,12 +9147,17 @@
   "first_evidence": "2026-11-18",
   "window_days": 90,
   "deadline": "2027-02-16",
-  "confidence": 0.2,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-18",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "The Gem data mapper repeats the brandName, logoUrl, zeroStatePrompts and defaultFeatureMode fields in a second code chunk, which indicates a real data model."
    }
   ],
   "evidence": [
@@ -8855,6 +9171,12 @@
     "text": ",description:b.description,logoUrl:(g=(d=b.f4)==null?void 0:d.JKa)!=null?g:",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.OC],defaultFeatureMode:(q=b.Pga)!=null?q:null,brandName:(t=(e=b.Cba)==null?void 0:e.yUa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": true
    }
   ],
@@ -9425,6 +9747,11 @@
     "date": "2026-11-18",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "New \"Keep contents open\" and \"Open outline\" controls correspond to the column outline feature."
    }
   ],
   "evidence": [
@@ -9438,6 +9765,18 @@
     "text": "Keep the document outline open as a column beside the text, with the document's pages above the headings.",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Keep contents open",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Open outline",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
     "new_chunk": false
    }
   ],
@@ -9496,6 +9835,489 @@
    "rollout_guess": "A quiet change that may never be announced.",
    "open_questions": [
     "Is it announced at all?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-19-mark-chats-and-tasks-as-read-or-unread",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Mark chats and tasks as read or unread",
+  "one_liner": "Users can mark conversations or agent tasks as read or unread from the chat menu, so they can flag items that need attention.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 60,
+  "deadline": "2027-01-18",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Mark as read",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "Mark as unread",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "Needs input:",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Long-running agent tasks and chats finish or stall in the background, and users have no way to track which ones they have already looked at.",
+   "users": "Heavy users with many chats and agent tasks, especially people using agents.",
+   "what": "Adds 'Mark as read' and 'Mark as unread' actions to the conversation context menu. Task titles can show a 'Needs input:' prefix.",
+   "how_it_appears": "The overflow menu next to a chat in the side navigation, beside Pin, Rename and Share. Unread state likely appears as a marker on the row.",
+   "rollout_guess": "Likely ships with agent task status work, first to subscribers who use agents.",
+   "open_questions": [
+    "Does it apply to all chats or only agent tasks?",
+    "Is unread state synced to mobile?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-19-custom-agent-trigger-batching-daily",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Custom Agent trigger batching (daily)",
+  "one_liner": "Custom Agent triggers can be batched so the agent runs once a day at a chosen time and timezone instead of firing on every event.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 75,
+  "deadline": "2027-02-02",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Trigger batching is not enabled for this workspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Trigger batching currently supports daily schedules only. Set frequency to ‘day’ and interval to 1.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Batching requires a Custom Agent trigger without an external harness, script, or Worker target.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose a valid timezone, an hour from 0 to 23, and a minute from 0 to 59 for daily batching.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Custom Agents triggered by frequent events run too often, which is noisy and costly.",
+   "users": "Builders of Custom Agents, with triggers such as Slack messages or database changes.",
+   "what": "A batching option on a Custom Agent trigger. Events are collected and handled in one daily run at a set hour, minute and timezone. Only daily schedules are supported, and external harness, script or Worker targets are excluded.",
+   "how_it_appears": "Trigger settings in the Custom Agent configuration. The strings are server-side transaction validation errors.",
+   "rollout_guess": "Gated per workspace (the 'not enabled for this workspace' error), so likely a staged rollout starting with a few workspaces.",
+   "open_questions": [
+    "Will batching expand beyond daily schedules?",
+    "Which trigger types are eligible? One key name hints at Slack-only."
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-19-openai-gpt-6-2-astra-and-sol-models",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "OpenAI GPT-6.2 Astra and Sol models",
+  "one_liner": "Two new OpenAI models, GPT-6.2 Astra and GPT-6.2 Sol, become selectable for Notion AI.",
+  "category": "expansion",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 45,
+  "deadline": "2027-01-03",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "OpenAI GPT-6.2 Astra",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "OpenAI GPT-6.2 Sol",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users want access to the newest frontier models inside Notion AI and agents.",
+   "users": "Notion AI and agent users, especially on paid plans.",
+   "what": "Two new model catalog entries, both in the 'intelligent' display group, with per-token pricing rates defined.",
+   "how_it_appears": "Model picker for AI chat and agents. Inferred: shown with the provider name in the model list.",
+   "rollout_guess": "Inferred: the catalog entries are present, so a model launch announcement is likely soon, probably tied to the provider's release.",
+   "open_questions": [
+    "Are both models available to all plans or only some?",
+    "Do the names match the provider's public release?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-scim-user-groups",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "SCIM user groups",
+  "one_liner": "Workspaces with SCIM on store their SCIM groups as user groups, and admins map them to teams and workspace roles in settings.",
+  "category": "expansion",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 90,
+  "deadline": "2027-02-17",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Store the SCIM groups of a workspace that turns SCIM on as user groups, which admins map to teams and workspace roles in settings.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "SCIM user groups",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Enterprise admins who provision users through SCIM cannot use their identity-provider groups to assign teams and roles, so they manage access by hand.",
+   "users": "Enterprise workspace admins using SCIM provisioning.",
+   "what": "Linear stores the SCIM groups pushed by the identity provider as user groups. Admins map each group to teams and workspace roles.",
+   "how_it_appears": "A feature flag named \"scim-user-groups\", plus a mapping UI in workspace settings.",
+   "rollout_guess": "Enterprise plan only. Likely a staged rollout, possibly announced in a changelog entry or the SCIM docs.",
+   "open_questions": [
+    "Do groups sync both ways, or only from the identity provider into Linear?",
+    "Are the mappings limited to teams and roles, or will groups also be usable in permissions and mentions?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-document-public-links",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Document public links",
+  "one_liner": "Share a document and its sub-pages through a public link that anyone can view without a Linear account.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 75,
+  "deadline": "2027-02-02",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Share a document and its sub-pages through a public link that anyone can view without an account.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Document public links",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Documents can only be seen by people inside the workspace, so sharing them with outsiders is awkward.",
+   "users": "Workspace members who publish specs, notes or docs to external readers.",
+   "what": "A public, view-only URL for a document. Its nested pages are included.",
+   "how_it_appears": "A flag named \"document-public-links\". Inferred: a Share control in the document menu next to the other document sharing controls.",
+   "rollout_guess": "Likely ships together with document sharing and nested pages, in staged access.",
+   "open_questions": [
+    "Can admins disable public links for a workspace?",
+    "Does the link expire, or can it be revoked or password-protected?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-linear-review-ci-check-on-github",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Linear Review CI check on GitHub",
+  "one_liner": "Linear posts a GitHub check that fails while Linear Review findings are open, so open findings can block merges.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 60,
+  "deadline": "2027-01-18",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Let workspaces fail a Linear Review check on GitHub while findings are open.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Lets Linear add a Linear Review check that fails while findings are open",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Review CI check",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Linear Review findings are advisory, and merging is not blocked while they remain unresolved.",
+   "users": "Engineering teams that use Linear Review together with GitHub branch protection.",
+   "what": "A GitHub check run created by Linear that fails while review findings are open and passes once they are resolved. It uses the new checks:write permission.",
+   "how_it_appears": "A flag named \"diffs-linear-review-block-ci\", a GitHub app permission description for \"checks:write\", and a workspace-level setting.",
+   "rollout_guess": "Opt-in per workspace. Existing GitHub installations will probably need to approve the extra permission.",
+   "open_questions": [
+    "Is the check enabled per repository or per workspace?",
+    "How do people dismiss a finding so that the check passes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-guide-v2-for-code",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Guide v2 for code",
+  "one_liner": "A block-by-block code explanation shown next to the file Guide, with widgets, widely used files and backstory.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 90,
+  "deadline": "2027-02-17",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Generate Guide v2, which explains code block by block next to the file Guide, with its widgets, widely used files, and backstory.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Show the file Guide with Guide v2's summary, widgets, and backstory, and let readers open each section into its Guide v2 walkthrough. Needs Guide v2.",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Understanding unfamiliar code and pull requests takes too long.",
+   "users": "Developers reading code and reviewing in Linear's Diffs and Reviews views.",
+   "what": "Guide v2 generates a walkthrough that explains code block by block. Each section opens into a detailed walkthrough, and the file Guide gains a summary, widgets and backstory.",
+   "how_it_appears": "The file Guide in the Diffs/code viewer, with expandable sections for each walkthrough.",
+   "rollout_guess": "Gated behind two flags, one for generation and one for the UI. Probably a gradual rollout to Linear Code users.",
+   "open_questions": [
+    "Is Guide v2 billed as agent usage?",
+    "Does it replace the current Guide or sit alongside it?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-open-github-and-graphite-pr-links-in-lin",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Open GitHub and Graphite PR links in Linear (with Chrome extension)",
+  "one_liner": "Pull request links from GitHub and Graphite open in Linear Reviews, including from anywhere in the browser through a Chrome extension.",
+  "category": "new_feature",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 60,
+  "deadline": "2027-01-18",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Open review links in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Open GitHub and Graphite pull request links in comments and descriptions in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Open GitHub and Graphite pull request links in Linear from anywhere in the browser",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "GitHub and Graphite pull request links open in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Install Chrome extension",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "PR links in Linear comments and in the browser send people to GitHub, away from Linear's review experience.",
+   "users": "Reviewers and engineers who use Linear Reviews.",
+   "what": "A user setting that opens PR links in Linear instead of GitHub or Graphite. A Chrome extension redirects those links from any web page. A toast offers to turn the setting off.",
+   "how_it_appears": "A GitHub links group in preferences with \"Open review links in Linear\", \"External review tool\" and \"Chrome extension\" entries, and an \"Opened in Linear\" toast with an \"Install Chrome extension\" link.",
+   "rollout_guess": "The UI is already built, so probably released with Reviews becoming broadly available.",
+   "open_questions": [
+    "Will it be on by default?",
+    "Is the extension available on the Chrome Web Store at launch?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-19-compiled-loops-programs-with-shadow-runs",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Compiled Loops (programs with shadow runs)",
+  "one_liner": "Loops compile into programs that run without the agent, with shadow dry-runs next to the agent and a fallback to the agent.",
+  "category": "experiment",
+  "created": "2026-11-19",
+  "first_evidence": "2026-11-19",
+  "window_days": 120,
+  "deadline": "2027-03-19",
+  "confidence": 0.15,
+  "history": [
+   {
+    "date": "2026-11-19",
+    "confidence": 0.15,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "The program handed the run to the agent",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "The program did not start, so the agent did the run",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "The agent did the run, and the program dry-ran next to it",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "The program stopped the run",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "The program has not finished",
+    "kind": "copy",
+    "first_seen": "2026-11-19",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Running every loop through an LLM is slow and costly for repetitive automations.",
+   "users": "Loop authors and workspaces with high-volume loops.",
+   "what": "A loop run shows its mode: Compiled, LLM, or LLM + shadow, where the program dry-runs beside the agent. It also shows when the program handed off to the agent, or was stopped.",
+   "how_it_appears": "The run-history status and details of a loop run.",
+   "rollout_guess": "Probably an internal or early-access experiment with little public announcement.",
+   "open_questions": [
+    "Is compilation automatic or opt-in?",
+    "Does it lower the credits a run costs?"
    ]
   },
   "status": "open",
