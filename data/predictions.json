@@ -283,6 +283,11 @@
     "date": "2026-11-18",
     "confidence": 0.6,
     "note": "New sharing audience labels and a personal documents overview."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.6,
+    "note": "Shared with me and My documents empty states show the product surfaces for private and shared docs are close to ready."
    }
   ],
   "evidence": [
@@ -344,6 +349,18 @@
     "text": "Only members of the team and people it's shared with",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Work on documents with others. Documents people share with you appear here, including private ones and ones from teams you’re not in.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Shared with you on",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -932,7 +949,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 75,
   "deadline": "2027-01-20",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-06",
@@ -953,6 +970,11 @@
     "date": "2026-11-17",
     "confidence": 0.5,
     "note": "New quiz result copy covers per-question feedback: correct and incorrect answers, the user's own answer, and encouraging messages. This supports a polished quiz review UI."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "New quiz UI copy adds streak celebration messages and score-tier summaries, which suggests the quiz experience is close to finished."
    }
   ],
   "evidence": [
@@ -1044,6 +1066,24 @@
     "text": "Right answer!",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": true
+   },
+   {
+    "text": "You've mastered this set.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Three in a row!",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Quiz royalty!",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": true
    }
   ],
@@ -2410,6 +2450,11 @@
     "date": "2026-11-19",
     "confidence": 0.45,
     "note": "The task editor handles gmailTrigger and electricTrigger queries, specific or immediate start times, and end times set to Never or Specific."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "The edit-task code handles gmailTrigger and electricTrigger queries along with specific start and end times."
    }
   ],
   "evidence": [
@@ -2447,6 +2492,12 @@
     "text": ",p=F(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?L.SPECIFIC:L.IMMEDIATELY,g=F(e.endTime),_=g===void 0?le(t,1):new Date(g),v=g===void 0?R.NEVER:R.SPECIFIC,y=g===void 0?",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": ",p=j(e.startTime),m=c??(p===void 0?new Date(t.getTime()):new Date(p)),h=c!==null||p!==void 0?N.SPECIFIC:N.IMMEDIATELY,g=j(e.endTime),_=g===void 0?oe(t,1):new Date(g),v=g===void 0?P.NEVER:P.SPECIFIC,y=g===void 0?",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -2710,7 +2761,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 75,
   "deadline": "2027-01-21",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
@@ -2731,6 +2782,11 @@
     "date": "2026-11-19",
     "confidence": 0.4,
     "note": "A new \"Evidence report\" panel label shows the evidence UI is being built out in Reviews."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "Reviews can rerun evidence scenarios, all of them or only the failed ones, with extra instructions."
    }
   ],
   "evidence": [
@@ -2786,6 +2842,18 @@
     "text": "Evidence report",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Rerun evidence scenarios",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Rerun failed scenarios",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -3168,12 +3236,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "Label values can be locked because they are linked to a Jira field, with a link check and retry."
    }
   ],
   "evidence": [
@@ -3187,6 +3260,18 @@
     "text": "Sync chosen Jira custom fields through workspace label groups",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Linked to a Jira field",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Checking Jira link…",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -3282,7 +3367,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 45,
   "deadline": "2026-12-24",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-09",
@@ -3303,6 +3388,11 @@
     "date": "2026-11-19",
     "confidence": 0.55,
     "note": "There is a skill editor with a file tree and a save button, zip upload, SKILL.md frontmatter validation errors, and a canShare flag. This points to a fairly complete skills authoring flow."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "A skill editor with a save button and file-tree view, plus canShare and draft state, is now present."
    }
   ],
   "evidence": [
@@ -3382,6 +3472,12 @@
     "text": "Failed to load skill structure",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "),subtitle:e.description,instructions:e.instructions,skillMdContent:e.skillMdContent,entries:c,blobId:l,versionId:void 0,fileDownloadUrl:void 0,hasFullStructure:e.isNew||(e.hasFullStructure??r?.hasFullStructure??!0),isDraft:!1,isEnabled:f,category:f?",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -3569,7 +3665,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.45,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-09",
@@ -3595,6 +3691,11 @@
     "date": "2026-11-19",
     "confidence": 0.45,
     "note": "The triage card now shows duplicate verdicts, investigation progress, and fix or implementation outcomes, so it appears to go beyond triage."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "A second flag, triage-autopilot-experimental, adds assignee and reasoning display on top of the UI flag, so the work is still in progress."
    }
   ],
   "evidence": [
@@ -3686,6 +3787,18 @@
     "text": "Implementation failed",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "triage-autopilot-experimental",
+    "kind": "key",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Show whom the triage autopilot would assign and why it fixed a feature request. Needs triage-autopilot-ui too.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -4851,6 +4964,11 @@
     "date": "2026-11-11",
     "confidence": 0.45,
     "note": "New copy shows a Signals page with Signals and Feedback tabs, filtering and empty states, so the surface is built out well beyond a permission check."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "The Signals page header has a copy-URL action."
    }
   ],
   "evidence": [
@@ -4894,6 +5012,12 @@
     "text": "Signals without children will appear here",
     "kind": "copy",
     "first_seen": "2026-11-11",
+    "new_chunk": false
+   },
+   {
+    "text": "Copy signal URL",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -5725,7 +5849,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
@@ -5746,6 +5870,11 @@
     "date": "2026-11-19",
     "confidence": 0.5,
     "note": "A Vega app definition has the subtitle 'Your Gemini companion, tasks, and spaces.' and notifies via Google Chat by default. A '/daily-brief/thread' route is also present. Together these suggest Vega is a companion that sits beside or replac"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "More Vega UI is present, including bubble action slots and quote highlighting."
    }
   ],
   "evidence": [
@@ -5790,6 +5919,12 @@
     "kind": "flag",
     "first_seen": "2026-11-19",
     "new_chunk": true
+   },
+   {
+    "text": "?-1:void 0,shrink:0,sx:[Rc.actionSlot,r&&Rc.actionVisible],transition:",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -5817,7 +5952,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
@@ -5828,6 +5963,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "A link button with a data-out-of-credits attribute that switches to an accent variant and an optional plus icon points to an actual out-of-credits purchase call to action."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "An out-of-credits state is now wired to a link button that has a plus icon."
    }
   ],
   "evidence": [
@@ -5841,6 +5981,12 @@
     "text": ":void 0,minWidth:48,onClick:q,ref:B,rel:",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,minWidth:48,onClick:ne,ref:z,rel:",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -6195,12 +6341,17 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-12",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "Chat actions now include mark as done and not done."
    }
   ],
   "evidence": [
@@ -6226,6 +6377,18 @@
     "text": "Mark as not done",
     "kind": "copy",
     "first_seen": "2026-11-12",
+    "new_chunk": false
+   },
+   {
+    "text": "Mark chat as done",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Mark chat as not done",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -6311,7 +6474,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.65,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-12",
@@ -6327,6 +6490,11 @@
     "date": "2026-11-14",
     "confidence": 0.65,
     "note": "More GitLab surfaces appeared: project loading, an expired-token state, review guides that work with GitLab code access, and GitLab Loop triggers with documented limits. This points to a near-complete integration."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "Reviews banners now offer GitLab connect and reconnect states for code review access."
    }
   ],
   "evidence": [
@@ -6359,6 +6527,12 @@
     "kind": "copy",
     "first_seen": "2026-11-14",
     "new_chunk": false
+   },
+   {
+    "text": "Reconnect your GitLab account",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -6461,12 +6635,17 @@
   "first_evidence": "2026-11-13",
   "window_days": 60,
   "deadline": "2027-01-12",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-13",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "The strings add transit step detail, an expandable step list, and the line chain."
    }
   ],
   "evidence": [
@@ -6504,6 +6683,30 @@
     "text": "No transit route found for this trip.",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Show fewer steps",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Show all steps",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Transit lines",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Board at",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": true
    }
   ],
@@ -6942,7 +7145,7 @@
   "first_evidence": "2026-11-14",
   "window_days": 75,
   "deadline": "2027-01-28",
-  "confidence": 0.35,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-14",
@@ -6953,6 +7156,11 @@
     "date": "2026-11-17",
     "confidence": 0.35,
     "note": "A new offline-specific snackbar message gives the offline state its own UI. This is weak support for the queued-send behaviour."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "Connection states \"Waiting for connection\" and \"Reconnecting\" now appear as thought-status text."
    }
   ],
   "evidence": [
@@ -6972,6 +7180,12 @@
     "text": "You're offline. Check internet connection. Try again",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": true
+   },
+   {
+    "text": "Waiting for connection",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": true
    }
   ],
@@ -7200,6 +7414,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "The file viewer is a resizable large panel (default width 960)."
    }
   ],
   "evidence": [
@@ -7232,6 +7451,12 @@
     "kind": "copy",
     "first_seen": "2026-11-14",
     "new_chunk": true
+   },
+   {
+    "text": "Resize code file viewer",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -7714,7 +7939,7 @@
   "first_evidence": "2026-11-16",
   "window_days": 120,
   "deadline": "2027-03-16",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-16",
@@ -7725,6 +7950,11 @@
     "date": "2026-11-17",
     "confidence": 0.6,
     "note": "Editing UI and type-change safeguards are built."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "A command menu action named Set label value (keywords value, field, id, url, metadata) confirms the apply-time UI."
    }
   ],
   "evidence": [
@@ -7786,6 +8016,12 @@
     "text": "Add a value to this label",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Set label value",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -8175,7 +8411,7 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-17",
@@ -8186,6 +8422,11 @@
     "date": "2026-11-19",
     "confidence": 0.55,
     "note": "The composer wiring now passes quotes, capAlertVisible and restoreFromHighlightToAskContext, so the UI integration is in place."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "The composer now wires up quotes, a cap alert, and restore-from-highlight handlers."
    }
   ],
   "evidence": [
@@ -8199,6 +8440,12 @@
     "text": "||void 0,tr=Y?void 0:U,nr=Et?Mt.quotes:void 0,rr=Et?Mt.capAlertVisible:!1,ir=Kt?",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "||void 0,tr=X?void 0:H,nr=Tt?Ot.quotes:void 0,rr=Tt?Ot.capAlertVisible:!1,ir=Bt?",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -8474,12 +8721,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 75,
   "deadline": "2027-01-31",
-  "confidence": 0.4,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.6,
+    "note": "Agent tool labels and a widget actions menu for create, copy, edit, verify and delete show the feature is well built out."
    }
   ],
   "evidence": [
@@ -8505,6 +8757,24 @@
     "text": "form-action 'none'",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Shows a code widget: a small visual you created in this chat with the code-widgets skill. Show it only after VerifyCodeWidget passes for its current version.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Creating widget…",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Loading widget",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -8776,12 +9046,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 75,
   "deadline": "2027-01-31",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "Pause and resume handlers and toasts for automatic signal updates are now in the code."
    }
   ],
   "evidence": [
@@ -8801,6 +9076,18 @@
     "text": "Customer feedback matched to this project will appear here",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Automatic updates paused",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Unable to change automatic updates",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -8828,12 +9115,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "A thread command with a Describe the task… prompt now appears in the chat command set."
    }
   ],
   "evidence": [
@@ -8859,6 +9151,18 @@
     "text": "Could not start thread",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Start thread",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "New thread…",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -9147,7 +9451,7 @@
   "first_evidence": "2026-11-18",
   "window_days": 90,
   "deadline": "2027-02-16",
-  "confidence": 0.4,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-18",
@@ -9158,6 +9462,11 @@
     "date": "2026-11-19",
     "confidence": 0.4,
     "note": "The Gem data mapper repeats the brandName, logoUrl, zeroStatePrompts and defaultFeatureMode fields in a second code chunk, which indicates a real data model."
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.35,
+    "note": "A fresh code chunk maps brandName, logoUrl, defaultFeatureMode and zeroStatePrompts into the Gem model."
    }
   ],
   "evidence": [
@@ -9177,6 +9486,12 @@
     "text": ",zeroStatePrompts:[...b.OC],defaultFeatureMode:(q=b.Pga)!=null?q:null,brandName:(t=(e=b.Cba)==null?void 0:e.yUa)!=null?t:",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.YC],defaultFeatureMode:(q=b.wha)!=null?q:null,brandName:(t=(e=b.kca)==null?void 0:e.LVa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": true
    }
   ],
@@ -9293,12 +9608,17 @@
   "first_evidence": "2026-11-18",
   "window_days": 60,
   "deadline": "2027-01-17",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-18",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "A Move to project… chat action exists."
    }
   ],
   "evidence": [
@@ -9318,6 +9638,12 @@
     "text": "New chat in project",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not move chat",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -9904,12 +10230,17 @@
   "first_evidence": "2026-11-19",
   "window_days": 75,
   "deadline": "2027-02-02",
-  "confidence": 0.35,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-19",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "A new validation error shows trigger batching is implemented in the backend with a batchUntil parameter. It cannot be combined with recurrence triggers. A neighbouring error key, trigger_batching_slack_only, suggests batching may launch lim"
    }
   ],
   "evidence": [
@@ -9935,6 +10266,12 @@
     "text": "Choose a valid timezone, an hour from 0 to 23, and a minute from 0 to 59 for daily batching.",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Recurrence triggers already define when to run. Remove batchUntil.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -10157,12 +10494,17 @@
   "first_evidence": "2026-11-19",
   "window_days": 90,
   "deadline": "2027-02-17",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-19",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "A new sub-flag adds source excerpts (Slack, customer requests) beside the Guide v2 backstory."
    }
   ],
   "evidence": [
@@ -10176,6 +10518,18 @@
     "text": "Show the file Guide with Guide v2's summary, widgets, and backstory, and let readers open each section into its Guide v2 walkthrough. Needs Guide v2.",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Guide backstory widgets",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Show excerpts of the backstory's sources, such as Slack messages and customer requests, beside the Guide backstory. Sources are saved either way.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
     "new_chunk": false
    }
   ],
@@ -10318,6 +10672,813 @@
    "open_questions": [
     "Is compilation automatic or opt-in?",
     "Does it lower the credits a run costs?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-20-chatgpt-desktop-app-download-for-intel-m",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "ChatGPT desktop app download for Intel Macs",
+  "one_liner": "Download the ChatGPT Mac app in separate builds for Apple Silicon and Intel Macs from a public download page.",
+  "category": "expansion",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Download for Intel Mac",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Download for Apple Silicon",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Download ChatGPT",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "The ChatGPT Mac app has been Apple Silicon only, so Intel Mac owners cannot install it.",
+   "users": "Intel Mac users, including logged-out visitors to the marketing download page.",
+   "what": "A download page that offers both an Apple Silicon build and an Intel Mac build of the ChatGPT desktop app. Inferred: this means a new universal or Intel build.",
+   "how_it_appears": "A marketing-download page (keys lightweight-web.marketing-download.apple-silicon, .intel-mac and .download-chatgpt), localised into about 40 languages.",
+   "rollout_guess": "Inferred: the page goes live with a desktop app update, and the strings may already be served to a hidden route.",
+   "open_questions": [
+    "Is the Intel build for the existing ChatGPT app, or for another desktop product?",
+    "Is the download page already live and just newly picked up by the crawler?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "chatgpt-2026-11-20-new-voice-upsell-on-shared-conversation-",
+  "app": "chatgpt",
+  "app_name": "ChatGPT",
+  "title": "New Voice upsell on shared conversation pages",
+  "one_liner": "People who open a shared ChatGPT link see a 'Meet the new Voice' prompt and can start a Voice conversation.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 45,
+  "deadline": "2027-01-04",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Meet the new Voice",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "More natural. More intelligent. Ready to talk.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "receiver_voice_upsell",
+    "kind": "key",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Recipients of shared conversations have no direct path into Voice, and the Voice experience is being refreshed.",
+   "users": "Logged-out and logged-in visitors who open a shared link.",
+   "what": "An upsell card on the shared-conversation receiver view that promotes a refreshed Voice mode ('More natural. More intelligent.') with a Start Voice button. Inferred: a new voice model or experience is launching alongside it.",
+   "how_it_appears": "A card or beacon on the share receiver page (beacon id receiver_voice_upsell), next to the report and back-to-ChatGPT actions.",
+   "rollout_guess": "Inferred: ships with or shortly after a Voice upgrade announcement.",
+   "open_questions": [
+    "Is the 'new Voice' a new model or only a UI redesign?",
+    "Does Start Voice work for logged-out users?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-20-task-mode-picker-hand-off-to-dos-to-gemi",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Task mode picker (hand off to-dos to Gemini)",
+  "one_liner": "Users choose Task or Chat when starting a request, and in Task mode Gemini works through to-dos such as booking travel or planning meals.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Hand off your to-dos",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "From booking travel to planning meals, let Gemini check things off your list.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users have to use a separate agent entry point to delegate multi-step errands.",
+   "users": "Gemini web users, probably paid agent subscribers first.",
+   "what": "A mode choice in the composer, Task (\"Hand off to-dos\") versus Chat (\"Ask questions or brainstorm\"), that starts a long-running task.",
+   "how_it_appears": "A composer or home-screen action button and a mode picker. The Task entry reads \"Hand off to-dos\" and the Chat entry reads \"Ask questions or brainstorm\". A placeholder task titled \"Initializing task…\" appears while the task starts.",
+   "rollout_guess": "Likely arrives together with the agent task list and filters, starting with subscribers.",
+   "open_questions": [
+    "Is this a replacement for the existing Agent tool or an addition?",
+    "Which plans get access first?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-20-enter-to-send-keyboard-setting",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Enter-to-send keyboard setting",
+  "one_liner": "Users choose in Settings whether Enter sends a message or adds a new line.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Press Enter to send",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Send message (Enter)",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Add a new line (Enter)",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users who write long prompts want Enter to insert a new line and not send accidentally.",
+   "users": "Desktop web users.",
+   "what": "A toggle that swaps the Enter and Shift+Enter behaviour, with labels showing the current mapping.",
+   "how_it_appears": "A setting under Settings (the strings sit beside \"Media watermark\" and \"Remote Browser Data\") plus tooltips on the send button.",
+   "rollout_guess": "A small setting that could ship quietly, possibly without a release-note entry.",
+   "open_questions": [
+    "Is it web-only?",
+    "Will it be announced in release notes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-20-spaces-page",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Spaces page",
+  "one_liner": "Users get a Spaces page in Gemini with spaces that can be synced.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 90,
+  "deadline": "2027-02-18",
+  "confidence": 0.2,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.2,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "if_spaces_enabled",
+    "kind": "key",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Inferred: users want to organise related chats and content in shared or persistent workspaces.",
+   "users": "Gemini web users.",
+   "what": "A dedicated Spaces page gated by a BARD_SPACES__ENABLE_SPACES_PAGE flag, with a refresh or sync control.",
+   "how_it_appears": "A Spaces destination in side navigation, loaded through a GraphQL includeSpaces condition.",
+   "rollout_guess": "Likely a staged experiment before any announcement.",
+   "open_questions": [
+    "What a Space actually contains.",
+    "Is it a consumer or a Workspace feature?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-20-mcp-app-widgets-in-conversations",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "MCP app widgets in conversations",
+  "one_liner": "Interactive widgets from connected MCP tools render inside Gemini responses.",
+  "category": "integration",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 90,
+  "deadline": "2027-02-18",
+  "confidence": 0.15,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.15,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "MCP frame session disposed",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "SafeContentFrame load timeout",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Inferred: tool results from connectors are text-only and cannot offer interactive interfaces.",
+   "users": "Users with connectors or MCP-based apps.",
+   "what": "Sandboxed frames that host a tool's widget, with tool calls routed back through Gemini and the conversation reloaded afterwards.",
+   "how_it_appears": "Inline widget cards inside model responses.",
+   "rollout_guess": "Probably tied to the skills and connectors work, and may start with partners.",
+   "open_questions": [
+    "Which MCP servers or partners are supported?",
+    "Is it consumer-facing?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-20-smb-free-trial-signup-with-onboarding-ag",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "SMB free-trial signup with onboarding agent",
+  "one_liner": "Small businesses arriving from a trial link get a dedicated 'free trial is ready' login page, and a setup agent walks them through configuring Notion for their business.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Your free trial is ready.{br}Set up your business in Notion.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "smb_onboarding_agent_enabled",
+    "kind": "key",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Small businesses starting a trial need guided setup, and a generic signup flow does not give them that.",
+   "users": "SMB prospects starting a Notion Business trial.",
+   "what": "An SMB-specific trial login page ('Claim your free trial') that leads into an onboarding agent flow. The agent is spawned only behind the gate smb_onboarding_agent_enabled, and not for the meeting_notes intent.",
+   "how_it_appears": "Login/signup page with SMB trial title copy, then an onboarding agent chat in the new workspace.",
+   "rollout_guess": "Gated rollout to SMB trial signups, probably through a marketing campaign or a self-serve trial page.",
+   "open_questions": [
+    "Is the trial itself new, or only the onboarding experience?",
+    "Will the onboarding agent be mentioned in release notes, or stay a quiet growth experiment?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-zoom-and-launchdarkly-mcp-connectors",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Zoom and LaunchDarkly MCP connectors",
+  "one_liner": "Connect built-in Zoom and LaunchDarkly connectors from the connector directory so Linear Agent can read meetings, transcripts and feature flag state.",
+  "category": "integration",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 45,
+  "deadline": "2027-01-04",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "MCP connector expansion",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "List the built-in Zoom MCP connector in the connector directory and allow connecting it.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Zoom to let Linear Agent search meetings and read recordings, transcripts, and notes, so decisions from calls turn into work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect LaunchDarkly to let Linear Agent read feature flags, targeting rules, and rollout status, so release work in Linear reflects what is live for users",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Meeting decisions and feature rollout state live outside Linear, so Agent cannot use them.",
+   "users": "Workspace members using Linear Agent and admins who manage connectors.",
+   "what": "Built-in MCP connectors for Zoom (search meetings, read recordings, transcripts and notes) and LaunchDarkly (read flags, targeting rules and rollout status).",
+   "how_it_appears": "Connector directory, behind the mcp-connector-expansion and agent-zoom-mcp-support flags.",
+   "rollout_guess": "Gradual flag rollout, likely announced alongside other connector additions.",
+   "open_questions": [
+    "Is the whole batch gated by one flag or does each connector ship separately?",
+    "Will connectors need admin approval per workspace?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-planned-oauth-client-secret-rotation",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Planned OAuth client secret rotation",
+  "one_liner": "Admins rotate an OAuth app's client secret while the old one keeps working for a chosen period, and control which admins can view the secret.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Planned OAuth secret rotation",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Let admins rotate an OAuth app's client secret while the old secret keeps working for a set time. Turn on only after every API instance runs a build that supports it.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Both secrets work until the time you choose, so you can update your app without downtime. Existing tokens keep working.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Retire previous client secret",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Allow admin to view the client secret",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Rotating an OAuth client secret today breaks integrations at once, forcing downtime.",
+   "users": "Workspace owners and admins who build or manage OAuth apps.",
+   "what": "Planned rotation with an overlap window of 1 hour or more, immediate rotation for leaks, retiring the previous secret, per-admin access to view the secret, and due-for-rotation notifications.",
+   "how_it_appears": "OAuth app settings page under API settings, plus inbox notifications that a client secret is due for rotation.",
+   "rollout_guess": "Flag oauth-planned-secret-rotation turned on once all API instances support it.",
+   "open_questions": [
+    "Will rotation reminders be enforced or optional?",
+    "Will it appear in the changelog or only in the developer docs?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-additional-repositories-for-coding-envir",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Additional repositories for coding environments",
+  "one_liner": "Coding environments can give agent sessions read-only access to other repositories of the same owner.",
+  "category": "expansion",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.55,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.55,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Coding environment additional repositories",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Allow coding environments to give sessions read access to other repositories of the same owner.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Additional repositories",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Additional repositories aren’t available in this workspace",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agent sessions can only see one repository, though work often spans several.",
+   "users": "Teams using Linear Code cloud coding environments.",
+   "what": "Add up to a fixed number of extra repositories to an environment, read-only, with the same owner.",
+   "how_it_appears": "Coding environment settings page, in an Additional repositories section with an Add repository button.",
+   "rollout_guess": "Flagged rollout, then enabled for all workspaces.",
+   "open_questions": [
+    "What is the repository cap per environment?",
+    "Will cross-owner repositories ever be allowed?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-suggested-sidebar-projects",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Suggested sidebar projects",
+  "one_liner": "The sidebar suggests active projects based on your recent issue work, which you can dismiss.",
+  "category": "new_feature",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Suggested sidebar projects",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggest active projects based on your recent issue work",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Suggested projects",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Finding relevant projects in the sidebar takes manual favoriting.",
+   "users": "All members.",
+   "what": "A Suggested projects sidebar section that ranks active projects from your recent issue activity and honors dismissals.",
+   "how_it_appears": "Sidebar section titled Suggested projects, open by default.",
+   "rollout_guess": "Flagged experiment, then default on.",
+   "open_questions": [
+    "How many suggestions will show?",
+    "Can the section be turned off?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-agent-review-freshness-in-pull-request-r",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Agent review freshness in pull request reviews",
+  "one_liner": "Reviews shows how far behind the head commit a Codex or Greptile review is, whether it is re-reviewing, and a button to ask for another review.",
+  "category": "expansion",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 45,
+  "deadline": "2027-01-04",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Agent review freshness",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Show how far the commit a Codex or Greptile review covered is behind the pull request's head, whether the agent is reviewing again, and a button to ask it for another review. Codex review bodies leave out the reviewed commit line the header now shows",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Reviewing new commits",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Reviewing again",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "It is unclear whether a third-party agent review still applies after new commits.",
+   "users": "Engineers reviewing pull requests in Linear Reviews.",
+   "what": "A freshness state (latest, N commits behind, outdated, reviewing again) on Codex and Greptile reviews, with a re-request button.",
+   "how_it_appears": "Pull request activity and review header in Reviews.",
+   "rollout_guess": "Ships alongside the other Reviews improvements.",
+   "open_questions": [
+    "Which other agents will get freshness states?",
+    "Is re-request available for all providers?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-gong-recording-import-into-issues",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Gong recording import into issues",
+  "one_liner": "Configure Gong recording imports so Linear Agent turns calls into issues per team and mentions call participants.",
+  "category": "integration",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 75,
+  "deadline": "2027-02-03",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Enable the Gong integration and Linear Agent to configure recording imports",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Recording intake requires Linear Agent to automatically create issues from calls",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Mention call participants in created issues",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Workspace members on a call will be notified of any issues that were created from it",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Customer call content does not become tracked work without manual effort.",
+   "users": "Workspace and team admins who use Gong.",
+   "what": "Per-team recording import settings, guidance for Gong transcripts, a toggle to mention call participants, and a last-import timestamp.",
+   "how_it_appears": "Gong integration settings with a recording intake section.",
+   "rollout_guess": "Possibly already partly live. The settings look new.",
+   "open_questions": [
+    "Is the Gong integration itself already public?",
+    "Is this limited to certain plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-custom-emoji-upload-from-the-emoji-picke",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Custom emoji upload from the emoji picker",
+  "one_liner": "An Add emoji button in the emoji picker uploads a custom emoji in place.",
+  "category": "expansion",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 60,
+  "deadline": "2027-01-19",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Emoji picker upload",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Show an Add emoji button in the emoji picker that uploads a custom emoji in place.",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Emoji name",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Adding custom emoji requires leaving the picker for settings.",
+   "users": "All members who use custom emoji.",
+   "what": "Upload an image, name it and use it straight from the picker.",
+   "how_it_appears": "Emoji picker footer with an Add emoji button.",
+   "rollout_guess": "Flag emoji-picker-upload, then default on.",
+   "open_questions": [
+    "Do any permissions limit who can add?",
+    "Will it appear in release notes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-20-responsive-device-preview",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Responsive device preview",
+  "one_liner": "Preview a page at responsive or specific device sizes (phones, foldables, tablets) with rotation.",
+  "category": "experiment",
+  "created": "2026-11-20",
+  "first_evidence": "2026-11-20",
+  "window_days": 90,
+  "deadline": "2027-02-18",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-20",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Device size: Responsive",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Galaxy Z Fold 5",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Rotate to portrait",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Rotate to landscape",
+    "kind": "copy",
+    "first_seen": "2026-11-20",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Checking how a UI looks at different device sizes needs external tools.",
+   "users": "Developers using Linear Code sessions.",
+   "what": "A device size menu grouped by phones, foldables and tablets, with a rotate toggle.",
+   "how_it_appears": "A device size picker in a preview pane.",
+   "rollout_guess": "Probably ships with the in-app preview or browser features for coding sessions.",
+   "open_questions": [
+    "Which surface hosts this picker?",
+    "Is it tied to coding agent previews?"
    ]
   },
   "status": "open",

@@ -1,0 +1,51 @@
+[
+ {
+  "text": "Upgrade to continue creating",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "e:(0,n.jsx)(i(752010).sA,{id:\"subscriptionActions.overBlockLimit.toast.continueCreatingTitle\",defaultMessage:\"Upgrade to continue creating\"}),actions:{primary:{title:(0,n.jsx)(i(752010).sA,{id:\"subscriptionActions.overBl",
+  "new_chunk": false
+ },
+ {
+  "text": "file_preview",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "erType)===\"video\"||(null==o?void 0:o.rendererType)===\"audio\";return!e.commentProps&&!n&&(\"html_artifact\"===t||\"file_preview\"===t)&&(!r||(0,i(466390).yB)({store:e.store})||a)},[n,e.commentProps,e.store])?(0,o.jsx)(u,{...e",
+  "new_chunk": false
+ },
+ {
+  "text": "Recurrence triggers already define when to run. Remove batchUntil.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "batching_recurrence_unsupported:{id:\"transactionErrors.triggerBatching.recurrenceUnsupported\",defaultMessage:\"Recurrence triggers already define when to run. Remove batchUntil.\"},trigger_batching_slack_only:{id:\"transact",
+  "new_chunk": false
+ },
+ {
+  "text": "PL",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/84033.js",
+  "ctx": "sage({defaultMessage:\"Polish\",id:\"languagePicker.name.polish\"}),abbreviation:e.formatMessage({defaultMessage:\"PL\",id:\"languagePicker.abbreviation.polish\"})}}}i.d(a,{O8:()=>n,Vn:()=>g,W$:()=>l},{tr:t,vC:s})}}]);",
+  "new_chunk": true
+ },
+ {
+  "text": "===ey||eR||eI),eV=ew.apple&&!eI,eD=ew.passkey&&!eI,eK=ew.sso&&ef&&!eI,eG=ew.email&&eE,eU=eI?void 0:ew.widthVariant,ez=E||eP||eS||eB||eV||eD||eK||eG,eH=eb?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/64975.js",
+  "ctx": "me,eO=f||eN===i(25408).GJ.startupsApplication||eN===i(25408).GJ.smbApplication,eR=!eu,eW=!E&&(eb&&\"email_above\"===ey||eR||eI),eV=ew.apple&&!eI,eD=ew.passkey&&!eI,eK=ew.sso&&ef&&!eI,eG=ew.email&&eE,eU=eI?void 0:ew.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": "Your free trial is ready.{br}Set up your business in Notion.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/67065.js",
+  "ctx": "le\",defaultMessage:\"Claim your free trial\"},loginSmbTrialTitle:{id:\"loginPage.smbTrial.title\",defaultMessage:\"Your free trial is ready.{br}Set up your business in Notion.\"},defaultLoginSubtitle:{id:\"loginPage.revamped.lo",
+  "new_chunk": false
+ },
+ {
+  "text": "smb_onboarding_agent_enabled",
+  "kind": "key",
+  "file": "app.notion.com/_assets/28975.js",
+  "ctx": "mbTrial&&!r.hasPendingOauthRedirect&&\"meeting_notes\"!==r.featureIntent&&o(211589).default.checkGate({gateName:\"smb_onboarding_agent_enabled\",disableExposureLogging:d})?{agentToSpawn:{version:\"quest\",onboardingAgentMessag",
+  "new_chunk": false
+ }
+]

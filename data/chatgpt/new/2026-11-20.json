@@ -1,0 +1,3313 @@
+[
+ {
+  "text": "receiver_voice_upsell",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/octane.js",
+  "ctx": "ed\"===t||\"android_homepage_deep_link_redirected\"===t||\"app_install_beacon_clicked\"===t||\"beacon_clicked\"===t&&\"receiver_voice_upsell\"===e.beaconId||\"device_rate_limit_logout_notice\"===t||\"conversation_history_loaded\"===t",
+  "new_chunk": false
+ },
+ {
+  "text": "Error preloading route! ☝️",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "t=Ox(l,o,x),null===t?ul(l,()=>{o.preloadRoute({...i,_builtLocation:Z}).catch(e=>{console.warn(e),console.warn(\"Error preloading route! ☝️\")})},o,x):t.value);ql(()=>{if(z||\"viewport\"!==de)return;let e=re.current;if(!e||ty",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,n.g,l),a=tl(n,a,5,e.initialFeed,n.h,l),a=tl(n,a,6,e.experiment?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "&&(a=pl(l,a,1,e,n.c))}a=tl(n,a,2,e.hidden,n.e,l),a=tl(n,a,3,e.enabled?\"\":void 0,n.f,l),a=tl(n,a,4,e.expanded?\"\":void 0,n.g,l),a=tl(n,a,5,e.initialFeed,n.h,l),a=tl(n,a,6,e.experiment?\"\":void 0,n.i,l),a=tl(n,a,7,e.whileTyp",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,n.i,l),a=tl(n,a,7,e.whileTyping?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "void 0,n.f,l),a=tl(n,a,4,e.expanded?\"\":void 0,n.g,l),a=tl(n,a,5,e.initialFeed,n.h,l),a=tl(n,a,6,e.experiment?\"\":void 0,n.i,l),a=tl(n,a,7,e.whileTyping?\"\":void 0,n.j,l),a=tl(n,a,8,e.withHelp?\"\":void 0,n.k,l),a=tl(n,a,9,e.",
+  "new_chunk": false
+ },
+ {
+  "text": "><use href=#lightweight-shell-scroll-to-bottom>'),na=Bx(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "type=button><span aria-hidden=true data-button-icon><svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><use href=#lightweight-shell-scroll-to-bottom>'),na=Bx(\"<div data-scroll-to-bottom-anchor><!><div></div><div",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-has-attachments\":w.hasAttachments?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "id 0,\"data-default-prompt-placeholder\":e.imagesLanding?e.promptPlaceholder:void 0,\"data-expanded\":E.expanded?``:void 0,\"data-has-attachments\":w.hasAttachments?``:void 0,\"data-has-status\":w.hasStatus?``:void 0,\"data-dicta",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-has-status\":w.hasStatus?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "ding?e.promptPlaceholder:void 0,\"data-expanded\":E.expanded?``:void 0,\"data-has-attachments\":w.hasAttachments?``:void 0,\"data-has-status\":w.hasStatus?``:void 0,\"data-dictation-active\":_.dictationActive?``:void 0,\"data-fil",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-dictation-active\":_.dictationActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "panded\":E.expanded?``:void 0,\"data-has-attachments\":w.hasAttachments?``:void 0,\"data-has-status\":w.hasStatus?``:void 0,\"data-dictation-active\":_.dictationActive?``:void 0,\"data-file-drag-active\":w.fileDragActive?``:void ",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-file-drag-active\":w.fileDragActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "w.hasAttachments?``:void 0,\"data-has-status\":w.hasStatus?``:void 0,\"data-dictation-active\":_.dictationActive?``:void 0,\"data-file-drag-active\":w.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":w.optimistic?``:vo",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-mobile-submit-optimistic\":w.optimistic?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "tatus?``:void 0,\"data-dictation-active\":_.dictationActive?``:void 0,\"data-file-drag-active\":w.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":w.optimistic?``:void 0,\"data-submitting\":w.submitting?``:void 0,\"data",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-submitting\":w.submitting?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "ve?``:void 0,\"data-file-drag-active\":w.fileDragActive?``:void 0,\"data-mobile-submit-optimistic\":w.optimistic?``:void 0,\"data-submitting\":w.submitting?``:void 0,\"data-thinking-selected\":w.thinking?``:void 0,\"data-landing\"",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-thinking-selected\":w.thinking?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "leDragActive?``:void 0,\"data-mobile-submit-optimistic\":w.optimistic?``:void 0,\"data-submitting\":w.submitting?``:void 0,\"data-thinking-selected\":w.thinking?``:void 0,\"data-landing\":_.landing?``:void 0,\"data-logged-out\":e.",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-landing\":_.landing?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "imistic\":w.optimistic?``:void 0,\"data-submitting\":w.submitting?``:void 0,\"data-thinking-selected\":w.thinking?``:void 0,\"data-landing\":_.landing?``:void 0,\"data-logged-out\":e.authenticated===!0?void 0:``,\"data-mobile-comp",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-web-search-enabled\":de?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "-logged-out\":e.authenticated===!0?void 0:``,\"data-mobile-composer\":e.handoff?void 0:``,\"data-voice-entry\":pe?``:void 0,\"data-web-search-enabled\":de?``:void 0,\"data-octane-conversation-followup\":e.isLanding===!1?``:void 0",
+  "new_chunk": false
+ },
+ {
+  "text": "===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(o(t)?.assistantMessageId===ce.messageId?n=ce.observation.finish():ce.observation.dispose(),ce=void 0):",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "failed\"===e.detail.kind||e.detail.kind.startsWith(\"background-\")||\"terminal-received\"===e.detail.kind&&\"failed\"===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(o(t)?.assistantMessageId===ce.messageId?n=ce",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,$.send.paint.p3Name,$.send.canvas.height,$.send.canvas.viewBox,$.send.canvas.width,Z,$.stop.paint.p3Name,$.stop.canvas.height,$.stop.canvas.viewBox,$.stop.canvas.width,K],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,$.send.paint.p3Name,$.send.canvas.height,$.send.canvas.viewBox,$.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "Too many tries. Please wait a few minutes before trying again.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "line-auth-description\",\"Continue to ChatGPT.\"),Eh=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Too many tries. Please wait a few minutes before trying again.\"),Ih=e(\"lightweight-web.auth.inline-auth-sessi",
+  "new_chunk": false
+ },
+ {
+  "text": "Your login session has expired, please try again.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ies. Please wait a few minutes before trying again.\"),Ih=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Your login session has expired, please try again.\"),Dh=e(\"lightweight-web.auth.inline-auth-too-many-attempts\"",
+  "new_chunk": false
+ },
+ {
+  "text": "The verification code should be exactly",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ame-too-long\",\"Use 96 characters or fewer.\"),Oh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"The verification code should be exactly \"},{type:1,value:\"length\"},{type:0,value:\" characters long\"}]],Yh=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Code must contain only numbers",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": ",value:\"length\"},{type:0,value:\" characters long\"}]],Yh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Code must contain only numbers\"),Wh=e(\"lightweight-web.auth.inline-otp-code-required\",\"The verification code ",
+  "new_chunk": false
+ },
+ {
+  "text": "The verification code is required",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "otp-code-numbers-only\",\"Code must contain only numbers\"),Wh=e(\"lightweight-web.auth.inline-otp-code-required\",\"The verification code is required\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Incorrect code\"),N",
+  "new_chunk": false
+ },
+ {
+  "text": "Incorrect code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "otp-code-required\",\"The verification code is required\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Incorrect code\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Enter a valid age to continue\"),Fh=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Enter a valid age to continue",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "-web.auth.inline-otp-incorrect-code\",\"Incorrect code\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Enter a valid age to continue\"),Fh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, that doesn't lo",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, that doesn't look right. Try again?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "profile-age-invalid\",\"Enter a valid age to continue\"),Fh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, that doesn't look right. Try again?\"),Bh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Please e",
+  "new_chunk": false
+ },
+ {
+  "text": "Please enter name to continue",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "invalid\",\"Hmm, that doesn't look right. Try again?\"),Bh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Please enter name to continue\"),Vh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Enter your age in whole y",
+  "new_chunk": false
+ },
+ {
+  "text": "We can't create your account due to our Terms of Use",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "auth.inline-signup-pending\",\"Please wait…\"),lw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"We can't create your account due to our Terms of Use\"),gw=e(\"lightweight-web.auth.inline-signup-resend-code\",",
+  "new_chunk": false
+ },
+ {
+  "text": "We can't create an account with that info. Try again.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": ".auth.inline-signup-resend-code\",\"Resend code\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"We can't create an account with that info. Try again.\"),hw=[\"lightweight-web.auth.inline-signup-retry-after\",",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-voice-upsell-description",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "port has been submitted.\"),iP=e(\"lightweight-web.sharing.receiver-report-title\",\"Report shared content\"),aP=e(\"lightweight-web.sharing.receiver-voice-upsell-description\",\"More natural. More intelligent. Ready to talk.\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "More natural. More intelligent. Ready to talk.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "eiver-report-title\",\"Report shared content\"),aP=e(\"lightweight-web.sharing.receiver-voice-upsell-description\",\"More natural. More intelligent. Ready to talk.\"),oP=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-voice-upsell-start",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "tweight-web.sharing.receiver-voice-upsell-description\",\"More natural. More intelligent. Ready to talk.\"),oP=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Start Voice\"),nP=e(\"lightweight-web.sharing.receiver-vo",
+  "new_chunk": false
+ },
+ {
+  "text": "Start Voice",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": ",\"More natural. More intelligent. Ready to talk.\"),oP=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Start Voice\"),nP=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Meet the new Voice\"),rP=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-voice-upsell-title",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": " intelligent. Ready to talk.\"),oP=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Start Voice\"),nP=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Meet the new Voice\"),rP=e(\"lightweight-web.common.back-",
+  "new_chunk": false
+ },
+ {
+  "text": "Meet the new Voice",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "haring.receiver-voice-upsell-start\",\"Start Voice\"),nP=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Meet the new Voice\"),rP=e(\"lightweight-web.common.back-to-chat-gpt\",\"Back to ChatGPT\"),lP=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Download for Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "t-web.marketing-cards.show-more-prompts\",\"Show more\"),aS=e(\"lightweight-web.marketing-download.apple-silicon\",\"Download for Apple Silicon\"),oS=e(\"lightweight-web.marketing-download.download\",\"Download\"),nS=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Download ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "eight-web.marketing-download.download\",\"Download\"),nS=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Download ChatGPT\"),rS=e(\"lightweight-web.marketing-download.intel-mac\",\"Download for Intel Mac\"),lS=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Download for Intel Mac",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Download ChatGPT\"),rS=e(\"lightweight-web.marketing-download.intel-mac\",\"Download for Intel Mac\"),lS=e(\"lightweight-web.settings.language\",\"Language\"),gS=e(\"lightweight-web.settings.",
+  "new_chunk": false
+ },
+ {
+  "text": "O código de verificação deve ter exatamente",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "-long\",\"Utilize, no máximo, 96 caracteres.\"),Rh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"O código de verificação deve ter exatamente \"},{type:1,value:\"length\"},{type:0,value:\" carateres\"}]],Sh=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "O código só pode conter números",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" carateres\"}]],Sh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"O código só pode conter números\"),Fh=e(\"lightweight-web.auth.inline-otp-code-required\",\"O código de verificaç",
+  "new_chunk": false
+ },
+ {
+  "text": "O código de verificação é obrigatório",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "tp-code-numbers-only\",\"O código só pode conter números\"),Fh=e(\"lightweight-web.auth.inline-otp-code-required\",\"O código de verificação é obrigatório\"),Lh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Código incorre",
+  "new_chunk": false
+ },
+ {
+  "text": "Código incorreto",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "code-required\",\"O código de verificação é obrigatório\"),Lh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Código incorreto\"),Bh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introduza uma idade válida para co",
+  "new_chunk": false
+ },
+ {
+  "text": "Introduza uma idade válida para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "eb.auth.inline-otp-incorrect-code\",\"Código incorreto\"),Bh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introduza uma idade válida para continuar\"),Uh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, iss",
+  "new_chunk": false
+ },
+ {
+  "text": "Hum, isso não parece estar certo. Queres tentar novamente?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "invalid\",\"Introduza uma idade válida para continuar\"),Uh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, isso não parece estar certo. Queres tentar novamente?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-r",
+  "new_chunk": false
+ },
+ {
+  "text": "Por favor, introduza o seu nome para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "o não parece estar certo. Queres tentar novamente?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Por favor, introduza o seu nome para continuar\"),Qh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Introduz",
+  "new_chunk": false
+ },
+ {
+  "text": "Não podemos criar a tua conta devido aos nossos Termos de utilização",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "web.auth.inline-signup-pending\",\"Aguarde…\"),nc=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Não podemos criar a tua conta devido aos nossos Termos de utilização\"),lc=e(\"lightweight-web.auth.inline-sign",
+  "new_chunk": false
+ },
+ {
+  "text": "Não podemos criar uma conta com esses dados. Tente novamente.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "h.inline-signup-resend-code\",\"Reenviar código\"),gc=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Não podemos criar uma conta com esses dados. Tente novamente.\"),hc=[\"lightweight-web.auth.inline-signup-retry",
+  "new_chunk": false
+ },
+ {
+  "text": "Transferir para Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Mostrar mais\"),aP=e(\"lightweight-web.marketing-download.apple-silicon\",\"Transferir para Apple Silicon\"),oP=e(\"lightweight-web.marketing-download.download\",\"Transferir\"),rP=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Transferir o ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "ght-web.marketing-download.download\",\"Transferir\"),rP=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Transferir o ChatGPT\"),sP=e(\"lightweight-web.marketing-download.intel-mac\",\"Transferir para Mac com processad",
+  "new_chunk": false
+ },
+ {
+  "text": "Transferir para Mac com processador Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "keting-download.download-chatgpt\",\"Transferir o ChatGPT\"),sP=e(\"lightweight-web.marketing-download.intel-mac\",\"Transferir para Mac com processador Intel\"),nP=e(\"lightweight-web.settings.language\",\"Idioma\"),lP=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "De verificatiecode moet precies",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "ame-too-long\",\"Gebruik maximaal 96 tekens.\"),Sh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"De verificatiecode moet precies \"},{type:1,value:\"length\"},{type:0,value:\" tekens lang zijn\"}]],Jh=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "De code mag alleen cijfers bevatten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "value:\"length\"},{type:0,value:\" tekens lang zijn\"}]],Jh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"De code mag alleen cijfers bevatten\"),Ih=e(\"lightweight-web.auth.inline-otp-code-required\",\"De verificatiecod",
+  "new_chunk": false
+ },
+ {
+  "text": "De verificatiecode is verplicht",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "ode-numbers-only\",\"De code mag alleen cijfers bevatten\"),Ih=e(\"lightweight-web.auth.inline-otp-code-required\",\"De verificatiecode is verplicht\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Onjuiste code\"),Wh=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Onjuiste code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "e-otp-code-required\",\"De verificatiecode is verplicht\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Onjuiste code\"),Wh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Voer een geldige leeftijd in om door ",
+  "new_chunk": false
+ },
+ {
+  "text": "Voer een geldige leeftijd in om door te gaan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Onjuiste code\"),Wh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Voer een geldige leeftijd in om door te gaan\"),Kh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, dat lijkt niet te kloppen. Opnieuw proberen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "alid\",\"Voer een geldige leeftijd in om door te gaan\"),Kh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, dat lijkt niet te kloppen. Opnieuw proberen?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Vul je naam in om door te gaan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "\"Hmm, dat lijkt niet te kloppen. Opnieuw proberen?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Vul je naam in om door te gaan\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Voer je leeftijd in hele",
+  "new_chunk": false
+ },
+ {
+  "text": "We kunnen je account niet aanmaken vanwege onze gebruiksvoorwaarden",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "auth.inline-signup-pending\",\"Even geduld…\"),gw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"We kunnen je account niet aanmaken vanwege onze gebruiksvoorwaarden\"),lw=e(\"lightweight-web.auth.inline-signu",
+  "new_chunk": false
+ },
+ {
+  "text": "We kunnen met die gegevens geen account maken. Probeer het opnieuw.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "e-signup-resend-code\",\"Code opnieuw verzenden\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"We kunnen met die gegevens geen account maken. Probeer het opnieuw.\"),hw=[\"lightweight-web.auth.inline-signup",
+  "new_chunk": false
+ },
+ {
+  "text": "Downloaden voor Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": ".marketing-cards.show-more-prompts\",\"Meer weergeven\"),nG=e(\"lightweight-web.marketing-download.apple-silicon\",\"Downloaden voor Apple Silicon\"),aG=e(\"lightweight-web.marketing-download.download\",\"Downloaden\"),oG=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "ChatGPT downloaden",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "ght-web.marketing-download.download\",\"Downloaden\"),oG=e(\"lightweight-web.marketing-download.download-chatgpt\",\"ChatGPT downloaden\"),rG=e(\"lightweight-web.marketing-download.intel-mac\",\"Downloaden voor Intel-Mac\"),gG=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Downloaden voor Intel-Mac",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "arketing-download.download-chatgpt\",\"ChatGPT downloaden\"),rG=e(\"lightweight-web.marketing-download.intel-mac\",\"Downloaden voor Intel-Mac\"),gG=e(\"lightweight-web.settings.language\",\"Taal\"),lG=e(\"lightweight-web.settings.l",
+  "new_chunk": false
+ },
+ {
+  "text": "El código de verificación debe tener exactamente",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "too-long\",\"Usa un máximo de 96 caracteres.\"),Oc=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"El código de verificación debe tener exactamente \"},{type:1,value:\"length\"},{type:0,value:\" caracteres\"}]],Vc",
+  "new_chunk": false
+ },
+ {
+  "text": "El código debe contener solo números",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ype:1,value:\"length\"},{type:0,value:\" caracteres\"}]],Vc=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"El código debe contener solo números\"),Lc=e(\"lightweight-web.auth.inline-otp-code-required\",\"El código de ver",
+  "new_chunk": false
+ },
+ {
+  "text": "El código de verificación es obligatorio",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "de-numbers-only\",\"El código debe contener solo números\"),Lc=e(\"lightweight-web.auth.inline-otp-code-required\",\"El código de verificación es obligatorio\"),Bc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Código inco",
+  "new_chunk": false
+ },
+ {
+  "text": "Código incorrecto",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "e-required\",\"El código de verificación es obligatorio\"),Bc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Código incorrecto\"),Hc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introduce una edad válida para co",
+  "new_chunk": false
+ },
+ {
+  "text": "Introduce una edad válida para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "b.auth.inline-otp-incorrect-code\",\"Código incorrecto\"),Hc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introduce una edad válida para continuar\"),Uc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, eso ",
+  "new_chunk": false
+ },
+ {
+  "text": "Mmm, eso no parece correcto. ¿Lo intentas de nuevo?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "-invalid\",\"Introduce una edad válida para continuar\"),Uc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, eso no parece correcto. ¿Lo intentas de nuevo?\"),Fc=e(\"lightweight-web.auth.inline-profile-name-required",
+  "new_chunk": false
+ },
+ {
+  "text": "Por favor, introduce tu nombre para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "mm, eso no parece correcto. ¿Lo intentas de nuevo?\"),Fc=e(\"lightweight-web.auth.inline-profile-name-required\",\"Por favor, introduce tu nombre para continuar\"),Qc=e(\"lightweight-web.auth.inline-signup-age-help\",\"Introduce",
+  "new_chunk": false
+ },
+ {
+  "text": "No podemos crear tu cuenta porque nuestros términos de uso no lo permiten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "eb.auth.inline-signup-pending\",\"Espera...\"),sh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"No podemos crear tu cuenta porque nuestros términos de uso no lo permiten\"),lh=e(\"lightweight-web.auth.inline",
+  "new_chunk": false
+ },
+ {
+  "text": "No podemos crear una cuenta con esos datos. Inténtalo de nuevo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "h.inline-signup-resend-code\",\"Reenviar código\"),gh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"No podemos crear una cuenta con esos datos. Inténtalo de nuevo.\"),ch=[\"lightweight-web.auth.inline-signup-ret",
+  "new_chunk": false
+ },
+ {
+  "text": "Descargar para Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "web.marketing-cards.show-more-prompts\",\"Mostrar más\"),aE=e(\"lightweight-web.marketing-download.apple-silicon\",\"Descargar para Apple Silicon\"),oE=e(\"lightweight-web.marketing-download.download\",\"Descargar\"),rE=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Descargar ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ight-web.marketing-download.download\",\"Descargar\"),rE=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Descargar ChatGPT\"),nE=e(\"lightweight-web.marketing-download.intel-mac\",\"Descargar para Mac con procesador In",
+  "new_chunk": false
+ },
+ {
+  "text": "Descargar para Mac con procesador Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "marketing-download.download-chatgpt\",\"Descargar ChatGPT\"),nE=e(\"lightweight-web.marketing-download.intel-mac\",\"Descargar para Mac con procesador Intel\"),sE=e(\"lightweight-web.settings.language\",\"Idioma\"),lE=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "O código deve conter apenas números",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "ype:1,value:\"length\"},{type:0,value:\" caracteres\"}]],Sh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"O código deve conter apenas números\"),Vh=e(\"lightweight-web.auth.inline-otp-code-required\",\"O código de verif",
+  "new_chunk": false
+ },
+ {
+  "text": "Informe uma idade válida para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "eb.auth.inline-otp-incorrect-code\",\"Código incorreto\"),Lh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Informe uma idade válida para continuar\"),Uh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, isso ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hum, isso não parece certo. Quer tentar novamente?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "e-invalid\",\"Informe uma idade válida para continuar\"),Uh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, isso não parece certo. Quer tentar novamente?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-required\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Digite seu nome para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "Hum, isso não parece certo. Quer tentar novamente?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Digite seu nome para continuar\"),Qh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Informe sua idade em ano",
+  "new_chunk": false
+ },
+ {
+  "text": "Não podemos criar sua conta devido aos nossos Termos de uso",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "web.auth.inline-signup-pending\",\"Aguarde…\"),nc=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Não podemos criar sua conta devido aos nossos Termos de uso\"),lc=e(\"lightweight-web.auth.inline-signup-resend",
+  "new_chunk": false
+ },
+ {
+  "text": "Não podemos criar uma conta com essas informações. Tente novamente.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "h.inline-signup-resend-code\",\"Reenviar código\"),gc=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Não podemos criar uma conta com essas informações. Tente novamente.\"),hc=[\"lightweight-web.auth.inline-signup",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixar para Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Mostrar mais\"),aT=e(\"lightweight-web.marketing-download.apple-silicon\",\"Baixar para Apple Silicon\"),oT=e(\"lightweight-web.marketing-download.download\",\"Baixar\"),rT=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixar o ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "tweight-web.marketing-download.download\",\"Baixar\"),rT=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Baixar o ChatGPT\"),sT=e(\"lightweight-web.marketing-download.intel-mac\",\"Baixar para Mac com processador Intel",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixar para Mac com processador Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Baixar o ChatGPT\"),sT=e(\"lightweight-web.marketing-download.intel-mac\",\"Baixar para Mac com processador Intel\"),nT=e(\"lightweight-web.settings.language\",\"Idioma\"),lT=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Codul de verificare trebuie să aibă exact",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "long\",\"Folosește cel mult 96 de caractere.\"),Fs=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Codul de verificare trebuie să aibă exact \"},{type:1,value:\"length\"},{type:0,value:\" caractere\"}]],Ms=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Codul trebuie să conțină doar cifre",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" caractere\"}]],Ms=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Codul trebuie să conțină doar cifre\"),Ls=e(\"lightweight-web.auth.inline-otp-code-required\",\"Codul de verifica",
+  "new_chunk": false
+ },
+ {
+  "text": "Codul de verificare este obligatoriu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "ode-numbers-only\",\"Codul trebuie să conțină doar cifre\"),Ls=e(\"lightweight-web.auth.inline-otp-code-required\",\"Codul de verificare este obligatoriu\"),qs=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Cod incorect\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Cod incorect",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "-code-required\",\"Codul de verificare este obligatoriu\"),qs=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Cod incorect\"),Bs=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introdu o vârstă validă pentru a conti",
+  "new_chunk": false
+ },
+ {
+  "text": "Introdu o vârstă validă pentru a continua",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "ht-web.auth.inline-otp-incorrect-code\",\"Cod incorect\"),Bs=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introdu o vârstă validă pentru a continua\"),Us=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, cev",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, ceva nu pare în regulă. Încerci din nou?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "invalid\",\"Introdu o vârstă validă pentru a continua\"),Us=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, ceva nu pare în regulă. Încerci din nou?\"),Hs=e(\"lightweight-web.auth.inline-profile-name-required\",\"Te ",
+  "new_chunk": false
+ },
+ {
+  "text": "Te rugăm să introduci numele pentru a continua",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "id\",\"Hmm, ceva nu pare în regulă. Încerci din nou?\"),Hs=e(\"lightweight-web.auth.inline-profile-name-required\",\"Te rugăm să introduci numele pentru a continua\"),Ws=e(\"lightweight-web.auth.inline-signup-age-help\",\"Introdu ",
+  "new_chunk": false
+ },
+ {
+  "text": "Termenii noștri de utilizare nu ne permit să îți creăm contul",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "ine-signup-pending\",\"Te rugăm să aștepți…\"),ou=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Termenii noștri de utilizare nu ne permit să îți creăm contul\"),gu=e(\"lightweight-web.auth.inline-signup-rese",
+  "new_chunk": false
+ },
+ {
+  "text": "Nu putem crea un cont cu aceste informații. Încearcă din nou.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "h.inline-signup-resend-code\",\"Retrimite codul\"),cu=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nu putem crea un cont cu aceste informații. Încearcă din nou.\"),su=[\"lightweight-web.auth.inline-signup-retry",
+  "new_chunk": false
+ },
+ {
+  "text": "Descarcă pentru Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": ".marketing-cards.show-more-prompts\",\"Arată mai mult\"),aP=e(\"lightweight-web.marketing-download.apple-silicon\",\"Descarcă pentru Apple Silicon\"),rP=e(\"lightweight-web.marketing-download.download\",\"Descarcă\"),nP=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Descarcă ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": "eight-web.marketing-download.download\",\"Descarcă\"),nP=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Descarcă ChatGPT\"),lP=e(\"lightweight-web.marketing-download.intel-mac\",\"Descarcă pentru Mac cu procesor Intel",
+  "new_chunk": false
+ },
+ {
+  "text": "Descarcă pentru Mac cu procesor Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ro.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Descarcă ChatGPT\"),lP=e(\"lightweight-web.marketing-download.intel-mac\",\"Descarcă pentru Mac cu procesor Intel\"),oP=e(\"lightweight-web.settings.language\",\"Limbă\"),gP=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Bekræftelseskoden skal være præcis",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "inline-name-too-long\",\"Brug højst 96 tegn.\"),Lh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Bekræftelseskoden skal være præcis \"},{type:1,value:\"length\"},{type:0,value:\" tegn lang\"}]],Eh=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Koden må kun indeholde tal",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" tegn lang\"}]],Eh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koden må kun indeholde tal\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Bekræftelseskoden skal ang",
+  "new_chunk": false
+ },
+ {
+  "text": "Bekræftelseskoden skal angives",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ine-otp-code-numbers-only\",\"Koden må kun indeholde tal\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Bekræftelseskoden skal angives\"),Mh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Forkert kode\"),Nh=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Forkert kode",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ne-otp-code-required\",\"Bekræftelseskoden skal angives\"),Mh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Forkert kode\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Indtast en gyldig alder for at fortsæt",
+  "new_chunk": false
+ },
+ {
+  "text": "Indtast en gyldig alder for at fortsætte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ht-web.auth.inline-otp-incorrect-code\",\"Forkert kode\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Indtast en gyldig alder for at fortsætte\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, det ser ikke rigtigt ud. Prøv igen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "-invalid\",\"Indtast en gyldig alder for at fortsætte\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det ser ikke rigtigt ud. Prøv igen?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Indtast ",
+  "new_chunk": false
+ },
+ {
+  "text": "Indtast dit navn for at fortsætte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "invalid\",\"Hmm, det ser ikke rigtigt ud. Prøv igen?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Indtast dit navn for at fortsætte\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Indtast din alder i h",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan ikke oprette din konto på grund af vores brugsvilkår",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": ".inline-signup-pending\",\"Vent et øjeblik…\"),aw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Vi kan ikke oprette din konto på grund af vores brugsvilkår\"),ow=e(\"lightweight-web.auth.inline-signup-resend",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan ikke oprette en konto med de oplysninger. Prøv igen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "h.inline-signup-resend-code\",\"Send koden igen\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Vi kan ikke oprette en konto med de oplysninger. Prøv igen.\"),hw=[\"lightweight-web.auth.inline-signup-retry-a",
+  "new_chunk": false
+ },
+ {
+  "text": "Download til Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "ht-web.marketing-cards.show-more-prompts\",\"Vis mere\"),rG=e(\"lightweight-web.marketing-download.apple-silicon\",\"Download til Apple Silicon\"),lG=e(\"lightweight-web.marketing-download.download\",\"Download\"),nG=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Download til Mac med Intel-processor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Download ChatGPT\"),gG=e(\"lightweight-web.marketing-download.intel-mac\",\"Download til Mac med Intel-processor\"),aG=e(\"lightweight-web.settings.language\",\"Sprog\"),oG=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod weryfikacyjny powinien mieć dokładnie",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "me-too-long\",\"Wpisz maksymalnie 96 znaków.\"),Ls=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kod weryfikacyjny powinien mieć dokładnie \"},{type:1,value:\"length\"},{type:0,value:\" znaków\"}]],Es=e(\"lightwe",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod musi zawierać tylko cyfry",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "},{type:1,value:\"length\"},{type:0,value:\" znaków\"}]],Es=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kod musi zawierać tylko cyfry\"),Ms=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kod weryfikacyjny jest ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod weryfikacyjny jest wymagany",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "-otp-code-numbers-only\",\"Kod musi zawierać tylko cyfry\"),Ms=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kod weryfikacyjny jest wymagany\"),Is=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nieprawidłowy kod\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Nieprawidłowy kod",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "e-otp-code-required\",\"Kod weryfikacyjny jest wymagany\"),Is=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nieprawidłowy kod\"),Bs=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Podaj prawidłowy wiek, aby kontyn",
+  "new_chunk": false
+ },
+ {
+  "text": "Podaj prawidłowy wiek, aby kontynuować",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "b.auth.inline-otp-incorrect-code\",\"Nieprawidłowy kod\"),Bs=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Podaj prawidłowy wiek, aby kontynuować\"),qs=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, coś tu",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, coś tu się nie zgadza. Spróbujesz ponownie?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "ge-invalid\",\"Podaj prawidłowy wiek, aby kontynuować\"),qs=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, coś tu się nie zgadza. Spróbujesz ponownie?\"),Rs=e(\"lightweight-web.auth.inline-profile-name-required\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Wpisz imię i nazwisko, aby kontynuować",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": ",\"Hmm, coś tu się nie zgadza. Spróbujesz ponownie?\"),Rs=e(\"lightweight-web.auth.inline-profile-name-required\",\"Wpisz imię i nazwisko, aby kontynuować\"),Js=e(\"lightweight-web.auth.inline-signup-age-help\",\"Podaj swój wiek ",
+  "new_chunk": false
+ },
+ {
+  "text": "Nie możemy utworzyć Twojego konta ze względu na nasze Warunki użytkowania",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "th.inline-signup-pending\",\"Proszę czekać…\"),rh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Nie możemy utworzyć Twojego konta ze względu na nasze Warunki użytkowania\"),lh=e(\"lightweight-web.auth.inline",
+  "new_chunk": false
+ },
+ {
+  "text": "Nie możemy utworzyć konta na podstawie podanych danych. Spróbuj ponownie.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "line-signup-resend-code\",\"Wyślij kod ponownie\"),gh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nie możemy utworzyć konta na podstawie podanych danych. Spróbuj ponownie.\"),sh=[\"lightweight-web.auth.inline-",
+  "new_chunk": false
+ },
+ {
+  "text": "Pobierz wersję dla Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Pokaż więcej\"),aW=e(\"lightweight-web.marketing-download.apple-silicon\",\"Pobierz wersję dla Apple Silicon\"),oW=e(\"lightweight-web.marketing-download.download\",\"Pobierz\"),nW=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Pobierz ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "weight-web.marketing-download.download\",\"Pobierz\"),nW=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Pobierz ChatGPT\"),wW=e(\"lightweight-web.marketing-download.intel-mac\",\"Pobierz na Maca z procesorem Intel\"),r",
+  "new_chunk": false
+ },
+ {
+  "text": "Pobierz na Maca z procesorem Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "b.marketing-download.download-chatgpt\",\"Pobierz ChatGPT\"),wW=e(\"lightweight-web.marketing-download.intel-mac\",\"Pobierz na Maca z procesorem Intel\"),rW=e(\"lightweight-web.settings.language\",\"Język\"),lW=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Varmennuskoodissa on oltava täsmälleen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "name-too-long\",\"Käytä enintään 96 merkkiä.\"),Mr=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Varmennuskoodissa on oltava täsmälleen \"},{type:1,value:\"length\"},{type:0,value:\" merkkiä\"}]],Nr=e(\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodi saa sisältää vain numeroita",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": ",{type:1,value:\"length\"},{type:0,value:\" merkkiä\"}]],Nr=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koodi saa sisältää vain numeroita\"),Dr=e(\"lightweight-web.auth.inline-otp-code-required\",\"Varmennuskoodi on p",
+  "new_chunk": false
+ },
+ {
+  "text": "Varmennuskoodi on pakollinen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "-code-numbers-only\",\"Koodi saa sisältää vain numeroita\"),Dr=e(\"lightweight-web.auth.inline-otp-code-required\",\"Varmennuskoodi on pakollinen\"),Fr=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Virheellinen koodi\"),Hr",
+  "new_chunk": false
+ },
+ {
+  "text": "Virheellinen koodi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "line-otp-code-required\",\"Varmennuskoodi on pakollinen\"),Fr=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Virheellinen koodi\"),Hr=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Anna kelvollinen ikä, jotta voit",
+  "new_chunk": false
+ },
+ {
+  "text": "Anna kelvollinen ikä, jotta voit jatkaa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": ".auth.inline-otp-incorrect-code\",\"Virheellinen koodi\"),Hr=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Anna kelvollinen ikä, jotta voit jatkaa\"),Jr=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, tuo e",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, tuo ei näytä oikealta. Yritätkö uudelleen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "e-invalid\",\"Anna kelvollinen ikä, jotta voit jatkaa\"),Jr=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, tuo ei näytä oikealta. Yritätkö uudelleen?\"),qr=e(\"lightweight-web.auth.inline-profile-name-required\",\"A",
+  "new_chunk": false
+ },
+ {
+  "text": "Anna nimesi, jotta voit jatkaa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "\",\"Hmm, tuo ei näytä oikealta. Yritätkö uudelleen?\"),qr=e(\"lightweight-web.auth.inline-profile-name-required\",\"Anna nimesi, jotta voit jatkaa\"),Rr=e(\"lightweight-web.auth.inline-signup-age-help\",\"Anna ikäsi täysinä vuosi",
+  "new_chunk": false
+ },
+ {
+  "text": "Emme voi luoda sinulle tiliä käyttöehtojemme vuoksi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "auth.inline-signup-pending\",\"Odota hetki…\"),ou=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Emme voi luoda sinulle tiliä käyttöehtojemme vuoksi\"),gu=e(\"lightweight-web.auth.inline-signup-resend-code\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Emme voi luoda tiliä näillä tiedoilla. Yritä uudelleen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "e-signup-resend-code\",\"Lähetä koodi uudelleen\"),hu=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Emme voi luoda tiliä näillä tiedoilla. Yritä uudelleen.\"),ru=[\"lightweight-web.auth.inline-signup-retry-after",
+  "new_chunk": false
+ },
+ {
+  "text": "Lataa Apple Silicon -versio",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Näytä enemmän\"),aK=e(\"lightweight-web.marketing-download.apple-silicon\",\"Lataa Apple Silicon -versio\"),lK=e(\"lightweight-web.marketing-download.download\",\"Lataa\"),nK=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Lataa ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "htweight-web.marketing-download.download\",\"Lataa\"),nK=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Lataa ChatGPT\"),sK=e(\"lightweight-web.marketing-download.intel-mac\",\"Lataa Intel Mac -versio\"),oK=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Lataa Intel Mac -versio",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "web.marketing-download.download-chatgpt\",\"Lataa ChatGPT\"),sK=e(\"lightweight-web.marketing-download.intel-mac\",\"Lataa Intel Mac -versio\"),oK=e(\"lightweight-web.settings.language\",\"Kieli\"),gK=e(\"lightweight-web.settings.la",
+  "new_chunk": false
+ },
+ {
+  "text": "Tvoja e-mail je možda na putu. U ulaznoj pošti potraži link za nastavak.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "aid-image-handoff.continue-button\",\"Nastavi\"),sh=e(\"lightweight-web.paid-image-handoff.delivery-unknown-body\",\"Tvoja e-mail je možda na putu. U ulaznoj pošti potraži link za nastavak.\"),hh=e(\"lightweight-web.paid-image-h",
+  "new_chunk": false
+ },
+ {
+  "text": "Provjeri svoju ulaznu poštu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": " U ulaznoj pošti potraži link za nastavak.\"),hh=e(\"lightweight-web.paid-image-handoff.delivery-unknown-title\",\"Provjeri svoju ulaznu poštu\"),wh=e(\"lightweight-web.paid-image-handoff.done\",\"Gotovo\"),ph=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Verifikacijski kod treba imati tačno",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "oo-long\",\"Upotrijebite najviše 96 znakova.\"),Mh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Verifikacijski kod treba imati tačno \"},{type:1,value:\"length\"},{type:0,value:\" znakova\"}]],Vh=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod mora sadržavati samo brojeve",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": ",{type:1,value:\"length\"},{type:0,value:\" znakova\"}]],Vh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kod mora sadržavati samo brojeve\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kod za verifikaciju ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod za verifikaciju je obavezan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "p-code-numbers-only\",\"Kod mora sadržavati samo brojeve\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kod za verifikaciju je obavezan\"),Zh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Pogrešan kod\"),Rh=e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Pogrešan kod",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "e-otp-code-required\",\"Kod za verifikaciju je obavezan\"),Zh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Pogrešan kod\"),Rh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Unesite važeću dob u punim godinama da",
+  "new_chunk": false
+ },
+ {
+  "text": "Unesite važeću dob u punim godinama da biste nastavili",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "ht-web.auth.inline-otp-incorrect-code\",\"Pogrešan kod\"),Rh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Unesite važeću dob u punim godinama da biste nastavili\"),qh=e(\"lightweight-web.auth.inline-profile-name-inval",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, to ne izgleda kako treba. Pokušaj ponovo?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "site važeću dob u punim godinama da biste nastavili\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to ne izgleda kako treba. Pokušaj ponovo?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Une",
+  "new_chunk": false
+ },
+ {
+  "text": "Unesite ime da nastavite",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "id\",\"Hm, to ne izgleda kako treba. Pokušaj ponovo?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Unesite ime da nastavite\"),Jh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Unesite broj navršenih godina.",
+  "new_chunk": false
+ },
+ {
+  "text": "Ne možemo kreirati vaš račun zbog naših Uslova korištenja",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "inline-signup-pending\",\"Molimo sačekajte…\"),lw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Ne možemo kreirati vaš račun zbog naših Uslova korištenja\"),gw=e(\"lightweight-web.auth.inline-signup-resend-c",
+  "new_chunk": false
+ },
+ {
+  "text": "Ne možemo napraviti račun s tim podacima. Pokušaj ponovo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "nline-signup-resend-code\",\"Ponovo pošalji kod\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Ne možemo napraviti račun s tim podacima. Pokušaj ponovo.\"),hw=[\"lightweight-web.auth.inline-signup-retry-aft",
+  "new_chunk": false
+ },
+ {
+  "text": "Preuzmi za Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Prikaži više\"),aN=e(\"lightweight-web.marketing-download.apple-silicon\",\"Preuzmi za Apple Silicon\"),oN=e(\"lightweight-web.marketing-download.download\",\"Preuzmi\"),rN=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Preuzmi ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "weight-web.marketing-download.download\",\"Preuzmi\"),rN=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Preuzmi ChatGPT\"),nN=e(\"lightweight-web.marketing-download.intel-mac\",\"Preuzmi za Mac s Intelovim procesorom\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Preuzmi za Mac s Intelovim procesorom",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/bs.js",
+  "ctx": "b.marketing-download.download-chatgpt\",\"Preuzmi ChatGPT\"),nN=e(\"lightweight-web.marketing-download.intel-mac\",\"Preuzmi za Mac s Intelovim procesorom\"),lN=e(\"lightweight-web.settings.language\",\"Jezik\"),gN=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Patvirtinimo kodas turi būti lygiai",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "\",\"Naudokite ne daugiau kaip 96 simbolius.\"),Vh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Patvirtinimo kodas turi būti lygiai \"},{type:1,value:\"length\"},{type:0,value:\" simbolių ilgio\"}]],Oh=i(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Kodą turi sudaryti tik skaitmenys",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "1,value:\"length\"},{type:0,value:\" simbolių ilgio\"}]],Oh=i(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kodą turi sudaryti tik skaitmenys\"),Jh=i(\"lightweight-web.auth.inline-otp-code-required\",\"Būtina įvesti patvi",
+  "new_chunk": false
+ },
+ {
+  "text": "Būtina įvesti patvirtinimo kodą",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "-code-numbers-only\",\"Kodą turi sudaryti tik skaitmenys\"),Jh=i(\"lightweight-web.auth.inline-otp-code-required\",\"Būtina įvesti patvirtinimo kodą\"),Mh=i(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Neteisingas kodas\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Neteisingas kodas",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "e-otp-code-required\",\"Būtina įvesti patvirtinimo kodą\"),Mh=i(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Neteisingas kodas\"),qh=i(\"lightweight-web.auth.inline-profile-age-invalid\",\"Norėdami tęsti, įveskite teisingą",
+  "new_chunk": false
+ },
+ {
+  "text": "Norėdami tęsti, įveskite teisingą amžių",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "b.auth.inline-otp-incorrect-code\",\"Neteisingas kodas\"),qh=i(\"lightweight-web.auth.inline-profile-age-invalid\",\"Norėdami tęsti, įveskite teisingą amžių\"),Lh=i(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, atrodo",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, atrodo, kažkas ne taip. Bandysite dar kartą?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "e-invalid\",\"Norėdami tęsti, įveskite teisingą amžių\"),Lh=i(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, atrodo, kažkas ne taip. Bandysite dar kartą?\"),Uh=i(\"lightweight-web.auth.inline-profile-name-required\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Norėdami tęsti, įveskite vardą",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": ",\"Hm, atrodo, kažkas ne taip. Bandysite dar kartą?\"),Uh=i(\"lightweight-web.auth.inline-profile-name-required\",\"Norėdami tęsti, įveskite vardą\"),Fh=i(\"lightweight-web.auth.inline-signup-age-help\",\"Įveskite savo amžių piln",
+  "new_chunk": false
+ },
+ {
+  "text": "Negalime sukurti jūsų paskyros, nes to neleidžia mūsų naudojimo sąlygos",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "b.auth.inline-signup-pending\",\"Palaukite…\"),lw=i(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Negalime sukurti jūsų paskyros, nes to neleidžia mūsų naudojimo sąlygos\"),nw=i(\"lightweight-web.auth.inline-s",
+  "new_chunk": false
+ },
+ {
+  "text": "Negalime sukurti paskyros naudodami šiuos duomenis. Bandykite dar kartą.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "ne-signup-resend-code\",\"Siųsti kodą dar kartą\"),gw=i(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Negalime sukurti paskyros naudodami šiuos duomenis. Bandykite dar kartą.\"),hw=[\"lightweight-web.auth.inline-s",
+  "new_chunk": false
+ },
+ {
+  "text": "Atsisiųsti „Apple Silicon“ skirtą versiją",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": ".marketing-cards.show-more-prompts\",\"Rodyti daugiau\"),aT=i(\"lightweight-web.marketing-download.apple-silicon\",\"Atsisiųsti „Apple Silicon“ skirtą versiją\"),sT=i(\"lightweight-web.marketing-download.download\",\"Atsisiųsti\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Atsisiųsti „ChatGPT“",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "ght-web.marketing-download.download\",\"Atsisiųsti\"),oT=i(\"lightweight-web.marketing-download.download-chatgpt\",\"Atsisiųsti „ChatGPT“\"),rT=i(\"lightweight-web.marketing-download.intel-mac\",\"Atsisiųsti „Mac“ kompiuteriams su",
+  "new_chunk": false
+ },
+ {
+  "text": "Atsisiųsti „Mac“ kompiuteriams su „Intel“ procesoriumi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lt.js",
+  "ctx": "keting-download.download-chatgpt\",\"Atsisiųsti „ChatGPT“\"),rT=i(\"lightweight-web.marketing-download.intel-mac\",\"Atsisiųsti „Mac“ kompiuteriams su „Intel“ procesoriumi\"),lT=i(\"lightweight-web.settings.language\",\"Kalba\"),nT",
+  "new_chunk": false
+ },
+ {
+  "text": "Verifieringskoden ska vara exakt",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ne-name-too-long\",\"Använd högst 96 tecken.\"),Ih=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Verifieringskoden ska vara exakt \"},{type:1,value:\"length\"},{type:0,value:\" tecken lång\"}]],Oh=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Koden får bara innehålla siffror",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "pe:1,value:\"length\"},{type:0,value:\" tecken lång\"}]],Oh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koden får bara innehålla siffror\"),Rh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Verifieringskod kräv",
+  "new_chunk": false
+ },
+ {
+  "text": "Verifieringskod krävs",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "p-code-numbers-only\",\"Koden får bara innehålla siffror\"),Rh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Verifieringskod krävs\"),Mh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Felaktig kod\"),Nh=e(\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "Felaktig kod",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "auth.inline-otp-code-required\",\"Verifieringskod krävs\"),Mh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Felaktig kod\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Ange en giltig ålder för att fortsätta",
+  "new_chunk": false
+ },
+ {
+  "text": "Ange en giltig ålder för att fortsätta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ht-web.auth.inline-otp-incorrect-code\",\"Felaktig kod\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Ange en giltig ålder för att fortsätta\"),Hh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det dä",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, det där ser inte rätt ut. Försök igen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ge-invalid\",\"Ange en giltig ålder för att fortsätta\"),Hh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det där ser inte rätt ut. Försök igen?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Ange ",
+  "new_chunk": false
+ },
+ {
+  "text": "Ange ditt namn för att fortsätta",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "alid\",\"Hmm, det där ser inte rätt ut. Försök igen?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Ange ditt namn för att fortsätta\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Ange din ålder i hela ",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan inte skapa ditt konto på grund av våra användarvillkor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "t-web.auth.inline-signup-pending\",\"Vänta…\"),gw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Vi kan inte skapa ditt konto på grund av våra användarvillkor\"),ow=e(\"lightweight-web.auth.inline-signup-rese",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan inte skapa ett konto med de uppgifterna. Försök igen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "inline-signup-resend-code\",\"Skicka koden igen\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Vi kan inte skapa ett konto med de uppgifterna. Försök igen.\"),hw=[\"lightweight-web.auth.inline-signup-retry-",
+  "new_chunk": false
+ },
+ {
+  "text": "Ladda ner för Apple-chip",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ht-web.marketing-cards.show-more-prompts\",\"Visa mer\"),aF=e(\"lightweight-web.marketing-download.apple-silicon\",\"Ladda ner för Apple-chip\"),nF=e(\"lightweight-web.marketing-download.download\",\"Ladda ner\"),rF=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Ladda ner ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "ight-web.marketing-download.download\",\"Ladda ner\"),rF=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Ladda ner ChatGPT\"),lF=e(\"lightweight-web.marketing-download.intel-mac\",\"Ladda ner för Intel-baserad Mac\"),gF",
+  "new_chunk": false
+ },
+ {
+  "text": "Ladda ner för Intel-baserad Mac",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sv.js",
+  "ctx": "marketing-download.download-chatgpt\",\"Ladda ner ChatGPT\"),lF=e(\"lightweight-web.marketing-download.intel-mac\",\"Ladda ner för Intel-baserad Mac\"),gF=e(\"lightweight-web.settings.language\",\"Språk\"),oF=e(\"lightweight-web.set",
+  "new_chunk": false
+ },
+ {
+  "text": "Kodi i verifikimit duhet të ketë saktësisht",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "long\",\"Përdor jo më shumë se 96 karaktere.\"),Il=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kodi i verifikimit duhet të ketë saktësisht \"},{type:1,value:\"length\"},{type:0,value:\" karaktere\"}]],Hl=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Kodi duhet të përmbajë vetëm shifra",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" karaktere\"}]],Hl=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kodi duhet të përmbajë vetëm shifra\"),El=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kodi i verifikimi",
+  "new_chunk": false
+ },
+ {
+  "text": "Kodi i verifikimit është i detyrueshëm",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ode-numbers-only\",\"Kodi duhet të përmbajë vetëm shifra\"),El=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kodi i verifikimit është i detyrueshëm\"),Bl=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kod i pasaktë",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod i pasaktë",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ode-required\",\"Kodi i verifikimit është i detyrueshëm\"),Bl=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kod i pasaktë\"),Ol=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Vendos një moshë të vlefshme për të v",
+  "new_chunk": false
+ },
+ {
+  "text": "Vendos një moshë të vlefshme për të vazhduar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Kod i pasaktë\"),Ol=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Vendos një moshë të vlefshme për të vazhduar\"),Fl=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, kjo nuk duket në rregull. Provo sërish?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "alid\",\"Vendos një moshë të vlefshme për të vazhduar\"),Fl=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, kjo nuk duket në rregull. Provo sërish?\"),Vl=e(\"lightweight-web.auth.inline-profile-name-required\",\"Të l",
+  "new_chunk": false
+ },
+ {
+  "text": "Të lutem, shkruaj emrin për të vazhduar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "lid\",\"Hmm, kjo nuk duket në rregull. Provo sërish?\"),Vl=e(\"lightweight-web.auth.inline-profile-name-required\",\"Të lutem, shkruaj emrin për të vazhduar\"),Zl=e(\"lightweight-web.auth.inline-signup-age-help\",\"Fut moshën tënd",
+  "new_chunk": false
+ },
+ {
+  "text": "Nuk mund ta krijojmë llogarinë tënde për shkak të Kushteve tona të përdorimit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "ht-web.auth.inline-signup-pending\",\"Prit…\"),hw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Nuk mund ta krijojmë llogarinë tënde për shkak të Kushteve tona të përdorimit\"),gw=e(\"lightweight-web.auth.in",
+  "new_chunk": false
+ },
+ {
+  "text": "Nuk mund të krijojmë një llogari me këto të dhëna. Provo sërish.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "uth.inline-signup-resend-code\",\"Ridërgo kodin\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nuk mund të krijojmë një llogari me këto të dhëna. Provo sërish.\"),lw=[\"lightweight-web.auth.inline-signup-re",
+  "new_chunk": false
+ },
+ {
+  "text": "Shkarko për Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": ".marketing-cards.show-more-prompts\",\"Shfaq më shumë\"),aK=e(\"lightweight-web.marketing-download.apple-silicon\",\"Shkarko për Apple Silicon\"),rK=e(\"lightweight-web.marketing-download.download\",\"Shkarko\"),oK=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Shkarko ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "weight-web.marketing-download.download\",\"Shkarko\"),oK=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Shkarko ChatGPT\"),nK=e(\"lightweight-web.marketing-download.intel-mac\",\"Shkarko për Mac me procesor Intel\"),hK",
+  "new_chunk": false
+ },
+ {
+  "text": "Shkarko për Mac me procesor Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "b.marketing-download.download-chatgpt\",\"Shkarko ChatGPT\"),nK=e(\"lightweight-web.marketing-download.intel-mac\",\"Shkarko për Mac me procesor Intel\"),hK=e(\"lightweight-web.settings.language\",\"Gjuha\"),gK=e(\"lightweight-web.s",
+  "new_chunk": false
+ },
+ {
+  "text": "Verifikācijas kodā jābūt tieši",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "long\",\"Izmanto ne vairāk kā 96 rakstzīmes.\"),Ou=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Verifikācijas kodā jābūt tieši \"},{type:1,value:\"length\"},{type:0,value:\" rakstzīmēm\"}]],Ku=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Kodā drīkst būt tikai cipari",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "ype:1,value:\"length\"},{type:0,value:\" rakstzīmēm\"}]],Ku=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kodā drīkst būt tikai cipari\"),Ru=e(\"lightweight-web.auth.inline-otp-code-required\",\"Nepieciešams verifikācij",
+  "new_chunk": false
+ },
+ {
+  "text": "Nepieciešams verifikācijas kods",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "e-otp-code-numbers-only\",\"Kodā drīkst būt tikai cipari\"),Ru=e(\"lightweight-web.auth.inline-otp-code-required\",\"Nepieciešams verifikācijas kods\"),Bu=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nepareizs kods\"),Uu=",
+  "new_chunk": false
+ },
+ {
+  "text": "Nepareizs kods",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "e-otp-code-required\",\"Nepieciešams verifikācijas kods\"),Bu=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nepareizs kods\"),Uu=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Lai turpinātu, ievadi derīgu vecumu\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Lai turpinātu, ievadi derīgu vecumu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "-web.auth.inline-otp-incorrect-code\",\"Nepareizs kods\"),Uu=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Lai turpinātu, ievadi derīgu vecumu\"),qu=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, tas neizs",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, tas neizskatās pareizi. Mēģināsi vēlreiz?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "e-age-invalid\",\"Lai turpinātu, ievadi derīgu vecumu\"),qu=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, tas neizskatās pareizi. Mēģināsi vēlreiz?\"),Ju=e(\"lightweight-web.auth.inline-profile-name-required\",\"Lū",
+  "new_chunk": false
+ },
+ {
+  "text": "Lūdzu, ievadi vārdu, lai turpinātu",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "d\",\"Hmm, tas neizskatās pareizi. Mēģināsi vēlreiz?\"),Ju=e(\"lightweight-web.auth.inline-profile-name-required\",\"Lūdzu, ievadi vārdu, lai turpinātu\"),Fu=e(\"lightweight-web.auth.inline-signup-age-help\",\"Ievadi savu vecumu p",
+  "new_chunk": false
+ },
+ {
+  "text": "Nevaram izveidot tavu kontu, jo mūsu lietošanas noteikumi to nepieļauj",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "h.inline-signup-pending\",\"Lūdzu, uzgaidi…\"),oh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Nevaram izveidot tavu kontu, jo mūsu lietošanas noteikumi to nepieļauj\"),nh=e(\"lightweight-web.auth.inline-si",
+  "new_chunk": false
+ },
+ {
+  "text": "Nevaram izveidot kontu ar šiem datiem. Mēģini vēlreiz.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "ine-signup-resend-code\",\"Nosūtīt kodu vēlreiz\"),gh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nevaram izveidot kontu ar šiem datiem. Mēģini vēlreiz.\"),uh=[\"lightweight-web.auth.inline-signup-retry-after\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Lejupielādēt Apple Silicon versiju",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Rādīt vairāk\"),aT=e(\"lightweight-web.marketing-download.apple-silicon\",\"Lejupielādēt Apple Silicon versiju\"),sT=e(\"lightweight-web.marketing-download.download\",\"Lejupielādēt\"),lT=e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Lejupielādēt ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "t-web.marketing-download.download\",\"Lejupielādēt\"),lT=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Lejupielādēt ChatGPT\"),rT=e(\"lightweight-web.marketing-download.intel-mac\",\"Lejupielādēt Mac datoram ar Intel",
+  "new_chunk": false
+ },
+ {
+  "text": "Lejupielādēt Mac datoram ar Intel procesoru",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "keting-download.download-chatgpt\",\"Lejupielādēt ChatGPT\"),rT=e(\"lightweight-web.marketing-download.intel-mac\",\"Lejupielādēt Mac datoram ar Intel procesoru\"),oT=e(\"lightweight-web.settings.language\",\"Valoda\"),nT=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Mã không chính xác",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": "h.inline-otp-code-required\",\"Bạn cần nhập mã xác minh\"),Lr=t(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Mã không chính xác\"),Ir=t(\"lightweight-web.auth.inline-profile-age-invalid\",\"Nhập số tuổi hợp lệ để tiếp tục\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Tải xuống bản dành cho Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": "t-web.marketing-cards.show-more-prompts\",\"Hiện thêm\"),nN=t(\"lightweight-web.marketing-download.apple-silicon\",\"Tải xuống bản dành cho Apple Silicon\"),hN=t(\"lightweight-web.marketing-download.download\",\"Tải xuống\"),gN=t(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Tải xuống ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": "ight-web.marketing-download.download\",\"Tải xuống\"),gN=t(\"lightweight-web.marketing-download.download-chatgpt\",\"Tải xuống ChatGPT\"),aN=t(\"lightweight-web.marketing-download.intel-mac\",\"Tải xuống cho máy Mac dùng chip Inte",
+  "new_chunk": false
+ },
+ {
+  "text": "Tải xuống cho máy Mac dùng chip Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/vi.js",
+  "ctx": "marketing-download.download-chatgpt\",\"Tải xuống ChatGPT\"),aN=t(\"lightweight-web.marketing-download.intel-mac\",\"Tải xuống cho máy Mac dùng chip Intel\"),lN=t(\"lightweight-web.settings.language\",\"Ngôn ngữ\"),oN=t(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Koda za preverjanje mora vsebovati natanko",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ame-too-long\",\"Uporabite največ 96 znakov.\"),Eh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Koda za preverjanje mora vsebovati natanko \"},{type:1,value:\"length\"},{type:0,value:\" znakov\"}]],Mh=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Koda mora vsebovati samo številke",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "},{type:1,value:\"length\"},{type:0,value:\" znakov\"}]],Mh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koda mora vsebovati samo številke\"),Ah=e(\"lightweight-web.auth.inline-otp-code-required\",\"Koda za preverjanje",
+  "new_chunk": false
+ },
+ {
+  "text": "Koda za preverjanje je obvezna",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "-code-numbers-only\",\"Koda mora vsebovati samo številke\"),Ah=e(\"lightweight-web.auth.inline-otp-code-required\",\"Koda za preverjanje je obvezna\"),Rh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Napačna koda\"),qh=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Napačna koda",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ne-otp-code-required\",\"Koda za preverjanje je obvezna\"),Rh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Napačna koda\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Za nadaljevanje vnesi veljavno starost",
+  "new_chunk": false
+ },
+ {
+  "text": "Za nadaljevanje vnesi veljavno starost",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ht-web.auth.inline-otp-incorrect-code\",\"Napačna koda\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Za nadaljevanje vnesi veljavno starost\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to ni v",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, to ni videti v redu. Poskusi znova?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ge-invalid\",\"Za nadaljevanje vnesi veljavno starost\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to ni videti v redu. Poskusi znova?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Za nadalj",
+  "new_chunk": false
+ },
+ {
+  "text": "Za nadaljevanje vnesi ime",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "-invalid\",\"Hm, to ni videti v redu. Poskusi znova?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Za nadaljevanje vnesi ime\"),Hh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Vnesite svojo starost v dopol",
+  "new_chunk": false
+ },
+ {
+  "text": "Zaradi naših pogojev uporabe ne moremo ustvariti vašega računa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "ine-signup-pending\",\"Prosimo, počakajte …\"),rw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Zaradi naših pogojev uporabe ne moremo ustvariti vašega računa\"),gw=e(\"lightweight-web.auth.inline-signup-res",
+  "new_chunk": false
+ },
+ {
+  "text": "S temi podatki ne moremo ustvariti računa. Poskusi znova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "inline-signup-resend-code\",\"Znova pošlji kodo\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"S temi podatki ne moremo ustvariti računa. Poskusi znova.\"),hw=[\"lightweight-web.auth.inline-signup-retry-aft",
+  "new_chunk": false
+ },
+ {
+  "text": "Prenesi za Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "web.marketing-cards.show-more-prompts\",\"Prikaži več\"),aN=e(\"lightweight-web.marketing-download.apple-silicon\",\"Prenesi za Apple Silicon\"),oN=e(\"lightweight-web.marketing-download.download\",\"Prenesi\"),lN=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Prenesi ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "weight-web.marketing-download.download\",\"Prenesi\"),lN=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Prenesi ChatGPT\"),nN=e(\"lightweight-web.marketing-download.intel-mac\",\"Prenesi za Mac s procesorjem Intel\"),r",
+  "new_chunk": false
+ },
+ {
+  "text": "Prenesi za Mac s procesorjem Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sl.js",
+  "ctx": "b.marketing-download.download-chatgpt\",\"Prenesi ChatGPT\"),nN=e(\"lightweight-web.marketing-download.intel-mac\",\"Prenesi za Mac s procesorjem Intel\"),rN=e(\"lightweight-web.settings.language\",\"Jezik\"),gN=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "Il codice di verifica deve contenere esattamente",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "me-too-long\",\"Usa al massimo 96 caratteri.\"),Ec=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Il codice di verifica deve contenere esattamente \"},{type:1,value:\"length\"},{type:0,value:\" caratteri\"}]],jc=",
+  "new_chunk": false
+ },
+ {
+  "text": "Il codice deve contenere solo numeri",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" caratteri\"}]],jc=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Il codice deve contenere solo numeri\"),Vc=e(\"lightweight-web.auth.inline-otp-code-required\",\"Il codice di ver",
+  "new_chunk": false
+ },
+ {
+  "text": "Il codice di verifica è obbligatorio",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "de-numbers-only\",\"Il codice deve contenere solo numeri\"),Vc=e(\"lightweight-web.auth.inline-otp-code-required\",\"Il codice di verifica è obbligatorio\"),Fc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Codice errato\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Codice errato",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "-code-required\",\"Il codice di verifica è obbligatorio\"),Fc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Codice errato\"),Uc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Inserisci un'età valida per continuar",
+  "new_chunk": false
+ },
+ {
+  "text": "Inserisci un'età valida per continuare",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Codice errato\"),Uc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Inserisci un'età valida per continuare\"),Qc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmh, non se",
+  "new_chunk": false
+ },
+ {
+  "text": "Mmh, non sembra corretto. Vuoi riprovare?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "ge-invalid\",\"Inserisci un'età valida per continuare\"),Qc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmh, non sembra corretto. Vuoi riprovare?\"),Bc=e(\"lightweight-web.auth.inline-profile-name-required\",\"Inseris",
+  "new_chunk": false
+ },
+ {
+  "text": "Inserisci il tuo nome per continuare",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "nvalid\",\"Mmh, non sembra corretto. Vuoi riprovare?\"),Bc=e(\"lightweight-web.auth.inline-profile-name-required\",\"Inserisci il tuo nome per continuare\"),Hc=e(\"lightweight-web.auth.inline-signup-age-help\",\"Inserisci la tua e",
+  "new_chunk": false
+ },
+ {
+  "text": "Controlla il nome e l'età, poi riprova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": ":1,value:\"modelTraining\"},{type:0,value:\".\"}]],ah=e(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Controlla il nome e l'età, poi riprova.\"),oh=e(\"lightweight-web.auth.inline-signup-name-label\",\"Nome completo",
+  "new_chunk": false
+ },
+ {
+  "text": "Le nostre Condizioni d'uso non ci consentono di creare il tuo account",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "web.auth.inline-signup-pending\",\"Attendi…\"),nh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Le nostre Condizioni d'uso non ci consentono di creare il tuo account\"),gh=e(\"lightweight-web.auth.inline-sig",
+  "new_chunk": false
+ },
+ {
+  "text": "Non possiamo creare un account con questi dati. Riprova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "signup-resend-code\",\"Invia di nuovo il codice\"),sh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Non possiamo creare un account con questi dati. Riprova.\"),ch=[\"lightweight-web.auth.inline-signup-retry-afte",
+  "new_chunk": false
+ },
+ {
+  "text": "Scarica per Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Mostra altro\"),aT=e(\"lightweight-web.marketing-download.apple-silicon\",\"Scarica per Apple Silicon\"),oT=e(\"lightweight-web.marketing-download.download\",\"Scarica\"),lT=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Scarica ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "weight-web.marketing-download.download\",\"Scarica\"),lT=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Scarica ChatGPT\"),rT=e(\"lightweight-web.marketing-download.intel-mac\",\"Scarica per Mac Intel\"),nT=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Scarica per Mac Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/it.js",
+  "ctx": "b.marketing-download.download-chatgpt\",\"Scarica ChatGPT\"),rT=e(\"lightweight-web.marketing-download.intel-mac\",\"Scarica per Mac Intel\"),nT=e(\"lightweight-web.settings.language\",\"Lingua\"),gT=e(\"lightweight-web.settings.lan",
+  "new_chunk": false
+ },
+ {
+  "text": "Dapat may eksaktong",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "mamit ng hindi hihigit sa 96 na character.\"),Oh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Dapat may eksaktong \"},{type:1,value:\"length\"},{type:0,value:\" character ang verification code\"}]],Kh=a(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Dapat puro numero ang code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": ",{type:0,value:\" character ang verification code\"}]],Kh=a(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Dapat puro numero ang code\"),Lh=a(\"lightweight-web.auth.inline-otp-code-required\",\"Kailangan ang verification",
+  "new_chunk": false
+ },
+ {
+  "text": "Kailangan ang verification code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ine-otp-code-numbers-only\",\"Dapat puro numero ang code\"),Lh=a(\"lightweight-web.auth.inline-otp-code-required\",\"Kailangan ang verification code\"),qh=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Maling code\"),Wh=a(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Maling code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "e-otp-code-required\",\"Kailangan ang verification code\"),qh=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Maling code\"),Wh=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Maglagay ng wastong edad para magpatulo",
+  "new_chunk": false
+ },
+ {
+  "text": "Maglagay ng wastong edad para magpatuloy",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ght-web.auth.inline-otp-incorrect-code\",\"Maling code\"),Wh=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Maglagay ng wastong edad para magpatuloy\"),Vh=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, mukh",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, mukhang may mali. Subukan ulit?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "-invalid\",\"Maglagay ng wastong edad para magpatuloy\"),Vh=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, mukhang may mali. Subukan ulit?\"),Rh=a(\"lightweight-web.auth.inline-profile-name-required\",\"Pakilagay an",
+  "new_chunk": false
+ },
+ {
+  "text": "Pakilagay ang iyong pangalan para magpatuloy",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ame-invalid\",\"Hmm, mukhang may mali. Subukan ulit?\"),Rh=a(\"lightweight-web.auth.inline-profile-name-required\",\"Pakilagay ang iyong pangalan para magpatuloy\"),Uh=a(\"lightweight-web.auth.inline-signup-age-help\",\"Ilagay ang",
+  "new_chunk": false
+ },
+ {
+  "text": "Hindi namin magawa ang account mo dahil sa aming Mga Tuntunin sa Paggamit",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": ".auth.inline-signup-pending\",\"Pakihintay…\"),lw=a(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Hindi namin magawa ang account mo dahil sa aming Mga Tuntunin sa Paggamit\"),sw=a(\"lightweight-web.auth.inline",
+  "new_chunk": false
+ },
+ {
+  "text": "Hindi kami makagawa ng account gamit ang impormasyong iyan. Subukan ulit.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ne-signup-resend-code\",\"Ipadala muli ang code\"),rw=a(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Hindi kami makagawa ng account gamit ang impormasyong iyan. Subukan ulit.\"),hw=[\"lightweight-web.auth.inline-",
+  "new_chunk": false
+ },
+ {
+  "text": "I-download para sa Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Magpakita pa\"),tG=a(\"lightweight-web.marketing-download.apple-silicon\",\"I-download para sa Apple Silicon\"),gG=a(\"lightweight-web.marketing-download.download\",\"I-download\"),nG=a(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "I-download ang ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ght-web.marketing-download.download\",\"I-download\"),nG=a(\"lightweight-web.marketing-download.download-chatgpt\",\"I-download ang ChatGPT\"),oG=a(\"lightweight-web.marketing-download.intel-mac\",\"I-download para sa Intel Mac\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "I-download para sa Intel Mac",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tl.js",
+  "ctx": "ting-download.download-chatgpt\",\"I-download ang ChatGPT\"),oG=a(\"lightweight-web.marketing-download.intel-mac\",\"I-download para sa Intel Mac\"),lG=a(\"lightweight-web.settings.language\",\"Lenguahe\"),sG=a(\"lightweight-web.set",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod pengesahan mesti mengandungi tepat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "-too-long\",\"Gunakan 96 aksara atau kurang.\"),Oo=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kod pengesahan mesti mengandungi tepat \"},{type:1,value:\"length\"},{type:0,value:\" aksara\"}]],Yo=a(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod mesti mengandungi nombor sahaja",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "},{type:1,value:\"length\"},{type:0,value:\" aksara\"}]],Yo=a(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kod mesti mengandungi nombor sahaja\"),Ho=a(\"lightweight-web.auth.inline-otp-code-required\",\"Kod pengesahan di",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod pengesahan diperlukan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "ode-numbers-only\",\"Kod mesti mengandungi nombor sahaja\"),Ho=a(\"lightweight-web.auth.inline-otp-code-required\",\"Kod pengesahan diperlukan\"),Jo=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kod tidak betul\"),Ro=a(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod tidak betul",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": ".inline-otp-code-required\",\"Kod pengesahan diperlukan\"),Jo=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kod tidak betul\"),Ro=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Masukkan umur yang sah untuk meneru",
+  "new_chunk": false
+ },
+ {
+  "text": "Masukkan umur yang sah untuk meneruskan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "web.auth.inline-otp-incorrect-code\",\"Kod tidak betul\"),Ro=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Masukkan umur yang sah untuk meneruskan\"),No=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, nampa",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, nampaknya ada yang tak kena. Cuba lagi?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "e-invalid\",\"Masukkan umur yang sah untuk meneruskan\"),No=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, nampaknya ada yang tak kena. Cuba lagi?\"),qo=a(\"lightweight-web.auth.inline-profile-name-required\",\"Sila",
+  "new_chunk": false
+ },
+ {
+  "text": "Sila masukkan nama anda untuk meneruskan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "lid\",\"Hmm, nampaknya ada yang tak kena. Cuba lagi?\"),qo=a(\"lightweight-web.auth.inline-profile-name-required\",\"Sila masukkan nama anda untuk meneruskan\"),Fo=a(\"lightweight-web.auth.inline-signup-age-help\",\"Masukkan umur ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kami tidak dapat mencipta akaun anda kerana Terma Penggunaan kami tidak membenarkannya",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "auth.inline-signup-pending\",\"Sila tunggu…\"),su=a(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Kami tidak dapat mencipta akaun anda kerana Terma Penggunaan kami tidak membenarkannya\"),ru=a(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Kami tidak dapat mencipta akaun menggunakan maklumat itu. Cuba lagi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "inline-signup-resend-code\",\"Hantar semula kod\"),hu=a(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Kami tidak dapat mencipta akaun menggunakan maklumat itu. Cuba lagi.\"),ou=[\"lightweight-web.auth.inline-signu",
+  "new_chunk": false
+ },
+ {
+  "text": "Muat turun untuk Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": ".marketing-cards.show-more-prompts\",\"Tunjukkan lagi\"),tC=a(\"lightweight-web.marketing-download.apple-silicon\",\"Muat turun untuk Apple Silicon\"),nC=a(\"lightweight-web.marketing-download.download\",\"Muat turun\"),lC=a(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Muat turun ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "ght-web.marketing-download.download\",\"Muat turun\"),lC=a(\"lightweight-web.marketing-download.download-chatgpt\",\"Muat turun ChatGPT\"),gC=a(\"lightweight-web.marketing-download.intel-mac\",\"Muat turun untuk Mac Intel\"),sC=a(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Muat turun untuk Mac Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ms.js",
+  "ctx": "arketing-download.download-chatgpt\",\"Muat turun ChatGPT\"),gC=a(\"lightweight-web.marketing-download.intel-mac\",\"Muat turun untuk Mac Intel\"),sC=a(\"lightweight-web.settings.language\",\"Bahasa\"),rC=a(\"lightweight-web.setting",
+  "new_chunk": false
+ },
+ {
+  "text": "Kód musí obsahovat pouze číslice",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "\"},{type:1,value:\"length\"},{type:0,value:\" znaků\"}]],Ih=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kód musí obsahovat pouze číslice\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Ověřovací kód je pov",
+  "new_chunk": false
+ },
+ {
+  "text": "Ověřovací kód je povinný",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "p-code-numbers-only\",\"Kód musí obsahovat pouze číslice\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Ověřovací kód je povinný\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nesprávný kód\"),qh=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Nesprávný kód",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "h.inline-otp-code-required\",\"Ověřovací kód je povinný\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nesprávný kód\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Pro pokračování zadejte platný věk\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Pro pokračování zadejte platný věk",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Nesprávný kód\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Pro pokračování zadejte platný věk\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, to nevypad",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, to nevypadá správně. Zkusíte to znovu?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "le-age-invalid\",\"Pro pokračování zadejte platný věk\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, to nevypadá správně. Zkusíte to znovu?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Pro p",
+  "new_chunk": false
+ },
+ {
+  "text": "Pro pokračování zadejte prosím jméno",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "alid\",\"Hmm, to nevypadá správně. Zkusíte to znovu?\"),Lh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Pro pokračování zadejte prosím jméno\"),Rh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Zadejte svůj věk v",
+  "new_chunk": false
+ },
+ {
+  "text": "Kvůli našim podmínkám používání vám nemůžeme vytvořit účet",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "h.inline-signup-pending\",\"Čekejte prosím…\"),rw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Kvůli našim podmínkám používání vám nemůžeme vytvořit účet\"),gw=e(\"lightweight-web.auth.inline-signup-resend-",
+  "new_chunk": false
+ },
+ {
+  "text": "S těmito údaji nemůžeme vytvořit účet. Zkuste to znovu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "inline-signup-resend-code\",\"Znovu odeslat kód\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"S těmito údaji nemůžeme vytvořit účet. Zkuste to znovu.\"),hw=[\"lightweight-web.auth.inline-signup-retry-after",
+  "new_chunk": false
+ },
+ {
+  "text": "Stáhnout pro Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Zobrazit více\"),ox=e(\"lightweight-web.marketing-download.apple-silicon\",\"Stáhnout pro Apple Silicon\"),ax=e(\"lightweight-web.marketing-download.download\",\"Stáhnout\"),nx=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Stáhnout ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "eight-web.marketing-download.download\",\"Stáhnout\"),nx=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Stáhnout ChatGPT\"),lx=e(\"lightweight-web.marketing-download.intel-mac\",\"Stáhnout pro Mac s procesorem Intel\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Stáhnout pro Mac s procesorem Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Stáhnout ChatGPT\"),lx=e(\"lightweight-web.marketing-download.intel-mac\",\"Stáhnout pro Mac s procesorem Intel\"),rx=e(\"lightweight-web.settings.language\",\"Jazyk\"),gx=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code de vérification doit contenir exactement",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "oo-long\",\"Utilisez 96 caractères ou moins.\"),Lh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Le code de vérification doit contenir exactement \"},{type:1,value:\"length\"},{type:0,value:\" caractères\"}]],Mh",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code doit contenir uniquement des chiffres",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "ype:1,value:\"length\"},{type:0,value:\" caractères\"}]],Mh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Le code doit contenir uniquement des chiffres\"),Nh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Le code",
+  "new_chunk": false
+ },
+ {
+  "text": "Le code de vérification est requis",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "s-only\",\"Le code doit contenir uniquement des chiffres\"),Nh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Le code de vérification est requis\"),Fh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Code incorrect\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Code incorrect",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "tp-code-required\",\"Le code de vérification est requis\"),Fh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Code incorrect\"),Uh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Entrez un âge valide pour continuer\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Entrez un âge valide pour continuer",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "-web.auth.inline-otp-incorrect-code\",\"Code incorrect\"),Uh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Entrez un âge valide pour continuer\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, ça ne sem",
+  "new_chunk": false
+ },
+ {
+  "text": "Hum, ça ne semble pas correct. Voulez-vous réessayer ?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "e-age-invalid\",\"Entrez un âge valide pour continuer\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, ça ne semble pas correct. Voulez-vous réessayer ?\"),Wh=e(\"lightweight-web.auth.inline-profile-name-requi",
+  "new_chunk": false
+ },
+ {
+  "text": "Veuillez entrer votre nom pour continuer",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": " ça ne semble pas correct. Voulez-vous réessayer ?\"),Wh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Veuillez entrer votre nom pour continuer\"),Hh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Entrez votre â",
+  "new_chunk": false
+ },
+ {
+  "text": "Nos conditions d’utilisation ne nous permettent pas de créer votre compte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "line-signup-pending\",\"Veuillez patienter…\"),nc=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Nos conditions d’utilisation ne nous permettent pas de créer votre compte\"),lc=e(\"lightweight-web.auth.inline",
+  "new_chunk": false
+ },
+ {
+  "text": "Nous ne pouvons pas créer de compte avec ces renseignements. Réessayez.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": ".inline-signup-resend-code\",\"Renvoyer le code\"),gc=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nous ne pouvons pas créer de compte avec ces renseignements. Réessayez.\"),hc=[\"lightweight-web.auth.inline-si",
+  "new_chunk": false
+ },
+ {
+  "text": "Télécharger pour Mac à puce Apple",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Afficher plus\"),rq=e(\"lightweight-web.marketing-download.apple-silicon\",\"Télécharger pour Mac à puce Apple\"),aq=e(\"lightweight-web.marketing-download.download\",\"Télécharger\"),oq=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Télécharger ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "ht-web.marketing-download.download\",\"Télécharger\"),oq=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Télécharger ChatGPT\"),sq=e(\"lightweight-web.marketing-download.intel-mac\",\"Télécharger pour Mac à processeur ",
+  "new_chunk": false
+ },
+ {
+  "text": "Télécharger pour Mac à processeur Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "rketing-download.download-chatgpt\",\"Télécharger ChatGPT\"),sq=e(\"lightweight-web.marketing-download.intel-mac\",\"Télécharger pour Mac à processeur Intel\"),nq=e(\"lightweight-web.settings.language\",\"Langue\"),lq=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Saisissez un âge valide pour continuer",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "-web.auth.inline-otp-incorrect-code\",\"Code incorrect\"),Uh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Saisissez un âge valide pour continuer\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, ça n’a",
+  "new_chunk": false
+ },
+ {
+  "text": "Hum, ça n’a pas l’air correct. Vous voulez réessayer ?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "ge-invalid\",\"Saisissez un âge valide pour continuer\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hum, ça n’a pas l’air correct. Vous voulez réessayer ?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-requi",
+  "new_chunk": false
+ },
+ {
+  "text": "Veuillez saisir votre nom pour continuer",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": " ça n’a pas l’air correct. Vous voulez réessayer ?\"),Hh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Veuillez saisir votre nom pour continuer\"),Jh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Saisissez votr",
+  "new_chunk": false
+ },
+ {
+  "text": "Nous ne pouvons pas créer de compte avec ces informations. Réessayez.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": ".inline-signup-resend-code\",\"Renvoyer le code\"),gc=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Nous ne pouvons pas créer de compte avec ces informations. Réessayez.\"),hc=[\"lightweight-web.auth.inline-sign",
+  "new_chunk": false
+ },
+ {
+  "text": "Télécharger pour Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Afficher plus\"),aP=e(\"lightweight-web.marketing-download.apple-silicon\",\"Télécharger pour Apple Silicon\"),rP=e(\"lightweight-web.marketing-download.download\",\"Télécharger\"),oP=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Télécharger pour Mac Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "rketing-download.download-chatgpt\",\"Télécharger ChatGPT\"),sP=e(\"lightweight-web.marketing-download.intel-mac\",\"Télécharger pour Mac Intel\"),nP=e(\"lightweight-web.settings.language\",\"Langue\"),lP=e(\"lightweight-web.setting",
+  "new_chunk": false
+ },
+ {
+  "text": "Kode verifikasi harus berisi tepat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "e-too-long\",\"Gunakan maksimal 96 karakter.\"),Eh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kode verifikasi harus berisi tepat \"},{type:1,value:\"length\"},{type:0,value:\" karakter\"}]],Hh=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Kode hanya boleh berisi angka",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "{type:1,value:\"length\"},{type:0,value:\" karakter\"}]],Hh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kode hanya boleh berisi angka\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kode verifikasi wajib d",
+  "new_chunk": false
+ },
+ {
+  "text": "Kode verifikasi wajib diisi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "-otp-code-numbers-only\",\"Kode hanya boleh berisi angka\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kode verifikasi wajib diisi\"),Rh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kode salah\"),qh=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Kode salah",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "nline-otp-code-required\",\"Kode verifikasi wajib diisi\"),Rh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Kode salah\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Masukkan usia yang valid untuk melanjutk",
+  "new_chunk": false
+ },
+ {
+  "text": "Masukkan usia yang valid untuk melanjutkan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "ight-web.auth.inline-otp-incorrect-code\",\"Kode salah\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Masukkan usia yang valid untuk melanjutkan\"),Nh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, se",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, sepertinya ada yang salah. Coba lagi?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "nvalid\",\"Masukkan usia yang valid untuk melanjutkan\"),Nh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, sepertinya ada yang salah. Coba lagi?\"),Fh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Silaka",
+  "new_chunk": false
+ },
+ {
+  "text": "Silakan masukkan nama untuk melanjutkan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "valid\",\"Hmm, sepertinya ada yang salah. Coba lagi?\"),Fh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Silakan masukkan nama untuk melanjutkan\"),Jh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Masukkan usia A",
+  "new_chunk": false
+ },
+ {
+  "text": "Kami tidak dapat membuat akun Anda karena tidak diizinkan oleh Ketentuan Penggunaan kami",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "uth.inline-signup-pending\",\"Harap tunggu…\"),rw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Kami tidak dapat membuat akun Anda karena tidak diizinkan oleh Ketentuan Penggunaan kami\"),sw=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Kami tidak bisa membuat akun dengan info tersebut. Coba lagi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": ".inline-signup-resend-code\",\"Kirim ulang kode\"),ow=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Kami tidak bisa membuat akun dengan info tersebut. Coba lagi.\"),hw=[\"lightweight-web.auth.inline-signup-retry",
+  "new_chunk": false
+ },
+ {
+  "text": "Unduh untuk Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "rketing-cards.show-more-prompts\",\"Tampilkan lainnya\"),tC=e(\"lightweight-web.marketing-download.apple-silicon\",\"Unduh untuk Apple Silicon\"),nC=e(\"lightweight-web.marketing-download.download\",\"Unduh\"),lC=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Unduh ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "htweight-web.marketing-download.download\",\"Unduh\"),lC=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Unduh ChatGPT\"),gC=e(\"lightweight-web.marketing-download.intel-mac\",\"Unduh untuk Mac Intel\"),rC=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Unduh untuk Mac Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "web.marketing-download.download-chatgpt\",\"Unduh ChatGPT\"),gC=e(\"lightweight-web.marketing-download.intel-mac\",\"Unduh untuk Mac Intel\"),rC=e(\"lightweight-web.settings.language\",\"Bahasa\"),sC=e(\"lightweight-web.settings.lan",
+  "new_chunk": false
+ },
+ {
+  "text": "Apple Silicon용 다운로드",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ko.js",
+  "ctx": "weight-web.marketing-cards.show-more-prompts\",\"더 보기\"),gG=e(\"lightweight-web.marketing-download.apple-silicon\",\"Apple Silicon용 다운로드\"),aG=e(\"lightweight-web.marketing-download.download\",\"다운로드\"),lG=e(\"lightweight-web.market",
+  "new_chunk": false
+ },
+ {
+  "text": "El codi de verificació ha de tenir exactament",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "-long\",\"Utilitza un màxim de 96 caràcters.\"),Rc=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"El codi de verificació ha de tenir exactament \"},{type:1,value:\"length\"},{type:0,value:\" caràcters\"}]],Lc=e(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "El codi només pot contenir números",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" caràcters\"}]],Lc=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"El codi només pot contenir números\"),Fc=e(\"lightweight-web.auth.inline-otp-code-required\",\"El codi de verific",
+  "new_chunk": false
+ },
+ {
+  "text": "El codi de verificació és obligatori",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "code-numbers-only\",\"El codi només pot contenir números\"),Fc=e(\"lightweight-web.auth.inline-otp-code-required\",\"El codi de verificació és obligatori\"),Bc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Codi incorrecte",
+  "new_chunk": false
+ },
+ {
+  "text": "Codi incorrecte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "-code-required\",\"El codi de verificació és obligatori\"),Bc=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Codi incorrecte\"),Vc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introdueix una edat vàlida per cont",
+  "new_chunk": false
+ },
+ {
+  "text": "Introdueix una edat vàlida per continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "web.auth.inline-otp-incorrect-code\",\"Codi incorrecte\"),Vc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Introdueix una edat vàlida per continuar\"),Hc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, això",
+  "new_chunk": false
+ },
+ {
+  "text": "Mmm, això no sembla correcte. Vols tornar-ho a provar?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "-invalid\",\"Introdueix una edat vàlida per continuar\"),Hc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, això no sembla correcte. Vols tornar-ho a provar?\"),Uc=e(\"lightweight-web.auth.inline-profile-name-requi",
+  "new_chunk": false
+ },
+ {
+  "text": "Si us plau, introdueix el teu nom per continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": " això no sembla correcte. Vols tornar-ho a provar?\"),Uc=e(\"lightweight-web.auth.inline-profile-name-required\",\"Si us plau, introdueix el teu nom per continuar\"),Qc=e(\"lightweight-web.auth.inline-signup-age-help\",\"Introdu",
+  "new_chunk": false
+ },
+ {
+  "text": "Les nostres condicions d'ús no ens permeten crear el teu compte",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "e-signup-pending\",\"Un moment, si us plau…\"),sh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Les nostres condicions d'ús no ens permeten crear el teu compte\"),nh=e(\"lightweight-web.auth.inline-signup-re",
+  "new_chunk": false
+ },
+ {
+  "text": "No podem crear un compte amb aquestes dades. Torna-ho a provar.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "e-signup-resend-code\",\"Torna a enviar el codi\"),gh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"No podem crear un compte amb aquestes dades. Torna-ho a provar.\"),ch=[\"lightweight-web.auth.inline-signup-ret",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixa per a Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "eb.marketing-cards.show-more-prompts\",\"Mostra'n més\"),aP=e(\"lightweight-web.marketing-download.apple-silicon\",\"Baixa per a Apple Silicon\"),rP=e(\"lightweight-web.marketing-download.download\",\"Baixa\"),oP=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixa el ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "htweight-web.marketing-download.download\",\"Baixa\"),oP=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Baixa el ChatGPT\"),lP=e(\"lightweight-web.marketing-download.intel-mac\",\"Baixa per a Mac amb processador Intel",
+  "new_chunk": false
+ },
+ {
+  "text": "Baixa per a Mac amb processador Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Baixa el ChatGPT\"),lP=e(\"lightweight-web.marketing-download.intel-mac\",\"Baixa per a Mac amb processador Intel\"),sP=e(\"lightweight-web.settings.language\",\"Llengua\"),nP=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Overovací kód musí mať presne",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "name-too-long\",\"Použite najviac 96 znakov.\"),Eh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Overovací kód musí mať presne \"},{type:1,value:\"length\"},{type:0,value:\" znakov\"}]],Ih=e(\"lightweight-web.aut",
+  "new_chunk": false
+ },
+ {
+  "text": "Kód musí obsahovať iba číslice",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "},{type:1,value:\"length\"},{type:0,value:\" znakov\"}]],Ih=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kód musí obsahovať iba číslice\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Overovací kód je povin",
+  "new_chunk": false
+ },
+ {
+  "text": "Overovací kód je povinný",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "otp-code-numbers-only\",\"Kód musí obsahovať iba číslice\"),Uh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Overovací kód je povinný\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nesprávny kód\"),qh=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Nesprávny kód",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "h.inline-otp-code-required\",\"Overovací kód je povinný\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Nesprávny kód\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Ak chceš pokračovať, zadaj platný vek",
+  "new_chunk": false
+ },
+ {
+  "text": "Ak chceš pokračovať, zadaj platný vek",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Nesprávny kód\"),qh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Ak chceš pokračovať, zadaj platný vek\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to nevyz",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, to nevyzerá správne. Skúsiš to znova?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "age-invalid\",\"Ak chceš pokračovať, zadaj platný vek\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to nevyzerá správne. Skúsiš to znova?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Ak chce",
+  "new_chunk": false
+ },
+ {
+  "text": "Ak chceš pokračovať, zadaj meno.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "nvalid\",\"Hm, to nevyzerá správne. Skúsiš to znova?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Ak chceš pokračovať, zadaj meno.\"),Lh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Zadaj svoj vek v celýc",
+  "new_chunk": false
+ },
+ {
+  "text": "Nemôžeme ti vytvoriť účet, pretože to naše podmienky používania neumožňujú",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "th.inline-signup-pending\",\"Čakaj, prosím…\"),lw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Nemôžeme ti vytvoriť účet, pretože to naše podmienky používania neumožňujú\"),sw=e(\"lightweight-web.auth.inlin",
+  "new_chunk": false
+ },
+ {
+  "text": "S týmito údajmi nemôžeš vytvoriť účet. Skús to znova.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "inline-signup-resend-code\",\"Znova odoslať kód\"),gw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"S týmito údajmi nemôžeš vytvoriť účet. Skús to znova.\"),hw=[\"lightweight-web.auth.inline-signup-retry-after\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Stiahnuť pre Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Zobraziť viac\"),aS=e(\"lightweight-web.marketing-download.apple-silicon\",\"Stiahnuť pre Apple Silicon\"),oS=e(\"lightweight-web.marketing-download.download\",\"Stiahnuť\"),nS=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Stiahnuť ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": "eight-web.marketing-download.download\",\"Stiahnuť\"),nS=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Stiahnuť ChatGPT\"),rS=e(\"lightweight-web.marketing-download.intel-mac\",\"Stiahnuť pre Mac s procesorom Intel\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Stiahnuť pre Mac s procesorom Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sk.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Stiahnuť ChatGPT\"),rS=e(\"lightweight-web.marketing-download.intel-mac\",\"Stiahnuť pre Mac s procesorom Intel\"),lS=e(\"lightweight-web.settings.language\",\"Jazyk\"),sS=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Codex og ítarleg rannsókn",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "tion.upload-plan-benefit-memory\",\"Aukið minni\"),ia=e(\"lightweight-web.conversation.upload-plan-benefit-tools\",\"Codex og ítarleg rannsókn\"),aa=e(\"lightweight-web.conversation.upload-upgrade-plus\",\"Uppfæra í Plus\"),na=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Staðfestingarkóðinn þarf að vera nákvæmlega",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ame-too-long\",\"Notaðu að hámarki 96 stafi.\"),Dh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Staðfestingarkóðinn þarf að vera nákvæmlega \"},{type:1,value:\"length\"},{type:0,value:\" stafa langur\"}]],Mh=e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Kóðinn má aðeins innihalda tölustafi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "e:1,value:\"length\"},{type:0,value:\" stafa langur\"}]],Mh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kóðinn má aðeins innihalda tölustafi\"),Oh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Þú þarft að slá ",
+  "new_chunk": false
+ },
+ {
+  "text": "Þú þarft að slá inn staðfestingarkóða",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "de-numbers-only\",\"Kóðinn má aðeins innihalda tölustafi\"),Oh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Þú þarft að slá inn staðfestingarkóða\"),Nh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Rangur kóði\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Sláðu inn gildan aldur til að halda áfram",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ght-web.auth.inline-otp-incorrect-code\",\"Rangur kóði\"),Ih=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Sláðu inn gildan aldur til að halda áfram\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, þet",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, þetta virðist ekki vera rétt. Viltu reyna aftur?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "invalid\",\"Sláðu inn gildan aldur til að halda áfram\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, þetta virðist ekki vera rétt. Viltu reyna aftur?\"),Kh=e(\"lightweight-web.auth.inline-profile-name-requir",
+  "new_chunk": false
+ },
+ {
+  "text": "Vinsamlegast sláðu inn nafn til að halda áfram",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": ", þetta virðist ekki vera rétt. Viltu reyna aftur?\"),Kh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Vinsamlegast sláðu inn nafn til að halda áfram\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Sláðu in",
+  "new_chunk": false
+ },
+ {
+  "text": "Við getum ekki búið til reikning fyrir þig vegna notkunarskilmála okkar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "line-signup-pending\",\"Vinsamlegast bíddu…\"),gu=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Við getum ekki búið til reikning fyrir þig vegna notkunarskilmála okkar\"),su=e(\"lightweight-web.auth.inline-s",
+  "new_chunk": false
+ },
+ {
+  "text": "Við getum ekki búið til reikning með þessum upplýsingum. Reyndu aftur.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": ".inline-signup-resend-code\",\"Senda kóða aftur\"),ou=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Við getum ekki búið til reikning með þessum upplýsingum. Reyndu aftur.\"),hu=[\"lightweight-web.auth.inline-sig",
+  "new_chunk": false
+ },
+ {
+  "text": "Sækja fyrir Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "-web.marketing-cards.show-more-prompts\",\"Sýna meira\"),aT=e(\"lightweight-web.marketing-download.apple-silicon\",\"Sækja fyrir Apple Silicon\"),nT=e(\"lightweight-web.marketing-download.download\",\"Sækja\"),rT=e(\"lightweight-web",
+  "new_chunk": false
+ },
+ {
+  "text": "Sækja ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "htweight-web.marketing-download.download\",\"Sækja\"),rT=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Sækja ChatGPT\"),lT=e(\"lightweight-web.marketing-download.intel-mac\",\"Sækja fyrir Mac með Intel-örgjörva\"),gT=",
+  "new_chunk": false
+ },
+ {
+  "text": "Sækja fyrir Mac með Intel-örgjörva",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "web.marketing-download.download-chatgpt\",\"Sækja ChatGPT\"),lT=e(\"lightweight-web.marketing-download.intel-mac\",\"Sækja fyrir Mac með Intel-örgjörva\"),gT=e(\"lightweight-web.settings.language\",\"Tungumál\"),sT=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Kôd za verifikaciju treba imati točno",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ame-too-long\",\"Unesite najviše 96 znakova.\"),Zh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kôd za verifikaciju treba imati točno \"},{type:1,value:\"length\"},{type:0,value:\" znakova\"}]],Kh=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Kôd mora sadržavati samo znamenke",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": ",{type:1,value:\"length\"},{type:0,value:\" znakova\"}]],Kh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kôd mora sadržavati samo znamenke\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kôd za verifikaciju",
+  "new_chunk": false
+ },
+ {
+  "text": "Kôd za verifikaciju je obvezan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "-code-numbers-only\",\"Kôd mora sadržavati samo znamenke\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kôd za verifikaciju je obvezan\"),Vh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Netočan kôd\"),Mh=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "Netočan kôd",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ne-otp-code-required\",\"Kôd za verifikaciju je obvezan\"),Vh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Netočan kôd\"),Mh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Za nastavak unesi valjan broj godina\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Za nastavak unesi valjan broj godina",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "ght-web.auth.inline-otp-incorrect-code\",\"Netočan kôd\"),Mh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Za nastavak unesi valjan broj godina\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to ne izg",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, to ne izgleda kako treba. Pokušaj ponovno?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "-age-invalid\",\"Za nastavak unesi valjan broj godina\"),Bh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, to ne izgleda kako treba. Pokušaj ponovno?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Un",
+  "new_chunk": false
+ },
+ {
+  "text": "Unesi ime za nastavak",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "d\",\"Hm, to ne izgleda kako treba. Pokušaj ponovno?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Unesi ime za nastavak\"),Lh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Unesite broj godina kao cijeli br",
+  "new_chunk": false
+ },
+ {
+  "text": "Ne možemo izraditi tvoj račun zbog naših Uvjeta korištenja",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": ".auth.inline-signup-pending\",\"Pričekajte…\"),lw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Ne možemo izraditi tvoj račun zbog naših Uvjeta korištenja\"),gw=e(\"lightweight-web.auth.inline-signup-resend-",
+  "new_chunk": false
+ },
+ {
+  "text": "Ne možemo izraditi račun s tim podacima. Pokušaj ponovno.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hr.js",
+  "ctx": "line-signup-resend-code\",\"Ponovno pošalji kôd\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Ne možemo izraditi račun s tim podacima. Pokušaj ponovno.\"),hw=[\"lightweight-web.auth.inline-signup-retry-aft",
+  "new_chunk": false
+ },
+ {
+  "text": "Verifiseringskoden må være nøyaktig",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ne-name-too-long\",\"Bruk maksimalt 96 tegn.\"),Nh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Verifiseringskoden må være nøyaktig \"},{type:1,value:\"length\"},{type:0,value:\" tegn lang\"}]],Ih=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Koden må bare inneholde sifre",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "type:1,value:\"length\"},{type:0,value:\" tegn lang\"}]],Ih=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koden må bare inneholde sifre\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Du må oppgi verifiserin",
+  "new_chunk": false
+ },
+ {
+  "text": "Du må oppgi verifiseringskoden",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "-otp-code-numbers-only\",\"Koden må bare inneholde sifre\"),Eh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Du må oppgi verifiseringskoden\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Feil kode\"),Mh=e(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "Feil kode",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ne-otp-code-required\",\"Du må oppgi verifiseringskoden\"),Hh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Feil kode\"),Mh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Oppgi en gyldig alder for å fortsette\"),q",
+  "new_chunk": false
+ },
+ {
+  "text": "Oppgi en gyldig alder for å fortsette",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "eight-web.auth.inline-otp-incorrect-code\",\"Feil kode\"),Mh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Oppgi en gyldig alder for å fortsette\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det ser",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, det ser ikke riktig ut. Prøv igjen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "age-invalid\",\"Oppgi en gyldig alder for å fortsette\"),qh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, det ser ikke riktig ut. Prøv igjen?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Skriv in",
+  "new_chunk": false
+ },
+ {
+  "text": "Skriv inn navnet ditt for å fortsette",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "invalid\",\"Hmm, det ser ikke riktig ut. Prøv igjen?\"),Rh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Skriv inn navnet ditt for å fortsette\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Skriv inn alderen",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan ikke opprette kontoen din på grunn av våre vilkår for bruk",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": ".auth.inline-signup-pending\",\"Vent litt …\"),gw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Vi kan ikke opprette kontoen din på grunn av våre vilkår for bruk\"),ow=e(\"lightweight-web.auth.inline-signup-",
+  "new_chunk": false
+ },
+ {
+  "text": "Vi kan ikke opprette en konto med disse opplysningene. Prøv igjen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "nline-signup-resend-code\",\"Send koden på nytt\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Vi kan ikke opprette en konto med disse opplysningene. Prøv igjen.\"),hw=[\"lightweight-web.auth.inline-signup-",
+  "new_chunk": false
+ },
+ {
+  "text": "Last ned for Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "ght-web.marketing-cards.show-more-prompts\",\"Vis mer\"),nD=e(\"lightweight-web.marketing-download.apple-silicon\",\"Last ned for Apple Silicon\"),rD=e(\"lightweight-web.marketing-download.download\",\"Last ned\"),lD=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Last ned ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": "eight-web.marketing-download.download\",\"Last ned\"),lD=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Last ned ChatGPT\"),aD=e(\"lightweight-web.marketing-download.intel-mac\",\"Last ned for Mac med Intel-prosessor\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Last ned for Mac med Intel-prosessor",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nb.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"Last ned ChatGPT\"),aD=e(\"lightweight-web.marketing-download.intel-mac\",\"Last ned for Mac med Intel-prosessor\"),gD=e(\"lightweight-web.settings.language\",\"Språk\"),oD=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "A hitelesítési kódnak pontosan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "oo-long\",\"Legfeljebb 96 karaktert adj meg.\"),Dh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"A hitelesítési kódnak pontosan \"},{type:1,value:\"length\"},{type:0,value:\" karakterből kell állnia\"}]],Oh=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "A kód csak számjegyeket tartalmazhat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "length\"},{type:0,value:\" karakterből kell állnia\"}]],Oh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"A kód csak számjegyeket tartalmazhat\"),Ih=e(\"lightweight-web.auth.inline-otp-code-required\",\"A hitelesítési k",
+  "new_chunk": false
+ },
+ {
+  "text": "A hitelesítési kód megadása kötelező",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "de-numbers-only\",\"A kód csak számjegyeket tartalmazhat\"),Ih=e(\"lightweight-web.auth.inline-otp-code-required\",\"A hitelesítési kód megadása kötelező\"),Sh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Hibás kód\"),Uh=",
+  "new_chunk": false
+ },
+ {
+  "text": "A folytatáshoz adj meg érvényes életkort",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "eight-web.auth.inline-otp-incorrect-code\",\"Hibás kód\"),Uh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"A folytatáshoz adj meg érvényes életkort\"),Lh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, ez íg",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, ez így nem stimmel. Megpróbálod újra?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "-invalid\",\"A folytatáshoz adj meg érvényes életkort\"),Lh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, ez így nem stimmel. Megpróbálod újra?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"A folyt",
+  "new_chunk": false
+ },
+ {
+  "text": "A folytatáshoz kérjük, add meg a neved.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "nvalid\",\"Hm, ez így nem stimmel. Megpróbálod újra?\"),qh=e(\"lightweight-web.auth.inline-profile-name-required\",\"A folytatáshoz kérjük, add meg a neved.\"),Jh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Add meg az élet",
+  "new_chunk": false
+ },
+ {
+  "text": "A felhasználási feltételeink értelmében nem hozhatjuk létre a fiókodat",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "uth.inline-signup-pending\",\"Kis türelmet…\"),ow=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"A felhasználási feltételeink értelmében nem hozhatjuk létre a fiókodat\"),nw=e(\"lightweight-web.auth.inline-si",
+  "new_chunk": false
+ },
+ {
+  "text": "A megadott adatokkal nem tudunk fiókot létrehozni. Próbáld újra.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "h.inline-signup-resend-code\",\"Kód újraküldése\"),rw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"A megadott adatokkal nem tudunk fiókot létrehozni. Próbáld újra.\"),hw=[\"lightweight-web.auth.inline-signup-re",
+  "new_chunk": false
+ },
+ {
+  "text": "Letöltés Apple Silicon-alapú Macre",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "g-cards.show-more-prompts\",\"Továbbiak megjelenítése\"),aP=e(\"lightweight-web.marketing-download.apple-silicon\",\"Letöltés Apple Silicon-alapú Macre\"),lP=e(\"lightweight-web.marketing-download.download\",\"Letöltés\"),sP=e(\"lig",
+  "new_chunk": false
+ },
+ {
+  "text": "A ChatGPT letöltése",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "eight-web.marketing-download.download\",\"Letöltés\"),sP=e(\"lightweight-web.marketing-download.download-chatgpt\",\"A ChatGPT letöltése\"),gP=e(\"lightweight-web.marketing-download.intel-mac\",\"Letöltés Intel-alapú Macre\"),oP=e(",
+  "new_chunk": false
+ },
+ {
+  "text": "Letöltés Intel-alapú Macre",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/hu.js",
+  "ctx": "rketing-download.download-chatgpt\",\"A ChatGPT letöltése\"),gP=e(\"lightweight-web.marketing-download.intel-mac\",\"Letöltés Intel-alapú Macre\"),oP=e(\"lightweight-web.settings.language\",\"Nyelv\"),nP=e(\"lightweight-web.settings",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodhka xaqiijinta waa inuu ka koobnaadaa",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "-long\",\"Isticmaal 96 xaraf ama wax ka yar.\"),Fs=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Koodhka xaqiijinta waa inuu ka koobnaadaa \"},{type:1,value:\"length\"},{type:0,value:\" xaraf oo keliya\"}]],Hs=a",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodhku waa inuu ka koobnaadaa lambarro keliya",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": ",value:\"length\"},{type:0,value:\" xaraf oo keliya\"}]],Hs=a(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Koodhku waa inuu ka koobnaadaa lambarro keliya\"),Qs=a(\"lightweight-web.auth.inline-otp-code-required\",\"Koodhk",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodhka xaqiijinta ayaa loo baahan yahay",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "-only\",\"Koodhku waa inuu ka koobnaadaa lambarro keliya\"),Qs=a(\"lightweight-web.auth.inline-otp-code-required\",\"Koodhka xaqiijinta ayaa loo baahan yahay\"),Bs=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Koodh khald",
+  "new_chunk": false
+ },
+ {
+  "text": "Koodh khaldan",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "e-required\",\"Koodhka xaqiijinta ayaa loo baahan yahay\"),Bs=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Koodh khaldan\"),Es=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Geli da' sax ah si aad u sii waddo\"),",
+  "new_chunk": false
+ },
+ {
+  "text": "Geli da' sax ah si aad u sii waddo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Koodh khaldan\"),Es=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Geli da' sax ah si aad u sii waddo\"),Ls=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, taasi sax ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, taasi sax uma eka. Isku day mar kale?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "le-age-invalid\",\"Geli da' sax ah si aad u sii waddo\"),Ls=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, taasi sax uma eka. Isku day mar kale?\"),Xs=a(\"lightweight-web.auth.inline-profile-name-required\",\"Fadlan",
+  "new_chunk": false
+ },
+ {
+  "text": "Fadlan geli magacaaga si aad u sii waddo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "valid\",\"Hmm, taasi sax uma eka. Isku day mar kale?\"),Xs=a(\"lightweight-web.auth.inline-profile-name-required\",\"Fadlan geli magacaaga si aad u sii waddo\"),Js=a(\"lightweight-web.auth.inline-signup-age-help\",\"Da'daada ku qo",
+  "new_chunk": false
+ },
+ {
+  "text": "Hubi magacaaga iyo da'daada, ka dibna isku day mar kale.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": ":1,value:\"modelTraining\"},{type:0,value:\".\"}]],tw=a(\"lightweight-web.auth.inline-signup-invalid-name-and-age\",\"Hubi magacaaga iyo da'daada, ka dibna isku day mar kale.\"),ow=a(\"lightweight-web.auth.inline-signup-name-labe",
+  "new_chunk": false
+ },
+ {
+  "text": "Ma samayn karno akoonkaaga sababo la xiriira Shuruudahayaga isticmaalka",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": ".auth.inline-signup-pending\",\"Fadlan sug…\"),hw=a(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Ma samayn karno akoonkaaga sababo la xiriira Shuruudahayaga isticmaalka\"),rw=a(\"lightweight-web.auth.inline-s",
+  "new_chunk": false
+ },
+ {
+  "text": "Macluumaadkaas kuma samayn karno akoon. Isku day mar kale.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ne-signup-resend-code\",\"Dib u soo dir koodhka\"),nw=a(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Macluumaadkaas kuma samayn karno akoon. Isku day mar kale.\"),sw=[\"lightweight-web.auth.inline-signup-retry-af",
+  "new_chunk": false
+ },
+ {
+  "text": "Soo dejiso nooca loogu talagalay Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "marketing-cards.show-more-prompts\",\"Muuji wax badan\"),tD=a(\"lightweight-web.marketing-download.apple-silicon\",\"Soo dejiso nooca loogu talagalay Apple Silicon\"),oD=a(\"lightweight-web.marketing-download.download\",\"Soo deji",
+  "new_chunk": false
+ },
+ {
+  "text": "Soo dejiso ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "ght-web.marketing-download.download\",\"Soo dejiso\"),lD=a(\"lightweight-web.marketing-download.download-chatgpt\",\"Soo dejiso ChatGPT\"),gD=a(\"lightweight-web.marketing-download.intel-mac\",\"Soo dejiso nooca loogu talagalay Ma",
+  "new_chunk": false
+ },
+ {
+  "text": "Soo dejiso nooca loogu talagalay Mac-ga Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "arketing-download.download-chatgpt\",\"Soo dejiso ChatGPT\"),gD=a(\"lightweight-web.marketing-download.intel-mac\",\"Soo dejiso nooca loogu talagalay Mac-ga Intel\"),hD=a(\"lightweight-web.settings.language\",\"Luuqad\"),rD=a(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Ingresa una edad válida para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "b.auth.inline-otp-incorrect-code\",\"Código incorrecto\"),Hc=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Ingresa una edad válida para continuar\"),Uc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, eso no",
+  "new_chunk": false
+ },
+ {
+  "text": "Mmm, eso no parece correcto. ¿Quieres volver a intentarlo?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "ge-invalid\",\"Ingresa una edad válida para continuar\"),Uc=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Mmm, eso no parece correcto. ¿Quieres volver a intentarlo?\"),Qc=e(\"lightweight-web.auth.inline-profile-name-r",
+  "new_chunk": false
+ },
+ {
+  "text": "Por favor, ingresa tu nombre para continuar",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": " no parece correcto. ¿Quieres volver a intentarlo?\"),Qc=e(\"lightweight-web.auth.inline-profile-name-required\",\"Por favor, ingresa tu nombre para continuar\"),Fc=e(\"lightweight-web.auth.inline-signup-age-help\",\"Ingresa tu ",
+  "new_chunk": false
+ },
+ {
+  "text": "No podemos crear tu cuenta debido a nuestros Términos de uso",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "-web.auth.inline-signup-pending\",\"Espera…\"),lh=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"No podemos crear tu cuenta debido a nuestros Términos de uso\"),sh=e(\"lightweight-web.auth.inline-signup-resen",
+  "new_chunk": false
+ },
+ {
+  "text": "No podemos crear una cuenta con esa información. Vuelve a intentarlo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "h.inline-signup-resend-code\",\"Reenviar código\"),gh=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"No podemos crear una cuenta con esa información. Vuelve a intentarlo.\"),ch=[\"lightweight-web.auth.inline-sign",
+  "new_chunk": false
+ },
+ {
+  "text": "Der Verifizierungscode muss genau",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "me-too-long\",\"Verwende maximal 96 Zeichen.\"),Lo=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Der Verifizierungscode muss genau \"},{type:1,value:\"length\"},{type:0,value:\" Zeichen lang sein\"}]],Io=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Zeichen lang sein",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "e-otp-code-length\",[{type:0,value:\"Der Verifizierungscode muss genau \"},{type:1,value:\"length\"},{type:0,value:\" Zeichen lang sein\"}]],Io=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Der Code darf nur Ziffern en",
+  "new_chunk": false
+ },
+ {
+  "text": "Der Code darf nur Ziffern enthalten",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "alue:\"length\"},{type:0,value:\" Zeichen lang sein\"}]],Io=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Der Code darf nur Ziffern enthalten\"),jo=e(\"lightweight-web.auth.inline-otp-code-required\",\"Der Verifizierung",
+  "new_chunk": false
+ },
+ {
+  "text": "Der Verifizierungscode ist erforderlich",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ode-numbers-only\",\"Der Code darf nur Ziffern enthalten\"),jo=e(\"lightweight-web.auth.inline-otp-code-required\",\"Der Verifizierungscode ist erforderlich\"),No=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Falscher Cod",
+  "new_chunk": false
+ },
+ {
+  "text": "Falscher Code",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "de-required\",\"Der Verifizierungscode ist erforderlich\"),No=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Falscher Code\"),Oo=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Gib ein gültiges Alter ein, um fortzu",
+  "new_chunk": false
+ },
+ {
+  "text": "Gib ein gültiges Alter ein, um fortzufahren",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "t-web.auth.inline-otp-incorrect-code\",\"Falscher Code\"),Oo=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Gib ein gültiges Alter ein, um fortzufahren\"),Zo=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, da",
+  "new_chunk": false
+ },
+ {
+  "text": "Hm, das sieht nicht richtig aus. Erneut versuchen?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "valid\",\"Gib ein gültiges Alter ein, um fortzufahren\"),Zo=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hm, das sieht nicht richtig aus. Erneut versuchen?\"),Ho=e(\"lightweight-web.auth.inline-profile-name-required\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Bitte gib deinen Namen ein, um fortzufahren.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "Hm, das sieht nicht richtig aus. Erneut versuchen?\"),Ho=e(\"lightweight-web.auth.inline-profile-name-required\",\"Bitte gib deinen Namen ein, um fortzufahren.\"),Ro=e(\"lightweight-web.auth.inline-signup-age-help\",\"Gib dein A",
+  "new_chunk": false
+ },
+ {
+  "text": "Aufgrund unserer Nutzungsbedingungen können wir dein Konto nicht erstellen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "uth.inline-signup-pending\",\"Bitte warten…\"),gw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Aufgrund unserer Nutzungsbedingungen können wir dein Konto nicht erstellen\"),hw=e(\"lightweight-web.auth.inlin",
+  "new_chunk": false
+ },
+ {
+  "text": "Mit diesen Angaben können wir kein Konto erstellen. Versuche es erneut.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "nline-signup-resend-code\",\"Code erneut senden\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Mit diesen Angaben können wir kein Konto erstellen. Versuche es erneut.\"),ow=[\"lightweight-web.auth.inline-si",
+  "new_chunk": false
+ },
+ {
+  "text": "Wähle jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Vertrauensperson, die gut erreichbar ist und dich unterstützen kann. Wir laden diese Person ein, deine Vertrauensperson zu werden. Sie kann dann selbst entscheiden, ob sie die Einladung annehmen möchte.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "professionelle Betreuung ist.\"),Zw=e(\"lightweight-web.settings-trusted-contact.form-invite-modal-description\",\"Wähle jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Vertrauensperson, die gut ",
+  "new_chunk": false
+ },
+ {
+  "text": "Wenn sich alles schwer anfühlt, ist es nicht immer einfach, um Hilfe zu bitten. Eine Vertrauensperson kann es dir leichter machen, Unterstützung von jemandem zu bekommen, der dich gut kennt.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ntinue-button\",\"Kontakt hinzufügen\"),$w=e(\"lightweight-web.settings-trusted-contact.intro-intro-body-primary\",\"Wenn sich alles schwer anfühlt, ist es nicht immer einfach, um Hilfe zu bitten. Eine Vertrauensperson kann es",
+  "new_chunk": false
+ },
+ {
+  "text": "Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdung schließen lässt, können wir automatisch deine Vertrauensperson verständigen, damit sie nach dir sieht.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "zu bekommen, der dich gut kennt.\"),_w=e(\"lightweight-web.settings-trusted-contact.intro-intro-body-secondary\",\"Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdu",
+  "new_chunk": false
+ },
+ {
+  "text": "Eine Vertrauensperson hinzufügen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "act.intro-learn-more-link-label\",\"Mehr erfahren\"),tc=e(\"lightweight-web.settings-trusted-contact.intro-title\",\"Eine Vertrauensperson hinzufügen\"),ic=e(\"lightweight-web.settings-trusted-contact.intro-what-to-expect-bullet",
+  "new_chunk": false
+ },
+ {
+  "text": "Die Aufgabe deiner Vertrauensperson ist es, sich bei dir zu melden, zuzuhören und bei Bedarf zu helfen, weitere Unterstützung zu finden. Es wird nicht von ihr erwartet, in Notfälle einzugreifen oder deine einzige Anlaufstelle zu sein.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ie die Einladung annimmt.\"),nc=e(\"lightweight-web.settings-trusted-contact.intro-what-to-expect-bullet-three\",\"Die Aufgabe deiner Vertrauensperson ist es, sich bei dir zu melden, zuzuhören und bei Bedarf zu helfen, weite",
+  "new_chunk": false
+ },
+ {
+  "text": "Du kannst jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Person deines Vertrauens (ab 18 Jahren) als Vertrauensperson einladen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "-heading\",\"Was dich erwartet\"),lc=e(\"lightweight-web.settings-trusted-contact.intro-who-to-invite-bullet-one\",\"Du kannst jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Person deines Vertraue",
+  "new_chunk": false
+ },
+ {
+  "text": "Du kannst jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Person deines Vertrauens (ab 19 Jahren) als Vertrauensperson einladen.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "rauensperson einladen.\"),gc=e(\"lightweight-web.settings-trusted-contact.intro-who-to-invite-bullet-one-korea\",\"Du kannst jemanden aus deinem Freundes- oder Familienkreis oder eine andere erwachsene Person deines Vertraue",
+  "new_chunk": false
+ },
+ {
+  "text": "Wenn du eine Vertrauensperson hinzufügst, kannst du in einer schweren Stunde leichter Unterstützung von jemandem bekommen, der dich gut kennt.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "te versuche es erneut.\"),kc=e(\"lightweight-web.settings-trusted-contact.overview-section-description-primary\",\"Wenn du eine Vertrauensperson hinzufügst, kannst du in einer schweren Stunde leichter Unterstützung von jeman",
+  "new_chunk": false
+ },
+ {
+  "text": "Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdung schließen lässt, können wir automatisch deine Vertrauensperson verständigen, damit sie nach dir sieht. Diese Person muss mindestens 18 Jahre alt sein.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": " der dich gut kennt.\"),yc=e(\"lightweight-web.settings-trusted-contact.overview-section-description-secondary\",\"Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdu",
+  "new_chunk": false
+ },
+ {
+  "text": "Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdung schließen lässt, können wir automatisch deine Vertrauensperson verständigen, damit sie nach dir sieht. Dazu müsst ihr beide mindestens 19 Jahre alt sein.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "ahre alt sein.\"),zc=e(\"lightweight-web.settings-trusted-contact.overview-section-description-secondary-korea\",\"Solltest du künftig mit ChatGPT in einer Art und Weise über Suizid sprechen, die auf eine ernsthafte Gefährdu",
+  "new_chunk": false
+ },
+ {
+  "text": "Für Apple Silicon herunterladen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Mehr anzeigen\"),nT=e(\"lightweight-web.marketing-download.apple-silicon\",\"Für Apple Silicon herunterladen\"),rT=e(\"lightweight-web.marketing-download.download\",\"Herunterladen\"),aT=e(\"l",
+  "new_chunk": false
+ },
+ {
+  "text": "ChatGPT herunterladen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "-web.marketing-download.download\",\"Herunterladen\"),aT=e(\"lightweight-web.marketing-download.download-chatgpt\",\"ChatGPT herunterladen\"),lT=e(\"lightweight-web.marketing-download.intel-mac\",\"Für Intel-Macs herunterladen\"),g",
+  "new_chunk": false
+ },
+ {
+  "text": "Für Intel-Macs herunterladen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "eting-download.download-chatgpt\",\"ChatGPT herunterladen\"),lT=e(\"lightweight-web.marketing-download.intel-mac\",\"Für Intel-Macs herunterladen\"),gT=e(\"lightweight-web.settings.language\",\"Sprache\"),hT=e(\"lightweight-web.sett",
+  "new_chunk": false
+ },
+ {
+  "text": "Doğrulama kodu tam olarak",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "me-too-long\",\"En fazla 96 karakter kullan.\"),Rh=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Doğrulama kodu tam olarak \"},{type:1,value:\"length\"},{type:0,value:\" karakter uzunluğunda olmalı\"}]],Lh=e(\"li",
+  "new_chunk": false
+ },
+ {
+  "text": "Kod yalnızca rakamlardan oluşmalı",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "th\"},{type:0,value:\" karakter uzunluğunda olmalı\"}]],Lh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kod yalnızca rakamlardan oluşmalı\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Doğrulama kodu gere",
+  "new_chunk": false
+ },
+ {
+  "text": "Doğrulama kodu gerekli",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "-code-numbers-only\",\"Kod yalnızca rakamlardan oluşmalı\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Doğrulama kodu gerekli\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Yanlış kod\"),Fh=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Yanlış kod",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "uth.inline-otp-code-required\",\"Doğrulama kodu gerekli\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Yanlış kod\"),Fh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Devam etmek için geçerli bir yaş gir\"),N",
+  "new_chunk": false
+ },
+ {
+  "text": "Devam etmek için geçerli bir yaş gir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "ight-web.auth.inline-otp-incorrect-code\",\"Yanlış kod\"),Fh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Devam etmek için geçerli bir yaş gir\"),Nh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hımm, bu pek ",
+  "new_chunk": false
+ },
+ {
+  "text": "Hımm, bu pek doğru görünmüyor. Tekrar dener misin?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "-age-invalid\",\"Devam etmek için geçerli bir yaş gir\"),Nh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hımm, bu pek doğru görünmüyor. Tekrar dener misin?\"),Uh=e(\"lightweight-web.auth.inline-profile-name-required\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Devam etmek için lütfen adını gir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "Hımm, bu pek doğru görünmüyor. Tekrar dener misin?\"),Uh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Devam etmek için lütfen adını gir\"),Vh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Doldurduğun yaşı tam ",
+  "new_chunk": false
+ },
+ {
+  "text": "Kullanım şartlarımız gereği hesabını oluşturamıyoruz",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "uth.inline-signup-pending\",\"Lütfen bekle…\"),gw=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Kullanım şartlarımız gereği hesabını oluşturamıyoruz\"),ow=e(\"lightweight-web.auth.inline-signup-resend-code\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Bu bilgilerle hesap oluşturamıyoruz. Tekrar dene.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "line-signup-resend-code\",\"Kodu yeniden gönder\"),sw=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Bu bilgilerle hesap oluşturamıyoruz. Tekrar dene.\"),hw=[\"lightweight-web.auth.inline-signup-retry-after\",[{ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Apple Silicon için indir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "ing-cards.show-more-prompts\",\"Daha fazlasını göster\"),aB=e(\"lightweight-web.marketing-download.apple-silicon\",\"Apple Silicon için indir\"),lB=e(\"lightweight-web.marketing-download.download\",\"İndir\"),nB=e(\"lightweight-web.",
+  "new_chunk": false
+ },
+ {
+  "text": "ChatGPT'yi indir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "htweight-web.marketing-download.download\",\"İndir\"),nB=e(\"lightweight-web.marketing-download.download-chatgpt\",\"ChatGPT'yi indir\"),rB=e(\"lightweight-web.marketing-download.intel-mac\",\"Intel işlemcili Mac için indir\"),gB=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Intel işlemcili Mac için indir",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": ".marketing-download.download-chatgpt\",\"ChatGPT'yi indir\"),rB=e(\"lightweight-web.marketing-download.intel-mac\",\"Intel işlemcili Mac için indir\"),gB=e(\"lightweight-web.settings.language\",\"Dil\"),oB=e(\"lightweight-web.settin",
+  "new_chunk": false
+ },
+ {
+  "text": "Kinnituskood peab olema täpselt",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "-name-too-long\",\"Kasuta kuni 96 tähemärki.\"),Ih=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Kinnituskood peab olema täpselt \"},{type:1,value:\"length\"},{type:0,value:\" tähemärgi pikkune\"}]],Jh=e(\"lightw",
+  "new_chunk": false
+ },
+ {
+  "text": "Kood peab sisaldama ainult numbreid",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "alue:\"length\"},{type:0,value:\" tähemärgi pikkune\"}]],Jh=e(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Kood peab sisaldama ainult numbreid\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kinnituskood on n",
+  "new_chunk": false
+ },
+ {
+  "text": "Kinnituskood on nõutav",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "ode-numbers-only\",\"Kood peab sisaldama ainult numbreid\"),Hh=e(\"lightweight-web.auth.inline-otp-code-required\",\"Kinnituskood on nõutav\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Vale kood\"),Nh=e(\"lightweight",
+  "new_chunk": false
+ },
+ {
+  "text": "Vale kood",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "uth.inline-otp-code-required\",\"Kinnituskood on nõutav\"),qh=e(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Vale kood\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Jätkamiseks sisesta korrektne vanus\"),Rh=",
+  "new_chunk": false
+ },
+ {
+  "text": "Jätkamiseks sisesta korrektne vanus",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "eight-web.auth.inline-otp-incorrect-code\",\"Vale kood\"),Nh=e(\"lightweight-web.auth.inline-profile-age-invalid\",\"Jätkamiseks sisesta korrektne vanus\"),Rh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, see ei tu",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, see ei tundu õige. Proovid uuesti?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "e-age-invalid\",\"Jätkamiseks sisesta korrektne vanus\"),Rh=e(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, see ei tundu õige. Proovid uuesti?\"),Fh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Palun sis",
+  "new_chunk": false
+ },
+ {
+  "text": "Palun sisesta jätkamiseks nimi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "-invalid\",\"Hmm, see ei tundu õige. Proovid uuesti?\"),Fh=e(\"lightweight-web.auth.inline-profile-name-required\",\"Palun sisesta jätkamiseks nimi\"),Uh=e(\"lightweight-web.auth.inline-signup-age-help\",\"Sisesta oma vanus täisaa",
+  "new_chunk": false
+ },
+ {
+  "text": "Meie kasutustingimuste tõttu ei saa me sulle kontot luua",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": ".auth.inline-signup-pending\",\"Palun oota…\"),gu=e(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Meie kasutustingimuste tõttu ei saa me sulle kontot luua\"),nu=e(\"lightweight-web.auth.inline-signup-resend-co",
+  "new_chunk": false
+ },
+ {
+  "text": "Me ei saa nende andmetega kontot luua. Proovi uuesti.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "inline-signup-resend-code\",\"Saada kood uuesti\"),ru=e(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Me ei saa nende andmetega kontot luua. Proovi uuesti.\"),hu=[\"lightweight-web.auth.inline-signup-retry-after\",",
+  "new_chunk": false
+ },
+ {
+  "text": "Laadi alla Apple Siliconi protsessoriga Macile",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "web.marketing-cards.show-more-prompts\",\"Kuva rohkem\"),aK=e(\"lightweight-web.marketing-download.apple-silicon\",\"Laadi alla Apple Siliconi protsessoriga Macile\"),lK=e(\"lightweight-web.marketing-download.download\",\"Laadi al",
+  "new_chunk": false
+ },
+ {
+  "text": "Laadi ChatGPT alla",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "ght-web.marketing-download.download\",\"Laadi alla\"),sK=e(\"lightweight-web.marketing-download.download-chatgpt\",\"Laadi ChatGPT alla\"),oK=e(\"lightweight-web.marketing-download.intel-mac\",\"Laadi alla Inteli protsessoriga Mac",
+  "new_chunk": false
+ },
+ {
+  "text": "Laadi alla Inteli protsessoriga Macile",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/et.js",
+  "ctx": "arketing-download.download-chatgpt\",\"Laadi ChatGPT alla\"),oK=e(\"lightweight-web.marketing-download.intel-mac\",\"Laadi alla Inteli protsessoriga Macile\"),gK=e(\"lightweight-web.settings.language\",\"Keel\"),nK=e(\"lightweight-w",
+  "new_chunk": false
+ },
+ {
+  "text": "Msimbo wa uthibitishaji unapaswa kuwa na vibambo",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "e-too-long\",\"Tumia vibambo visivyozidi 96.\"),Eu=[\"lightweight-web.auth.inline-otp-code-length\",[{type:0,value:\"Msimbo wa uthibitishaji unapaswa kuwa na vibambo \"},{type:1,value:\"length\"},{type:0,value:\" kamili\"}]],Bu=a(\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Msimbo lazima uwe na tarakimu pekee",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "},{type:1,value:\"length\"},{type:0,value:\" kamili\"}]],Bu=a(\"lightweight-web.auth.inline-otp-code-numbers-only\",\"Msimbo lazima uwe na tarakimu pekee\"),Fu=a(\"lightweight-web.auth.inline-otp-code-required\",\"Msimbo wa uthibit",
+  "new_chunk": false
+ },
+ {
+  "text": "Msimbo wa uthibitishaji unahitajika",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ode-numbers-only\",\"Msimbo lazima uwe na tarakimu pekee\"),Fu=a(\"lightweight-web.auth.inline-otp-code-required\",\"Msimbo wa uthibitishaji unahitajika\"),Du=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Msimbo si sahihi",
+  "new_chunk": false
+ },
+ {
+  "text": "Msimbo si sahihi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "p-code-required\",\"Msimbo wa uthibitishaji unahitajika\"),Du=a(\"lightweight-web.auth.inline-otp-incorrect-code\",\"Msimbo si sahihi\"),Su=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Weka umri sahihi ili uendelee\"),Wu",
+  "new_chunk": false
+ },
+ {
+  "text": "Weka umri sahihi ili uendelee",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "eb.auth.inline-otp-incorrect-code\",\"Msimbo si sahihi\"),Su=a(\"lightweight-web.auth.inline-profile-age-invalid\",\"Weka umri sahihi ili uendelee\"),Wu=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, hilo halionekan",
+  "new_chunk": false
+ },
+ {
+  "text": "Hmm, hilo halionekani sawa. Jaribu tena?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "profile-age-invalid\",\"Weka umri sahihi ili uendelee\"),Wu=a(\"lightweight-web.auth.inline-profile-name-invalid\",\"Hmm, hilo halionekani sawa. Jaribu tena?\"),Nu=a(\"lightweight-web.auth.inline-profile-name-required\",\"Tafadhal",
+  "new_chunk": false
+ },
+ {
+  "text": "Tafadhali weka jina lako ili uendelee",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "invalid\",\"Hmm, hilo halionekani sawa. Jaribu tena?\"),Nu=a(\"lightweight-web.auth.inline-profile-name-required\",\"Tafadhali weka jina lako ili uendelee\"),Ru=a(\"lightweight-web.auth.inline-signup-age-help\",\"Weka umri wako kw",
+  "new_chunk": false
+ },
+ {
+  "text": "Hatuwezi kuunda akaunti yako kutokana na Masharti yetu ya matumizi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "inline-signup-pending\",\"Tafadhali subiri…\"),os=a(\"lightweight-web.auth.inline-signup-registration-disallowed\",\"Hatuwezi kuunda akaunti yako kutokana na Masharti yetu ya matumizi\"),gs=a(\"lightweight-web.auth.inline-signup",
+  "new_chunk": false
+ },
+ {
+  "text": "Hatuwezi kuunda akaunti kwa kutumia taarifa hizo. Jaribu tena.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": ".inline-signup-resend-code\",\"Tuma msimbo tena\"),ws=a(\"lightweight-web.auth.inline-signup-restricted-birthday\",\"Hatuwezi kuunda akaunti kwa kutumia taarifa hizo. Jaribu tena.\"),us=[\"lightweight-web.auth.inline-signup-retr",
+  "new_chunk": false
+ },
+ {
+  "text": "Pakua kwa Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "b.marketing-cards.show-more-prompts\",\"Onyesha zaidi\"),tI=a(\"lightweight-web.marketing-download.apple-silicon\",\"Pakua kwa Apple Silicon\"),nI=a(\"lightweight-web.marketing-download.download\",\"Pakua\"),lI=a(\"lightweight-web.m",
+  "new_chunk": false
+ },
+ {
+  "text": "Pakua ChatGPT",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "htweight-web.marketing-download.download\",\"Pakua\"),lI=a(\"lightweight-web.marketing-download.download-chatgpt\",\"Pakua ChatGPT\"),hI=a(\"lightweight-web.marketing-download.intel-mac\",\"Pakua kwa Mac yenye kichakataji cha Inte",
+  "new_chunk": false
+ },
+ {
+  "text": "Pakua kwa Mac yenye kichakataji cha Intel",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "web.marketing-download.download-chatgpt\",\"Pakua ChatGPT\"),hI=a(\"lightweight-web.marketing-download.intel-mac\",\"Pakua kwa Mac yenye kichakataji cha Intel\"),oI=a(\"lightweight-web.settings.language\",\"Lugha\"),gI=a(\"lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "),Hr=Ho('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Nr=Ho(\"<!>\",0,1),Sr=Ho(\"<span role=alert> \"),Lr=Ho(\"<div data-generated-file-cards><!>\"),Hr=Ho('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Or=Ho('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Or=Ho('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Ar=Ho('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),_r=Ho('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Ar=Ho('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),mx=Ho('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),px=Ho(\"<div></div><!>\",0,2),fx=Ho(\"<p role=status> \"),kx=Ho(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),mx=Ho('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),vx=Ho(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),yx=Ho('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),vx=Ho(\"<blockquote> \"),gx=Ho(\"<p data-user-message-copy>\"),hx=Ho(\"<p data-user-message-copy> \"),yx=Ho('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),jx=Ho('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),wx=Ho(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),jx=Ho('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=Ho(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),jx=Ho('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=Ho(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),zx=Ho('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=Ho(\"<svg aria-hidden=true fill=none><use>\",1),zx=Ho('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Mx=Yi(112),Ix=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,x=d===HA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===g){let e,i,k,b,v,x,y,w,j,S,C,N,I,q=Ky(eB);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===HA.EnterActive?\"\":void 0,y=d===HA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=sy(ax(hB.gro",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,y=d===HA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": ",N,I,q=Ky(eB);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===HA.EnterActive?\"\":void 0,y=d===HA.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=sy(ax(hB.groupItem,!p.reduced&&hB.block,s.w",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,f=a===HA.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "i,p=t.slots[0],m=null;if(void 0===p){let e,i,m,h,f,g,k,b,v,x=Ky(tB);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===HA.EnterActive?\"\":void 0,g=a===HA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=sy(ax(hB.con",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,g=a===HA.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===p){let e,i,m,h,f,g,k,b,v,x=Ky(tB);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===HA.EnterActive?\"\":void 0,g=a===HA.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=sy(ax(hB.content,hB.noShrink,o.composite&&h",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof m.color&&CL.has(m.color)?m.color:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===n[0]&&Ow(n[1],a)&&Ow(n[2],c)?n[3]:dy(n,0,Ra(p,f),a,c)),k=\"md\"===m.size||\"lg\"===m.size?m.size:\"sm\",b=\"string\"==typeof m.color&&CL.has(m.color)?m.color:\"secondary\",v=null!=m.color&&!(\"string\"==typeof m.color&&CL.has(m.c",
+  "new_chunk": false
+ },
+ {
+  "text": "Beacon preparation retired",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "ent)]);if(r.throwIfAborted(),!e.identity.current()||i?.signal.aborted||i&&Date.now()>=i.expiresAt)throw Error(`Beacon preparation retired`);let a=e.continuationState;return{sender:i,presentation:Xe(t,{conversationId:a?n(",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,rel:i.action.external?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "rentNode,vr,{...i.action.linkProps,buttonVariant:\"outline\",href:i.action.href,target:i.action.external?\"_blank\":void 0,rel:i.action.external?\"noopener noreferrer\":void 0,children:Cs(function(e,t,l){let n=t.block,a=t.slot",
+  "new_chunk": false
+ },
+ {
+  "text": "GenUI.runAction requires an action name and JSON arguments.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/eval.js",
+  "ctx": "s one reference or named entity.`,h=`GenUI.runPluginTool requires one tool name and JSON arguments object.`,g=`GenUI.runAction requires an action name and JSON arguments.`,_=`GenUI.share requires one valid share request.",
+  "new_chunk": false
+ },
+ {
+  "text": "Action unavailable",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/eval.js",
+  "ctx": "n't confirm the result. Check the plugin before trying again.`}}throw Error((t==null?void 0:t.statusMessage)||`Action unavailable`)}function oe(e){var t;if(!x(e)||Reflect.ownKeys(e).length!==2)throw TypeError(g);let n=(t",
+  "new_chunk": false
+ },
+ {
+  "text": "Tax refund",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "rk: \"#80baff\" }, remaining: { light: \"#e8e8e8\", dark: \"#4a4a4a\" } }; const titles = { refund: \"Tax refund\", owed: \"Tax owed\", even: \"Tax balance\", range: \"Tax estimate\", unavailable: \"Tax estimate",
+  "new_chunk": true
+ },
+ {
+  "text": "Tax owed",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "emaining: { light: \"#e8e8e8\", dark: \"#4a4a4a\" } }; const titles = { refund: \"Tax refund\", owed: \"Tax owed\", even: \"Tax balance\", range: \"Tax estimate\", unavailable: \"Tax estimate\" }; const markerCol",
+  "new_chunk": true
+ },
+ {
+  "text": "Tax balance",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": ": \"#e8e8e8\", dark: \"#4a4a4a\" } }; const titles = { refund: \"Tax refund\", owed: \"Tax owed\", even: \"Tax balance\", range: \"Tax estimate\", unavailable: \"Tax estimate\" }; const markerColor = { light: \"#11",
+  "new_chunk": true
+ },
+ {
+  "text": "Tax estimate",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "4a4a4a\" } }; const titles = { refund: \"Tax refund\", owed: \"Tax owed\", even: \"Tax balance\", range: \"Tax estimate\", unavailable: \"Tax estimate\" }; const markerColor = { light: \"#111111\", dark: \"#f5f5f5\"",
+  "new_chunk": true
+ },
+ {
+  "text": "Estimate unavailable",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": ".range, format) : state.amount !== void 0 && Number.isFinite(state.amount) ? format(Math.abs(state.amount)) : \"Estimate unavailable\"; const segments = hidden ? [] : state.segments.filter(({ amount }) => Number.isFinite",
+  "new_chunk": true
+ },
+ {
+  "text": "Total owed",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "\" }, /* @__PURE__ */ __dil.jsx(\"text\", { size: \"xs\", color: \"tertiary\" }, marker.label === \"owed\" ? \"Total owed\" : \"Total paid\"), /* @__PURE__ */ __dil.jsx(\"text\", { size: \"xs\", weight: \"medium\" }, form",
+  "new_chunk": true
+ },
+ {
+  "text": "Total paid",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "RE__ */ __dil.jsx(\"text\", { size: \"xs\", color: \"tertiary\" }, marker.label === \"owed\" ? \"Total owed\" : \"Total paid\"), /* @__PURE__ */ __dil.jsx(\"text\", { size: \"xs\", weight: \"medium\" }, format(marker.amoun",
+  "new_chunk": true
+ },
+ {
+  "text": "Refund due",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "se \"paid\": return segment.jurisdiction ? \\`\\${segment.jurisdiction} paid\\` : \"Paid\"; case \"refund\": return \"Refund due\"; case \"remaining\": return \"Amount remaining\"; } } function moneyFormatter(locale) { cons",
+  "new_chunk": true
+ },
+ {
+  "text": "Amount remaining",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/LedgerTaxEstimateWidget.js",
+  "ctx": "`\\${segment.jurisdiction} paid\\` : \"Paid\"; case \"refund\": return \"Refund due\"; case \"remaining\": return \"Amount remaining\"; } } function moneyFormatter(locale) { const createFormatter = (minimumFractionDigits",
+  "new_chunk": true
+ },
+ {
+  "text": ",width:summaryLeg!==void 0?FLIGHT_ROW_LAYOUT.priceWidth:FLIGHT_ROW_LAYOUT.durationWidth,minWidth:0,align:summaryLeg!==void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "duration?item.trip_detail:``)))):__dil.jsx(__dil.Fragment,null,compact&&!expanded&&__dil.jsx(`col`,{flex:`none`,width:summaryLeg!==void 0?FLIGHT_ROW_LAYOUT.priceWidth:FLIGHT_ROW_LAYOUT.durationWidth,minWidth:0,align:summ",
+  "new_chunk": false
+ },
+ {
+  "text": ",textAlign:summaryLeg!==void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "Leg!==void 0?`end`:void 0,gap:.5,disableAutoSpacing:true},duration&&__dil.jsx(`text`,{size:`md`,weight:`medium`,textAlign:summaryLeg!==void 0?`end`:void 0},duration),__dil.jsx(`text`,{size:`xs`,color:pivot?`tertiary`:`se",
+  "new_chunk": false
+ },
+ {
+  "text": ",fontSize:inline?void 0:20,lineHeight:inline?void 0:25,weight:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "(`row`,{gap:inline?1:2,justify:inline?`start`:`between`,align:`center`},__dil.jsx(`text`,{size:inline?`md`:`lg`,fontSize:inline?void 0:20,lineHeight:inline?void 0:25,weight:`medium`},title,subtitle&&__dil.jsx(`text`,{col",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,weight:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": ",radius:`full`,align:`center`,justify:`center`,onClick},__dil.jsx(`text`,{size:`sm`,color:secondary?`secondary`:void 0,weight:`medium`,textAlign:`center`,width:`100%`},children)))}const revealDuration=180;function Flight",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:value.maxStops===void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "`},chip(__dil.jsx(`select`,{ariaLabel:labels.filter_stops,placeholder:labels.filter_stops,block:false,size:`md`,value:value.maxStops===void 0?``:String(value.maxStops),disabled,options:[{value:`any`,label:any},{value:`0`",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:value.maxDurationMinutes===void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "p(__dil.jsx(`select`,{ariaLabel:labels.filter_duration,placeholder:labels.filter_duration,block:false,size:`md`,value:value.maxDurationMinutes===void 0?``:String(value.maxDurationMinutes),disabled,options:[{value:`any`,l",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:value.maxPriceRank===void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "0&&chip(__dil.jsx(`select`,{ariaLabel:labels.filter_price,placeholder:labels.filter_price,block:false,size:`md`,value:value.maxPriceRank===void 0?``:String(value.maxPriceRank),disabled,options:[{value:`any`,label:any},..",
+  "new_chunk": false
+ },
+ {
+  "text": ",value:value.departurePeriod===void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": ")),chip(__dil.jsx(`select`,{ariaLabel:labels.filter_times,placeholder:labels.filter_times,block:false,size:`md`,value:value.departurePeriod===void 0?``:String(value.departurePeriod),disabled,options:[{value:`any`,label:a",
+  "new_chunk": false
+ },
+ {
+  "text": "+(multiCity?multiCityDescription(item):item.times)+(summaryLeg===void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "=compact&&!pivot?setHovered:void 0;const detailsLabel=(labels.flight_details??labels.details)+`: `+carrier+`, `+(multiCity?multiCityDescription(item):item.times)+(summaryLeg===void 0?`, `+item.price:``);return __dil.jsx(",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,ariaLabel:!compact&&summaryLeg!==void 0?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "ummaryLeg===void 0?`, `+item.price:``);return __dil.jsx(`col`,{gap:0,role:!compact&&summaryLeg!==void 0?`group`:void 0,ariaLabel:!compact&&summaryLeg!==void 0?`Selected: `+item.airline:void 0,width:`100%`,disableAutoSpac",
+  "new_chunk": false
+ },
+ {
+  "text": "+item.airline:void 0,width:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/FlightResults.js",
+  "ctx": "`,{gap:0,role:!compact&&summaryLeg!==void 0?`group`:void 0,ariaLabel:!compact&&summaryLeg!==void 0?`Selected: `+item.airline:void 0,width:`100%`,disableAutoSpacing:true,radius:compact?16:24,border:{size:1,color:`subtle`}",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor opacity=.4>'),Ve=Ql('<svg width=24 height=24 viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "pacity=.35></rect><rect x=2 y=2 width=20 height=9 rx=1.5 fill=currentColor></rect><path d=\"M25 4v5c2-1 2-4 0-5\" fill=currentColor opacity=.4>'),Ve=Ql('<svg width=24 height=24 viewBox=\"0 0 18.75 18.75\" fill=none xmlns=htt",
+  "new_chunk": false
+ },
+ {
+  "text": ",null,void 0,void 0,void 0,!0),Q.f140=m(r,Q.f140,48,Q.f67,L.savedAccountPending?e.labels.loggingIn:L.account?.identifier??",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native.js",
+  "ctx": "Q.f60,L.account?.initial??``,``,null,void 0,void 0,void 0,!0),Q.f139=m(r,Q.f139,47,Q.f65,L.account?.name??``,``,null,void 0,void 0,void 0,!0),Q.f140=m(r,Q.f140,48,Q.f67,L.savedAccountPending?e.labels.loggingIn:L.account?",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=#202020 stroke=white stroke-width=1.5 stroke-linejoin=round>',1),Hs=vs(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "8.043v11.188l2.53-2.442z\" fill=#000>',1),Bs=vs('<path d=\"M3 2.5v17l4.5-4.1 3.5 6.7 3.1-1.7-3.5-6.5 6-.9L3 2.5Z\" fill=#202020 stroke=white stroke-width=1.5 stroke-linejoin=round>',1),Hs=vs(\"<svg fill=none aria-hidden=true",
+  "new_chunk": false
+ },
+ {
+  "text": "Apple Silicon",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "d:u},d,f){let p=d.block,m=N(d,J+12),h=m.hooks;h===void 0&&(m.hooks=h=y(5));let g,_,v,b=e.key===`appleSilicon`?`Apple Silicon`:e.key===`intelMac`?`Intel Mac`:e.key===`windows`?`Windows`:`macOS`,x=(g=s,_=b,v=e,h[0]!==!0||!",
+  "new_chunk": false
+ },
+ {
+  "text": "Intel Mac",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": ",h=m.hooks;h===void 0&&(m.hooks=h=y(5));let g,_,v,b=e.key===`appleSilicon`?`Apple Silicon`:e.key===`intelMac`?`Intel Mac`:e.key===`windows`?`Windows`:`macOS`,x=(g=s,_=b,v=e,h[0]!==!0||!I(h[1],g)||!I(h[2],_)||!I(h[3],v)?o",
+  "new_chunk": false
+ },
+ {
+  "text": "Blossie · soft matte silicone",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "t of Array.isArray(e.material)?e.material:[e.material])t instanceof Kr&&t.name.startsWith(`Blossie`)&&(t.name=`Blossie · soft matte silicone`)}}),e.updateMatrixWorld(!0);let n=new U().setFromObject(e),r=n.getSize(new j);",
+  "new_chunk": false
+ }
+]
