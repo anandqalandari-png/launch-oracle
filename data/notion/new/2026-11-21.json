@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Speaker Unknown",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "Cantonese\",\"yue\"]};function a(e){return{...e.includeAuto?n:{},...r,...e.includeBeta?o:{}}}function l(e){return\"Speaker Unknown\"===e}i.d(t,{hG:()=>l,k9:()=>a},{Qt:[\"live_transcription_unrecoverable.no_available_transcript",
+  "new_chunk": false
+ },
+ {
+  "text": "This agent no longer runs on Cursor, so the API key wasn’t saved.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": " added.\"},cursor_agent_provider_changed:{id:\"cursorApiKeyErrors.agentProviderChanged.message\",defaultMessage:\"This agent no longer runs on Cursor, so the API key wasn’t saved.\"},cursor_workspace_key_missing_for_policy:{i",
+  "new_chunk": false
+ },
+ {
+  "text": "meeting_notes_show_cantonese_dictation_language",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DeferredNotionListeners.js",
+  "ctx": "heckGate({gateName:\"show_beta_dictation_languages\"})||\"Cantonese\"===e&&!n(211589).default.checkGate({gateName:\"meeting_notes_show_cantonese_dictation_language\"}))return}if((0,n(48697).O)(n(144662).uF,e)){if(null!=t&&t.sk",
+  "new_chunk": false
+ },
+ {
+  "text": "{name} joined from another company, where they were a Notion admin or power user",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "ct hire\"},signalPreviousNotionUser:{id:\"nboActivityTimeline.signal.previousNotionUserJobMove\",defaultMessage:\"{name} joined from another company, where they were a Notion admin or power user\"},signalPreviousNotionUserFal",
+  "new_chunk": false
+ },
+ {
+  "text": "A former Notion admin or power user joined from another company",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "PreviousNotionUserFallback:{id:\"nboActivityTimeline.signal.previousNotionUserJobMoveFallback\",defaultMessage:\"A former Notion admin or power user joined from another company\"},signalSubscriptionUpgrade:{id:\"nboActivityTi",
+  "new_chunk": false
+ },
+ {
+  "text": "Someone who used Notion as an admin or power user at another company recently joined the account.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "s_previously_notion_admin_or_power_user:{id:\"pitCrewSignalGlossary.previousNotionUserJobMove\",defaultMessage:\"Someone who used Notion as an admin or power user at another company recently joined the account.\"},account_up",
+  "new_chunk": false
+ }
+]

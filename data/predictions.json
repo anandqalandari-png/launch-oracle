@@ -1953,6 +1953,11 @@
     "date": "2026-11-19",
     "confidence": 0.55,
     "note": "New copy describes the reaction trigger's run-once-per-message behavior. A separate flag extends Slack triggers to private channels, so the work is still progressing."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.55,
+    "note": "The reaction picker UI for loop triggers now exists, including custom Slack emoji."
    }
   ],
   "evidence": [
@@ -1996,6 +2001,18 @@
     "text": "Runs when anyone adds one of these reactions to a top-level message in the selected channels. The loop runs at most once per message.",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Select the reactions that start this loop",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "custom Slack emoji :",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -2970,7 +2987,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
@@ -2996,6 +3013,11 @@
     "date": "2026-11-17",
     "confidence": 0.5,
     "note": "Local agent connection and sign-in management found in the desktop app."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.55,
+    "note": "The composer now has a switch to cloud action and pickers for a computer and a cloud agent."
    }
   ],
   "evidence": [
@@ -3076,6 +3098,24 @@
     "kind": "copy",
     "first_seen": "2026-11-17",
     "new_chunk": false
+   },
+   {
+    "text": "Switch to cloud",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Select computer…",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Select cloud agent…",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -3618,12 +3658,17 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.35,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-09",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "A full onboarding and setup screen for the Origin install now exists."
    }
   ],
   "evidence": [
@@ -3637,6 +3682,30 @@
     "text": "Read Origin pull request code in Linear's Diffs view and review it there. Origin pull request status syncs without this flag.",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Finish installing Linear on Origin",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Link Origin pull requests to Linear issues",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Update issue status from pull request activity",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Confirm Origin install",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -3665,7 +3734,7 @@
   "first_evidence": "2026-11-09",
   "window_days": 90,
   "deadline": "2027-02-07",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-09",
@@ -3696,6 +3765,11 @@
     "date": "2026-11-20",
     "confidence": 0.55,
     "note": "A second flag, triage-autopilot-experimental, adds assignee and reasoning display on top of the UI flag, so the work is still in progress."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "There are now two named flags, triage-autopilot and triage-autopilot-experimental, which show assignee, duplicate and rationale."
    }
   ],
   "evidence": [
@@ -3799,6 +3873,18 @@
     "text": "Show whom the triage autopilot would assign and why it fixed a feature request. Needs triage-autopilot-ui too.",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Run a Linear Agent conversation that decides bug or not bug in the triage pipeline, and show its progress and result",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Show whom the triage autopilot would assign, the duplicate it found and why it fixed a feature request. Needs triage-autopilot too.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -4104,7 +4190,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-10",
@@ -4140,6 +4226,11 @@
     "date": "2026-11-18",
     "confidence": 0.4,
     "note": "The surrounding code includes the markup `data-writing-followup-suggestions-surface`, a dedicated UI surface for writing follow-up suggestions. This corroborates the open forecast but gives no launch timing."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.5,
+    "note": "The writing-followups.current-draft-prompt string is now localised, which supports the existing forecast. This suggests the feature is being finalised."
    }
   ],
   "evidence": [
@@ -4231,6 +4322,18 @@
     "text": "),tx=P('<svg width=20 height=20 viewBox=",
     "kind": "copy",
     "first_seen": "2026-11-18",
+    "new_chunk": false
+   },
+   {
+    "text": "Aşağıdaki güncel taslağı kullan:",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Használd a szövegtervezet alábbi, aktuális változatát:",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -4498,7 +4601,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 90,
   "deadline": "2027-02-08",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-10",
@@ -4519,6 +4622,11 @@
     "date": "2026-11-17",
     "confidence": 0.55,
     "note": "Settings UI with an enable toggle, capabilities and configure action found."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.45,
+    "note": "A command-menu action to set up project autopilot now exists."
    }
   ],
   "evidence": [
@@ -4599,6 +4707,12 @@
     "kind": "copy",
     "first_seen": "2026-11-17",
     "new_chunk": false
+   },
+   {
+    "text": "Set up project autopilot…",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -4626,7 +4740,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-10",
@@ -4642,6 +4756,11 @@
     "date": "2026-11-18",
     "confidence": 0.6,
     "note": "Task scopes (fix vs fix & merge) and engage/disengage flows are implemented."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.5,
+    "note": "The pull request header now has an Autopilot settings button and an 'Also merge when ready' toggle."
    }
   ],
   "evidence": [
@@ -4692,6 +4811,18 @@
     "kind": "copy",
     "first_seen": "2026-11-18",
     "new_chunk": false
+   },
+   {
+    "text": "Autopilot settings",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Also merge when ready",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -4889,12 +5020,17 @@
   "first_evidence": "2026-11-10",
   "window_days": 75,
   "deadline": "2027-01-24",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-10",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.5,
+    "note": "Pinned documents are now called 'Key documents', with team and workspace scopes and add/remove actions."
    }
   ],
   "evidence": [
@@ -4926,6 +5062,24 @@
     "text": "Pinned documents",
     "kind": "copy",
     "first_seen": "2026-11-10",
+    "new_chunk": false
+   },
+   {
+    "text": "Keep the documents your team uses most at the top",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Your key documents",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Add to key documents",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -5125,7 +5279,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-11",
@@ -5141,6 +5295,11 @@
     "date": "2026-11-19",
     "confidence": 0.45,
     "note": "A log line shows the remote view switching from view-only to taking control, with a 'connected-full-control' state. This supports user takeover of the agent's browser."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.5,
+    "note": "WebRTC control-channel handling and 'take control if needed' copy with a purchase warning corroborate a user-visible live view and takeover of the agent's browser."
    }
   ],
   "evidence": [
@@ -5166,6 +5325,18 @@
     "text": "RFB viewOnly set to false (taking control).",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": true
+   },
+   {
+    "text": "WebRTC peer connection closed after flushing control reset.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Use Gemini carefully and take control if needed. It can make mistakes and produce unexpected results like purchases.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": true
    }
   ],
@@ -5625,7 +5796,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-12",
@@ -5641,6 +5812,11 @@
     "date": "2026-11-14",
     "confidence": 0.5,
     "note": "A new Albanian string sits next to other 'lightweight-web.settings-trusted-contact.*' keys (remove-title, remove-confirm-button, success-close). This shows the trusted-contact settings UI, including a remove-contact confirmation, is being l"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "New strings show the full settings flow: an invite modal, a recipient who can accept or decline, remove and resend actions, a personal-note email to the contact, and an unavailable-account error. This is a built settings surface with transl"
    }
   ],
   "evidence": [
@@ -5678,6 +5854,24 @@
     "text": "Je i sigurt?",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Vertrauensperson einladen",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Du lädst jemanden ein, deine Vertrauensperson zu werden. Diese Person kann selbst entscheiden, ob sie die Einladung annimmt.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Du kannst deine Vertrauensperson jederzeit in den ChatGPT-Einstellungen ändern oder entfernen.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -5849,7 +6043,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-12",
@@ -5875,6 +6069,11 @@
     "date": "2026-11-20",
     "confidence": 0.4,
     "note": "More Vega UI is present, including bubble action slots and quote highlighting."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.45,
+    "note": "Vega now appears to have a paginated list of ended task runs, so it is more than a bubble UI and looks like an agentic task product."
    }
   ],
   "evidence": [
@@ -5925,6 +6124,12 @@
     "kind": "copy",
     "first_seen": "2026-11-20",
     "new_chunk": false
+   },
+   {
+    "text": "Vega task runs not found",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -6474,7 +6679,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-12",
@@ -6495,6 +6700,11 @@
     "date": "2026-11-20",
     "confidence": 0.5,
     "note": "Reviews banners now offer GitLab connect and reconnect states for code review access."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.55,
+    "note": "GitLab now has an onboarding card, an agent suggestion, and a GitLab username variable for branch names."
    }
   ],
   "evidence": [
@@ -6533,6 +6743,18 @@
     "kind": "copy",
     "first_seen": "2026-11-20",
     "new_chunk": true
+   },
+   {
+    "text": "Link merge requests and review code in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Help me connect a Git provider, such as GitHub or GitLab, to my Linear workspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -9451,7 +9673,7 @@
   "first_evidence": "2026-11-18",
   "window_days": 90,
   "deadline": "2027-02-16",
-  "confidence": 0.35,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-18",
@@ -9467,6 +9689,11 @@
     "date": "2026-11-20",
     "confidence": 0.35,
     "note": "A fresh code chunk maps brandName, logoUrl, defaultFeatureMode and zeroStatePrompts into the Gem model."
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.4,
+    "note": "No new evidence supports this forecast; confidence stays near its prior. The repeated defaultFeatureMode and brandName mapping in a new chunk only confirms the Gem data model carries these fields."
    }
   ],
   "evidence": [
@@ -9492,6 +9719,12 @@
     "text": ",zeroStatePrompts:[...b.YC],defaultFeatureMode:(q=b.wha)!=null?q:null,brandName:(t=(e=b.kca)==null?void 0:e.LVa)!=null?t:",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Gemini History",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": true
    }
   ],
@@ -9890,12 +10123,17 @@
   "first_evidence": "2026-11-18",
   "window_days": 60,
   "deadline": "2027-01-17",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-18",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "The full set of Trunk queue states and tooltips is now in the code."
    }
   ],
   "evidence": [
@@ -9922,6 +10160,24 @@
     "kind": "copy",
     "first_seen": "2026-11-18",
     "new_chunk": false
+   },
+   {
+    "text": "Trunk removed it from the merge queue because its tests failed",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Waiting for required checks before it joins the queue",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Tests passed, merging soon",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -10394,12 +10650,17 @@
   "first_evidence": "2026-11-19",
   "window_days": 75,
   "deadline": "2027-02-02",
-  "confidence": 0.4,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-19",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "There is now a workspace security settings page for public links, with a toggle to turn them off and an action to revoke a link."
    }
   ],
   "evidence": [
@@ -10413,6 +10674,18 @@
     "text": "Document public links",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Members can make a document readable by anyone with its URL. Turning this off stops every public page.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Public links",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -10688,12 +10961,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 60,
   "deadline": "2027-01-19",
-  "confidence": 0.4,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "The separate Apple Silicon and Intel Mac download labels are now localised in many languages. Alongside them are per-platform QR-code and download-card strings."
    }
   ],
   "evidence": [
@@ -10713,6 +10991,24 @@
     "text": "Download ChatGPT",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Letöltés Intel-alapú Mac gépre",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Letöltés Apple Silicon rendszerű Mac gépre",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Pobierz wersję na Maca z procesorem Intel",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -10741,12 +11037,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 45,
   "deadline": "2027-01-04",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-21",
+    "confidence": 0.6,
+    "note": "The receiver-voice-upsell title, description and start strings now appear translated in dozens of languages. This indicates a finished feature heading toward release."
    }
   ],
   "evidence": [
@@ -10766,6 +11067,24 @@
     "text": "receiver_voice_upsell",
     "kind": "key",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Découvrez le nouveau mode Voix",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Natürlicher. Intelligenter. Bereit zum Reden.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Kilalanin ang bagong Voice",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
     "new_chunk": false
    }
   ],
@@ -11479,6 +11798,512 @@
    "open_questions": [
     "Which surface hosts this picker?",
     "Is it tied to coding agent previews?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-21-google-ads-ad-previews-in-gemini",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Google Ads ad previews in Gemini",
+  "one_liner": "Gemini shows interactive Google Ads ad preview cards, with Search and other channel previews, inside its responses.",
+  "category": "integration",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 90,
+  "deadline": "2027-02-19",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "assistant_lamda_GoogleAdsAdPreviewCardData",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "assistant_lamda_GoogleAdsChannelPreview",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "assistant_lamda_GoogleAdsChannelPreview_Search",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "ad-preview-iframe",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Advertisers drafting ads with an AI assistant have to leave the chat to see how the ads will look.",
+   "users": "Advertisers and marketers using Gemini to create Google Ads campaigns or ad copy.",
+   "what": "A rich card in the response that renders an ad preview in a sandboxed iframe. It carries a brand color and per-channel previews, including a Search preview with a preview URL.",
+   "how_it_appears": "As a card inside a Gemini conversation turn, for example after the user asks for ad copy or a campaign.",
+   "rollout_guess": "Inferred: likely tied to a Google Ads connector or tool and gated to users who have linked a Google Ads account. It may reach a limited set of users first.",
+   "open_questions": [
+    "Is this a Google Ads extension or connector, or a built-in Gemini tool?",
+    "Which channels besides Search will get previews?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-21-personal-intelligence-snapshot-dossier",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Personal Intelligence snapshot (dossier)",
+  "one_liner": "Gemini builds a personal snapshot of the user from connected data, which users can view and curate on a Personal Intelligence page.",
+  "category": "new_feature",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 90,
+  "deadline": "2027-02-19",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "if_dossier_snapshot_enabled",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Boq bridge \"personalCurationBridge\" is not available.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "Click to view and edit Gemini’s memory about you",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users cannot see or curate what Gemini has inferred about them across its memory and personalization features.",
+   "users": "Users who have enabled personalization or Personal Intelligence.",
+   "what": "A Personal Intelligence page with a snapshot or dossier, gated by a CAN_USE_PERSONAL_SNAPSHOT capability. A curation bridge streams the content so users can view and edit it.",
+   "how_it_appears": "As a Personal Intelligence page in settings, with memory cards that link to view and edit what Gemini knows.",
+   "rollout_guess": "Inferred: a gradual rollout gated by capability, starting with paid or opted-in users.",
+   "open_questions": [
+    "Is the snapshot a new surface or a redesign of the existing memory page?",
+    "Which users have the CAN_USE_PERSONAL_SNAPSHOT capability?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-21-cantonese-dictation-and-transcription-in",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Cantonese dictation and transcription in Meeting Notes",
+  "one_liner": "Users can pick Cantonese as the language for dictation and meeting transcription in Notion's AI Meeting Notes.",
+  "category": "expansion",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 75,
+  "deadline": "2027-02-04",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "meeting_notes_show_cantonese_dictation_language",
+    "kind": "key",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Cantonese speakers cannot transcribe meetings or dictate in their own language.",
+   "users": "Cantonese-speaking users of AI Meeting Notes and dictation.",
+   "what": "Cantonese ('yue') appears as a selectable dictation and transcription language, gated by its own flag.",
+   "how_it_appears": "The language picker for meeting notes and dictation. The code already lists Cantonese with the code 'yue'. A separate gate, 'show_beta_dictation_languages', also controls beta languages.",
+   "rollout_guess": "Gradual gate rollout, possibly labelled beta in the language list.",
+   "open_questions": [
+    "Will it carry a beta label?",
+    "Does it cover live transcription or only dictation?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-21-custom-agents-running-on-cursor-with-api",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Custom Agents running on Cursor (with API key)",
+  "one_liner": "Workspace agents can use Cursor as their provider, with a Cursor API key saved for the agent or the workspace.",
+  "category": "integration",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 90,
+  "deadline": "2027-02-19",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "This agent no longer runs on Cursor, so the API key wasn’t saved.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Teams want Notion agents to hand coding tasks to Cursor's agent runtime.",
+   "users": "Developer teams and admins who manage agents.",
+   "what": "An agent can have Cursor as its provider and store an API key. The error keys 'cursor_agent_provider_changed' and 'cursor_workspace_key_missing_for_policy' suggest workspace-level key policies.",
+   "how_it_appears": "Agent settings, in a Cursor API key field with validation errors.",
+   "rollout_guess": "Early access or Labs first, possibly admin-controlled.",
+   "open_questions": [
+    "Is the key per agent or per workspace?",
+    "Is this part of the external agents work?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-review-finding-scope-groups",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Review finding scope groups",
+  "one_liner": "Group a pull request review's findings under Bugs, Risks, Maintainability and Product labels.",
+  "category": "experiment",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 60,
+  "deadline": "2027-01-20",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Group a pull request review's findings under Bugs, Risks, Maintainability and Product labels",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Review finding scope groups",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Long lists of review findings are hard to triage.",
+   "users": "Pull request authors and reviewers using Linear Review.",
+   "what": "Review findings are grouped into scopes: Bugs, Risks, Maintainability and Product.",
+   "how_it_appears": "Findings list on a pull request in Reviews, behind the flag review-finding-scope-groups.",
+   "rollout_guess": "Flagged, then enabled for all Linear Review users.",
+   "open_questions": [
+    "Are groups collapsible?",
+    "Does the grouping carry over to the GitHub check or comments?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-pull-request-overview-sidebar-refresh",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Pull request overview sidebar refresh",
+  "one_liner": "A narrower pull request overview sidebar shown as a checklist, with status for reviewers, evidence, checks and branch, and linked issues above the description.",
+  "category": "experiment",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 60,
+  "deadline": "2027-01-20",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Show a narrower pull request overview sidebar as a checklist with a passing, failing, or pending status for reviewers, evidence, checks, and branch, and move linked issues above the description",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Overview sidebar refresh",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Not requested",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "No reviewers",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Up to date",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "It is hard to see at a glance what blocks a pull request.",
+   "users": "Reviewers and authors in Linear Reviews.",
+   "what": "A checklist-style overview with passing, failing or pending status for each requirement.",
+   "how_it_appears": "Right-hand overview sidebar in the Diffs/Reviews view, flag diffs-overview-sidebar-refresh.",
+   "rollout_guess": "Likely ships together with the merge-todo header work.",
+   "open_questions": [
+    "Will it replace the current sidebar for everyone?",
+    "Will it be mentioned in a changelog?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-autofix-bugs-loop-template",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Autofix bugs loop template",
+  "one_liner": "A Loop template that investigates new bug reports and starts a coding session when it finds a clear fix.",
+  "category": "new_feature",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 60,
+  "deadline": "2027-01-20",
+  "confidence": 0.35,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.35,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Investigates new bug reports and starts a coding session when it finds a clear fix",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Autofix bugs",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Bug reports wait for manual triage and fixes.",
+   "users": "Teams using Loops and Triage.",
+   "what": "A built-in Loop template, listed alongside Feature request report and Maintain changelog, that investigates bugs and starts coding sessions.",
+   "how_it_appears": "Loop template gallery.",
+   "rollout_guess": "Tied to the triage autopilot rollout.",
+   "open_questions": [
+    "Is this the same capability as triage autopilot?",
+    "What plan is it gated to?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-project-lead-team-and-team-level-project",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Project lead team and team-level project statuses",
+  "one_liner": "Projects get a lead team, with contributing teams, team-scoped project statuses and a team option to inherit project statuses from its parent.",
+  "category": "new_feature",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 90,
+  "deadline": "2027-02-19",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "This status is not available to the project’s lead team",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "You don’t have access to this project’s lead team",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "This team can no longer lead projects",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "This label does not exist in the project’s contributing teams",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Project teams",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Projects that span several teams have no single owning team, and project statuses and labels are shared across the workspace.",
+   "users": "Workspaces with sub-teams and cross-team projects.",
+   "what": "Each project has a lead team. Statuses and labels are validated against the lead and contributing teams. Teams can inherit project statuses from a parent.",
+   "how_it_appears": "Project properties and project list drag-and-drop validation, plus team settings for project statuses.",
+   "rollout_guess": "Possibly enterprise or plan-gated, since there is an availability check on teamProjectStatuses.",
+   "open_questions": [
+    "Which plan gets it?",
+    "Is it already partially live?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-unicode-warning-in-code-views",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Unicode warning in code views",
+  "one_liner": "Code in diffs and the viewer is flagged when it contains invisible or bidirectional Unicode characters.",
+  "category": "new_feature",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 60,
+  "deadline": "2027-01-20",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "This code contains invisible or bidirectional Unicode characters that can change how it appears.",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Hidden characters in code can hide malicious changes.",
+   "users": "Reviewers in Linear Reviews.",
+   "what": "A highlighted warning on the affected ranges of code.",
+   "how_it_appears": "Inline decoration in the code editor and diff layers.",
+   "rollout_guess": "Ships quietly as part of the Reviews code surface.",
+   "open_questions": [
+    "Is it only in diffs?",
+    "Is it announced in the changelog?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-21-preview-build-logs-for-pull-request-prev",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Preview build logs for pull request previews",
+  "one_liner": "Open the build logs of a preview deployment from Linear, and see when a preview is still building.",
+  "category": "expansion",
+  "created": "2026-11-21",
+  "first_evidence": "2026-11-21",
+  "window_days": 60,
+  "deadline": "2027-01-20",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-21",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Open preview build logs",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Preview is building…",
+    "kind": "copy",
+    "first_seen": "2026-11-21",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "A preview that is not ready or has failed gives no explanation.",
+   "users": "Developers using preview links from pull requests.",
+   "what": "The preview action opens the build log when one is available, and a tooltip shows that the preview is building.",
+   "how_it_appears": "Preview link actions in the command menu and on pull requests.",
+   "rollout_guess": "Small enhancement that may ship without an announcement.",
+   "open_questions": [
+    "Which providers are supported?",
+    "Is it visible in release notes?"
    ]
   },
   "status": "open",

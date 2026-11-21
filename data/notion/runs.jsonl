@@ -15,3 +15,4 @@
 {"date": "2026-11-18", "app": "notion", "baseline": false, "files": 335, "bytes": 23933475, "strings": 9215, "new": 29, "new_files": 24, "errors": [], "ok": true}
 {"date": "2026-11-19", "app": "notion", "baseline": false, "files": 333, "bytes": 23934291, "strings": 9223, "new": 35, "new_files": 28, "errors": [], "ok": true}
 {"date": "2026-11-20", "app": "notion", "baseline": false, "files": 332, "bytes": 23941825, "strings": 9227, "new": 7, "new_files": 13, "errors": [], "ok": true}
+{"date": "2026-11-21", "app": "notion", "baseline": false, "files": 334, "bytes": 23918293, "strings": 9214, "new": 6, "new_files": 21, "errors": [], "ok": true}
