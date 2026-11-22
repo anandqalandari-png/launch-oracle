@@ -9437,3 +9437,5 @@
 2026-11-21	copy	"This agent no longer runs on Cursor, so the API key wasn’t saved."
 2026-11-21	key	"meeting_notes_show_cantonese_dictation_language"
 2026-11-21	copy	"{name} joined from another company, where they were a Notion admin or power user"
+2026-11-22	key	"data-notion-code-preview-format"
+2026-11-22	key	"data-notion-link-preview"

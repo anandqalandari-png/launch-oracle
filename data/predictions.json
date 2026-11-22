@@ -6043,7 +6043,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
@@ -6074,6 +6074,11 @@
     "date": "2026-11-21",
     "confidence": 0.45,
     "note": "Vega now appears to have a paginated list of ended task runs, so it is more than a bubble UI and looks like an agentic task product."
+   },
+   {
+    "date": "2026-11-22",
+    "confidence": 0.4,
+    "note": "Vega now has task runs with steps, and Daily Brief has a goal-sync component, so Vega looks like an agentic task surface tied to Daily Brief."
    }
   ],
   "evidence": [
@@ -6130,6 +6135,18 @@
     "kind": "copy",
     "first_seen": "2026-11-21",
     "new_chunk": true
+   },
+   {
+    "text": "Vega task run not found",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": false
+   },
+   {
+    "text": "Daily Brief DM Goal Sync",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -9694,6 +9711,11 @@
     "date": "2026-11-21",
     "confidence": 0.4,
     "note": "No new evidence supports this forecast; confidence stays near its prior. The repeated defaultFeatureMode and brandName mapping in a new chunk only confirms the Gem data model carries these fields."
+   },
+   {
+    "date": "2026-11-22",
+    "confidence": 0.4,
+    "note": "A second code path maps the same gem fields (brandName, logoUrl, zeroStatePrompts, defaultFeatureMode), so the brand and default-mode fields are wired into the gem data model."
    }
   ],
   "evidence": [
@@ -9725,6 +9747,12 @@
     "text": "Gemini History",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.ZC],defaultFeatureMode:(q=b.Fha)!=null?q:null,brandName:(t=(e=b.Eca)==null?void 0:e.NVa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
     "new_chunk": true
    }
   ],
@@ -11048,6 +11076,11 @@
     "date": "2026-11-21",
     "confidence": 0.6,
     "note": "The receiver-voice-upsell title, description and start strings now appear translated in dozens of languages. This indicates a finished feature heading toward release."
+   },
+   {
+    "date": "2026-11-22",
+    "confidence": 0.6,
+    "note": "The receiver-voice-upsell title, description and start keys now appear in many more locales (Swahili, Spanish, German, Czech, Indonesian, Finnish, Somali, Albanian). That points to a full translation rollout, which usually comes shortly bef"
    }
   ],
   "evidence": [
@@ -11085,6 +11118,30 @@
     "text": "Kilalanin ang bagong Voice",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Anza Mazungumzo ya Sauti",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": false
+   },
+   {
+    "text": "Descubre la nueva Voz",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": false
+   },
+   {
+    "text": "Lerne das neue Sprachmodell kennen",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": false
+   },
+   {
+    "text": "Seznamte se s novým Hlasem",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
     "new_chunk": false
    }
   ],
@@ -11213,12 +11270,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 90,
   "deadline": "2027-02-18",
-  "confidence": 0.2,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-22",
+    "confidence": 0.5,
+    "note": "New permission and consent copy shows Spaces can read connected Workspace apps and call MCP tools with per-session user confirmation. This is later-stage UI than a bare page, so shipping looks closer."
    }
   ],
   "evidence": [
@@ -11227,6 +11289,24 @@
     "kind": "key",
     "first_seen": "2026-11-20",
     "new_chunk": false
+   },
+   {
+    "text": "This Space has read private data from your connected Google Workspace apps. This external link may contain data from them.",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": "Allow this Space to read from �0�?",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": "This Space will be able to read data from �0� during this session.",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -11254,12 +11334,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 90,
   "deadline": "2027-02-18",
-  "confidence": 0.15,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.15,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-22",
+    "confidence": 0.4,
+    "note": "A host bridge ('Airlock MCP') carries tool calls from sandboxed widgets to the host with confirmation dialogs, which supports MCP widget rendering."
    }
   ],
   "evidence": [
@@ -11273,6 +11358,18 @@
     "text": "SafeContentFrame load timeout",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Unsupported Airlock MCP message type.",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": "Another confirmation dialog is already open.",
+    "kind": "copy",
+    "first_seen": "2026-11-22",
     "new_chunk": true
    }
   ],

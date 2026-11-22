@@ -1,0 +1,331 @@
+[
+ {
+  "text": ":void 0,n.g,l),a=Je(n,a,5,e.initialFeed,n.h,l),a=Je(n,a,6,e.experiment?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "&&(a=cl(l,a,1,e,n.c))}a=Je(n,a,2,e.hidden,n.e,l),a=Je(n,a,3,e.enabled?\"\":void 0,n.f,l),a=Je(n,a,4,e.expanded?\"\":void 0,n.g,l),a=Je(n,a,5,e.initialFeed,n.h,l),a=Je(n,a,6,e.experiment?\"\":void 0,n.i,l),a=Je(n,a,7,e.whileTyp",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,n.i,l),a=Je(n,a,7,e.whileTyping?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "void 0,n.f,l),a=Je(n,a,4,e.expanded?\"\":void 0,n.g,l),a=Je(n,a,5,e.initialFeed,n.h,l),a=Je(n,a,6,e.experiment?\"\":void 0,n.i,l),a=Je(n,a,7,e.whileTyping?\"\":void 0,n.j,l),a=Je(n,a,8,e.withHelp?\"\":void 0,n.k,l),a=Je(n,a,9,e.",
+  "new_chunk": false
+ },
+ {
+  "text": "===e.kind||e.candidateId?void 0:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ".b,\"inert\",x,\"b:1768c8c2\",Bl)}{let x=e.hidden;n.k=Hx(l,n.k,n.b,\"hidden\",x,\"b:027317c4\",Bl)}{let x=\"recent_chat\"===e.kind||e.candidateId?void 0:\"t\";n.l=Hx(l,n.l,n.b,\"id\",x,\"b:5cfa6d0d\",vx)}{let x=e.candidateId??(\"recent_c",
+  "new_chunk": false
+ },
+ {
+  "text": "><use href=#lightweight-shell-scroll-to-bottom>'),Un=Wx(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "type=button><span aria-hidden=true data-button-icon><svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><use href=#lightweight-shell-scroll-to-bottom>'),Un=Wx(\"<div data-scroll-to-bottom-anchor><!><div></div><div",
+  "new_chunk": false
+ },
+ {
+  "text": ":$e+(ue?0:220+(e.trh?4:0))),ce&&Ut.hidden],rootRef:j,hidden:ce,enabled:e.tr,expanded:te,initialFeed:te&&!ie&&void 0!==e.tri?String(e.tri):void 0,experiment:e.tr&&qe,whileTyping:e.trwt,withHelp:e.tr&&e.trh,helpPlacement:e.tr&&e.trh?e.trhp:void 0,state:ne?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/trending.js",
+  "ctx": "&Ut.expanded,te&&e.trh&&Ut.expandedWithHelp,je&&Ut.taskListTracks($e,we?`auto ${$e}px`:`${$e}px auto`,te?\"auto\":$e+(ue?0:220+(e.trh?4:0))),ce&&Ut.hidden],rootRef:j,hidden:ce,enabled:e.tr,expanded:te,initialFeed:te&&!ie&&",
+  "new_chunk": false
+ },
+ {
+  "text": "Çok fazla deneme yapıldı. Tekrar denemeden önce lütfen birkaç dakika bekle.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": "line-auth-description`,`ChatGPT'ye devam et.`),pd=e(`lightweight-web.auth.inline-auth-otp-attempts-exhausted`,`Çok fazla deneme yapıldı. Tekrar denemeden önce lütfen birkaç dakika bekle.`),md=e(`lightweight-web.auth.inli",
+  "new_chunk": false
+ },
+ {
+  "text": "Giriş oturumunun süresi doldu. Lütfen tekrar dene.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/tr.js",
+  "ctx": ". Tekrar denemeden önce lütfen birkaç dakika bekle.`),md=e(`lightweight-web.auth.inline-auth-session-expired`,`Giriş oturumunun süresi doldu. Lütfen tekrar dene.`),hd=e(`lightweight-web.auth.inline-auth-too-many-attempts",
+  "new_chunk": false
+ },
+ {
+  "text": "Massa intents. Espera uns minuts abans de tornar-ho a provar.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "nline-auth-description\",\"Continua a ChatGPT.\"),Wc=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Massa intents. Espera uns minuts abans de tornar-ho a provar.\"),Xc=e(\"lightweight-web.auth.inline-auth-sessio",
+  "new_chunk": false
+ },
+ {
+  "text": "La teva sessió ha caducat. Torna-ho a provar.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/ca.js",
+  "ctx": "nts. Espera uns minuts abans de tornar-ho a provar.\"),Xc=e(\"lightweight-web.auth.inline-auth-session-expired\",\"La teva sessió ha caducat. Torna-ho a provar.\"),Jc=e(\"lightweight-web.auth.inline-auth-too-many-attempts\",\"Ma",
+  "new_chunk": false
+ },
+ {
+  "text": "Umejaribu mara nyingi sana. Tafadhali subiri dakika chache, kisha ujaribu tena.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "e-auth-description\",\"Endelea kwenye ChatGPT.\"),qu=a(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Umejaribu mara nyingi sana. Tafadhali subiri dakika chache, kisha ujaribu tena.\"),Lu=a(\"lightweight-web.auth.",
+  "new_chunk": false
+ },
+ {
+  "text": "Anza Mazungumzo ya Sauti",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sw.js",
+  "ctx": "ili zaidi. Yenye akili zaidi. Tayari kuzungumza.\"),nP=a(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Anza Mazungumzo ya Sauti\"),lP=a(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Ifahamu Sauti mpya\"),h",
+  "new_chunk": false
+ },
+ {
+  "text": "Excesso de tentativas. Aguarde alguns minutos para tentar novamente.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "-auth-description\",\"Continue para o ChatGPT.\"),Wh=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Excesso de tentativas. Aguarde alguns minutos para tentar novamente.\"),Jh=e(\"lightweight-web.auth.inline-auth",
+  "new_chunk": false
+ },
+ {
+  "text": "Sua sessão de login expirou. Tente novamente.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": "ivas. Aguarde alguns minutos para tentar novamente.\"),Jh=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Sua sessão de login expirou. Tente novamente.\"),Kh=e(\"lightweight-web.auth.inline-auth-too-many-attempts\",\"Mu",
+  "new_chunk": false
+ },
+ {
+  "text": "Demasiados intentos. Espera unos minutos antes de volver a intentarlo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "scription\",\"Continúa para acceder a ChatGPT.\"),Wc=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Demasiados intentos. Espera unos minutos antes de volver a intentarlo.\"),Yc=e(\"lightweight-web.auth.inline-au",
+  "new_chunk": false
+ },
+ {
+  "text": "Tu sesión ha caducado. Inténtalo de nuevo.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": ". Espera unos minutos antes de volver a intentarlo.\"),Yc=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Tu sesión ha caducado. Inténtalo de nuevo.\"),Jc=e(\"lightweight-web.auth.inline-auth-too-many-attempts\",\"Demas",
+  "new_chunk": false
+ },
+ {
+  "text": "Iniciar Voz",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "Más natural. Más inteligente. Listo para hablar.\"),oP=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Iniciar Voz\"),rP=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Descubre la nueva Voz\"),nP=e(\"light",
+  "new_chunk": false
+ },
+ {
+  "text": "Descubre la nueva Voz",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/es.js",
+  "ctx": "haring.receiver-voice-upsell-start\",\"Iniciar Voz\"),rP=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Descubre la nueva Voz\"),nP=e(\"lightweight-web.common.back-to-chat-gpt\",\"Volver a ChatGPT\"),sP=e(\"lightweight-",
+  "new_chunk": false
+ },
+ {
+  "text": "Zbyt wiele prób. Spróbuj ponownie za kilka minut.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pl.js",
+  "ctx": "ription\",\"Kontynuuj, aby przejść do ChatGPT.\"),Vs=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Zbyt wiele prób. Spróbuj ponownie za kilka minut.\"),Fs=e(\"lightweight-web.auth.inline-auth-session-expired\",\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Kalfadhigaaga gelitaanka wuu dhacay. Fadlan isku day mar kale.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": " dhowr daqiiqo ka hor intaadan mar kale isku dayin.\"),Us=a(\"lightweight-web.auth.inline-auth-session-expired\",\"Kalfadhigaaga gelitaanka wuu dhacay. Fadlan isku day mar kale.\"),Rs=a(\"lightweight-web.auth.inline-auth-too-m",
+  "new_chunk": false
+ },
+ {
+  "text": "Ka dabiici badan. Ka caqli badan. Diyaar u ah wada-sheekaysi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/so.js",
+  "ctx": "-report-title\",\"Dacwee nuxurka la wadaagay\"),tS=a(\"lightweight-web.sharing.receiver-voice-upsell-description\",\"Ka dabiici badan. Ka caqli badan. Diyaar u ah wada-sheekaysi.\"),oS=a(\"lightweight-web.sharing.receiver-voice-",
+  "new_chunk": false
+ },
+ {
+  "text": "Je aanmeldsessie is verlopen. Probeer het opnieuw.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/nl.js",
+  "ctx": "t een paar minuten voordat je het opnieuw probeert.\"),Rh=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Je aanmeldsessie is verlopen. Probeer het opnieuw.\"),Zh=e(\"lightweight-web.auth.inline-auth-too-many-attempts",
+  "new_chunk": false
+ },
+ {
+  "text": "Tepër përpjekje. Prit disa minuta para se të provosh përsëri.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "inline-auth-description`,`Vazhdo në ChatGPT.`),pd=e(`lightweight-web.auth.inline-auth-otp-attempts-exhausted`,`Tepër përpjekje. Prit disa minuta para se të provosh përsëri.`),md=e(`lightweight-web.auth.inline-auth-sessio",
+  "new_chunk": false
+ },
+ {
+  "text": "Sesioni yt i hyrjes ka skaduar. Provo sërish.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "jekje. Prit disa minuta para se të provosh përsëri.`),md=e(`lightweight-web.auth.inline-auth-session-expired`,`Sesioni yt i hyrjes ka skaduar. Provo sërish.`),hd=e(`lightweight-web.auth.inline-auth-too-many-attempts`,`Te",
+  "new_chunk": false
+ },
+ {
+  "text": "Nis Zërin",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/sq.js",
+  "ctx": "natyrshëm. Më inteligjent. Gati për të biseduar.`),uE=e(`lightweight-web.sharing.receiver-voice-upsell-start`,`Nis Zërin`),dE=e(`lightweight-web.sharing.receiver-voice-upsell-title`,`Njihu me Zërin e ri`),fE=e(`lightweig",
+  "new_chunk": false
+ },
+ {
+  "text": "Pesquisa Aprofundada",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/pt.js",
+  "ctx": ".apps\",\"Aplicações\"),qv=e(\"lightweight-web.sidebar.chat\",\"Chat\"),Ev=e(\"lightweight-web.sidebar.deep-research\",\"Pesquisa Aprofundada\"),Gv=e(\"lightweight-web.sidebar.help\",\"Ajuda\"),Nv=e(\"lightweight-web.sidebar.history-act",
+  "new_chunk": false
+ },
+ {
+  "text": "Terlalu banyak percobaan. Tunggu beberapa menit sebelum mencoba lagi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "ine-auth-description\",\"Lanjutkan ke ChatGPT.\"),Wh=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Terlalu banyak percobaan. Tunggu beberapa menit sebelum mencoba lagi.\"),Vh=e(\"lightweight-web.auth.inline-aut",
+  "new_chunk": false
+ },
+ {
+  "text": "Sesi login Anda telah berakhir. Coba lagi.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "cobaan. Tunggu beberapa menit sebelum mencoba lagi.\"),Vh=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Sesi login Anda telah berakhir. Coba lagi.\"),Qh=e(\"lightweight-web.auth.inline-auth-too-many-attempts\",\"Terla",
+  "new_chunk": false
+ },
+ {
+  "text": "Mulai Percakapan Suara",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "ion\",\"Lebih alami. Lebih cerdas. Siap mengobrol.\"),nT=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Mulai Percakapan Suara\"),lT=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Kenali Suara baru\"),gT=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Kenali Suara baru",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/id.js",
+  "ctx": "iver-voice-upsell-start\",\"Mulai Percakapan Suara\"),lT=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Kenali Suara baru\"),gT=e(\"lightweight-web.common.back-to-chat-gpt\",\"Kembali ke ChatGPT\"),rT=e(\"lightweight-we",
+  "new_chunk": false
+ },
+ {
+  "text": "Lerne das neue Sprachmodell kennen",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/de.js",
+  "ctx": "eceiver-voice-upsell-start\",\"Sprachmodus starten\"),aA=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Lerne das neue Sprachmodell kennen\"),lA=e(\"lightweight-web.common.back-to-chat-gpt\",\"Zurück zu ChatGPT\"),gA=e",
+  "new_chunk": false
+ },
+ {
+  "text": "Esittelyssä uusi Ääni",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fi.js",
+  "ctx": "eiver-voice-upsell-start`,`Aloita äänikeskustelu`),dE=e(`lightweight-web.sharing.receiver-voice-upsell-title`,`Esittelyssä uusi Ääni`),fE=e(`lightweight-web.common.back-to-chat-gpt`,`Takaisin ChatGPT:hen`),pE=e(`lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": "Příliš mnoho pokusů. Zkuste to znovu za několik minut.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "ne-auth-description\",\"Pokračujte do ChatGPT.\"),Fh=e(\"lightweight-web.auth.inline-auth-otp-attempts-exhausted\",\"Příliš mnoho pokusů. Zkuste to znovu za několik minut.\"),Jh=e(\"lightweight-web.auth.inline-auth-session-expir",
+  "new_chunk": false
+ },
+ {
+  "text": "Platnost vaší přihlašovací relace vypršela. Zkuste to znovu.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "liš mnoho pokusů. Zkuste to znovu za několik minut.\"),Jh=e(\"lightweight-web.auth.inline-auth-session-expired\",\"Platnost vaší přihlašovací relace vypršela. Zkuste to znovu.\"),Wh=e(\"lightweight-web.auth.inline-auth-too-man",
+  "new_chunk": false
+ },
+ {
+  "text": "Zahájit režim Hlas",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "\"Přirozenější. Chytřejší. Připravený si povídat.\"),aZ=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Zahájit režim Hlas\"),nZ=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Seznamte se s novým Hlasem\")",
+  "new_chunk": false
+ },
+ {
+  "text": "Seznamte se s novým Hlasem",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/cs.js",
+  "ctx": "receiver-voice-upsell-start\",\"Zahájit režim Hlas\"),nZ=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Seznamte se s novým Hlasem\"),lZ=e(\"lightweight-web.common.back-to-chat-gpt\",\"Zpět na ChatGPT\"),rZ=e(\"lightwei",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,3),ph=Gu('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "77948 14.0222 8.38125 14.1581 8.05179 13.9965C7.72221 13.8345 7.58602 13.4355 7.74808 13.1059L11.0586 6.37347Z\">',1,3),ph=Gu('<path fill-rule=evenodd clip-rule=evenodd d=\"M4.95996 5.22646C4.96014 3.70488 6.64926 2.79128 ",
+  "new_chunk": false
+ },
+ {
+  "text": "),_r=_o('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Nr=_o(\"<!>\",0,1),Sr=_o(\"<span role=alert> \"),Lr=_o(\"<div data-generated-file-cards><!>\"),_r=_o('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Hr=_o('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Hr=_o('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Or=_o('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Tr=_o('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Or=_o('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),mx=_o('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),px=_o(\"<div></div><!>\",0,2),fx=_o(\"<p role=status> \"),kx=_o(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),mx=_o('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),vx=_o(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),yx=_o('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),vx=_o(\"<blockquote> \"),gx=_o(\"<p data-user-message-copy>\"),hx=_o(\"<p data-user-message-copy> \"),yx=_o('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),jx=_o('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),wx=_o(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),jx=_o('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=_o(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),jx=_o('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=_o(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),zx=_o('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),qx=_o(\"<svg aria-hidden=true fill=none><use>\",1),zx=_o('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),Mx=Yi(112),Ix=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": ",i=Dt(kt(ql.marker(void 0===l.color?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/CartesianChart.js",
+  "ctx": "i,\"b:ac5c5107\",!1))}function q(e,t,i){let l=i[0],a=t.slots[0],o=null;if(void 0===a){let e,i,o,n=ni(vl);e=\"true\",i=Dt(kt(ql.marker(void 0===l.color?\"transparent\":Oi(l.color)))),o=zt(t,void 0,n,[[!1,\"aria-hidden\",e],[!0,i]",
+  "new_chunk": false
+ },
+ {
+  "text": "),zn=Se('<a target=_blank rel=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "s-color-scheme: dark)\">'),wn=Se(\"<picture><!><img referrerPolicy=no-referrer>\"),jn=Se(\"<strong> \"),In=Se(\"<p> \"),zn=Se('<a target=_blank rel=\"noopener noreferrer\"> ',3),_n=Se('<a rel=\"noopener noreferrer\"> ',3),Dn=Se(\"<a",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=#202020 stroke=white stroke-width=1.5 stroke-linejoin=round>',1),Bs=ks(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/custom.js",
+  "ctx": "8.043v11.188l2.53-2.442z\" fill=#000>',1),Hs=ks('<path d=\"M3 2.5v17l4.5-4.1 3.5 6.7 3.1-1.7-3.5-6.5 6-.9L3 2.5Z\" fill=#202020 stroke=white stroke-width=1.5 stroke-linejoin=round>',1),Bs=ks(\"<svg fill=none aria-hidden=true",
+  "new_chunk": false
+ }
+]

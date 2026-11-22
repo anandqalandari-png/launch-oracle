@@ -16,3 +16,4 @@
 {"date": "2026-11-19", "app": "linear", "baseline": false, "files": 1239, "bytes": 65814581, "strings": 13630, "new": 254, "new_files": 10, "errors": [], "ok": true}
 {"date": "2026-11-20", "app": "linear", "baseline": false, "files": 1266, "bytes": 40490257, "strings": 13739, "new": 329, "new_files": 36, "errors": [], "ok": true}
 {"date": "2026-11-21", "app": "linear", "baseline": false, "files": 1463, "bytes": 72578657, "strings": 14055, "new": 307, "new_files": 80, "errors": [], "ok": true}
+{"date": "2026-11-22", "app": "linear", "baseline": false, "files": 1464, "bytes": 72592775, "strings": 14060, "new": 17, "new_files": 2, "errors": [], "ok": true}

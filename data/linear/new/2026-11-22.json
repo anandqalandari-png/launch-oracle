@@ -1,0 +1,121 @@
+[
+ {
+  "text": ",...N1e,\"aria-label\":i,\"aria-describedby\":A?k:void 0,value:d??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "O,placeholder:A?void 0:i,faded:!S,afterLeadingContent:A,spellCheck:`false`,autoComplete:`off`,autoCorrect:`off`,...N1e,\"aria-label\":i,\"aria-describedby\":A?k:void 0,value:d??``,onChange:t,onKeyDown:ne,onKeyUp:u,onClick:ee",
+  "new_chunk": false
+ },
+ {
+  "text": ":e instanceof Yu?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ll]}),(0,X.jsxs)(yk,{align:`center`,sx:hM.propertiesSection,children:[a,o]})]})},Zct=e=>e instanceof Tf?`issue`:e instanceof Yu?`initiative`:`project`,Qct=e=>e instanceof Tf?(0,X.jsx)(Cg,{size:12}):e instanceof Yu?(0,X.j",
+  "new_chunk": false
+ },
+ {
+  "text": "in e?Wl.status(e.issue):",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "9858 13.8002C9.61198 13.8002 9.29858 13.4868 9.29858 13.1002Z`})]})})}var MN=J(function(e){let t=Wn(),n=`issue`in e?Wl.status(e.issue):`status`in e?e.status:void 0,r={style:e.style};switch(n){case eu.Status.Breached:retu",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0:BW.isHttpUrl(n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "ValidationError(t){let n=e.normalizeDeveloperUrl(t.developerUrl);return n.length===0?t.publicEnabled?`required`:void 0:BW.isHttpUrl(n)?void 0:`invalid`}static#e=b1t=()=>(this.minNameLength=2,this.maxNameLength=80,this.ma",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,className:s,style:c,sx:[Eln.panel,!n&&!!i&&jm[t??",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "tBorder:a,skipElevation:o,className:s,style:c,sx:l,...u}=e,d=(0,X.jsx)(Z,{...u,\"data-highlight-border\":a?`true`:void 0,className:s,style:c,sx:[Eln.panel,!n&&!!i&&jm[t??`bgBorderFaint`],!!i&&!r&&Dln[i],a!==void 0&&Eln.hig",
+  "new_chunk": false
+ },
+ {
+  "text": "):WF.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "itDisabledReason(n,t)??(WF.canEditWorkflow(n,t)?void 0:`You do not have permission to reconnect this connector`):WF.hasPermissionToManageWorkflowDefinition(n,e,c.type)?void 0:`You do not have permission to reconnect this",
+  "new_chunk": false
+ },
+ {
+  "text": ":l.hasPermission(Bm.teamManagement,n)?void 0:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "is connector`}let l=t.team;return l?l.isReadOnly?`You cannot reconnect MCP connectors in ${l.isReadOnly} teams`:l.hasPermission(Bm.teamManagement,n)?void 0:`You do not have permission to reconnect this connector`:n.hasPe",
+  "new_chunk": false
+ },
+ {
+  "text": "?r:r!==void 0||!bp.isApplicableAction(e,n)?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "lete(e.id))}}function HOn(e,t){let n=t.autoMergeEnabled?zX:RX,r=n.disabledReason?.(e);return typeof r==`string`?r:r!==void 0||!bp.isApplicableAction(e,n)?`Auto-merge is not available for this ${t.kindName}`:void 0}var zX",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,group:MM,image:null,skipFilterScoring:!0,actionVerb:",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "sHoisting:{hoist:!0},subActions:()=>[{name:`Create channel `,detail:e=>e.searchInput?`#${e.searchInput.trim()}`:void 0,group:MM,image:null,skipFilterScoring:!0,actionVerb:`Create`,hideInMenuRoot:!0,applicable:e=>!!e.sear",
+  "new_chunk": false
+ },
+ {
+  "text": "),te=!w?.bodyData||ka(nh(w.bodyData)),ne=w&&w instanceof hp?!A?.trim():!0,re=te&&ne,ie=xi(re),ae=xi(v),oe=r?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "gify(y)!==JSON.stringify(w.bodyData)&&(T(y,b),d(e=>e+1)))},[y]);let[A,ee]=Y.useState(w instanceof hp?w.title:``),te=!w?.bodyData||ka(nh(w.bodyData)),ne=w&&w instanceof hp?!A?.trim():!0,re=te&&ne,ie=xi(re),ae=xi(v),oe=r?`",
+  "new_chunk": false
+ },
+ {
+  "text": ":w instanceof hp?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/startup-root.js",
+  "ctx": "w?.bodyData||ka(nh(w.bodyData)),ne=w&&w instanceof hp?!A?.trim():!0,re=te&&ne,ie=xi(re),ae=xi(v),oe=r?`comment`:w instanceof hp?`post`:`update`,se=a??i,ce=e=>{T(e,b),h(e,rfr({draftUpdate:w,isCommentMode:r}),w),d(e=>e+1)}",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0),E=!!s?.isCommitting,D=C&&s&&!cr.hasOtherUnresolvedSuggestions(h,s,r),ee=E?Qn.committingMessage:w??(s&&Qn.resolveExpectedHeadSha(s.dirtyFileSessions,h.headSha)===void 0?",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/PullRequestComment.js",
+  "ctx": "`:void 0):`Open this in Reviews to apply the change`,T=p?`Applying change…`:w??(C?`Applied to your Diff draft.`:void 0),E=!!s?.isCommitting,D=C&&s&&!cr.hasOtherUnresolvedSuggestions(h,s,r),ee=E?Qn.committingMessage:w??(s",
+  "new_chunk": false
+ },
+ {
+  "text": "Reviewed the bug",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageAutopilotSuggestions.js",
+  "ctx": "??[]})})}return s}static reportTitle(e){switch(e.classification.type){case M.bug:return e.confidence===`high`?`Reviewed the bug`:`Reviewed the possible bug`;case M.featureRequest:return`Reviewed the request`;default:retu",
+  "new_chunk": false
+ },
+ {
+  "text": "Reviewed the possible bug",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageAutopilotSuggestions.js",
+  "ctx": "tatic reportTitle(e){switch(e.classification.type){case M.bug:return e.confidence===`high`?`Reviewed the bug`:`Reviewed the possible bug`;case M.featureRequest:return`Reviewed the request`;default:return`Reviewed the rep",
+  "new_chunk": false
+ },
+ {
+  "text": "Reviewed the request",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageAutopilotSuggestions.js",
+  "ctx": "M.bug:return e.confidence===`high`?`Reviewed the bug`:`Reviewed the possible bug`;case M.featureRequest:return`Reviewed the request`;default:return`Reviewed the report`}}static hasSuggestions(e){return!!(e.proposedAssign",
+  "new_chunk": false
+ },
+ {
+  "text": "Reviewed the report",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageAutopilotSuggestions.js",
+  "ctx": "eviewed the bug`:`Reviewed the possible bug`;case M.featureRequest:return`Reviewed the request`;default:return`Reviewed the report`}}static hasSuggestions(e){return!!(e.proposedAssignee||e.proposedTeam||e.proposedProject",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggested properties",
+  "kind": "copy",
+  "file": "static.linear.app/client/assets/TriageAutopilotSuggestions.js",
+  "ctx": "els?.labelIds.length||e.proposedDuplicate)}};function wn(e){let{issue:n,verdict:r}=e;return(0,G.jsx)(U,{label:`Suggested properties`,sx:Z.pillTrigger,raised:!0,content:()=>(0,G.jsx)(`div`,{className:`sx-ht4xr3 sx-w7nakj ",
+  "new_chunk": false
+ }
+]
