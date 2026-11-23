@@ -6043,7 +6043,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.4,
+  "confidence": 0.3,
   "history": [
    {
     "date": "2026-11-12",
@@ -6079,6 +6079,11 @@
     "date": "2026-11-22",
     "confidence": 0.4,
     "note": "Vega now has task runs with steps, and Daily Brief has a goal-sync component, so Vega looks like an agentic task surface tied to Daily Brief."
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.3,
+    "note": "A vega-bubble-action-slot component with a spotlight-hidden state suggests Vega chat bubbles are still being built out. There is no sign yet of a launch date."
    }
   ],
   "evidence": [
@@ -6147,6 +6152,12 @@
     "kind": "copy",
     "first_seen": "2026-11-22",
     "new_chunk": false
+   },
+   {
+    "text": "?-1:void 0,shrink:0,sx:[!c&&Nu.actionSlot,r&&!c&&Nu.actionVisible,c&&Nu.actionSpotlightHidden],transition:",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -6174,7 +6185,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-12",
@@ -6190,6 +6201,11 @@
     "date": "2026-11-20",
     "confidence": 0.4,
     "note": "An out-of-credits state is now wired to a link button that has a plus icon."
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.45,
+    "note": "The purchase link button carries a data-out-of-credits attribute, an accent variant and a leading plus icon. This supports an out-of-credits prompt that links to a purchase page."
    }
   ],
   "evidence": [
@@ -6209,6 +6225,12 @@
     "text": ":void 0,minWidth:48,onClick:ne,ref:z,rel:",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,minWidth:48,onClick:te,ref:z,rel:",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
     "new_chunk": false
    }
   ],
@@ -8650,7 +8672,7 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-17",
@@ -8666,6 +8688,11 @@
     "date": "2026-11-20",
     "confidence": 0.45,
     "note": "The composer now wires up quotes, a cap alert, and restore-from-highlight handlers."
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.5,
+    "note": "The composer props now wire up quotes, a capAlertVisible flag and restoreQuoteAt from the highlight-to-ask context. This shows the quote cap and restore behaviour is implemented in the UI."
    }
   ],
   "evidence": [
@@ -8685,6 +8712,12 @@
     "text": "||void 0,tr=X?void 0:H,nr=Tt?Ot.quotes:void 0,rr=Tt?Ot.capAlertVisible:!1,ir=Bt?",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "||void 0,vr=X?void 0:te,yr=It?Bt.quotes:void 0,br=It?Bt.capAlertVisible:!1,xr=Yt?",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
     "new_chunk": false
    }
   ],
@@ -9716,6 +9749,11 @@
     "date": "2026-11-22",
     "confidence": 0.4,
     "note": "A second code path maps the same gem fields (brandName, logoUrl, zeroStatePrompts, defaultFeatureMode), so the brand and default-mode fields are wired into the gem data model."
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.4,
+    "note": "A new code chunk maps Gem data to brandName, logoUrl, zeroStatePrompts and defaultFeatureMode. That confirms the client data model for branded Gems with preset starter prompts and a default mode."
    }
   ],
   "evidence": [
@@ -9753,6 +9791,18 @@
     "text": ",zeroStatePrompts:[...b.ZC],defaultFeatureMode:(q=b.Fha)!=null?q:null,brandName:(t=(e=b.Eca)==null?void 0:e.NVa)!=null?t:",
     "kind": "copy",
     "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.ZC],defaultFeatureMode:(q=b.Kha)!=null?q:null,brandName:(t=(e=b.Ica)==null?void 0:e.RVa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": true
+   },
+   {
+    "text": ",description:b.description,logoUrl:(g=(d=b.l5)==null?void 0:d.rMa)!=null?g:",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
     "new_chunk": true
    }
   ],
@@ -10689,6 +10739,11 @@
     "date": "2026-11-21",
     "confidence": 0.6,
     "note": "There is now a workspace security settings page for public links, with a toggle to turn them off and an action to revoke a link."
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.6,
+    "note": "New command-menu actions for sharing and revoking a document's public link, including sub-page handling. They are gated by developer tools, so the flow is built but may still be internal."
    }
   ],
   "evidence": [
@@ -10714,6 +10769,18 @@
     "text": "Public links",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Public link: share this document",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Revoked the document's public link",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
     "new_chunk": false
    }
   ],
@@ -10924,12 +10991,17 @@
   "first_evidence": "2026-11-19",
   "window_days": 120,
   "deadline": "2027-03-19",
-  "confidence": 0.15,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-19",
     "confidence": 0.15,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.4,
+    "note": "New run-status labels for shadow runs and program fallback show the run history UI is built out."
    }
   ],
   "evidence": [
@@ -10962,6 +11034,12 @@
     "kind": "copy",
     "first_seen": "2026-11-19",
     "new_chunk": true
+   },
+   {
+    "text": "Agent run, shadow run completed",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -12264,12 +12342,17 @@
   "first_evidence": "2026-11-21",
   "window_days": 90,
   "deadline": "2027-02-19",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-21",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-23",
+    "confidence": 0.5,
+    "note": "Team settings now enforce project status inheritance, and the teamProjectStatuses plan gate is checked, which supports an upcoming launch."
    }
   ],
   "evidence": [
@@ -12401,6 +12484,189 @@
    "open_questions": [
     "Which providers are supported?",
     "Is it visible in release notes?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-23-honeycomb-fireflies-supabase-and-vercel-",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Honeycomb, Fireflies, Supabase and Vercel MCP connectors",
+  "one_liner": "Connect Honeycomb, Fireflies, Supabase and Vercel from the connector directory so Linear Agent can read traces and SLOs, meeting transcripts, Supabase projects and logs, and Vercel deployments and build logs.",
+  "category": "integration",
+  "created": "2026-11-23",
+  "first_evidence": "2026-11-23",
+  "window_days": 45,
+  "deadline": "2027-01-07",
+  "confidence": 0.68,
+  "history": [
+   {
+    "date": "2026-11-23",
+    "confidence": 0.68,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Connect Honeycomb to let Linear Agent query traces, events, and SLOs, so issues about slow or failing requests include what production shows",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Fireflies to let Linear Agent search and read your meeting transcripts and summaries, so decisions and action items from calls become work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Supabase to let Linear Agent inspect your Supabase projects, run SQL against their databases, and read logs, so bugs and data questions come with backend context",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Vercel to let Linear Agent read your projects, deployments, and build logs, so failed builds and deploy problems become issues with the context needed to fix them",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Check an SLO's error budget before raising an issue's priority",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agent-created issues lack production, meeting and deployment context that lives in other tools.",
+   "users": "Workspace members and admins who use Linear Agent and Loops.",
+   "what": "Four more built-in connectors in the MCP connector directory, each with a tagline, overview and example use cases.",
+   "how_it_appears": "Connector directory listing, as with the other built-in connectors already forecast.",
+   "rollout_guess": "Likely released together in a changelog entry about new connectors.",
+   "open_questions": [
+    "Are these four released together or one at a time?",
+    "Which plans can use them?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-23-rename-loops-to-automations",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Rename Loops to Automations",
+  "one_liner": "Loops are called Automations across the web app's navigation, page titles, breadcrumbs and search.",
+  "category": "other",
+  "created": "2026-11-23",
+  "first_evidence": "2026-11-23",
+  "window_days": 60,
+  "deadline": "2027-01-22",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-23",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Rename Loops to Automations",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Call Loops Automations in the web app's navigation, page titles, breadcrumbs, and search.",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "My automations",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "An automation",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loops is a niche name for what users think of as automations.",
+   "users": "All workspace members who use Loops.",
+   "what": "Product-wide rename of Loops to Automations, behind a flag called rename-loops-to-automations.",
+   "how_it_appears": "Sidebar navigation, page titles, breadcrumbs, search, and the My automations view.",
+   "rollout_guess": "Inferred: gradual flag rollout, then a changelog note.",
+   "open_questions": [
+    "Will the API and docs also be renamed?",
+    "Will the Slack and Agent surfaces change too?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-23-microsoft-teams-integration",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Microsoft Teams integration",
+  "one_liner": "Connect a Microsoft Teams tenant to Linear, and link a personal Microsoft account.",
+  "category": "integration",
+  "created": "2026-11-23",
+  "first_evidence": "2026-11-23",
+  "window_days": 90,
+  "deadline": "2027-02-21",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-23",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Microsoft Teams connected",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": true
+   },
+   {
+    "text": "Your Microsoft Teams tenant is now connected to Linear.",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": true
+   },
+   {
+    "text": "Microsoft account connected",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": true
+   },
+   {
+    "text": "Your personal Microsoft account is now linked to Linear.",
+    "kind": "copy",
+    "first_seen": "2026-11-23",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Teams that use Microsoft Teams instead of Slack have no chat integration.",
+   "users": "Workspace admins who are Microsoft tenant admins, plus individual members who link accounts.",
+   "what": "An OAuth connection flow for the Teams tenant and a separate personal Microsoft account link.",
+   "how_it_appears": "Integration settings, with an OAuth popup and a success toast.",
+   "rollout_guess": "Inferred: it probably mirrors Slack features such as notifications and Asks.",
+   "open_questions": [
+    "Does it cover Asks, notifications or Linear Agent in Teams?",
+    "Is it already live and the chunk just new to us?"
    ]
   },
   "status": "open",
