@@ -1585,12 +1585,17 @@
   "first_evidence": "2026-11-06",
   "window_days": 90,
   "deadline": "2027-02-04",
-  "confidence": 0.3,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-06",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.4,
+    "note": "A new gate shows a convert modal when meeting blocks are moved between spaces or databases. This suggests the convert flow is being wired into the move interaction."
    }
   ],
   "evidence": [
@@ -1622,6 +1627,12 @@
     "text": "Wait for recording and processing to finish before converting this meeting.",
     "kind": "copy",
     "first_seen": "2026-11-06",
+    "new_chunk": false
+   },
+   {
+    "text": "meetings_db_convert_modal_on_move_enabled",
+    "kind": "key",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -5546,7 +5557,7 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-11",
@@ -5577,6 +5588,11 @@
     "date": "2026-11-19",
     "confidence": 0.45,
     "note": "Inline creation of document pages is now built. Public links will also cover sub-pages."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.6,
+    "note": "There is now move-document logic and error handling for pages, so nested documents are further along in the UI."
    }
   ],
   "evidence": [
@@ -5668,6 +5684,18 @@
     "text": "Discard document page",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Can’t move a document into one of its own pages",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "You can only move documents you created or own, including their pages",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -6043,7 +6071,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.3,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-12",
@@ -6084,6 +6112,11 @@
     "date": "2026-11-23",
     "confidence": 0.3,
     "note": "A vega-bubble-action-slot component with a spotlight-hidden state suggests Vega chat bubbles are still being built out. There is no sign yet of a launch date."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.35,
+    "note": "A new vega-bubble action slot appears in message actions. A daily-brief thread page title also falls back to 'Gemini - new chat', so Vega and Daily brief are still being built out together."
    }
   ],
   "evidence": [
@@ -6158,6 +6191,18 @@
     "kind": "copy",
     "first_seen": "2026-11-23",
     "new_chunk": false
+   },
+   {
+    "text": "?-1:void 0,shrink:0,sx:[!c&&Ru.actionSlot,r&&!c&&Ru.actionVisible,c&&Ru.actionSpotlightHidden],transition:",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Gemini - new chat",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": true
    }
   ],
   "prd": {
@@ -6718,7 +6763,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 90,
   "deadline": "2027-02-10",
-  "confidence": 0.55,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-12",
@@ -6744,6 +6789,11 @@
     "date": "2026-11-21",
     "confidence": 0.55,
     "note": "GitLab now has an onboarding card, an agent suggestion, and a GitLab username variable for branch names."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.5,
+    "note": "Code review access state now has a GitLab-specific provider name, and review decisions from a GitLab source are handled. GitLab support extends into Reviews."
    }
   ],
   "evidence": [
@@ -6793,6 +6843,12 @@
     "text": "Help me connect a Git provider, such as GitHub or GitLab, to my Linear workspace.",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "in e&&e.integration.service===E.gitlab?",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -6996,12 +7052,17 @@
   "first_evidence": "2026-11-13",
   "window_days": 90,
   "deadline": "2027-02-11",
-  "confidence": 0.2,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-13",
     "confidence": 0.2,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.35,
+    "note": "The menu used inside the embedded Gemini in Chrome surface now has 'Your skills', 'Suggested skills' and 'Made by Chrome' groups, which suggests skills will be mentionable there."
    }
   ],
   "evidence": [
@@ -7009,6 +7070,18 @@
     "text": "GlicEnableAtMentions",
     "kind": "flag",
     "first_seen": "2026-11-13",
+    "new_chunk": true
+   },
+   {
+    "text": "Suggested skills",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": true
+   },
+   {
+    "text": "Made by Chrome",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": true
    }
   ],
@@ -8693,6 +8766,11 @@
     "date": "2026-11-23",
     "confidence": 0.5,
     "note": "The composer props now wire up quotes, a capAlertVisible flag and restoreQuoteAt from the highlight-to-ask context. This shows the quote cap and restore behaviour is implemented in the UI."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.5,
+    "note": "Composer code now passes a quotes list and a cap alert flag, so the quote cap behaviour is wired into the composer."
    }
   ],
   "evidence": [
@@ -8718,6 +8796,12 @@
     "text": "||void 0,vr=X?void 0:te,yr=It?Bt.quotes:void 0,br=It?Bt.capAlertVisible:!1,xr=Yt?",
     "kind": "copy",
     "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": ",zr=X?void 0:re,Br=Vt?Gt.quotes:void 0,Vr=Vt?Gt.capAlertVisible:!1,Hr=ln?",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -9723,7 +9807,7 @@
   "first_evidence": "2026-11-18",
   "window_days": 90,
   "deadline": "2027-02-16",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-18",
@@ -9754,6 +9838,11 @@
     "date": "2026-11-23",
     "confidence": 0.4,
     "note": "A new code chunk maps Gem data to brandName, logoUrl, zeroStatePrompts and defaultFeatureMode. That confirms the client data model for branded Gems with preset starter prompts and a default mode."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.45,
+    "note": "The Gem model now carries brandName, logoUrl, defaultFeatureMode and zeroStatePrompts. This confirms the data model and shows it wired into the Gem editor."
    }
   ],
   "evidence": [
@@ -11159,6 +11248,11 @@
     "date": "2026-11-22",
     "confidence": 0.6,
     "note": "The receiver-voice-upsell title, description and start keys now appear in many more locales (Swahili, Spanish, German, Czech, Indonesian, Finnish, Somali, Albanian). That points to a full translation rollout, which usually comes shortly bef"
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.6,
+    "note": "New localized copies (Romanian, Swedish, Portuguese, Croatian, Hungarian) of the receiver-voice-upsell-start and receiver-voice-upsell-title strings show the shared-page Voice upsell is being translated across many languages. That usually m"
    }
   ],
   "evidence": [
@@ -11220,6 +11314,48 @@
     "text": "Seznamte se s novým Hlasem",
     "kind": "copy",
     "first_seen": "2026-11-22",
+    "new_chunk": false
+   },
+   {
+    "text": "Pornește modul vocal",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Starta röstläget",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Upptäck nya röstläget",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Conheça a nova Voz",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Započnite glasovni razgovor",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Upoznajte novi Glas",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Ismerd meg az új hangmódot",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -12048,12 +12184,17 @@
   "first_evidence": "2026-11-21",
   "window_days": 90,
   "deadline": "2027-02-19",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-21",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.5,
+    "note": "Artifact-type checks now match personal snapshot artifacts by id and title, which suggests the snapshot is a distinct artifact type in the client."
    }
   ],
   "evidence": [
@@ -12073,6 +12214,12 @@
     "text": "Click to view and edit Gemini’s memory about you",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": true
+   },
+   {
+    "text": "in a?a.rL:a.title)!=null?e:",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": true
    }
   ],
@@ -12353,6 +12500,11 @@
     "date": "2026-11-23",
     "confidence": 0.5,
     "note": "Team settings now enforce project status inheritance, and the teamProjectStatuses plan gate is checked, which supports an upcoming launch."
+   },
+   {
+    "date": "2026-11-24",
+    "confidence": 0.5,
+    "note": "The inherit-project-statuses team setting is now gated by a teamProjectStatuses plan feature, with a parent-team requirement message. This looks close to release."
    }
   ],
   "evidence": [
@@ -12384,6 +12536,12 @@
     "text": "Project teams",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(C.teamProjectStatuses)?p.availabilityMessageForFeature(C.teamProjectStatuses):void 0,title:i>0?",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
     "new_chunk": false
    }
   ],
@@ -12667,6 +12825,171 @@
    "open_questions": [
     "Does it cover Asks, notifications or Linear Agent in Teams?",
     "Is it already live and the chunk just new to us?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-24-where-to-watch-and-ticket-provider-links",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Where-to-watch and ticket provider links in answers",
+  "one_liner": "Gemini answers about sports and shows link out to the streaming services, TV networks and ticket sellers where the user can watch or buy tickets.",
+  "category": "new_feature",
+  "created": "2026-11-24",
+  "first_evidence": "2026-11-24",
+  "window_days": 60,
+  "deadline": "2027-01-23",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-24",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Amazon Prime Video",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": true
+   },
+   {
+    "text": "NBA League Pass",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": true
+   },
+   {
+    "text": "Vivid Seats",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Users asking where to watch a game or show, or where to buy tickets, get no direct path to the provider.",
+   "users": "Gemini users asking about sports, TV, movies and live events, across many countries (US, UK, AU, ES, MX, KR, IN and others).",
+   "what": "A lookup table maps provider domains to display names, aliases and watch URLs, for example prime video, NBA League Pass, Fox Sports, Telemundo, Kayo and Optus Sport. A second table maps ticket sellers such as Ticketmaster, Live Nation, StubHub, SeatGeek, Vivid Seats and AXS.",
+   "how_it_appears": "Inferred: provider chips or buttons inside rich response cards for sports schedules and events.",
+   "rollout_guess": "Inferred: may already be live for some users. The chunk is new to us, so this may be an older feature we had not seen.",
+   "open_questions": [
+    "Is this already live in sports answers?",
+    "Which regions get it first?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "notion-2026-11-24-google-gemini-4-neon-model-for-notion-ai",
+  "app": "notion",
+  "app_name": "Notion",
+  "title": "Google Gemini 4 Neon model for Notion AI",
+  "one_liner": "Gemini 4 Neon becomes a selectable Google model in Notion AI.",
+  "category": "expansion",
+  "created": "2026-11-24",
+  "first_evidence": "2026-11-24",
+  "window_days": 45,
+  "deadline": "2027-01-08",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-24",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Google Gemini 4 Neon",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Gemini 4 Neon",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Users want access to the latest frontier models inside Notion AI.",
+   "users": "Notion AI users, mainly on paid plans.",
+   "what": "A new Google model, shown as 'Gemini 4 Neon', is added to the model catalog.",
+   "how_it_appears": "In the Notion AI model picker, in the 'intelligent' display group. The catalog entry has lifecycle 'active' and pricing rates.",
+   "rollout_guess": "Inferred: appears in the model picker alongside an announcement or release-notes mention, as with earlier model additions.",
+   "open_questions": [
+    "Which plans get access at launch?",
+    "Will it become the default model for any surface?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-24-hex-otter-ai-and-pylon-mcp-connectors",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Hex, Otter.ai and Pylon MCP connectors",
+  "one_liner": "Connect Hex, Otter.ai and Pylon from the connector directory so Linear Agent can query data, read meeting transcripts, and read support issues and knowledge base articles.",
+  "category": "integration",
+  "created": "2026-11-24",
+  "first_evidence": "2026-11-24",
+  "window_days": 45,
+  "deadline": "2027-01-08",
+  "confidence": 0.72,
+  "history": [
+   {
+    "date": "2026-11-24",
+    "confidence": 0.72,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Connect Hex to let Linear Agent search your Hex projects and ask questions of your data, so decisions and updates rest on the numbers behind them",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Otter.ai to let Linear Agent search your meetings and read transcripts, summaries, and action items, so discussions turn into work in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Connect Pylon to let Linear Agent read support issues, accounts, and knowledge base articles, so customer problems reach Linear with the account context needed to prioritize them",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Add metrics from a Hex project to a project update",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": "Create issues from Pylon support issues",
+    "kind": "copy",
+    "first_seen": "2026-11-24",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Data, meeting notes and support context live in other tools, so Linear Agent cannot use them when it triages work or writes updates.",
+   "users": "Workspace admins and members who use Linear Agent with Hex, Otter.ai or Pylon.",
+   "what": "Built-in connector directory entries for Hex, Otter.ai and Pylon. Each has a tagline, an overview and use cases, such as creating issues from Pylon support issues or adding Hex metrics to a project update.",
+   "how_it_appears": "The MCP connector directory in settings, plus Linear Agent tool access.",
+   "rollout_guess": "Inferred: the entries ship together with the other built-in connectors added in recent weeks, as a batch.",
+   "open_questions": [
+    "Do these connectors need an authentication step beyond OAuth?",
+    "Are they limited to certain plans?"
    ]
   },
   "status": "open",

@@ -1,0 +1,828 @@
+[
+ {
+  "text": "==typeof _.dia&&e instanceof _.dia?c.push(2,e.T4g):",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/excm=_b/ed=1/dg=0/br=1/wt=2/ujg=1/rs=AKrAJMophOiTerqN4YjHrQzBEMpB5i7OVQ/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=_b",
+  "ctx": "ction(a,...b){var c=a[0];if(a.length===1)return c+\"_\";c=[0,c];for(let d=0;d<b.length;d++){let e=b[d];\"function\"==typeof _.dia&&e instanceof _.dia?c.push(2,e.T4g):\"function\"==typeof _.eia&&e instanceof _.eia?c.push(3,e.D0",
+  "new_chunk": true
+ },
+ {
+  "text": "Intel x86 Assembly",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "\",\"Hy\"],[\"ini\",\"Ini, TOML\"],[\"toml\",\"Ini, TOML\"],[\"inform7\",\"Inform7\"],[\"i7\",\"Inform7\"],[\"il\",\"CIL\"],[\"intel\",\"Intel x86 Assembly\"],[\"irpf90\",\"IRPF90\"],[\"json\",\"JSON\"],[\"java\",\"Java\"],[\"jsp\",\"Java\"],[\"javascript\",\"JavaSc",
+  "new_chunk": true
+ },
+ {
+  "text": "PowerPC Assembly",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ostgreSQL & PL/pgSQL\"],[\"postgres\",\"PostgreSQL & PL/pgSQL\"],[\"postgresql\",\"PostgreSQL & PL/pgSQL\"],[\"powerpc\",\"PowerPC Assembly\"],[\"ppc\",\"PowerPC Assembly\"],[\"powershell\", \"PowerShell\"],[\"ps\",\"PowerShell\"],[\"ps1\",\"PowerS",
+  "new_chunk": true
+ },
+ {
+  "text": ",title:(Vb=c==null?void 0:c.getName())!=null?Vb:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",sc,lc,kc,jc,Cc,Uc,hd,xd,pe,fe,de,ud,Pc,bd;return Object.assign({},{id:(yb=a==null?void 0:_.l(a,1))!=null?yb:\"\",title:(Vb=c==null?void 0:c.getName())!=null?Vb:\"\",instruction:(sc=b==null?void 0:_.l(b,1))!=null?sc:\"\",descr",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(lc=c==null?void 0:c.Ud())!=null?lc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "ll?yb:\"\",title:(Vb=c==null?void 0:c.getName())!=null?Vb:\"\",instruction:(sc=b==null?void 0:_.l(b,1))!=null?sc:\"\",description:(lc=c==null?void 0:c.Ud())!=null?lc:\"\",jD:(kc=c==null?void 0:_.Qf(c,4).map(yd=>yd))!=null?kc:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:(Cc=c==null?void 0:c.Ud())!=null?Cc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "l?lc:\"\",title:(kc= c==null?void 0:c.getName())!=null?kc:\"\",instruction:(jc=b==null?void 0:_.l(b,1))!=null?jc:\"\",description:(Cc=c==null?void 0:c.Ud())!=null?Cc:\"\",jD:(Uc=c==null?void 0:_.Qf(c,4).map(Ie=>Ie))!=null?Uc:[],",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Md=(hd=Cc.getValue)==null?void 0:hd.call(Cc))!=null?Md:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "yd,Ke,Ie,Df,le,Md,Yd;return Object.assign({},{label:(le=(Uc=Cc.getLabel)==null?void 0:Uc.call(Cc))!= null?le:\"\",value:(Md=(hd=Cc.getValue)==null?void 0:hd.call(Cc))!=null?Md:\"\",BKc:(Yd=(xd=Cc.oa)==null?void 0:xd.call(Cc)",
+  "new_chunk": true
+ },
+ {
+  "text": ",value:(Ge=(ud=kc.getValue)==null?void 0:ud.call(kc))!=null?Ge:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",le,Md,Yd,Le,tf,Ge,df;return Object.assign({},{label:(tf=(de=kc.getLabel)==null?void 0:de.call(kc))!=null?tf:\"\",value:(Ge=(ud=kc.getValue)==null?void 0:ud.call(kc))!=null?Ge:\"\"},xd&&{description:xd},Cc?{d6:{mY:(df=(Pc=Cc",
+  "new_chunk": true
+ },
+ {
+  "text": ",turnId:gk,draftId:(gt=hk==null?void 0:hk.id)!=null?gt:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "l?void 0:hk.id)!=null?jq:\"\",JU:!0,Mf:{conversationId:(Vr=(bu=_.fc(a,_.oC,1))==null?void 0: bu.Wf())!=null?Vr:\"\",turnId:gk,draftId:(gt=hk==null?void 0:hk.id)!=null?gt:\"\"}},Wr=ss.map(Nj=>_.bWd(Nj,rE)),Xr,nr=(Xr=a.Dl())==nu",
+  "new_chunk": true
+ },
+ {
+  "text": ",fileType:c==null?void 0:c.Ba(),referenceId:(g=c==null?void 0:_.l(c,6))!=null?g:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": ",qf:(d=a==null?void 0:_.l(a,1))!=null?d:\"\",dh:(e=a==null?void 0:_.Jf(a,2))!=null?e:0,zN:(f=_.RUc(c))!=null?f:\"\",fileType:c==null?void 0:c.Ba(),referenceId:(g=c==null?void 0:_.l(c,6))!=null?g:\"\"}}}}}},[27]:{Ml:27,Rs:a=>{v",
+  "new_chunk": true
+ },
+ {
+  "text": "in a?a.rL:a.title)!=null?e:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "){if(!a)return!1;var b,c,d=(c=(b=a.artifactId)==null?void 0:b.toLowerCase())!=null?c:\"\",e;b=((e=\"artifactTitle\"in a?a.rL:a.title)!=null?e:\"\").toLowerCase();return\"sparkArtifactType\"in a&&a.Zm===6||d.includes(\"personal_sn",
+  "new_chunk": true
+ },
+ {
+  "text": ",draftId:(sc=Db==null?void 0:Db.id)!=null?sc:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "sc;Aa={responseId:(Vb=Db==null?void 0:Db.id)!=null?Vb:\"\",JU:_.If(b,15),Mf:{conversationId:S,turnId:U!=null?U:\"\",draftId:(sc=Db==null?void 0:Db.id)!=null?sc:\"\"}};Vb=_.PWd(b);sc=d.Ie=== 26;x=a.Fd||x?v:void 0;var lc;(v=!!(v",
+  "new_chunk": true
+ },
+ {
+  "text": "?this.Da:(ma=(fa=this.location)==null?void 0:fa.path())!=null?ma:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "S.events.pipe(_.HA(this.La)).subscribe(Z=>{if(Z instanceof _.xF){this.oa.clear();let fa,ma;Z=Z.f4g===\"popstate\"?this.Da:(ma=(fa=this.location)==null?void 0:fa.path())!=null?ma:\"\";let wa,Aa,Ja;this.Ca=(Ja=oyf(this,Z))!=nu",
+  "new_chunk": true
+ },
+ {
+  "text": ",disabled:this.UDa().Xl,selected:!1,uE:this.UDa().tooltip||void 0,veId:194114,kind:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "null?void 0:a.E_)});this.wd=_.X(()=>({id:_.iR.mLb,label:\"Photos\",ariaLabel:\"Open mobile gallery\",un:\"add_image\",disabled:this.UDa().Xl,selected:!1,uE:this.UDa().tooltip||void 0,veId:194114,kind:\"menu-item\"})); this.c4=_.",
+  "new_chunk": true
+ },
+ {
+  "text": ",goal:a.displayText,category:b,icon:c,Mxh:a.kce,type:d,OXg:(h=(f=a.XXe)==null?void 0:_.l(f,1))!=null?h:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "DASHER\": a.I9a.includes(8)?\"LICENSED_EDU\":a.I9a.includes(9)?\"UNLICENSED_EDU\":\"\");var f,g,h,q;b={prompt:a.OX||\"\",goal:a.displayText,category:b,icon:c,Mxh:a.kce,type:d,OXg:(h=(f=a.XXe)==null?void 0:_.l(f,1))!=null?h:\"\",Qpg",
+  "new_chunk": true
+ },
+ {
+  "text": "Upload and tools menu",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "up\");var a=this.sCb();if(!this.Da&&this.Fr&&this.gG()&&a){let b=this.Vc.open(a,{autoFocus:!1,Tq:!1, ariaLabel:\"Upload and tools menu\"});this.Tk=b;b.JB().pipe(_.HA(this.La)).subscribe({next:()=>{this.Tk===b&&(this.Tk=void",
+  "new_chunk": true
+ },
+ {
+  "text": "Suggested skills",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "(a){if(!a.q_&&a.toolName!==\"no_matches\"){if(a.A_)switch(a.displayName){case \"Your skills\":return 320239; case \"Suggested skills\":return 320240;case \"Made by Chrome\":return 320241;default:return}return a.type===4?this.wja",
+  "new_chunk": true
+ },
+ {
+  "text": "Made by Chrome",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=_b/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=vLefie",
+  "ctx": "\"){if(a.A_)switch(a.displayName){case \"Your skills\":return 320239; case \"Suggested skills\":return 320240;case \"Made by Chrome\":return 320241;default:return}return a.type===4?this.wja()?320139:320125:this.isEmbedded?this.",
+  "new_chunk": true
+ },
+ {
+  "text": ",content:(f=(c=b.iXa)==null?void 0:c.description)!=null?f:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=HwBxOc",
+  "ctx": "Ca.next(a.text),!0;default:return!1}}Bg(a){if(a.type===\"showTooltip\"){var b=a.tooltip,c;let e,f;var d={title:\"\",content:(f=(c=b.iXa)==null?void 0:c.description)!=null?f:\"\",aCa:(e=b.Ch)==null?void 0:e.veId};b=this.Bb.oa.g",
+  "new_chunk": true
+ },
+ {
+  "text": ",description:b.description,logoUrl:(g=(d=b.M5)==null?void 0:d.nNa)!=null?g:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ol(\"\", {Bk:!0}))});var d,e,f,g,h,q,t;this.HI.setValue({id:b.id,title:b.title,readableUrlId:(f=b.CLc)!=null?f:\"\",description:b.description,logoUrl:(g=(d=b.M5)==null?void 0:d.nNa)!=null?g:\"\",instruction:(h=b.instruction)!=",
+  "new_chunk": true
+ },
+ {
+  "text": ",zeroStatePrompts:[...b.jD],defaultFeatureMode:(q=b.tia)!=null?q:null,brandName:(t=(e=b.sda)==null?void 0:e.TWa)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=UE0P2d",
+  "ctx": "ption:b.description,logoUrl:(g=(d=b.M5)==null?void 0:d.nNa)!=null?g:\"\",instruction:(h=b.instruction)!=null?h:\"\",zeroStatePrompts:[...b.jD],defaultFeatureMode:(q=b.tia)!=null?q:null,brandName:(t=(e=b.sda)==null?void 0:e.T",
+  "new_chunk": true
+ },
+ {
+  "text": "logs.proto.assistant.robin.Features",
+  "kind": "key",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=HwBxOc,SJ81r,UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": "ACTION_UNSPECIFIED\",0],[\"APPLIED\",1],[\"DISMISSED\",2],[\"SWITCHED\",3],[\"CATEGORY_PREDICTED\",4]]]');var o0b=_.nu(\"logs.proto.assistant.robin.Features\",'[null,[[\"FEATURE_UNSPECIFIED\",0],[\"CONVERSATION_HISTORY\",1],[\"OPEN_CONV",
+  "new_chunk": true
+ },
+ {
+  "text": "Gemini - new chat",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=HwBxOc,SJ81r,UE0P2d,Z8wCif,_b,mlMvR,vLefie/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=OpU7Tc",
+  "ctx": "reExternalUrl(\"/daily-brief/thread\"):\"/\");this.BJh=_.X(()=>this.zxa()?this.Ga.Ha(_.qud).trim()||\"Daily brief\":\"Gemini - new chat\");this.Hrd=_.P(!1);this.f9e=_.X(()=>this.obb()&&this.Hrd());this.jAc=_.Y(this.Aa.oa.pipe(_.",
+  "new_chunk": true
+ },
+ {
+  "text": "&&((t=(q=d.get(e))==null?void 0:q.primaryButton.url)!=null?t:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,DTcCS,DtRio,HbEaCf,HwBxOc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,QuxHpf,SJ81r,UE0P2d,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,mlMvR,mwljBd,tWlZ7,vLefie,wqvyKc,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=TRJwtb",
+  "ctx": "ter(e=>{var f,g,h;e=(h=(f=e.Dca)==null?void 0:(g=f.tAa)==null?void 0:g.trim())!=null?h:\"\";var q,t;return e!==\"\"&&((t=(q=d.get(e))==null?void 0:q.primaryButton.url)!=null?t:\"\")!==\"\"})),_.$v((c,d)=>JSON.stringify(c)===JSON",
+  "new_chunk": true
+ },
+ {
+  "text": ",status:1,pinned:!1,ABb:void 0,r2b:new Date,UQa:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,HbEaCf,HwBxOc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,QuxHpf,SJ81r,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=GzXWE",
+  "ctx": "e.dispatch((0,_.cfg)({pageSize:11,filter:a}))}Vkc(){var a={conversationId:\"__placeholder_goal__\",description:\"\",status:1,pinned:!1,ABb:void 0,r2b:new Date,UQa:\"Initializing task\\u2026\",iJ:\"\"};this.store.dispatch((0,_.ifg",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.vjb>=1E3?\"P0\":\"P1\",rvb:\"Quick Win\",category:\"CACHE_ORDERING\",LSc:[b.Trc,b.PWg],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "B[1]}>\\n${B[2]}`,c-20,c+B[0].length+25)}}return b},U6l=function(a){return[...a.u9a.map(b=>({id:`action-${b.id}`,priority:b.vjb>=1E3?\"P0\":\"P1\",rvb:\"Quick Win\",category:\"CACHE_ORDERING\",LSc:[b.Trc,b.PWg],title:`Move dynami",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P0\":\"P1\",rvb:\"Quick Win\",category:\"CONFLICT\",\nLSc:[b.Hna,b.Ina],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "on:b.oV,Yvb:b.vjb,AFb:b.vjb*1.5+300,owner:\"ALS Runtime & Context Team\"})),...a.q$a.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P0\":\"P1\",rvb:\"Quick Win\",category:\"CONFLICT\", LSc:[b.Hna,b.Ina],title:`Resolve",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",rvb:b.severity===\"CRITICAL\"||b.severity===\"HIGH\"&&!b.Cud?\"Major Overhaul\":\"Quick Win\",category:\"BLOAT\",LSc:[b.n9a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "b:60,AFb:b.severity===\"HIGH\"?950:550,owner:\"Gemini SI Governance Team\"})),...a.Ebb.map(b=>({id:`action-${b.id}`,priority:b.severity===\"CRITICAL\"?\"P0\":b.severity===\"HIGH\"?\"P1\":\"P2\",rvb:b.severity===\"CRITICAL\"||b.severity=",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",rvb:\"Quick Win\",category:\"REDUNDANCY\",LSc:[b.Hna,b.Ina],title:b.IDb===\"CROSS_SILO_CAPABILITY\"?",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "ns} tok)`,action:b.oV,Yvb:b.bVb,AFb:b.bVb* (b.Cud?1.2:1),owner:b.owner})),...a.yib.map(b=>({id:`action-${b.id}`,priority:b.severity===\"HIGH\"?\"P1\":b.severity===\"MEDIUM\"?\"P2\":\"P3\",rvb:\"Quick Win\",category:\"REDUNDANCY\",LSc:",
+  "new_chunk": true
+ },
+ {
+  "text": ",priority:c?\"P1\":\"P2\",rvb:\"Quick Win\",category:\"TYPO\",LSc:[b.n9a],title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "= \"UNBALANCED_XML_TAG\"||b.Adc===\"UNBALANCED_PARENTHESES\",d=b.pjd.replace(/\\s+/g,\" \");return{id:`action-${b.id}`,priority:c?\"P1\":\"P2\",rvb:\"Quick Win\",category:\"TYPO\",LSc:[b.n9a],title:`Fix ${S6l[b.Adc]} '${d}' in '${b.n9a",
+  "new_chunk": true
+ },
+ {
+  "text": ",nexusLink:(e=(b=this.vv())==null?void 0:b.PHc)!=null?e:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CsakMb,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,bSyRib,eK0zfd,f8N0N,fSXoCf,h4lope,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,ponblb,qxlpjc,tWlZ7,v9r4Te,vLefie,vZ5Kfd,wqvyKc,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=bNyBZd",
+  "ctx": "s.isMobile=_.W(null)}mwb(){var a,b,c,d,e,f={sherlogLink:(d=(a=this.vv())==null?void 0:a.sherlogLink)!=null?d:\"\",nexusLink:(e=(b=this.vv())==null?void 0:b.PHc)!=null?e:\"\",nexusTraceId:(c=this.vv())==null?void 0:c.nexusTra",
+  "new_chunk": true
+ },
+ {
+  "text": "Hide captions",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "subtitles\",descriptions:\"Show descriptions\",chapters:\"Show chapters\",metadata:\"Show metadata\"}; TJi={captions:\"Hide captions\",subtitles:\"Hide subtitles\",descriptions:\"Hide descriptions\",chapters:\"Hide chapters\",metadata:",
+  "new_chunk": true
+ },
+ {
+  "text": "Hide subtitles",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "how descriptions\",chapters:\"Show chapters\",metadata:\"Show metadata\"}; TJi={captions:\"Hide captions\",subtitles:\"Hide subtitles\",descriptions:\"Hide descriptions\",chapters:\"Hide chapters\",metadata:\"Hide metadata\"};eJi=funct",
+  "new_chunk": true
+ },
+ {
+  "text": "Hide descriptions",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "ow chapters\",metadata:\"Show metadata\"}; TJi={captions:\"Hide captions\",subtitles:\"Hide subtitles\",descriptions:\"Hide descriptions\",chapters:\"Hide chapters\",metadata:\"Hide metadata\"};eJi=function(a,b){a.Rh.logSyntheticEven",
+  "new_chunk": true
+ },
+ {
+  "text": "Hide chapters",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "etadata\"}; TJi={captions:\"Hide captions\",subtitles:\"Hide subtitles\",descriptions:\"Hide descriptions\",chapters:\"Hide chapters\",metadata:\"Hide metadata\"};eJi=function(a,b){a.Rh.logSyntheticEvent(\"click\",new _.fv(b.Ja));a.h",
+  "new_chunk": true
+ },
+ {
+  "text": "Hide metadata",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "\"Hide captions\",subtitles:\"Hide subtitles\",descriptions:\"Hide descriptions\",chapters:\"Hide chapters\",metadata:\"Hide metadata\"};eJi=function(a,b){a.Rh.logSyntheticEvent(\"click\",new _.fv(b.Ja));a.hvb.emit(b)};wJi=function(",
+  "new_chunk": true
+ },
+ {
+  "text": ",Oj:(q=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?q:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ">{var d,e,f,g,h,q,t,v={conversationId:(h=b==null?void 0:(d=b.request)==null?void 0:d.conversationId)!=null?h:\"\",Oj:(q=b==null?void 0:(e=b.response)==null?void 0:e.turnId)!=null?q:\"\",parentResponseId:(t=b==null?void 0:(f=",
+  "new_chunk": true
+ },
+ {
+  "text": "Save this email as a draft in Gmail.",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "==c),_.p(()=>{}))).pipe(_.ut(1),_.ot({first:6E4,with:()=>_.n(void 0)})).subscribe(b);a.sendRequest({textQuery:\"Save this email as a draft in Gmail.\",isVoiceEntry:!1,Yi:!1,clientTurnId:c,Mm:!0,Cya:!0,Wib:!0,Jc:{bx:{Gbg:\"s",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.St||!a.pFa()?a.St.vAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "[\"PieChart\",\"Pie chart\"]]),iWk=function(a){var b;return(b=a.St.title)!=null?b:\"\"},jWk=function(a){return\"vAxis\"in a.St||!a.pFa()?a.St.vAxis.title:\"\"},kWk=function(a){return\"hAxis\"in a.St||!a.pFa()?a.St.hAxis.title:\"\"},mW",
+  "new_chunk": true
+ },
+ {
+  "text": "in a.St||!a.pFa()?a.St.hAxis.title:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ")!=null?b:\"\"},jWk=function(a){return\"vAxis\"in a.St||!a.pFa()?a.St.vAxis.title:\"\"},kWk=function(a){return\"hAxis\"in a.St||!a.pFa()?a.St.hAxis.title:\"\"},mWk=function(a){google&& (new Promise(b=>{_.bwb(gWk,{}).then(()=>{goog",
+  "new_chunk": true
+ },
+ {
+  "text": "Rate link:",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": ",1,f);g=_.dg(f, 2,g);g=_.dg(g,3,a);g=_.hc(c,wMk,3,g);this.rbb=_.tB(_.Eb(g));this.uFd=(g=this.F$.title.trim())?\"Rate link: \"+g:\"Rate link\";g=this.Ia.build(this.F$,this.Ba,this.Aa);this.wcc=g.wcc;this.vcc=g.vcc}Xb(){this.B",
+  "new_chunk": true
+ },
+ {
+  "text": "Rate link",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.AYZh2h2eKGg.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.ja0O2wbxGsE.L.B1.O/am=CN8IgCL2AVjn78Pt_kl0oAEJKAJygiB0AQAAAACE/d=1/exm=ABELSd,AdpaDf,BenWQc,Bincme,DTcCS,DtRio,GzXWE,HbEaCf,HwBxOc,ItLZxc,KqWfBc,LVUOyb,MGIlxc,No94jc,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,awWKFf,eK0zfd,fSXoCf,k9O9ef,mlMvR,mwljBd,o2mxrc,tWlZ7,v9r4Te,vLefie,wqvyKc,xrScke,xy0Mif,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMriugjsdPiyoDtZS2MEY9oUNKHsKg/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=h4lope",
+  "ctx": "2,g);g=_.dg(g,3,a);g=_.hc(c,wMk,3,g);this.rbb=_.tB(_.Eb(g));this.uFd=(g=this.F$.title.trim())?\"Rate link: \"+g:\"Rate link\";g=this.Ia.build(this.F$,this.Ba,this.Aa);this.wcc=g.wcc;this.vcc=g.vcc}Xb(){this.Ba.complete();thi",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,\"aria-expanded\":G,\"aria-haspopup\":",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/CustomizeSurface.js",
+  "ctx": "n:qe}):null,tt;t[91]!==k||t[92]!==G||t[93]!==Se?(tt=Se&&(0,Q.jsx)(w,{\"aria-controls\":G?`${k}-file-tree-popover`:void 0,\"aria-expanded\":G,\"aria-haspopup\":`dialog`,\"aria-label\":n._({id:`sER-bs`}),\"data-testid\":`skill-edito",
+  "new_chunk": false
+ },
+ {
+  "text": "?s.dir:void 0,R=s.position??",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ScrollableBox.js",
+  "ctx": "0%`},t[35]=S,t[36]=P);let F;t[37]===P?F=t[38]:(F={...P},t[37]=P,t[38]=F);let I=F,L=s.dir===`ltr`||s.dir===`rtl`?s.dir:void 0,R=s.position??`relative`,z;t[39]===u?z=t[40]:(z=[$.root,u],t[39]=u,t[40]=z);let B;t[41]!==s||t[",
+  "new_chunk": false
+ },
+ {
+  "text": "ErrorBoundaryContext not found",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/react.js",
+  "ctx": "or`in e&&`resetErrorBoundary`in e&&typeof e.resetErrorBoundary==`function`}function c(e){if(!s(e))throw Error(`ErrorBoundaryContext not found`)}function l(){let e=(0,n.useContext)(r);c(e);let{error:t,resetErrorBoundary:i",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sx:e.mono?T.valueMonoText:T.valueText,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/netDoctorHost.js",
+  "ctx": "d,{sx:T.mutedMonoText,variant:`body-small`,children:[e.label,`:`]}),(0,x.jsx)(d,{overflowWrap:e.mono?`anywhere`:void 0,sx:e.mono?T.valueMonoText:T.valueText,variant:`body-small`,children:e.value})]},e.key)}function w(e){",
+  "new_chunk": false
+ },
+ {
+  "text": "Remy screenshot preview",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatTranscript.js",
+  "ctx": "t[27]=C,t[28]=w):w=t[28];let T;return t[29]!==x||t[30]!==w||t[31]!==b?(T=(0,$.jsx)(et,{fallback:b,featureName:`Remy screenshot preview`,resetKeys:x,showDiagnostics:!1,children:w}),t[29]=x,t[30]=w,t[31]=b,t[32]=T):T=t[32]",
+  "new_chunk": false
+ },
+ {
+  "text": "?Yf.thumbsUpSelected:void 0,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatTranscript.js",
+  "ctx": "-thumbs-up-button`,disabled:On,icon:`thumbUp`,onClick:kn,selected:Dn===`THUMBS_UP`,size:`s`,sx:Dn===`THUMBS_UP`?Yf.thumbsUpSelected:void 0,variant:`on-surface`,ve:gr(Ge)})}),ui=(0,$.jsx)(B,{content:Vr,children:(0,$.jsx)(",
+  "new_chunk": false
+ },
+ {
+  "text": "?Yf.thumbsDownSelected:void 0,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatTranscript.js",
+  "ctx": "down-button`,disabled:On,icon:`thumbDown`,onClick:An,selected:Dn===`THUMBS_DOWN`,size:`s`,sx:Dn===`THUMBS_DOWN`?Yf.thumbsDownSelected:void 0,variant:`on-surface`,ve:gr(Ue)})}),di=S&&g?(0,$.jsx)(B,{content:en?Zr:mr,onOpen",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"data-turn-status\":ze,direction:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatTranscript.js",
+  "ctx": "`stretch`,\"aria-label\":ar,as:`section`,\"data-test-id\":`model-response`,\"data-turn-content-visibility\":gn?`auto`:void 0,\"data-turn-status\":ze,direction:`column`,gap:`s`,margin:{horizontal:`-l`,vertical:`-s`},minWidth:0,on",
+  "new_chunk": false
+ },
+ {
+  "text": ",J=S?300:void 0,Y=S?N.carouselCardContainer:void 0,X=R?void 0:v,ie=S?300:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ReviewCardNodeView.js",
+  "ctx": "==Symbol.for(`react.memo_cache_sentinel`)?(G={column:`l`},t[19]=G):G=t[19];let K=S?`none`:void 0,q=S?300:`100%`,J=S?300:void 0,Y=S?N.carouselCardContainer:void 0,X=R?void 0:v,ie=S?300:`100%`,Z;t[20]!==R||t[21]!==W?(Z=R?(",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sx:i&&!r?y.stepDescriptionCollapsed:void 0,whiteSpace:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DeepResearchConfirmationNodeView.js",
+  "ctx": "hildren:[(0,h.jsx)(c,{\"data-test-id\":`step-description-${t}`,id:s,margin:{vertical:`s`},overflow:i&&!r?`hidden`:void 0,sx:i&&!r?y.stepDescriptionCollapsed:void 0,whiteSpace:`pre-line`,children:(0,h.jsx)(ie,{muted:!0,vari",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"aria-label\":i,as:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "th],target:`_blank`,variant:`tonal`,ve:r,children:a},`${t}-${e.label}`):(0,A.jsx)(s,{\"aria-haspopup\":n?`dialog`:void 0,\"aria-label\":i,as:`button`,onClick:o,size:w,sx:v?j.buttonFullWidth:void 0,type:`button`,variant:`tona",
+  "new_chunk": false
+ },
+ {
+  "text": ",onClick:o,size:w,sx:v?j.buttonFullWidth:void 0,type:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "`,ve:r,children:a},`${t}-${e.label}`):(0,A.jsx)(s,{\"aria-haspopup\":n?`dialog`:void 0,\"aria-label\":i,as:`button`,onClick:o,size:w,sx:v?j.buttonFullWidth:void 0,type:`button`,variant:`tonal`,ve:r,children:a},`${t}-${e.labe",
+  "new_chunk": false
+ },
+ {
+  "text": ",disabled:!0,size:w,sx:v?j.buttonFullWidth:void 0,type:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "llWidth:void 0,type:`button`,variant:`tonal`,ve:r,children:a},`${t}-${e.label}`)}return(0,A.jsx)(s,{as:`button`,disabled:!0,size:w,sx:v?j.buttonFullWidth:void 0,type:`button`,variant:`tonal`,ve:r,children:a},`${t}-${e.la",
+  "new_chunk": false
+ },
+ {
+  "text": ",sx:[I.rowText,c&&I.rowTextTruncate,d&&I.rowTextFirstTruncateWithSibling,s&&I.rowTextStrikeout,i?I.customColor(i):void 0],variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "oken?.toLowerCase(),s=o===`strikeout`,c=o===`truncate`,d=c&&n&&r===t;return(0,A.jsx)(l,{as:`span`,margin:`none`,sx:[I.rowText,c&&I.rowTextTruncate,d&&I.rowTextFirstTruncateWithSibling,s&&I.rowTextStrikeout,i?I.customColo",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,\"aria-label\":I,as:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RichListCardNodeView.js",
+  "ctx": "eferrer`,target:`_blank`,zIndex:1}):N?(0,A.jsx)(u,{\"aria-haspopup\":N.shoppingRecontextualizationAction?`dialog`:void 0,\"aria-label\":I,as:`button`,borderRadius:`l`,cursor:`pointer`,focusRing:!0,inset:0,onClick:e=>{e.preve",
+  "new_chunk": false
+ },
+ {
+  "text": ",e.userData.heightPx===void 0?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": ",e.userData.conversationId],[`Request ID`,e.userData.requestId],[`Response ID`,e.userData.responseId],[`Height`,e.userData.heightPx===void 0?void 0:`${e.userData.heightPx}px`],[`Source`,e.userData.source],[`Elapsed load ",
+  "new_chunk": false
+ },
+ {
+  "text": ",e.userData.elapsedSeconds===void 0?void 0:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": "userData.heightPx===void 0?void 0:`${e.userData.heightPx}px`],[`Source`,e.userData.source],[`Elapsed load time`,e.userData.elapsedSeconds===void 0?void 0:`${e.userData.elapsedSeconds}s`],[`Error`,e.userData.errorMessage]",
+  "new_chunk": false
+ },
+ {
+  "text": "Initial template payload (user data):",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": "e.userData.prompt&&n.push(``,`Prompt:`,e.userData.prompt);let r=k(e.userData.initialPayloadJson);r&&n.push(``,`Initial template payload (user data):`,r),t.push(n.join(` `))}{let n=[`=== Version Information ===`];e.versio",
+  "new_chunk": false
+ },
+ {
+  "text": "Persisted state:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": "A(n,[[`Storage kind`,e.recordedState?.storageKind],[`Save status`,e.recordedState?.saveStatus]]),r&&n.push(``,`Persisted state:`,r),i&&i!==r&&n.push(``,`Live local state (unsaved):`,i),!r&&!i&&n.push(`No recorded statefu",
+  "new_chunk": false
+ },
+ {
+  "text": "Live local state (unsaved):",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": "ageKind],[`Save status`,e.recordedState?.saveStatus]]),r&&n.push(``,`Persisted state:`,r),i&&i!==r&&n.push(``,`Live local state (unsaved):`,i),!r&&!i&&n.push(`No recorded stateful user data.`),t.push(n.join(` `))}return ",
+  "new_chunk": false
+ },
+ {
+  "text": "No recorded stateful user data.",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/RrcLiveAnnouncer.js",
+  "ctx": "tus]]),r&&n.push(``,`Persisted state:`,r),i&&i!==r&&n.push(``,`Live local state (unsaved):`,i),!r&&!i&&n.push(`No recorded stateful user data.`),t.push(n.join(` `))}return e.toolsDebugOutput?.trim()&&t.push(`=== Turn Too",
+  "new_chunk": false
+ },
+ {
+  "text": "Live Nation",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "YPE,SIZE,URL&url=https://`,s=new Map([[`ticketmaster.com`,{names:[`Ticketmaster`]}],[`livenation.com`,{names:[`Live Nation`]}],[`stubhub.com`,{names:[`StubHub`]}],[`seatgeek.com`,{names:[`SeatGeek`]}],[`vividseats.com`,{",
+  "new_chunk": true
+ },
+ {
+  "text": "Vivid Seats",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "ation`]}],[`stubhub.com`,{names:[`StubHub`]}],[`seatgeek.com`,{names:[`SeatGeek`]}],[`vividseats.com`,{names:[`Vivid Seats`]}],[`axs.com`,{names:[`AXS`]}],[`abc.com`,{names:[`ABC`],watchUrl:`https://abc.com/watch-live`}]",
+  "new_chunk": true
+ },
+ {
+  "text": "Fox Sports",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "ramountplus.com/`}],[`fox.com`,{names:[`Fox`],watchUrl:`https://www.fox.com/live/`}],[`foxsports.com`,{names:[`Fox Sports`,`FS1`,`FS2`,`Fox Sports 1`,`Fox Sports 2`],watchUrl:`https://www.foxsports.com/live`}],[`nfl.com`",
+  "new_chunk": true
+ },
+ {
+  "text": "Fox Sports 1",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": ".com`,{names:[`Fox`],watchUrl:`https://www.fox.com/live/`}],[`foxsports.com`,{names:[`Fox Sports`,`FS1`,`FS2`,`Fox Sports 1`,`Fox Sports 2`],watchUrl:`https://www.foxsports.com/live`}],[`nfl.com`,{names:[`NFL+`,`NFL Netw",
+  "new_chunk": true
+ },
+ {
+  "text": "Fox Sports 2",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "Fox`],watchUrl:`https://www.fox.com/live/`}],[`foxsports.com`,{names:[`Fox Sports`,`FS1`,`FS2`,`Fox Sports 1`,`Fox Sports 2`],watchUrl:`https://www.foxsports.com/live`}],[`nfl.com`,{names:[`NFL+`,`NFL Network`,`NFL RedZo",
+  "new_chunk": true
+ },
+ {
+  "text": "NFL RedZone",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "Sports 1`,`Fox Sports 2`],watchUrl:`https://www.foxsports.com/live`}],[`nfl.com`,{names:[`NFL+`,`NFL Network`,`NFL RedZone`],watchUrl:`https://www.nfl.com/plus/`}],[`primevideo.com`,{names:[`Prime Video`,`Amazon Prime Vi",
+  "new_chunk": true
+ },
+ {
+  "text": "Prime Video",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": ",{names:[`NFL+`,`NFL Network`,`NFL RedZone`],watchUrl:`https://www.nfl.com/plus/`}],[`primevideo.com`,{names:[`Prime Video`,`Amazon Prime Video`],watchUrl:`https://www.primevideo.com/`}],[`amazon.com`,{names:[`Amazon`],w",
+  "new_chunk": true
+ },
+ {
+  "text": "Amazon Prime Video",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "`,`NFL Network`,`NFL RedZone`],watchUrl:`https://www.nfl.com/plus/`}],[`primevideo.com`,{names:[`Prime Video`,`Amazon Prime Video`],watchUrl:`https://www.primevideo.com/`}],[`amazon.com`,{names:[`Amazon`],watchUrl:`https",
+  "new_chunk": true
+ },
+ {
+  "text": "Hulu + Live TV",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "refront`}],[`netflix.com`,{names:[`Netflix`],watchUrl:`https://www.netflix.com/`}],[`hulu.com`,{names:[`Hulu`,`Hulu + Live TV`],watchUrl:`https://www.hulu.com/live-tv`}],[`max.com`,{names:[`Max`],watchUrl:`https://www.ma",
+  "new_chunk": true
+ },
+ {
+  "text": "YouTube TV",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "lus.com/`}],[`youtube.com`,{names:[`YouTube`],watchUrl:`https://www.youtube.com/`}],[`tv.youtube.com`,{names:[`YouTube TV`],watchUrl:`https://tv.youtube.com/`}],[`tv.apple.com`,{names:[`Apple TV`,`Apple TV+`,`MLS Season ",
+  "new_chunk": true
+ },
+ {
+  "text": "MLS Season Pass",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "om`,{names:[`YouTube TV`],watchUrl:`https://tv.youtube.com/`}],[`tv.apple.com`,{names:[`Apple TV`,`Apple TV+`,`MLS Season Pass`],watchUrl:`https://tv.apple.com/`}],[`sling.com`,{names:[`Sling`,`Sling TV`],watchUrl:`https",
+  "new_chunk": true
+ },
+ {
+  "text": "DirecTV Stream",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "om/`}],[`fubo.tv`,{names:[`Fubo`,`FuboTV`],watchUrl:`https://www.fubo.tv/`}],[`directv.com`,{names:[`DirecTV`,`DirecTV Stream`],watchUrl:`https://streamtv.directv.com/`}],[`nba.com`,{names:[`NBA League Pass`,`NBA TV`],wa",
+  "new_chunk": true
+ },
+ {
+  "text": "NBA League Pass",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "irectv.com`,{names:[`DirecTV`,`DirecTV Stream`],watchUrl:`https://streamtv.directv.com/`}],[`nba.com`,{names:[`NBA League Pass`,`NBA TV`],watchUrl:`https://www.nba.com/watch/`}],[`mlb.com`,{names:[`MLB.TV`,`MLB Network`]",
+  "new_chunk": true
+ },
+ {
+  "text": "Telemundo Deportes",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": " Universo`],watchUrl:`https://www.nbc.com/universo`,logoHost:`nbc.com`}],[`telemundo.com`,{names:[`Telemundo`,`Telemundo Deportes`],watchUrl:`https://www.telemundo.com/`}],[`univision.com`,{names:[`Univision`,`UniMás`],w",
+  "new_chunk": true
+ },
+ {
+  "text": "Fox Deportes",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "tes.espn.com`,{names:[`ESPN Deportes`],watchUrl:`https://espndeportes.espn.com/`}],[`foxdeportes.com`,{names:[`Fox Deportes`],watchUrl:`https://www.foxdeportes.com/`}],[`tntsports.com`,{names:[`TNT Sports`],watchUrl:`htt",
+  "new_chunk": true
+ },
+ {
+  "text": "CBS Sports Network",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "orts.com`,{names:[`NBC Sports`],watchUrl:`https://www.nbcsports.com/`}],[`cbssports.com`,{names:[`CBS Sports`,`CBS Sports Network`,`CBSSN`],watchUrl:`https://www.cbssports.com/`}],[`fanduelsportsnetwork.com`,{names:[`Fan",
+  "new_chunk": true
+ },
+ {
+  "text": "FanDuel Sports Network",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "ts`,`CBS Sports Network`,`CBSSN`],watchUrl:`https://www.cbssports.com/`}],[`fanduelsportsnetwork.com`,{names:[`FanDuel Sports Network`,`FDSN`],watchUrl:`https://fanduelsportsnetwork.com/`}],[`btn.com`,{names:[`Big Ten Ne",
+  "new_chunk": true
+ },
+ {
+  "text": "Big Ten Network",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "m`,{names:[`FanDuel Sports Network`,`FDSN`],watchUrl:`https://fanduelsportsnetwork.com/`}],[`btn.com`,{names:[`Big Ten Network`,`BTN`],watchUrl:`https://btn.com/`}],[`wnba.com`,{names:[`WNBA League Pass`],watchUrl:`https",
+  "new_chunk": true
+ },
+ {
+  "text": "WNBA League Pass",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "network.com/`}],[`btn.com`,{names:[`Big Ten Network`,`BTN`],watchUrl:`https://btn.com/`}],[`wnba.com`,{names:[`WNBA League Pass`],watchUrl:`https://www.wnba.com/`}],[`mlssoccer.com`,{names:[`MLS`],watchUrl:`https://www.m",
+  "new_chunk": true
+ },
+ {
+  "text": "Golf Channel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "ba.com/`}],[`mlssoccer.com`,{names:[`MLS`],watchUrl:`https://www.mlssoccer.com/`}],[`golfchannel.com`,{names:[`Golf Channel`],watchUrl:`https://www.golfchannel.com/`}],[`tennischannel.com`,{names:[`Tennis Channel`],watch",
+  "new_chunk": true
+ },
+ {
+  "text": "Tennis Channel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "lfchannel.com`,{names:[`Golf Channel`],watchUrl:`https://www.golfchannel.com/`}],[`tennischannel.com`,{names:[`Tennis Channel`],watchUrl:`https://www.tennischannel.com/en-us/page/home`}],[`usanetwork.com`,{names:[`USA Ne",
+  "new_chunk": true
+ },
+ {
+  "text": "Xfinity Stream",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "ax.com/`}],[`philo.com`,{names:[`Philo`],watchUrl:`https://www.philo.com/`}],[`xfinity.com`,{names:[`Xfinity`,`Xfinity Stream`],watchUrl:`https://xfinity.com/`}],[`spectrum.com`,{names:[`Spectrum`,`Spectrum TV`],watchUrl",
+  "new_chunk": true
+ },
+ {
+  "text": "The Roku Channel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "luto.tv/`}],[`tubitv.com`,{names:[`Tubi`],watchUrl:`https://tubitv.com/`}],[`therokuchannel.roku.com`,{names:[`The Roku Channel`,`Roku Channel`],watchUrl:`https://therokuchannel.roku.com/`}],[`roku.com`,{names:[`Roku`],w",
+  "new_chunk": true
+ },
+ {
+  "text": "Roku Channel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "v.com`,{names:[`Tubi`],watchUrl:`https://tubitv.com/`}],[`therokuchannel.roku.com`,{names:[`The Roku Channel`,`Roku Channel`],watchUrl:`https://therokuchannel.roku.com/`}],[`roku.com`,{names:[`Roku`],watchUrl:`https://ww",
+  "new_chunk": true
+ },
+ {
+  "text": "Fandango at Home",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "/crunchyroll.com/`}],[`dazn.com`,{names:[`DAZN`],watchUrl:`https://dazn.com/`}],[`fandangoathome.com`,{names:[`Fandango at Home`,`Vudu`],watchUrl:`https://athome.fandango.com/`}],[`mgmplus.com`,{names:[`MGM+`],watchUrl:`",
+  "new_chunk": true
+ },
+ {
+  "text": "Sky Sports",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "hannel5.com/`}],[`sky.com`,{names:[`Sky`,`Sky Go`],watchUrl:`https://www.sky.com/`}],[`skysports.com`,{names:[`Sky Sports`],watchUrl:`https://www.skysports.com/`}],[`nowtv.com`,{names:[`NOW TV`],watchUrl:`https://www.now",
+  "new_chunk": true
+ },
+ {
+  "text": "Premier Sports",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "],[`tntsports.co.uk`,{names:[`TNT Sports`],watchUrl:`https://tntsports.co.uk/`}],[`premiersports.com`,{names:[`Premier Sports`,`Premier Sports 1`,`Premier Sports 2`],watchUrl:`https://www.premiersports.com/`}],[`rte.ie`,",
+  "new_chunk": true
+ },
+ {
+  "text": "Premier Sports 1",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "uk`,{names:[`TNT Sports`],watchUrl:`https://tntsports.co.uk/`}],[`premiersports.com`,{names:[`Premier Sports`,`Premier Sports 1`,`Premier Sports 2`],watchUrl:`https://www.premiersports.com/`}],[`rte.ie`,{names:[`RTÉ`,`RT",
+  "new_chunk": true
+ },
+ {
+  "text": "Premier Sports 2",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "orts`],watchUrl:`https://tntsports.co.uk/`}],[`premiersports.com`,{names:[`Premier Sports`,`Premier Sports 1`,`Premier Sports 2`],watchUrl:`https://www.premiersports.com/`}],[`rte.ie`,{names:[`RTÉ`,`RTÉ Player`],watchUrl",
+  "new_chunk": true
+ },
+ {
+  "text": "Virgin Media",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "/`}],[`rte.ie`,{names:[`RTÉ`,`RTÉ Player`],watchUrl:`https://www.rte.ie/player/`}],[`virginmedia.com`,{names:[`Virgin Media`],watchUrl:`https://www.virginmedia.com/`}],[`cbc.ca`,{names:[`CBC`,`CBC Gem`],watchUrl:`https:/",
+  "new_chunk": true
+ },
+ {
+  "text": "SBS On Demand",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "],[`abc.net.au`,{names:[`ABC iview`,`ABC`],watchUrl:`https://iview.abc.net.au/`}],[`sbs.com.au`,{names:[`SBS`,`SBS On Demand`],watchUrl:`https://www.sbs.com.au/ondemand/`}],[`9now.com.au`,{names:[`9Now`,`Channel 9`,`Nine",
+  "new_chunk": true
+ },
+ {
+  "text": "Kayo Sports",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "`foxtel.com.au`,{names:[`Foxtel`],watchUrl:`https://www.foxtel.com.au/`}],[`kayosports.com.au`,{names:[`Kayo`,`Kayo Sports`],watchUrl:`https://kayosports.com.au/`}],[`binge.com.au`,{names:[`Binge`],watchUrl:`https://bing",
+  "new_chunk": true
+ },
+ {
+  "text": "Optus Sport",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "sports.com.au/`}],[`binge.com.au`,{names:[`Binge`],watchUrl:`https://binge.com.au/`}],[`optus.com.au`,{names:[`Optus Sport`],watchUrl:`https://www.optus.com.au/`}],[`sky.co.nz`,{names:[`Sky NZ`,`Sky Sport NZ`],watchUrl:`",
+  "new_chunk": true
+ },
+ {
+  "text": "Sky Sport NZ",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "],[`optus.com.au`,{names:[`Optus Sport`],watchUrl:`https://www.optus.com.au/`}],[`sky.co.nz`,{names:[`Sky NZ`,`Sky Sport NZ`],watchUrl:`https://www.sky.co.nz/`}],[`hotstar.com`,{names:[`JioHotstar`,`Hotstar`,`Disney+ Hot",
+  "new_chunk": true
+ },
+ {
+  "text": "Disney+ Hotstar",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "s:[`Sky NZ`,`Sky Sport NZ`],watchUrl:`https://www.sky.co.nz/`}],[`hotstar.com`,{names:[`JioHotstar`,`Hotstar`,`Disney+ Hotstar`,`JioCinema`],watchUrl:`https://www.hotstar.com/`}],[`sonyliv.com`,{names:[`SonyLIV`,`Sony LI",
+  "new_chunk": true
+ },
+ {
+  "text": "Das Erste",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": ":`https://www.tf1.fr/`}],[`m6.fr`,{names:[`M6`,`M6+`],watchUrl:`https://www.m6.fr/`}],[`ard.de`,{names:[`ARD`,`Das Erste`],watchUrl:`https://www.ard.de/`}],[`zdf.de`,{names:[`ZDF`],watchUrl:`https://www.zdf.de/`}],[`rtl.",
+  "new_chunk": true
+ },
+ {
+  "text": "Mediaset Infinity",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "play.it`,{names:[`RaiPlay`,`Rai`,`Rai 1`],watchUrl:`https://www.raiplay.it/`}],[`mediasetinfinity.it`,{names:[`Mediaset Infinity`],watchUrl:`https://mediasetinfinity.it/`}],[`rtve.es`,{names:[`RTVE`,`La 1`,`RTVE Play`],w",
+  "new_chunk": true
+ },
+ {
+  "text": "Movistar Plus+",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "`,{names:[`RTVE`,`La 1`,`RTVE Play`],watchUrl:`https://www.rtve.es/`}],[`movistarplus.es`,{names:[`Movistar+`,`Movistar Plus+`],watchUrl:`https://www.movistarplus.es/`}],[`atresplayer.com`,{names:[`Atresplayer`,`Antena 3",
+  "new_chunk": true
+ },
+ {
+  "text": "Las Estrellas",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "om.br/`}],[`band.com.br`,{names:[`Band`],watchUrl:`https://band.com.br/`}],[`televisa.com`,{names:[`Televisa`,`Las Estrellas`],watchUrl:`https://www.televisa.com/`}],[`tvazteca.com`,{names:[`TV Azteca`,`Azteca 7`,`Azteca",
+  "new_chunk": true
+ },
+ {
+  "text": "Azteca Uno",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "evisa`,`Las Estrellas`],watchUrl:`https://www.televisa.com/`}],[`tvazteca.com`,{names:[`TV Azteca`,`Azteca 7`,`Azteca Uno`],watchUrl:`https://www.tvazteca.com/`}],[`clarovideo.com`,{names:[`Claro Video`],watchUrl:`https:",
+  "new_chunk": true
+ },
+ {
+  "text": "Claro Video",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "{names:[`TV Azteca`,`Azteca 7`,`Azteca Uno`],watchUrl:`https://www.tvazteca.com/`}],[`clarovideo.com`,{names:[`Claro Video`],watchUrl:`https://www.clarovideo.com/`}],[`abema.tv`,{names:[`ABEMA`],watchUrl:`https://abema.t",
+  "new_chunk": true
+ },
+ {
+  "text": "Coupang Play",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "www.wavve.com`}],[`tving.com`,{names:[`TVING`],watchUrl:`https://www.tving.com/`}],[`coupangplay.com`,{names:[`Coupang Play`],watchUrl:`https://www.coupangplay.com/`}],[`iq.com`,{names:[`iQIYI`],watchUrl:`https://www.iq.",
+  "new_chunk": true
+ },
+ {
+  "text": "Olympic Channel",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "tv.com/`}],[`fifa.com`,{names:[`FIFA+`],watchUrl:`https://www.fifa.com/`}],[`olympics.com`,{names:[`Olympics`,`Olympic Channel`],watchUrl:`https://olympics.com/`}],[`uefa.tv`,{names:[`UEFA.tv`],watchUrl:`https://uefa.tv/",
+  "new_chunk": true
+ },
+ {
+  "text": "UFC Fight Pass",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ProviderLogoTile.js",
+  "ctx": "`}],[`f1tv.formula1.com`,{names:[`F1 TV`],watchUrl:`https://f1tv.formula1.com/`}],[`ufcfightpass.com`,{names:[`UFC Fight Pass`],watchUrl:`https://ufcfightpass.com/`}],[`wwe.com`,{names:[`WWE`],watchUrl:`https://www.wwe.c",
+  "new_chunk": true
+ },
+ {
+  "text": ":void 0,sx:[w.cell,n?w.headerCell:w.bodyCell,!y&&he&&w.twoColumnCell,y&&w.compactCell,y&&_&&w.compactSevenPlusCell,d&&w.firstCell,f&&w.lastCell],textAlign:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ListNodeView.js",
+  "ctx": " 0,as:n?`th`:`td`,colSpan:t.colspan,overflowWrap:`break-word`,rowSpan:t.rowspan,scope:n&&!t.isPlaceholder?`col`:void 0,sx:[w.cell,n?w.headerCell:w.bodyCell,!y&&he&&w.twoColumnCell,y&&w.compactCell,y&&_&&w.compactSevenPlu",
+  "new_chunk": false
+ },
+ {
+  "text": ",muted:!0,sx:p?et.shrinkOne:void 0,variant:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ShoppingNodeView.js",
+  "ctx": "N,t[59]=p,t[60]=j,t[61]=A,t[62]=c,t[63]=Z):Z=t[63],D=Z;let re;t[64]!==p||t[65]!==F?(re=F?(0,$.jsx)(d,{as:`span`,muted:!0,sx:p?et.shrinkOne:void 0,variant:`body-small`,wrap:p?`truncate`:void 0,children:F}):null,t[64]=p,t[",
+  "new_chunk": false
+ },
+ {
+  "text": ",children:X===void 0?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ShoppingNodeView.js",
+  "ctx": ":`body-small`,wrap:`truncate`,children:L}),z?(0,$.jsx)(d,{as:`span`,muted:!0,variant:`body-small`,wrap:`nowrap`,children:X===void 0?`(${z})`:(0,$.jsx)(f,{as:`span`,ve:X,children:`(${z})`})}):null,ee?(0,$.jsx)(d,{as:`span",
+  "new_chunk": false
+ },
+ {
+  "text": ",badge:r&&N&&!P?t:void 0,description:r&&!N&&!P?t:void 0,disabled:i,icon:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatAddMenu.js",
+  "ctx": "se,i=O||Se();return{type:`toggle`,id:`personal-intelligence`,checked:E.checked,closeOnClick:!1,control:`switch`,badge:r&&N&&!P?t:void 0,description:r&&!N&&!P?t:void 0,disabled:i,icon:`personalIntelligence`,label:E.title?",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,sx:[$.tableCell,n?$.tableHeaderCell:$.tableBodyCell,y&&$.twoColumnCell,l&&$.firstCell,u&&$.lastCell],textAlign:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/SidePanelDeepResearchContent.js",
+  "ctx": ";return(0,H.jsxs)(m,{as:n?`th`:`td`,colSpan:t.colspan,overflowWrap:`break-word`,rowSpan:t.rowspan,scope:n?`col`:void 0,sx:[$.tableCell,n?$.tableHeaderCell:$.tableBodyCell,y&&$.twoColumnCell,l&&$.firstCell,u&&$.lastCell],",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,onClick:R,size:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/GeneralSettingsSurface.js",
+  "ctx": "I,{id:`OfhWJH`})}),(0,$.jsx)(u,{\"data-test-id\":`general-settings-text-send-button`,disabled:C||v,icon:v?`check`:void 0,onClick:R,size:`s`,variant:`tonal`,children:v?(0,$.jsx)(I,{id:`YrO-Qt`}):(0,$.jsx)(I,{id:`FZ4VTp`})})",
+  "new_chunk": false
+ },
+ {
+  "text": "?-1:void 0,shrink:0,sx:[!c&&Ru.actionSlot,r&&!c&&Ru.actionVisible,c&&Ru.actionSpotlightHidden],transition:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/DailyBriefHeartbeatsSurface.js",
+  "ctx": "(d=l?(0,$.jsx)(v,{\"data-hide-from-message-actions\":``,\"data-testid\":`vega-bubble-action-slot`,order:n===`start`?-1:void 0,shrink:0,sx:[!c&&Ru.actionSlot,r&&!c&&Ru.actionVisible,c&&Ru.actionSpotlightHidden],transition:`fa",
+  "new_chunk": false
+ },
+ {
+  "text": ",src:T,sx:v?[ht.coverArtwork,B&&ht.coverArtworkZoomed]:void 0,width:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/LibraryOverviewSurface.js",
+  "ctx": "$.jsx)(Se,{alt:G||n._({id:`rnw7vv`}),height:`full`,inset:0,loading:`lazy`,objectFit:`cover`,position:`absolute`,src:T,sx:v?[ht.coverArtwork,B&&ht.coverArtworkZoomed]:void 0,width:`full`})}),(0,$.jsx)(y,{align:`flex-end`,",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLines:Z?3:void 0,overflowWrap:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/LibraryOverviewSurface.js",
+  "ctx": "stify:`center`,sx:[Mt.promptCopyBoxM3,Mt.promptSuggestionBalanced],width:`full`,children:(0,$.jsx)(f,{as:`span`,maxLines:Z?3:void 0,overflowWrap:`break-word`,textAlign:`center`,variant:`body-medium`,children:ye.node})})]",
+  "new_chunk": false
+ },
+ {
+  "text": ",zr=X?void 0:re,Br=Vt?Gt.quotes:void 0,Vr=Vt?Gt.capAlertVisible:!1,Hr=ln?",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/ChatLayoutSurface.js",
+  "ctx": "FromHighlightToAskContext:void 0,Ir=Vt?Gt.restoreQuoteAt:void 0,Lr=x?hr:void 0,Rr=!X&&!At&&Sn!==`bottom-docked`,zr=X?void 0:re,Br=Vt?Gt.quotes:void 0,Vr=Vt?Gt.capAlertVisible:!1,Hr=ln?`glass`:`default`,Ur;t[164]!==dt||t[",
+  "new_chunk": false
+ },
+ {
+  "text": ",maxLines:f?void 0:a||s?2:1,muted:!a&&!s,overflowWrap:",
+  "kind": "copy",
+  "file": "www.gstatic.com/bg3/boq-bard-web/islands/assets/LiveTaskDrawerContent.js",
+  "ctx": "`button`,display:`block`,onClick:v,textAlign:`start`,type:`button`,width:`full`,children:(0,B.jsx)(h,{as:`span`,maxLines:f?void 0:a||s?2:1,muted:!a&&!s,overflowWrap:`anywhere`,tone:s?`error`:`default`,variant:a||s?`body-",
+  "new_chunk": false
+ }
+]

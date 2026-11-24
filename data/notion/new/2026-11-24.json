@@ -1,0 +1,149 @@
+[
+ {
+  "text": "starter_pack_bundle_announcement_v3",
+  "kind": "key",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": "t\",\"plus_aimn_offer_announcement\",\"plus_block_limit_offer_announcement\",\"starter_pack_bundle_announcement_v2\",\"starter_pack_bundle_announcement_v3\",\"post_business_trial_delayed_offer_announcement\",\"try_notion_for_work_si",
+  "new_chunk": false
+ },
+ {
+  "text": "business_annual_bundle_3_for_1_seats_v3",
+  "kind": "key",
+  "file": "app.notion.com/_assets/app.js",
+  "ctx": "ndle_3_for_1_seats_v2\",discount:{type:\"seat_count\",seatCount:2},duration:{months:12}},{type:\"coupon\",campaign:\"business_annual_bundle_3_for_1_seats_v3\",discount:{type:\"seat_count\",seatCount:2},duration:{months:12}},{type",
+  "new_chunk": false
+ },
+ {
+  "text": "meetings_db_convert_modal_on_move_enabled",
+  "kind": "key",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ">e.getSpaceId()===t.getSpaceId())}({collectionStore:o,blocksToMove:a})&&i(211589).default.checkGate({gateName:\"meetings_db_convert_modal_on_move_enabled\"}))return r({environment:t,tabId:n,collectionStore:o})}async functi",
+  "new_chunk": false
+ },
+ {
+  "text": "show_two_step_onboarding_stages",
+  "kind": "key",
+  "file": "app.notion.com/_assets/DNUtl.js",
+  "ctx": "_simple_copy:[\"copy\",\"minimal\"],onboarding_invite_prefill:[\"prefill\"],two_step_app_download_onboarding_stage:[\"show_two_step_onboarding_stages\"],joiner_desktop_setup:[\"optional_desktop\",\"required_desktop\"],multi_plan_typ",
+  "new_chunk": false
+ },
+ {
+  "text": "seat_bundling_starter_pack_v3_small_team",
+  "kind": "key",
+  "file": "app.notion.com/_assets/95271.js",
+  "ctx": "l_team\",plus_annual_bundle_4_for_2_seats_large_team:\"large_team\"};function s(e){return a[e]}let o={small_team:\"seat_bundling_starter_pack_v3_small_team\",large_team:\"seat_bundling_starter_pack_v3_large_team\"};function l(e",
+  "new_chunk": false
+ },
+ {
+  "text": "seat_bundling_starter_pack_v3_large_team",
+  "kind": "key",
+  "file": "app.notion.com/_assets/95271.js",
+  "ctx": "arge_team\"};function s(e){return a[e]}let o={small_team:\"seat_bundling_starter_pack_v3_small_team\",large_team:\"seat_bundling_starter_pack_v3_large_team\"};function l(e){return o[e]}function u(e){return\"control\"===e||\"test",
+  "new_chunk": false
+ },
+ {
+  "text": "This property can’t be deleted because a Verification property uses it to decide who can verify pages. Delete the Verification property first.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "ifier_property_deletion:{id:\"transactionErrors.collection_invalid_verifier_property_deletion\",defaultMessage:\"This property can’t be deleted because a Verification property uses it to decide who can verify pages. Delete ",
+  "new_chunk": false
+ },
+ {
+  "text": "Child store requested after its page tree was released",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/77660.js",
+  "ctx": ").state)||t.open&&r(t.targetStore)})||(a=e,o=performance.now(),a.uiLocation.pruneDescendants(()=>{let e=Error(\"Child store requested after its page tree was released\"),t=performance.now()-o;(0,n(208318).t)().error({from:",
+  "new_chunk": true
+ },
+ {
+  "text": "===ey||eW||eI),eV=ew.apple&&!eI,eD=ew.passkey&&!eI,eK=ew.sso&&ef&&!eI,eG=ew.email&&eE,eU=eI?void 0:ew.widthVariant,ez=E||eP||eS||eB||eV||eD||eK||eG,eH=eh?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/64975.js",
+  "ctx": "me,eO=f||eN===i(25408).GJ.startupsApplication||eN===i(25408).GJ.smbApplication,eW=!eu,eR=!E&&(eh&&\"email_above\"===ey||eW||eI),eV=ew.apple&&!eI,eD=ew.passkey&&!eI,eK=ew.sso&&ef&&!eI,eG=ew.email&&eE,eU=eI?void 0:ew.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": "Gemini 4 Neon",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "nputRate:3,outputRate:15,cachedRate:.15,cachedWriteRate:3.75}}}],regionalProcessingMultiplier:1.1,displayName:\"Gemini 4 Neon\",displayNameWithProvider:\"Google Gemini 4 Neon\",displayGroup:\"intelligent\"},{notionName:\"gooseb",
+  "new_chunk": false
+ },
+ {
+  "text": "Google Gemini 4 Neon",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/53465.js",
+  "ctx": "cachedWriteRate:3.75}}}],regionalProcessingMultiplier:1.1,displayName:\"Gemini 4 Neon\",displayNameWithProvider:\"Google Gemini 4 Neon\",displayGroup:\"intelligent\"},{notionName:\"gooseberry-souffle\",lifecycle:\"active\",modelFa",
+  "new_chunk": false
+ },
+ {
+  "text": "New director+ leader hire: {name}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "e user spike\"},signalNewDirectorPlusHire:{id:\"nboActivityTimeline.signal.newDirectorPlusHire\",defaultMessage:\"New director+ leader hire: {name}\"},signalNewDirectorPlusHireFallback:{id:\"nboActivityTimeline.signal.newDirec",
+  "new_chunk": false
+ },
+ {
+  "text": "New director+ leader hire",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "ignalNewDirectorPlusHireFallback:{id:\"nboActivityTimeline.signal.newDirectorPlusHireFallback\",defaultMessage:\"New director+ leader hire\"},signalPreviousNotionUser:{id:\"nboActivityTimeline.signal.previousNotionUserJobMove",
+  "new_chunk": false
+ },
+ {
+  "text": "Priority AI Meeting Notes target",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "on\"},priority_ai_meeting_notes_target:{id:\"nboSignal.shortLabel.priorityAiMeetingNotesTarget\",defaultMessage:\"Priority AI Meeting Notes target\"},workspace_disabled_ai_meeting_notes:{id:\"nboSignal.shortLabel.workspaceDisa",
+  "new_chunk": false
+ },
+ {
+  "text": "{aiUse} weekly AI use • {recordingUse} Meeting Notes recording",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "ge:\"Connected {date}\"},priorityAimnTargetUsage:{id:\"nboSignal.detail.priorityAimnTargetUsage\",defaultMessage:\"{aiUse} weekly AI use • {recordingUse} Meeting Notes recording\"},priorityAimnTargetFallback:{id:\"nboSignal.det",
+  "new_chunk": false
+ },
+ {
+  "text": "Entered the Priority AI Meeting Notes target list",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "otes recording\"},priorityAimnTargetFallback:{id:\"nboSignal.detail.priorityAimnTargetFallback\",defaultMessage:\"Entered the Priority AI Meeting Notes target list\"},priorityAimnTargetSuggestedContact:{id:\"nboSignal.detail.p",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggested contact",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": ",priorityAimnTargetSuggestedContact:{id:\"nboSignal.detail.priorityAimnTargetSuggestedContact\",defaultMessage:\"Suggested contact\"},priorityAimnTargetSuggestedContactRenewal:{id:\"nboSignal.detail.priorityAimnTargetSuggeste",
+  "new_chunk": false
+ },
+ {
+  "text": "Suggested contact • Renews {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "argetSuggestedContactRenewal:{id:\"nboSignal.detail.priorityAimnTargetSuggestedContactRenewal\",defaultMessage:\"Suggested contact • Renews {date}\"},priorityAimnTargetRenewal:{id:\"nboSignal.detail.priorityAimnTargetRenewal\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Renews {date}",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": " • Renews {date}\"},priorityAimnTargetRenewal:{id:\"nboSignal.detail.priorityAimnTargetRenewal\",defaultMessage:\"Renews {date}\"},meetingNotesDisabledDate:{id:\"nboSignal.detail.meetingNotesDisabledDate\",defaultMessage:\"Disab",
+  "new_chunk": false
+ },
+ {
+  "text": "A director or more senior leader recently joined the account.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": "ease in users.\"},new_director_plus_eng_or_product:{id:\"pitCrewSignalGlossary.newDirectorPlus\",defaultMessage:\"A director or more senior leader recently joined the account.\"},user_was_previously_notion_admin_or_power_user",
+  "new_chunk": false
+ },
+ {
+  "text": "The account entered its Outcomes Architect’s top 10 accounts with low AI and Meeting Notes use ahead of renewal.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/36153.js",
+  "ctx": ".\"},priority_ai_meeting_notes_target:{id:\"pitCrewSignalGlossary.priorityAiMeetingNotesTarget\",defaultMessage:\"The account entered its Outcomes Architect’s top 10 accounts with low AI and Meeting Notes use ahead of renewa",
+  "new_chunk": false
+ }
+]
