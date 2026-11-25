@@ -1,0 +1,65 @@
+[
+ {
+  "text": "Notion couldn’t connect from the app. Try restarting the app, disabling VPNs and proxies, or using a different network.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "){i(930029);let r=(0,i(752010).YK)({appConnectionError:{id:\"loginActions.error.appConnection\",defaultMessage:\"Notion couldn’t connect from the app. Try restarting the app, disabling VPNs and proxies, or using a different",
+  "new_chunk": false
+ },
+ {
+  "text": "File pages must stay at the top level of a workspace or teamspace.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": "ype(\"file_page\")&&(e.getParentId()!==a.parentStore.id||e.getParentTable()!==a.parentStore.table)))throw Error(\"File pages must stay at the top level of a workspace or teamspace.\");(0,i(972192).h)(c);let u=t.defaultRecord",
+  "new_chunk": false
+ },
+ {
+  "text": "Invalid realtime presence snapshot.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/UISpacePermissionGroupToken.js",
+  "ctx": ".u4)(e)||\"string\"!=typeof e.revision||!/^\\d+-\\d+$/.test(e.revision)||!(0,i(48697).u4)(e.presence))throw Error(\"Invalid realtime presence snapshot.\");let[t,r]=e.revision.split(\"-\");return{revision:[BigInt(t),BigInt(r)],pr",
+  "new_chunk": false
+ },
+ {
+  "text": "Log in on your organization’s enterprise domain.",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/5172.js",
+  "ctx": "trator.\"},login_enterprise_domain_required:{id:\"loginErrors.enterpriseDomainRequired.message\",defaultMessage:\"Log in on your organization’s enterprise domain.\"},login_custom_session_expired:{id:\"loginErrors.customSession",
+  "new_chunk": false
+ },
+ {
+  "text": "ai_model_controls_plan_gating",
+  "kind": "key",
+  "file": "app.notion.com/_assets/95271.js",
+  "ctx": "ntrols:({billingData:e,data:t,actor:n,environment:r,spaceId:a})=>{if(!r.experimentService.checkGate({gateName:\"ai_model_controls_plan_gating\",actor:n.id?{table:i(832375).oo9,id:n.id}:i(810016).S,customIDs:{spaceId:a},dis",
+  "new_chunk": false
+ },
+ {
+  "text": "===ey||eW||eI),eD=ew.apple&&!eI,eK=ew.passkey&&!eI,eG=ew.sso&&ef&&!eI,eU=ew.email&&eE,ez=eI?void 0:ew.widthVariant,eH=E||eP||eS||eB||eD||eK||eG||eU,eq=eb?",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/64975.js",
+  "ctx": "me,eR=f||eO===i(25408).GJ.startupsApplication||eO===i(25408).GJ.smbApplication,eW=!eu,eV=!E&&(eb&&\"email_above\"===ey||eW||eI),eD=ew.apple&&!eI,eK=ew.passkey&&!eI,eG=ew.sso&&ef&&!eI,eU=ew.email&&eE,ez=eI?void 0:ew.widthVa",
+  "new_chunk": false
+ },
+ {
+  "text": "Upgrade your workspace",
+  "kind": "copy",
+  "file": "app.notion.com/_assets/67065.js",
+  "ctx": "Message:\"Log in to get this agent\"},loginTitleFromCheckout:{id:\"loginPage.title.fromCheckout\",defaultMessage:\"Upgrade your workspace\"},signupAddAnotherAccountTitle:{id:\"signupPage.addAnotherAccount.title\",defaultMessage:",
+  "new_chunk": false
+ },
+ {
+  "text": "gtm.previewMessageTemplate",
+  "kind": "key",
+  "file": "app.notion.com/_assets/65120.js",
+  "ctx": "tTargetingConditions\":{versionAvailability:\"*\"},\"gtm.listMessageTemplateAttributes\":{versionAvailability:\"*\"},\"gtm.previewMessageTemplate\":{versionAvailability:\"*\"},\"gtm.getMessagePerformance\":{versionAvailability:\"*\"},\"",
+  "new_chunk": false
+ },
+ {
+  "text": "Generated index.html template is missing required placeholders",
+  "kind": "copy",
+  "file": "app.notion.com/sw.js",
+  "ctx": "dex.html template request failed with status ${s.status}`);let i=await s.clone().text();if(!sd(i))throw Error(\"Generated index.html template is missing required placeholders\");let a=null==(r=sI.exec(i))?void 0:r[1];if(!a",
+  "new_chunk": false
+ }
+]

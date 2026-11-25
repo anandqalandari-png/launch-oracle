@@ -1,0 +1,254 @@
+[
+ {
+  "text": ",icon:ec.close,iconOnly:!0,\"aria-label\":u.dismissLabel,\"data-receiver-voice-dismiss\":o?void 0:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "rel:`noreferrer`,label:u.startLabel,onClick:r,sx:xg.start})),dismiss:Ei(()=>Oa(`c:b8e2fa3f`,ks,{variant:`ghost`,icon:ec.close,iconOnly:!0,\"aria-label\":u.dismissLabel,\"data-receiver-voice-dismiss\":o?void 0:``,\"data-receiv",
+  "new_chunk": false
+ },
+ {
+  "text": "):void 0,\"data-default-prompt-placeholder\":e.imagesLanding?e.promptPlaceholder:void 0,\"data-expanded\":w.expanded?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/application.js",
+  "ctx": "):void 0,\"data-conversation-prompt-placeholder\":e.imagesLanding?$(`lightweight-web.composer.prompt-placeholder`):void 0,\"data-default-prompt-placeholder\":e.imagesLanding?e.promptPlaceholder:void 0,\"data-expanded\":w.expan",
+  "new_chunk": false
+ },
+ {
+  "text": "===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(x(t)?.assistantMessageId===ce.messageId?o=ce.observation.finish():ce.observation.dispose(),ce=void 0):",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "failed\"===e.detail.kind||e.detail.kind.startsWith(\"background-\")||\"terminal-received\"===e.detail.kind&&\"failed\"===e.detail.terminalKind)&&(ce.observation.dispose(),ce=void 0):(x(t)?.assistantMessageId===ce.messageId?o=ce",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,e.sendLabel,e.stopLabel,z.send.paint.p3Name,z.send.canvas.height,z.send.canvas.viewBox,z.send.canvas.width,X,z.stop.paint.p3Name,z.stop.canvas.height,z.stop.canvas.viewBox,z.stop.canvas.width,Y],handoff:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "ntAuthGate?\"img_gen_no_auth_inline_upsell\":void 0,e.imageHintAuthGate?\"automatic\":void 0,e.imageHintAuthGate?\"\":void 0,e.sendLabel,e.stopLabel,z.send.paint.p3Name,z.send.canvas.height,z.send.canvas.viewBox,z.send.canvas.",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-dictation-upsell-description",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ng.image-receiver-report\",\"Report content\"),Qx=e(\"lightweight-web.sharing.image-receiver-title\",\"Image\"),Zx=e(\"lightweight-web.sharing.receiver-dictation-upsell-description\",\"Speak instead of typing, then review your mes",
+  "new_chunk": false
+ },
+ {
+  "text": "Speak instead of typing, then review your message before you send it.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "b.sharing.image-receiver-title\",\"Image\"),Zx=e(\"lightweight-web.sharing.receiver-dictation-upsell-description\",\"Speak instead of typing, then review your message before you send it.\"),Jx=e(\"lightweight-web.sharing.receive",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-dictation-upsell-start",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "r-dictation-upsell-description\",\"Speak instead of typing, then review your message before you send it.\"),Jx=e(\"lightweight-web.sharing.receiver-dictation-upsell-start\",\"Dictate\"),Xx=e(\"lightweight-web.sharing.receiver-di",
+  "new_chunk": false
+ },
+ {
+  "text": "lightweight-web.sharing.receiver-dictation-upsell-title",
+  "kind": "key",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": " message before you send it.\"),Jx=e(\"lightweight-web.sharing.receiver-dictation-upsell-start\",\"Dictate\"),Xx=e(\"lightweight-web.sharing.receiver-dictation-upsell-title\",\"Turn spoken ideas into a message\"),$x=e(\"lightweigh",
+  "new_chunk": false
+ },
+ {
+  "text": "Turn spoken ideas into a message",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/en.js",
+  "ctx": "ng.receiver-dictation-upsell-start\",\"Dictate\"),Xx=e(\"lightweight-web.sharing.receiver-dictation-upsell-title\",\"Turn spoken ideas into a message\"),$x=e(\"lightweight-web.sharing.receiver-report-details\",\"Additional details",
+  "new_chunk": false
+ },
+ {
+  "text": ":Le+(pe?0:220+(e.trh?4:0))),xe&&Jt.hidden],rootRef:S,hidden:xe,enabled:e.tr,expanded:ne,initialFeed:ne&&!oe&&void 0!==e.tri?String(e.tri):void 0,experiment:e.tr&&Ce,whileTyping:e.trwt,withHelp:e.tr&&e.trh,helpPlacement:e.tr&&e.trh?e.trhp:void 0,state:ie?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/trending.js",
+  "ctx": "&Jt.expanded,ne&&e.trh&&Jt.expandedWithHelp,ze&&Jt.taskListTracks(Le,qe?`auto ${Le}px`:`${Le}px auto`,ne?\"auto\":Le+(pe?0:220+(e.trh?4:0))),xe&&Jt.hidden],rootRef:S,hidden:xe,enabled:e.tr,expanded:ne,initialFeed:ne&&!oe&&",
+  "new_chunk": false
+ },
+ {
+  "text": "Expected node with key %s to exist but it's not in the nodeMap.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native-lexical.js",
+  "ctx": "eFormat(t),e):e}function Ct(e,n){let{type:r,key:i,offset:l}=e,o=function(e){let n=pn(e);return null===n&&t(!1,\"Expected node with key %s to exist but it's not in the nodeMap.\",e),n}(e.key);return\"text\"===r?(t(St(o),\"$car",
+  "new_chunk": false
+ },
+ {
+  "text": "One or more update listeners are endlessly enqueueing more updates. May have encountered infinite recursion caused by update listeners that trigger additional updates without a stop condition. Editor namespace: %s",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native-lexical.js",
+  "ctx": ")=>{Fg.delete(e),e._cascadeCount=0},0))}(e),e._cascadeCount++>99){e._updates=[],e._cascadeCount=0,e._onWarn(a(\"One or more update listeners are endlessly enqueueing more updates. May have encountered infinite recursion c",
+  "new_chunk": false
+ },
+ {
+  "text": "Selection change listeners are endlessly changing the selection.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native-lexical.js",
+  "ctx": "space: %s\",e._config.namespace));return}let n=t.shift();if(n){let[t,r]=n;Ki(e,t,r)}}(e)})(e,t),n&&e._onWarn(a(\"Selection change listeners are endlessly changing the selection.\"))}finally{Dg=n}}function Li(e,t,n,...r){let",
+  "new_chunk": false
+ },
+ {
+  "text": "Point.getNode: node not found",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native-lexical.js",
+  "ctx": "offset<e.offset:as(Dt(Ct(this,\"next\")),Dt(Ct(e,\"next\")))<0}getNode(){let e=pn(this.key);return null===e&&t(!1,\"Point.getNode: node not found\"),e}set(e,t,n,r){let i=this._selection,l=this.key;r&&this.key===e&&this.offset=",
+  "new_chunk": false
+ },
+ {
+  "text": "Expected RangeSelection after redirecting into slot subtree",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/native-lexical.js",
+  "ctx": ";if(null!==r&&!Ze(r)){let e=Ut();r.insertBefore(e),r=e}if(null!==r){r.selectStart();let n=oo();return t(Il(n),\"Expected RangeSelection after redirecting into slot subtree\"),n.insertNodes(e)}}if(\"element\"===this.anchor.ty",
+  "new_chunk": false
+ },
+ {
+  "text": "Mød den nye stemmefunktion",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/da.js",
+  "ctx": "iver-voice-upsell-start\",\"Start en stemmesamtale\"),oT=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Mød den nye stemmefunktion\"),sT=e(\"lightweight-web.common.back-to-chat-gpt\",\"Tilbage til ChatGPT\"),hT=e(\"ligh",
+  "new_chunk": false
+ },
+ {
+  "text": "Of margar tilraunir. Bíddu í nokkrar mínútur áður en þú reynir aftur.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "ne-auth-description`,`Haltu áfram í ChatGPT.`),pd=e(`lightweight-web.auth.inline-auth-otp-attempts-exhausted`,`Of margar tilraunir. Bíddu í nokkrar mínútur áður en þú reynir aftur.`),md=e(`lightweight-web.auth.inline-aut",
+  "new_chunk": false
+ },
+ {
+  "text": "Innskráningarlotan þín er útrunnin. Reyndu aftur.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/is.js",
+  "ctx": "r. Bíddu í nokkrar mínútur áður en þú reynir aftur.`),md=e(`lightweight-web.auth.inline-auth-session-expired`,`Innskráningarlotan þín er útrunnin. Reyndu aftur.`),hd=e(`lightweight-web.auth.inline-auth-too-many-attempts`",
+  "new_chunk": false
+ },
+ {
+  "text": "Plus naturelle. Plus intelligente. Prête à parler.",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "report-title\",\"Signaler le contenu partagé\"),sq=e(\"lightweight-web.sharing.receiver-voice-upsell-description\",\"Plus naturelle. Plus intelligente. Prête à parler.\"),nq=e(\"lightweight-web.sharing.receiver-voice-upsell-star",
+  "new_chunk": false
+ },
+ {
+  "text": "Lancer le mode Voix",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/fr.js",
+  "ctx": "us naturelle. Plus intelligente. Prête à parler.\"),nq=e(\"lightweight-web.sharing.receiver-voice-upsell-start\",\"Lancer le mode Voix\"),lq=e(\"lightweight-web.sharing.receiver-voice-upsell-title\",\"Découvrez le nouveau mode V",
+  "new_chunk": false
+ },
+ {
+  "text": "Novērtēt atbildi",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/lv.js",
+  "ctx": "t-web.message-feedback.prompt\",\"Kas varēja būt labāk?\"),cy=e(\"lightweight-web.message-feedback.rate-response\",\"Novērtēt atbildi\"),by=e(\"lightweight-web.message-feedback.remove-bad-response\",\"Noņemt vērtējumu “Slikta atbi",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,3),ph=Vu('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "77948 14.0222 8.38125 14.1581 8.05179 13.9965C7.72221 13.8345 7.58602 13.4355 7.74808 13.1059L11.0586 6.37347Z\">',1,3),ph=Vu('<path fill-rule=evenodd clip-rule=evenodd d=\"M4.95996 5.22646C4.96014 3.70488 6.64926 2.79128 ",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,x=d===ML.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===g){let e,i,k,b,v,x,y,w,j,S,C,N,q,I=Dj(_L);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===ML.EnterActive?\"\":void 0,y=d===ML.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Hw(Xy(eO.gro",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,y=d===ML.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": ",N,q,I=Dj(_L);e=c,i=!p.entry.present,k=\"animate-group-item\",b=n?\"\":void 0,v=o?\"\":void 0,x=d===ML.EnterActive?\"\":void 0,y=d===ML.ExitActive?\"\":void 0,w=h.interrupted?\"\":void 0,j=Hw(Xy(eO.groupItem,!p.reduced&&eO.block,s.w",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,f=a===ML.EnterActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "i,p=t.slots[0],m=null;if(void 0===p){let e,i,m,h,f,g,k,b,v,x=Dj(RL);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===ML.EnterActive?\"\":void 0,g=a===ML.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Hw(Xy(eO.con",
+  "new_chunk": false
+ },
+ {
+  "text": ":void 0,g=a===ML.ExitActive?",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===p){let e,i,m,h,f,g,k,b,v,x=Dj(RL);e=l,i=!c.entry.present,m=r?\"\":void 0,h=n?\"\":void 0,f=a===ML.EnterActive?\"\":void 0,g=a===ML.ExitActive?\"\":void 0,k=d.interrupted?\"\":void 0,b=Hw(Xy(eO.content,eO.noShrink,o.composite&&e",
+  "new_chunk": false
+ },
+ {
+  "text": "==typeof m.color&&uF.has(m.color)?m.color:",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/conversation.js",
+  "ctx": "===n[0]&&vS(n[1],a)&&vS(n[2],c)?n[3]:Gw(n,0,Wa(p,f),a,c)),k=\"md\"===m.size||\"lg\"===m.size?m.size:\"sm\",b=\"string\"==typeof m.color&&uF.has(m.color)?m.color:\"secondary\",v=null!=m.color&&!(\"string\"==typeof m.color&&uF.has(m.c",
+  "new_chunk": false
+ },
+ {
+  "text": "),Ar=Ao('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "span><span></span><!>\"),Hr=Ao(\"<!>\",0,1),Tr=Ao(\"<span role=alert> \"),_r=Ao(\"<div data-generated-file-cards><!>\"),Ar=Ao('<path fill-rule=evenodd clip-rule=evenodd d=\"M5.53516 12.3701C5.87432 12.3702 6.18025 12.4338 6.4453",
+  "new_chunk": false
+ },
+ {
+  "text": ">',1,4),Or=Ao('<path fill-rule=evenodd clip-rule=evenodd d=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "33 6.79787 15.3528 6.37196 15.041 6.05176L13.1729 4.13281C12.9374 3.89112 12.6457 3.72512 12.332 3.64258V6.25Z\">',1,4),Or=Ao('<path fill-rule=evenodd clip-rule=evenodd d=\"M15.167 3.08496C16.8227 3.08514 18.1649 4.42733 1",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Pr=Ao('<svg viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "187 16.0881 4.41522 15.167 4.41504H4.83301Z\">',1),Er=Ao('<path d=\"M5 2.5h6l4 4V17H5V2.5Zm6 0v4h4M7 10h6M7 13h6\" fill=none stroke=currentColor stroke-width=1.4 stroke-linejoin=round>',1),Pr=Ao('<svg viewBox=\"0 0 20 20\" fi",
+  "new_chunk": false
+ },
+ {
+  "text": ",0,4),hx=Ao('<p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": ",3,2),vx=Ao(\"<div></div><!>\",0,2),mx=Ao(\"<p role=status> \"),gx=Ao(\"<!><h4 data-message-attribution></h4><!><!>\",0,4),hx=Ao('<p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor></svg><!>'),yx=Ao(\"<blockquote> \"",
+  "new_chunk": false
+ },
+ {
+  "text": "),qx=Ao('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></svg><!>'),yx=Ao(\"<blockquote> \"),wx=Ao(\"<p data-user-message-copy>\"),jx=Ao(\"<p data-user-message-copy> \"),qx=Ao('<div data-shared-content-continuation><p><svg aria-hidden=true viewBox=\"0 0 20 20\" fill=currentColor",
+  "new_chunk": false
+ },
+ {
+  "text": "),Mx=Ao('<svg aria-hidden=true fill=none viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "olor></path></svg><!></p><!>'),zx=Ao(\"<div data-user-message-actions data-message-actions role=group><!><!><!>\"),Mx=Ao('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stro",
+  "new_chunk": false
+ },
+ {
+  "text": "stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Ix=Ao(",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": "tions role=group><!><!><!>\"),Mx=Ao('<svg aria-hidden=true fill=none viewBox=\"0 0 20 20\"><path d=\"m4 10 4 4 8-9\" stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Ix=Ao(\"<svg aria-hidden",
+  "new_chunk": false
+ },
+ {
+  "text": ",1),Cx=Ao('<svg aria-hidden=true fill=currentColor viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/a.js",
+  "ctx": " stroke-linecap=round stroke-linejoin=round stroke-width=1.5>',1),Ix=Ao(\"<svg aria-hidden=true fill=none><use>\",1),Cx=Ao('<svg aria-hidden=true fill=currentColor viewBox=\"0 0 20 20\"><path>',1),$x=lo(112),Rx=[\"r\",\"d\",\"b\"]",
+  "new_chunk": false
+ },
+ {
+  "text": "fill=currentColor opacity=.4>'),Ue=xe('<svg width=24 height=24 viewBox=",
+  "kind": "copy",
+  "file": "chatgpt.com/unauth-mweb/assets/dots.js",
+  "ctx": "pacity=.35></rect><rect x=2 y=2 width=20 height=9 rx=1.5 fill=currentColor></rect><path d=\"M25 4v5c2-1 2-4 0-5\" fill=currentColor opacity=.4>'),Ue=xe('<svg width=24 height=24 viewBox=\"0 0 18.75 18.75\" fill=none xmlns=htt",
+  "new_chunk": false
+ }
+]

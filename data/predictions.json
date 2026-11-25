@@ -262,7 +262,7 @@
   "first_evidence": "2026-11-05",
   "window_days": 90,
   "deadline": "2027-02-03",
-  "confidence": 0.6,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-05",
@@ -288,6 +288,11 @@
     "date": "2026-11-20",
     "confidence": 0.6,
     "note": "Shared with me and My documents empty states show the product surfaces for private and shared docs are close to ready."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "More sharing and access copy, including team documents shared with specific people and a General access section."
    }
   ],
   "evidence": [
@@ -361,6 +366,18 @@
     "text": "Shared with you on",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Only members of the team and people this document is shared with",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "General access",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -1824,6 +1841,11 @@
     "date": "2026-11-09",
     "confidence": 0.5,
     "note": "The 'dashboard-snapshots-ui' flag description now includes a 28-day comparison option, and a 'No change' state is present, so the UI is clearly being built out."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "As-of historical insight queries ('asOf', state-history reconstruction) point to point-in-time dashboard data."
    }
   ],
   "evidence": [
@@ -1861,6 +1883,24 @@
     "text": "Compare issue insight widgets on dashboards to their daily snapshot from 7 days, 28 days, 30 days, 90 days or 1 year ago",
     "kind": "copy",
     "first_seen": "2026-11-09",
+    "new_chunk": false
+   },
+   {
+    "text": "Issues open at that moment: created by then and in a state that was not completed or canceled, by their state history",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Rows archived after that moment included",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Archived ones included",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -2052,7 +2092,7 @@
   "first_evidence": "2026-11-06",
   "window_days": 90,
   "deadline": "2027-02-04",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-06",
@@ -2068,6 +2108,11 @@
     "date": "2026-11-19",
     "confidence": 0.45,
     "note": "A flag description confirms the compact rail and adds that personal settings open in a modal and workspace settings go fullscreen."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "Actions to add pages to and remove them from the navigation rail."
    }
   ],
   "evidence": [
@@ -2105,6 +2150,18 @@
     "text": "Group existing navigation into Inbox, Home, Workbench, Reviews, and Search in a compact rail. Show personal settings in a modal and workspace settings fullscreen.",
     "kind": "copy",
     "first_seen": "2026-11-19",
+    "new_chunk": false
+   },
+   {
+    "text": "Add to navigation",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Remove from navigation",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -2724,12 +2781,17 @@
   "first_evidence": "2026-11-07",
   "window_days": 60,
   "deadline": "2027-01-06",
-  "confidence": 0.45,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-07",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.55,
+    "note": "A Reviews setting to use the GitHub assignee as the PR owner supports the ownership feature."
    }
   ],
   "evidence": [
@@ -2761,6 +2823,24 @@
     "text": "Ownership returned to the original author",
     "kind": "copy",
     "first_seen": "2026-11-07",
+    "new_chunk": false
+   },
+   {
+    "text": "Treat assignees as owners",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Use a pull request's GitHub assignee as its owner in Linear",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Pull request assignees",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -3781,6 +3861,11 @@
     "date": "2026-11-21",
     "confidence": 0.6,
     "note": "There are now two named flags, triage-autopilot and triage-autopilot-experimental, which show assignee, duplicate and rationale."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.6,
+    "note": "A retry action and a named actor 'Triage Autopilot' suggest the feature is nearly finished."
    }
   ],
   "evidence": [
@@ -3896,6 +3981,18 @@
     "text": "Show whom the triage autopilot would assign, the duplicate it found and why it fixed a feature request. Needs triage-autopilot too.",
     "kind": "copy",
     "first_seen": "2026-11-21",
+    "new_chunk": false
+   },
+   {
+    "text": "Couldn’t retry triage autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Triage Autopilot",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -6230,7 +6327,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-12",
@@ -6251,6 +6348,11 @@
     "date": "2026-11-23",
     "confidence": 0.45,
     "note": "The purchase link button carries a data-out-of-credits attribute, an accent variant and a leading plus icon. This supports an out-of-credits prompt that links to a purchase page."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.4,
+    "note": "The out-of-credits prompt now has an accent-styled link button with a leading plus icon, which matches a purchase flow."
    }
   ],
   "evidence": [
@@ -6276,6 +6378,12 @@
     "text": ":void 0,minWidth:48,onClick:te,ref:z,rel:",
     "kind": "copy",
     "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": ",\"data-out-of-credits\":F||void 0,href:B.url,icon:B.leadingPlusIcon?",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -6550,7 +6658,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-12",
@@ -6566,6 +6674,11 @@
     "date": "2026-11-17",
     "confidence": 0.55,
     "note": "Dry-run handling with unsaved changes is implemented."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.6,
+    "note": "Result UI for dry runs has been added."
    }
   ],
   "evidence": [
@@ -6603,6 +6716,18 @@
     "text": "Save and run loop",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "Dry run result",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "The dry run finished without a result.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -7052,7 +7177,7 @@
   "first_evidence": "2026-11-13",
   "window_days": 90,
   "deadline": "2027-02-11",
-  "confidence": 0.35,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-13",
@@ -7063,6 +7188,11 @@
     "date": "2026-11-24",
     "confidence": 0.35,
     "note": "The menu used inside the embedded Gemini in Chrome surface now has 'Your skills', 'Suggested skills' and 'Made by Chrome' groups, which suggests skills will be mentionable there."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "A synthetic experiment state for Glic (Gemini in Chrome) multi-tab tooltips sits next to a 'GlicEnableAtMentions' arm, so the at-mention work is in active experiment rollout."
    }
   ],
   "evidence": [
@@ -7082,6 +7212,12 @@
     "text": "Made by Chrome",
     "kind": "copy",
     "first_seen": "2026-11-24",
+    "new_chunk": true
+   },
+   {
+    "text": "GlicMultiTabTooltips",
+    "kind": "flag",
+    "first_seen": "2026-11-25",
     "new_chunk": true
    }
   ],
@@ -8836,6 +8972,11 @@
     "date": "2026-11-17",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "A new validation error shows file pages are a real page type with a placement rule: they must stay at the top level of a workspace or teamspace. This suggests the feature is further along in implementation. Inferred: the move-into-another-p"
    }
   ],
   "evidence": [
@@ -8861,6 +9002,12 @@
     "text": "Folder uploads aren’t supported. Choose individual files instead.",
     "kind": "copy",
     "first_seen": "2026-11-17",
+    "new_chunk": false
+   },
+   {
+    "text": "File pages must stay at the top level of a workspace or teamspace.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -9843,6 +9990,11 @@
     "date": "2026-11-24",
     "confidence": 0.45,
     "note": "The Gem model now carries brandName, logoUrl, defaultFeatureMode and zeroStatePrompts. This confirms the data model and shows it wired into the Gem editor."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.45,
+    "note": "The client's Gem data model now maps zeroStatePrompts, defaultFeatureMode, brandName and logoUrl, which confirms the branded-Gem fields are wired through."
    }
   ],
   "evidence": [
@@ -9892,6 +10044,12 @@
     "text": ",description:b.description,logoUrl:(g=(d=b.l5)==null?void 0:d.rMa)!=null?g:",
     "kind": "copy",
     "first_seen": "2026-11-23",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.oD],defaultFeatureMode:(q=b.Jia)!=null?q:null,brandName:(t=(e=b.Eda)==null?void 0:e.EXa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": true
    }
   ],
@@ -11253,6 +11411,11 @@
     "date": "2026-11-24",
     "confidence": 0.6,
     "note": "New localized copies (Romanian, Swedish, Portuguese, Croatian, Hungarian) of the receiver-voice-upsell-start and receiver-voice-upsell-title strings show the shared-page Voice upsell is being translated across many languages. That usually m"
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.6,
+    "note": "Danish and French translations of the receiver-voice-upsell title, description and start strings have now shipped, along with a dismiss control (data-receiver-voice-dismiss). This suggests the prompt is close to final and rolling out across"
    }
   ],
   "evidence": [
@@ -11357,6 +11520,24 @@
     "kind": "copy",
     "first_seen": "2026-11-24",
     "new_chunk": false
+   },
+   {
+    "text": "Mød den nye stemmefunktion",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Plus naturelle. Plus intelligente. Prête à parler.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Lancer le mode Voix",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -11384,12 +11565,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 60,
   "deadline": "2027-01-19",
-  "confidence": 0.4,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.55,
+    "note": "New subtitle copy, shown when a flag is on, frames Gemini as a place to hand off tasks. A privacy notice adds that Gemini may share info such as contact details with third parties to work on tasks. Both suggest a polished task experience cl"
    }
   ],
   "evidence": [
@@ -11403,6 +11589,18 @@
     "text": "From booking travel to planning meals, let Gemini check things off your list.",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Learn, create, and hand off tasks to Gemini.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "To work on tasks, Gemini may share info, like contact details, with third parties.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": true
    }
   ],
@@ -11484,7 +11682,7 @@
   "first_evidence": "2026-11-20",
   "window_days": 90,
   "deadline": "2027-02-18",
-  "confidence": 0.5,
+  "confidence": 0.35,
   "history": [
    {
     "date": "2026-11-20",
@@ -11495,6 +11693,11 @@
     "date": "2026-11-22",
     "confidence": 0.5,
     "note": "New permission and consent copy shows Spaces can read connected Workspace apps and call MCP tools with per-session user confirmation. This is later-stage UI than a bare page, so shipping looks closer."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.35,
+    "note": "Space HTML rendering with a hardened CSP shows Spaces are generated interactive HTML artifacts and the security work for them is in place."
    }
   ],
   "evidence": [
@@ -11520,6 +11723,12 @@
     "text": "This Space will be able to read data from �0� during this session.",
     "kind": "copy",
     "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": "Parses Space HTML into an inert DOMParser Document solely to strip egress tags and prepare CSP before rendering inside SafeContentFrame.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": true
    }
   ],
@@ -11559,6 +11768,11 @@
     "date": "2026-11-22",
     "confidence": 0.4,
     "note": "A host bridge ('Airlock MCP') carries tool calls from sandboxed widgets to the host with confirmation dialogs, which supports MCP widget rendering."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.4,
+    "note": "Sandboxed SafeContentFrame code injects an 'Airlock MCP bridge' into guest HTML. This confirms interactive HTML can call MCP tools. The 'restricted sessions' guard suggests enterprise-aware rollout."
    }
   ],
   "evidence": [
@@ -11584,6 +11798,18 @@
     "text": "Another confirmation dialog is already open.",
     "kind": "copy",
     "first_seen": "2026-11-22",
+    "new_chunk": true
+   },
+   {
+    "text": "Injects static client-owned Airlock MCP bridge bootstrap script ahead of guest scripts inside SafeContentFrame.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Airlock MCP connectors are disabled in restricted sessions.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": true
    }
   ],
@@ -12489,7 +12715,7 @@
   "first_evidence": "2026-11-21",
   "window_days": 90,
   "deadline": "2027-02-19",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-21",
@@ -12505,6 +12731,11 @@
     "date": "2026-11-24",
     "confidence": 0.5,
     "note": "The inherit-project-statuses team setting is now gated by a teamProjectStatuses plan feature, with a parent-team requirement message. This looks close to release."
+   },
+   {
+    "date": "2026-11-25",
+    "confidence": 0.45,
+    "note": "Plan gating for team project status inheritance suggests it is nearing release."
    }
   ],
   "evidence": [
@@ -12542,6 +12773,12 @@
     "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(C.teamProjectStatuses)?p.availabilityMessageForFeature(C.teamProjectStatuses):void 0,title:i>0?",
     "kind": "copy",
     "first_seen": "2026-11-24",
+    "new_chunk": false
+   },
+   {
+    "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(u.teamProjectStatuses)?g.availabilityMessageForFeature(u.teamProjectStatuses):void 0,title:i>0?",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
     "new_chunk": false
    }
   ],
@@ -12990,6 +13227,457 @@
    "open_questions": [
     "Do these connectors need an authentication step beyond OAuth?",
     "Are they limited to certain plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-25-gemini-omni-video-creation-with-template",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Gemini Omni video creation with templates and avatars",
+  "one_liner": "Users create videos with Gemini Omni from scratch or from a template, mixing video, text and image inputs, and can put their own avatar into any scene.",
+  "category": "new_feature",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 60,
+  "deadline": "2027-01-24",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Create videos",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Start from scratch or try a template",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Create with videos, texts and images",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Add your avatar into any scene",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Making a video with generative AI means starting from a blank prompt and juggling several tools.",
+   "users": "Gemini users interested in video creation, including logged-out visitors who see the promo and a Sign in button.",
+   "what": "A 'Create videos' experience built on Gemini Omni. It offers starting from scratch or from a template, accepts mixed video, text and image inputs, and can insert the user's avatar into scenes.",
+   "how_it_appears": "A promo card in the logged-out experience (the feature list has a 'Sign in' button), which probably maps to a nav entry or tool in the signed-in app.",
+   "rollout_guess": "Likely launches alongside the Gemini Omni model announcement. Probably a paid tier first, with usage limits.",
+   "open_questions": [
+    "Is Gemini Omni already announced, or is this still unreleased?",
+    "Does the avatar feature depend on the shareable avatars (likeness) work?"
+   ]
+  },
+  "status": "void",
+  "resolution": {
+   "date": "2026-11-25",
+   "ship_date": "2026-05-19",
+   "why": "was already public when forecast",
+   "source": "https://gemini.google/release-notes/",
+   "quote": "Start from scratch, remix your camera roll, or try out a premade template.",
+   "prd_match": 4,
+   "by": "grader"
+  }
+ },
+ {
+  "id": "linear-2026-11-25-request-linear-reviews-access-from-admin",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Request Linear Reviews access from admins",
+  "one_liner": "Members without code review access can send a request to workspace admins, who get an inbox notification.",
+  "category": "expansion",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 60,
+  "deadline": "2027-01-24",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Request sent to admins",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "They’ll get an inbox notification",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Send admin request",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Couldn’t send request to admins",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Linear Reviews",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Members who can't use Linear Reviews have no way to ask for access.",
+   "users": "Non-admin members in workspaces where code review is not enabled for them.",
+   "what": "A 'Send admin request' button sends an access request to admins. A toast confirms 'Request sent to admins', and admins get an inbox notification titled 'Linear Reviews'.",
+   "how_it_appears": "A gated Reviews screen with a request button, plus an admin inbox notification of type codeReviewAccessRequest.",
+   "rollout_guess": "Ships alongside broader Linear Reviews availability.",
+   "open_questions": [
+    "Is the request tied to a paid plan or seat?",
+    "Do admins approve from the notification or in settings?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-25-jira-links-settings",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Jira links settings",
+  "one_liner": "Admins link Jira projects to Linear teams so new Jira issues and projects are added to the matching team.",
+  "category": "integration",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 75,
+  "deadline": "2027-02-08",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Jira links",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "New issues and projects from these Jira projects will be added to the corresponding Linear team",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Add new link",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "No more Jira projects available to be linked.",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Only [role] can add new links",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Teams using both Jira and Linear need an ongoing way to bring Jira work into Linear teams.",
+   "users": "Admins of workspaces migrating from or syncing with Jira.",
+   "what": "A 'Jira links' settings list maps Jira projects to Linear teams. New issues and projects from a linked Jira project are added to its Linear team. A separate 'Jira projects' page covers projects synced with or imported into Linear.",
+   "how_it_appears": "Jira integration settings, with an 'Add new link' action and a permission-gated role check.",
+   "rollout_guess": "Likely ships together with the Jira status mapping and custom field sync work.",
+   "open_questions": [
+    "Is the sync one-way or two-way?",
+    "Is it limited to certain plans?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-25-global-composer-on-desktop",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Global composer on desktop",
+  "one_liner": "Open a composer from any app to create an issue or start an agent.",
+  "category": "new_feature",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 60,
+  "deadline": "2027-01-24",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Global composer",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Create an issue or start an agent from any app",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Linear Composer",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Capturing an issue or starting an agent requires switching to Linear first.",
+   "users": "Desktop app users, especially Workbench users.",
+   "what": "A system-wide shortcut opens a small 'Linear Composer' window where you create an issue or start an agent session. An alternate submit starts the session 'without opening' it.",
+   "how_it_appears": "A keyboard shortcut entry under the Workbench feature in settings, opening a standalone window.",
+   "rollout_guess": "Desktop app release, gated behind Workbench.",
+   "open_questions": [
+    "Which default shortcut will it use?",
+    "Is it separate from the global command menu shortcut?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-25-local-terminal-for-local-agents",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Local terminal for local agents",
+  "one_liner": "Open a terminal inside Linear that runs a local shell next to local agent sessions.",
+  "category": "new_feature",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 60,
+  "deadline": "2027-01-24",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Local terminal",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Restart shell",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Close terminal",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Starting shell…",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Terminal unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Open local agents settings",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Working with local coding agents means switching to an external terminal.",
+   "users": "Desktop users running local agents.",
+   "what": "A 'Local terminal' panel starts a shell, shows exit state, and offers Restart shell and Close terminal. When unavailable it prompts you to update local agents or open local agents settings.",
+   "how_it_appears": "A panel in the desktop Workbench or coding session view.",
+   "rollout_guess": "Desktop-only, probably tied to a local agents update.",
+   "open_questions": [
+    "Is it limited to the desktop app?",
+    "Does it share the agent's working directory?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-25-expanded-loop-trigger-events",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Expanded Loop trigger events",
+  "one_liner": "Start Loops from more events: Linear Review finishing, coding sessions stopping or needing input, cycle start or end, project updates posted or due, and notifications.",
+  "category": "expansion",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 60,
+  "deadline": "2027-01-24",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Linear Review finishes",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Stops running or receives a message",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Finishes or needs input",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Cycle starts",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Cycle ends",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Update due",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "New customer signal",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loops can only react to a limited set of events.",
+   "users": "Teams building automations.",
+   "what": "New trigger descriptions cover Linear Review finishing, coding agent sessions finishing or needing input (or any activity), cycle start and end, update posted and due, and notification filters.",
+   "how_it_appears": "The trigger picker and trigger summary in the Loop editor.",
+   "rollout_guess": "Added incrementally, then listed in a release note.",
+   "open_questions": [
+    "Which triggers ship first?",
+    "Does the 'Automations' rename apply?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-25-time-off-indicator",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Time off indicator",
+  "one_liner": "See a teammate's current or upcoming time off in a profile or hover card.",
+  "category": "new_feature",
+  "created": "2026-11-25",
+  "first_evidence": "2026-11-25",
+  "window_days": 90,
+  "deadline": "2027-02-23",
+  "confidence": 0.3,
+  "history": [
+   {
+    "date": "2026-11-25",
+    "confidence": 0.3,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Away today",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Next time off",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "No time off this week or next",
+    "kind": "copy",
+    "first_seen": "2026-11-25",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "It is hard to see in Linear when a teammate is away.",
+   "users": "All members.",
+   "what": "A compact component shows 'Away today', 'Next time off' with a relative day count, or 'No upcoming time off', and a summary of time off this week and next.",
+   "how_it_appears": "A hover card or profile with a small calendar icon.",
+   "rollout_guess": "Inferred: depends on a calendar or HR integration, so a gradual rollout.",
+   "open_questions": [
+    "Where does the absence data come from?",
+    "Is it visible only within a team?"
    ]
   },
   "status": "open",

@@ -19,3 +19,4 @@
 {"date": "2026-11-22", "app": "gemini", "baseline": false, "files": 908, "bytes": 40315552, "strings": 4947, "new": 83, "new_files": 165, "errors": [], "ok": true}
 {"date": "2026-11-23", "app": "gemini", "baseline": false, "files": 952, "bytes": 39480062, "strings": 4948, "new": 52, "new_files": 118, "errors": [], "ok": true}
 {"date": "2026-11-24", "app": "gemini", "baseline": false, "files": 991, "bytes": 39992237, "strings": 5014, "new": 118, "new_files": 104, "errors": [], "ok": true}
+{"date": "2026-11-25", "app": "gemini", "baseline": false, "files": 992, "bytes": 40551939, "strings": 5035, "new": 101, "new_files": 101, "errors": [], "ok": true}
