@@ -4848,7 +4848,7 @@
   "first_evidence": "2026-11-10",
   "window_days": 60,
   "deadline": "2027-01-09",
-  "confidence": 0.5,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-10",
@@ -4869,6 +4869,11 @@
     "date": "2026-11-21",
     "confidence": 0.5,
     "note": "The pull request header now has an Autopilot settings button and an 'Also merge when ready' toggle."
+   },
+   {
+    "date": "2026-11-26",
+    "confidence": 0.6,
+    "note": "New status copy for Autopilot phases (working on checks and conflicts, waiting for CI or review, merges once approved) and per-PR on/off counts suggests the UI is nearly complete."
    }
   ],
   "evidence": [
@@ -4931,6 +4936,24 @@
     "kind": "copy",
     "first_seen": "2026-11-21",
     "new_chunk": true
+   },
+   {
+    "text": "Autopilot off for all pull requests",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "The agent is working on the failing checks",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Merges once approved and nothing else blocks it",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -6327,7 +6350,7 @@
   "first_evidence": "2026-11-12",
   "window_days": 60,
   "deadline": "2027-01-11",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-12",
@@ -6353,6 +6376,11 @@
     "date": "2026-11-25",
     "confidence": 0.4,
     "note": "The out-of-credits prompt now has an accent-styled link button with a leading plus icon, which matches a purchase flow."
+   },
+   {
+    "date": "2026-11-26",
+    "confidence": 0.45,
+    "note": "A link button carries a data-out-of-credits attribute, an accent variant when credits run out, a leading plus icon, and an external URL. This fits the out-of-credits purchase prompt."
    }
   ],
   "evidence": [
@@ -6384,6 +6412,12 @@
     "text": ",\"data-out-of-credits\":F||void 0,href:B.url,icon:B.leadingPlusIcon?",
     "kind": "copy",
     "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": ":void 0,onClick:w,ref:g,rel:",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
     "new_chunk": false
    }
   ],
@@ -9954,7 +9988,7 @@
   "first_evidence": "2026-11-18",
   "window_days": 90,
   "deadline": "2027-02-16",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-18",
@@ -9995,6 +10029,11 @@
     "date": "2026-11-25",
     "confidence": 0.45,
     "note": "The client's Gem data model now maps zeroStatePrompts, defaultFeatureMode, brandName and logoUrl, which confirms the branded-Gem fields are wired through."
+   },
+   {
+    "date": "2026-11-26",
+    "confidence": 0.4,
+    "note": "A newly downloaded chunk maps the Gem data model with brandName, logoUrl, defaultFeatureMode and zeroStatePrompts. This confirms the fields are wired into the client, but there is still no user-facing copy."
    }
   ],
   "evidence": [
@@ -10050,6 +10089,18 @@
     "text": ",zeroStatePrompts:[...b.oD],defaultFeatureMode:(q=b.Jia)!=null?q:null,brandName:(t=(e=b.Eda)==null?void 0:e.EXa)!=null?t:",
     "kind": "copy",
     "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": ",zeroStatePrompts:[...b.oD],defaultFeatureMode:(q=b.Ria)!=null?q:null,brandName:(t=(e=b.Hda)==null?void 0:e.MXa)!=null?t:",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": ",description:b.description,logoUrl:(g=(d=b.d6)==null?void 0:d.fOa)!=null?g:",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
     "new_chunk": true
    }
   ],
@@ -10991,6 +11042,11 @@
     "date": "2026-11-23",
     "confidence": 0.6,
     "note": "New command-menu actions for sharing and revoking a document's public link, including sub-page handling. They are gated by developer tools, so the flow is built but may still be internal."
+   },
+   {
+    "date": "2026-11-26",
+    "confidence": 0.6,
+    "note": "More toast and paused-state copy for public links shows the audience and permission logic is built out."
    }
   ],
   "evidence": [
@@ -11028,6 +11084,24 @@
     "text": "Revoked the document's public link",
     "kind": "copy",
     "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Created the public link",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "The public link is paused",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Its public link will stop working until the page is back somewhere everyone in the workspace can see.",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
     "new_chunk": false
    }
   ],
@@ -12410,7 +12484,7 @@
   "first_evidence": "2026-11-21",
   "window_days": 90,
   "deadline": "2027-02-19",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "history": [
    {
     "date": "2026-11-21",
@@ -12421,6 +12495,11 @@
     "date": "2026-11-24",
     "confidence": 0.5,
     "note": "Artifact-type checks now match personal snapshot artifacts by id and title, which suggests the snapshot is a distinct artifact type in the client."
+   },
+   {
+    "date": "2026-11-26",
+    "confidence": 0.4,
+    "note": "Artifact-detection code checks for artifact IDs containing 'personal_sn' and a Spark artifact type. This suggests the snapshot is handled as a first-class artifact in the client."
    }
   ],
   "evidence": [
@@ -12446,6 +12525,12 @@
     "text": "in a?a.rL:a.title)!=null?e:",
     "kind": "copy",
     "first_seen": "2026-11-24",
+    "new_chunk": true
+   },
+   {
+    "text": "in a?a.OL:a.title)!=null?e:",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
     "new_chunk": true
    }
   ],
@@ -13678,6 +13763,441 @@
    "open_questions": [
     "Where does the absence data come from?",
     "Is it visible only within a team?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-project-meetings-and-agendas",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Project meetings and agendas",
+  "one_liner": "Connect a notes provider or document to a project so members' meeting notes are shared there, and enable agendas for recurring meetings.",
+  "category": "new_feature",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 90,
+  "deadline": "2027-02-24",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Add the notes members share of this project's meetings and prepare agendas",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Could not load the project's meetings",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Choose notes provider",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Notes connection",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Choose notes document",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Enable agenda",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Add a meeting",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Could not update meetings",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Project meeting notes live in external tools and are disconnected from the project.",
+   "users": "Project members and leads who run recurring meetings.",
+   "what": "A Meetings page on a project. Users link meeting series from a notes provider integration or a Linear document, share notes of each series, and turn on agendas.",
+   "how_it_appears": "A 'Meetings' page or section inside a project, with a 'Choose notes provider' menu and 'Add a meeting' and agenda actions.",
+   "rollout_guess": "Likely gated by a plan or flag. The page's code chunk is new, so it was not previously visible.",
+   "open_questions": [
+    "Which notes providers are supported (Granola, Google Meet, others)?",
+    "Are agendas AI-generated?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-configurable-mention-display-styles",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Configurable mention display styles",
+  "one_liner": "Choose how issue, project, cycle, document, release and team mentions render (name, key, dates, parent, pipeline), as a default and per mention.",
+  "category": "new_feature",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 60,
+  "deadline": "2027-01-25",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Default mention styles",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose the default style applied when you insert new mentions",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Mention style",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Mention display",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Cycle with date range",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Title and parent",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Applied when you insert new mentions. Existing mentions keep their own style.",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Inline mentions of the same fixed shape are not always the most useful.",
+   "users": "All editor users.",
+   "what": "A preference for the default style of each mention kind, plus an editor toolbar button and submenu to change a single mention's style.",
+   "how_it_appears": "Preferences ('Default mention styles') and the editor toolbar ('Mention display' button, 'Mention style' submenu).",
+   "rollout_guess": "Behind the mentionDisplayModes feature flag, so a staged rollout is likely.",
+   "open_questions": [
+    "Do existing mentions migrate?",
+    "Is it available on mobile?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-desktop-new-tab-page-with-search-and-rec",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Desktop new tab page with search and recents",
+  "one_liner": "New tabs in the desktop app can open a page with search and recently viewed items instead of the home view.",
+  "category": "new_feature",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 45,
+  "deadline": "2027-01-10",
+  "confidence": 0.6,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.6,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "New tab destination",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose what opens in a new desktop tab",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "New tabs open to recently viewed and search",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Recently viewed and search",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "No recently viewed items",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Search unavailable",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Reopen last closed tabs",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "A new tab in desktop tabs always opens Home, which is slow for jumping to something specific.",
+   "users": "Linear desktop users who use tabs.",
+   "what": "A setting with 'Default home view' or 'Recently viewed and search'. The new-tab page lists recently viewed items and has a search box.",
+   "how_it_appears": "Desktop settings under tabs, plus the new tab page.",
+   "rollout_guess": "Behind the desktopNewTabSearch flag, with an onboarding toast announcing the change.",
+   "open_questions": [
+    "Will search become the default for everyone?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-dependency-and-test-change-tables-in-cod",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Dependency and test change tables in code review",
+  "one_liner": "Linear Reviews lists dependency changes (versions, weekly downloads, license) and added, modified or removed tests alongside the diff.",
+  "category": "new_feature",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 75,
+  "deadline": "2027-02-09",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "No dependency changes detected",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "No test changes detected",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Added test",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Modified test",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Removed test",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   },
+   {
+    "text": "Previous version",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Order by weekly downloads",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Order by change type",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers have to dig through large diffs to find dependency bumps and test changes.",
+   "users": "Pull request reviewers using Linear Reviews.",
+   "what": "Summary tables for dependency changes (version, previous version, downloads, license) and for test changes (type and title), each sortable.",
+   "how_it_appears": "Tabs or sections in the pull request review view next to the file diff.",
+   "rollout_guess": "The chunks are new, so it is likely part of an upcoming Reviews update.",
+   "open_questions": [
+    "Which ecosystems are supported besides npm?",
+    "Is the test-change detection AI-based?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-mcp-tool-group-scoping-for-apps",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "MCP tool group scoping for apps",
+  "one_liner": "Admins approving an MCP or OAuth app can limit it to selected groups of tools (search, issues, projects, documents, customers, releases, code) instead of all tools.",
+  "category": "expansion",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 75,
+  "deadline": "2027-02-09",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Tool access",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "All tools",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Only select tools…",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Select at least one group of tools",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Search, users, teams, and your inbox stay available",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Pull requests and code review",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Connected agents get full access to everything Linear's MCP exposes.",
+   "users": "Workspace admins and app approvers.",
+   "what": "A 'Tool access' choice of all tools or selected tool groups. Some core scopes (search, users, teams, inbox) always remain available.",
+   "how_it_appears": "The application approval dialog, next to 'Team access'.",
+   "rollout_guess": "Probably ships with, or soon after, MCP team access controls.",
+   "open_questions": [
+    "Does this apply to personal OAuth tokens?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-26-mcp-event-and-task-waiting-in-loops",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "MCP event and task waiting in Loops",
+  "one_liner": "Loops can watch events from an MCP connector and wait on an MCP task, with their status shown in the run state.",
+  "category": "integration",
+  "created": "2026-11-26",
+  "first_evidence": "2026-11-26",
+  "window_days": 120,
+  "deadline": "2027-03-26",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-26",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Watching MCP events",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Waiting on MCP task",
+    "kind": "copy",
+    "first_seen": "2026-11-26",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Loops can only react to Linear and Slack events, not to external systems.",
+   "users": "Loop (automation) authors.",
+   "what": "Loop runs display 'Watching MCP events' and 'Waiting on MCP task' states. Inferred: connectors can emit events that trigger or resume a Loop.",
+   "how_it_appears": "Loop run status chips and descriptions.",
+   "rollout_guess": "Early; the wording is only a run-status label.",
+   "open_questions": [
+    "Which connectors emit events?"
    ]
   },
   "status": "open",
