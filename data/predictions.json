@@ -3078,7 +3078,7 @@
   "first_evidence": "2026-11-07",
   "window_days": 90,
   "deadline": "2027-02-05",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-07",
@@ -3109,6 +3109,11 @@
     "date": "2026-11-21",
     "confidence": 0.55,
     "note": "The composer now has a switch to cloud action and pickers for a computer and a cloud agent."
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.45,
+    "note": "New strings show a full Local agents settings area, with per-device status, spare checkouts and a release channel, which supports local sessions shipping."
    }
   ],
   "evidence": [
@@ -3207,6 +3212,18 @@
     "kind": "copy",
     "first_seen": "2026-11-21",
     "new_chunk": true
+   },
+   {
+    "text": "Local coding agents that run on this computer",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Ready checkouts to keep for each repository, so new sessions start sooner",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -7321,12 +7338,17 @@
   "first_evidence": "2026-11-13",
   "window_days": 45,
   "deadline": "2026-12-28",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-13",
     "confidence": 0.55,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.45,
+    "note": "New strings show insight groups and add-adjacent controls for dashboard layout editing."
    }
   ],
   "evidence": [
@@ -7340,6 +7362,30 @@
     "text": "Resize dashboard widgets by dragging their borders, to change the height of a row or the width of its columns",
     "kind": "copy",
     "first_seen": "2026-11-13",
+    "new_chunk": false
+   },
+   {
+    "text": "Resize insight group",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Add insight on the left",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Add insight on the right",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Add insight below",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
     "new_chunk": false
    }
   ],
@@ -7841,12 +7887,17 @@
   "first_evidence": "2026-11-14",
   "window_days": 45,
   "deadline": "2026-12-29",
-  "confidence": 0.6,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-14",
     "confidence": 0.6,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.45,
+    "note": "New strings show the merge-readiness states that would drive the next-step guidance."
    }
   ],
   "evidence": [
@@ -7884,6 +7935,24 @@
     "text": "Create flag",
     "kind": "copy",
     "first_seen": "2026-11-14",
+    "new_chunk": false
+   },
+   {
+    "text": "Waiting for approval",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Required checks have not reported",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Branch must be updated before merging",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
     "new_chunk": false
    }
   ],
@@ -9727,12 +9796,17 @@
   "first_evidence": "2026-11-17",
   "window_days": 60,
   "deadline": "2027-01-16",
-  "confidence": 0.45,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-17",
     "confidence": 0.45,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.6,
+    "note": "New strings add a 'Send directly to agent' option, with a modifier key, next to Address with Agent. They also add errors for adding findings to a chat draft, which supports a near-term release."
    }
   ],
   "evidence": [
@@ -9747,6 +9821,24 @@
     "kind": "copy",
     "first_seen": "2026-11-17",
     "new_chunk": true
+   },
+   {
+    "text": "Send finding directly to agent",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Send all findings directly to agent",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Could not add findings to Agent",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -13655,6 +13747,11 @@
     "date": "2026-11-25",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.5,
+    "note": "New strings show more trigger options for Loops: agent conversation and session stops, and pull request events filtered by reviewer team or label."
    }
   ],
   "evidence": [
@@ -13698,6 +13795,24 @@
     "text": "New customer signal",
     "kind": "copy",
     "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": "Every time it stops or someone messages it",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Reviewer team (optional)",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Pull request moved to draft",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
     "new_chunk": false
    }
   ],
@@ -14098,12 +14213,17 @@
   "first_evidence": "2026-11-26",
   "window_days": 75,
   "deadline": "2027-02-09",
-  "confidence": 0.4,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-26",
     "confidence": 0.4,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-27",
+    "confidence": 0.5,
+    "note": "New strings show a toolset picker with all, recommended and custom options, and read and write tool counts per toolset."
    }
   ],
   "evidence": [
@@ -14141,6 +14261,30 @@
     "text": "Pull requests and code review",
     "kind": "copy",
     "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Choose toolsets…",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "All toolsets",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Select at least one toolset",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Issues, projects, documents, comments, and pull requests",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
     "new_chunk": false
    }
   ],
@@ -14198,6 +14342,224 @@
    "rollout_guess": "Early; the wording is only a run-status label.",
    "open_questions": [
     "Which connectors emit events?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-27-auto-approval-instructions-for-linear-re",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Auto-approval instructions for Linear Review",
+  "one_liner": "Workspace admins write plain-language instructions that decide which pull requests Linear approves automatically.",
+  "category": "new_feature",
+  "created": "2026-11-27",
+  "first_evidence": "2026-11-27",
+  "window_days": 60,
+  "deadline": "2027-01-26",
+  "confidence": 0.5,
+  "history": [
+   {
+    "date": "2026-11-27",
+    "confidence": 0.5,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Auto-approval instructions",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   },
+   {
+    "text": "Linear approves a pull request only when it meets these instructions and the rules on the Reviews page",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   },
+   {
+    "text": "Only a workspace admin can change these instructions",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   },
+   {
+    "text": "Approve dependency updates, copy changes, and changes that only touch tests…",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Reviewers spend time on low-risk pull requests such as dependency bumps, copy edits and test-only changes.",
+   "users": "Workspace admins and engineering teams that use Linear Reviews.",
+   "what": "A settings page with an editor for auto-approval instructions. Linear approves a pull request only when it meets those instructions and the existing rules on the Reviews page.",
+   "how_it_appears": "A settings page titled 'Auto-approval instructions', linked from the Reviews settings, with a rich-text editor and a Save button.",
+   "rollout_guess": "Inferred: ships alongside Linear Review as an admin-only setting, probably gated to paid plans.",
+   "open_questions": [
+    "Does Linear submit a real GitHub approval or only mark the pull request in Reviews?",
+    "Is it available on all plans that have Reviews?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-27-agent-organized-workspace-home",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Agent-organized workspace home",
+  "one_liner": "Ask Linear Agent to organize the workspace home into sections and key documents.",
+  "category": "new_feature",
+  "created": "2026-11-27",
+  "first_evidence": "2026-11-27",
+  "window_days": 60,
+  "deadline": "2027-01-26",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-27",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Organize the workspace home into sections and key documents",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Read the documents below, then set up the home right away, without asking first.",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Then reply with a short summary of what you set up, and suggest one or two changes the user could ask for next, such as renaming a section or moving a document.",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Setting up a home page with sections and pinned documents by hand takes effort.",
+   "users": "Workspace admins and team or project owners.",
+   "what": "The agent reads existing documents, creates 3 to 8 sections, assigns documents to them, adds up to 4 key documents at the top, and summarizes what it did. This works for the workspace home and for other homes.",
+   "how_it_appears": "A suggested prompt or action on an empty or new home page that starts an Agent chat.",
+   "rollout_guess": "Inferred: ships with the home page redesign.",
+   "open_questions": [
+    "Is it a button on the home page or only a suggested prompt?",
+    "Which roles can reorganize a shared home?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-27-slack-channel-access-scoping-for-linear-",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Slack channel access scoping for Linear Agent",
+  "one_liner": "Choose which private Slack channels Linear can read or post to, alongside the public channels it has joined.",
+  "category": "integration",
+  "created": "2026-11-27",
+  "first_evidence": "2026-11-27",
+  "window_days": 90,
+  "deadline": "2027-02-25",
+  "confidence": 0.25,
+  "history": [
+   {
+    "date": "2026-11-27",
+    "confidence": 0.25,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Choose private channels",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "No private channels that you and Linear are both in",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Agents that use Slack need to know which channels they may read or write.",
+   "users": "Workspace admins and users connecting Slack.",
+   "what": "A picker for private channels shared between the user and Linear. It shows access levels such as read-only, read and post, or post only. There are also actions to create a channel and set a channel name.",
+   "how_it_appears": "A submenu in a Slack connection or integration settings row.",
+   "rollout_guess": "Inferred: part of a Slack agent or connector expansion.",
+   "open_questions": [
+    "Is this for Linear Agent or for existing Slack notifications?",
+    "Is it new, or an old setting that this chunk is only now exposing?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-27-soundscapes-ambient-interface-audio",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Soundscapes (ambient interface audio)",
+  "one_liner": "Play interface sounds or ambient spaces and weather that change with the page you are on, with a soundscape panel and audio theme settings.",
+  "category": "experiment",
+  "created": "2026-11-27",
+  "first_evidence": "2026-11-27",
+  "window_days": 120,
+  "deadline": "2027-03-27",
+  "confidence": 0.1,
+  "history": [
+   {
+    "date": "2026-11-27",
+    "confidence": 0.1,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "soundscape-panel-enabled",
+    "kind": "key",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   },
+   {
+    "text": "Play interface sounds alone, or over an ambient space that follows the page you are on. Stored on this device only.",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": false
+   },
+   {
+    "text": "Toggle soundscape",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   },
+   {
+    "text": "A quiet control room. Slightly alert, with a soft pulse to keep you moving.",
+    "kind": "copy",
+    "first_seen": "2026-11-27",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Inferred: make working in Linear feel more immersive and give audio feedback for actions.",
+   "users": "Individual Linear users on web and desktop.",
+   "what": "An Audio theme setting with styles, moods, weather and music, plus a panel for toggling and tuning. Sound cues cover creating, commenting, completing, notifications and agent replies.",
+   "how_it_appears": "A Soundscape panel, command-menu commands, and an Audio theme group in preferences.",
+   "rollout_guess": "The command-menu commands are gated by canUseDeveloperTools, so it looks internal for now. Public release is uncertain.",
+   "open_questions": [
+    "Is this an internal experiment or a planned public preference?",
+    "Will it ship as a default-off personalization setting?"
    ]
   },
   "status": "open",
