@@ -1,0 +1,79 @@
+[
+ {
+  "text": "Prompt box",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "r b=_.rT(a.oa),c=b?\"\\u21e7\":\"Shift\";b=b?\"\\u2318\":\"Ctrl\";a=_.Yv()&&_.buf(a.Yc)===\"cmd_ctrl_enter\";return{title:\"Prompt box\",rows:[{description:\"Send message\",keys:a?[b,\"Enter\"]:[\"Enter\"]},{description:\"Add a new line\",key",
+  "new_chunk": true
+ },
+ {
+  "text": "Add a new line",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "enter\";return{title:\"Prompt box\",rows:[{description:\"Send message\",keys:a?[b,\"Enter\"]:[\"Enter\"]},{description:\"Add a new line\",keys:a?[\"Enter\"]:[c,\"Enter\"]},{description:\"Stop responding\",keys:[\"Esc\"]}]}}; I0q=class exte",
+  "new_chunk": true
+ },
+ {
+  "text": "Stop responding",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "ssage\",keys:a?[b,\"Enter\"]:[\"Enter\"]},{description:\"Add a new line\",keys:a?[\"Enter\"]:[c,\"Enter\"]},{description:\"Stop responding\",keys:[\"Esc\"]}]}}; I0q=class extends _.IJ{constructor(){super(...arguments);this.Ga=_.u(_.jA)",
+  "new_chunk": true
+ },
+ {
+  "text": "Keyboard shortcuts",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "uper(...arguments);this.Ga=_.u(_.jA);this.Yc=_.u(_.yN);this.oa=_.u(_.sT);this.Na=_.mP;this.Ja=_.yw;this.title=\"Keyboard shortcuts\";this.pXa=\"Close\";this.descriptions={agent_mode:\"Switch between Chat and \"+(this.Ga.Ha(_.h",
+  "new_chunk": true
+ },
+ {
+  "text": "Switch between Chat and",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": ".sT);this.Na=_.mP;this.Ja=_.yw;this.title=\"Keyboard shortcuts\";this.pXa=\"Close\";this.descriptions={agent_mode:\"Switch between Chat and \"+(this.Ga.Ha(_.hgc)||\"Agent\"),dictation:\"Start or stop dictation\",file_upload:\"Uploa",
+  "new_chunk": true
+ },
+ {
+  "text": "Start or stop dictation",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "s.pXa=\"Close\";this.descriptions={agent_mode:\"Switch between Chat and \"+(this.Ga.Ha(_.hgc)||\"Agent\"),dictation:\"Start or stop dictation\",file_upload:\"Upload files\",focus_input:\"Go to prompt box\",keyboard_shortcuts_help:\"S",
+  "new_chunk": true
+ },
+ {
+  "text": "Go to prompt box",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "and \"+(this.Ga.Ha(_.hgc)||\"Agent\"),dictation:\"Start or stop dictation\",file_upload:\"Upload files\",focus_input:\"Go to prompt box\",keyboard_shortcuts_help:\"Show keyboard shortcuts\",model_selection:\"Switch model\",new_conver",
+  "new_chunk": true
+ },
+ {
+  "text": "Show keyboard shortcuts",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "n:\"Start or stop dictation\",file_upload:\"Upload files\",focus_input:\"Go to prompt box\",keyboard_shortcuts_help:\"Show keyboard shortcuts\",model_selection:\"Switch model\",new_conversation:\"New chat\",search:\"Search chats\",sid",
+  "new_chunk": true
+ },
+ {
+  "text": "Switch model",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "pload files\",focus_input:\"Go to prompt box\",keyboard_shortcuts_help:\"Show keyboard shortcuts\",model_selection:\"Switch model\",new_conversation:\"New chat\",search:\"Search chats\",sidenav:\"Open or close sidebar\", task_mode:\"S",
+  "new_chunk": true
+ },
+ {
+  "text": "Open or close sidebar",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": " keyboard shortcuts\",model_selection:\"Switch model\",new_conversation:\"New chat\",search:\"Search chats\",sidenav:\"Open or close sidebar\", task_mode:\"Switch between Chat and Task\"};this.sections=[G0q(this),H0q(this)].filter(",
+  "new_chunk": true
+ },
+ {
+  "text": "Switch between Chat and Task",
+  "kind": "copy",
+  "file": "gemini.gstatic.com/_/mss/boq-gemini-web-uiserver/_/js/k=boq-gemini-web-uiserver.BardChatUi.en_US.W-OS7_1mRsc.2018.O/ck=boq-gemini-web-uiserver.BardChatUi.vrdtF7Q9qUc.L.B1.O/am=CN8IgCL2AVvn78Pt_kl0oAEJKAJygiB0AQAAAAAIAQ/d=1/exm=ABELSd,AdpaDf,BIsfnb,BenWQc,Bincme,BtUEvd,CK6Z6b,CsakMb,DTcCS,DtRio,E3fsbf,FRlTNb,GzXWE,HbEaCf,HwBxOc,ItLZxc,JKGJfb,KqWfBc,LVUOyb,MGIlxc,N9BqIf,No94jc,OWHuje,OpU7Tc,PdaDwd,QuxHpf,SJ81r,TK6Kl,TMsYl,TRJwtb,UE0P2d,VSiC6e,Z1MNA,Z8wCif,_b,aIycJb,awWKFf,bNyBZd,bSyRib,bnLiYc,cteZTb,dVRFBb,eK0zfd,f8N0N,fSXoCf,gMf0nf,h4lope,ir0vzb,k9O9ef,mlMvR,mqe9lc,mwljBd,n2sUFb,o2mxrc,o2nH0b,oE4lRe,ponblb,qxlpjc,tCaMKd,tWlZ7,v9r4Te,vLefie,vZ5Kfd,xmtx9e,xrScke,xy0Mif,y3kiEd,zSgmx/excm=_b/ed=1/br=1/wt=2/ujg=1/rs=AKrAJMqP1Fw93vckWhURqoYh6Nx7whsHHA/ee=EmZ2Bf:zr1jrb;NJ1rfe:yGfSdd;Pjplud:PoEs9b;QGR0gd:Mlhmy;ScI3Yc:e7Hzgb;USPTDe:samWqd;UYRIEb:HzTAQc;Uvc8o:VDovNc;YIZmRd:A1yn5d;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qddgKe:xQtZb;wR5FRb:siKnQd;yxTchf:KUM7Z/dti=1/m=Bt4NEe",
+  "ctx": "n:\"Switch model\",new_conversation:\"New chat\",search:\"Search chats\",sidenav:\"Open or close sidebar\", task_mode:\"Switch between Chat and Task\"};this.sections=[G0q(this),H0q(this)].filter(a=>a.rows.length>0)}};I0q.Fa=(()=>{",
+  "new_chunk": true
+ }
+]

@@ -22,3 +22,4 @@
 {"date": "2026-11-25", "app": "linear", "baseline": false, "files": 1590, "bytes": 41590816, "strings": 13005, "new": 179, "new_files": 15, "errors": [], "ok": true}
 {"date": "2026-11-26", "app": "linear", "baseline": false, "files": 1609, "bytes": 42019873, "strings": 13104, "new": 225, "new_files": 28, "errors": [], "ok": true}
 {"date": "2026-11-27", "app": "linear", "baseline": false, "files": 1633, "bytes": 74501920, "strings": 14634, "new": 310, "new_files": 16, "errors": [], "ok": true}
+{"date": "2026-11-28", "app": "linear", "baseline": false, "files": 1628, "bytes": 74851165, "strings": 13517, "new": 133, "new_files": 4, "errors": [], "ok": true}

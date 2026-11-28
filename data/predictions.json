@@ -5914,12 +5914,17 @@
   "first_evidence": "2026-11-11",
   "window_days": 90,
   "deadline": "2027-02-09",
-  "confidence": 0.3,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-11",
     "confidence": 0.3,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.5,
+    "note": "The model label map now lists DeepSeek V4 Pro and Flash alongside Kimi K3, which adds to the open-source model evidence."
    }
   ],
   "evidence": [
@@ -5934,6 +5939,18 @@
     "kind": "copy",
     "first_seen": "2026-11-11",
     "new_chunk": true
+   },
+   {
+    "text": "DeepSeek V4 Pro",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "DeepSeek V4 Flash",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -6730,6 +6747,11 @@
     "date": "2026-11-25",
     "confidence": 0.6,
     "note": "Result UI for dry runs has been added."
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.6,
+    "note": "Dry-run start and error handling now exists and is sent to Agent, so the flow is wired up."
    }
   ],
   "evidence": [
@@ -6780,6 +6802,24 @@
     "kind": "copy",
     "first_seen": "2026-11-25",
     "new_chunk": false
+   },
+   {
+    "text": "Unable to start dry run",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Unable to send the dry run request to Agent",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Try starting the dry run again",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -6817,6 +6857,11 @@
     "date": "2026-11-20",
     "confidence": 0.55,
     "note": "Chat actions now include mark as done and not done."
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.55,
+    "note": "The Linear Agent now has a tool to snooze or archive Workbench items, which supports the snooze feature."
    }
   ],
   "evidence": [
@@ -6854,6 +6899,24 @@
     "text": "Mark chat as not done",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": false
+   },
+   {
+    "text": "Snoozing in Workbench…",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Snoozed in Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Archived in Workbench",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": false
    }
   ],
@@ -11139,6 +11202,11 @@
     "date": "2026-11-26",
     "confidence": 0.6,
     "note": "More toast and paused-state copy for public links shows the audience and permission logic is built out."
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.6,
+    "note": "Final confirmation dialog copy for public sharing has appeared."
    }
   ],
   "evidence": [
@@ -11194,6 +11262,18 @@
     "text": "Its public link will stop working until the page is back somewhere everyone in the workspace can see.",
     "kind": "copy",
     "first_seen": "2026-11-26",
+    "new_chunk": false
+   },
+   {
+    "text": "Share publicly?",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Anyone on the web with the link can open this page and any pages inside it without signing in. The link is the page’s URL, so links already shared will work too.",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": false
    }
   ],
@@ -11731,7 +11811,7 @@
   "first_evidence": "2026-11-20",
   "window_days": 60,
   "deadline": "2027-01-19",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "history": [
    {
     "date": "2026-11-20",
@@ -11742,6 +11822,11 @@
     "date": "2026-11-25",
     "confidence": 0.55,
     "note": "New subtitle copy, shown when a flag is on, frames Gemini as a place to hand off tasks. A privacy notice adds that Gemini may share info such as contact details with third parties to work on tasks. Both suggest a polished task experience cl"
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.6,
+    "note": "A keyboard shortcut for toggling between Chat and Task (task_mode) is a further sign that Task mode is close to shipping."
    }
   ],
   "evidence": [
@@ -11767,6 +11852,12 @@
     "text": "To work on tasks, Gemini may share info, like contact details, with third parties.",
     "kind": "copy",
     "first_seen": "2026-11-25",
+    "new_chunk": true
+   },
+   {
+    "text": "Switch between Chat and Task",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": true
    }
   ],
@@ -11795,12 +11886,17 @@
   "first_evidence": "2026-11-20",
   "window_days": 60,
   "deadline": "2027-01-19",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-20",
     "confidence": 0.35,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.55,
+    "note": "The shortcuts panel changes its Send message and Add a new line keys when a cmd_ctrl_enter preference is set. That shows the Enter-to-send setting is wired into the UI."
    }
   ],
   "evidence": [
@@ -11820,6 +11916,12 @@
     "text": "Add a new line (Enter)",
     "kind": "copy",
     "first_seen": "2026-11-20",
+    "new_chunk": true
+   },
+   {
+    "text": "Add a new line",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": true
    }
   ],
@@ -12892,7 +12994,7 @@
   "first_evidence": "2026-11-21",
   "window_days": 90,
   "deadline": "2027-02-19",
-  "confidence": 0.45,
+  "confidence": 0.5,
   "history": [
    {
     "date": "2026-11-21",
@@ -12913,6 +13015,11 @@
     "date": "2026-11-25",
     "confidence": 0.45,
     "note": "Plan gating for team project status inheritance suggests it is nearing release."
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.5,
+    "note": "The inherit-project-statuses option is plan-gated through a teamProjectStatuses feature, which points to a paid launch."
    }
   ],
   "evidence": [
@@ -12956,6 +13063,12 @@
     "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(u.teamProjectStatuses)?g.availabilityMessageForFeature(u.teamProjectStatuses):void 0,title:i>0?",
     "kind": "copy",
     "first_seen": "2026-11-25",
+    "new_chunk": false
+   },
+   {
+    "text": ":s&&t.inheritProjectStatuses&&!t.organization.canAccess(h.teamProjectStatuses)?d.availabilityMessageForFeature(h.teamProjectStatuses):void 0,title:i>0?",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": false
    }
   ],
@@ -13137,12 +13250,17 @@
   "first_evidence": "2026-11-23",
   "window_days": 60,
   "deadline": "2027-01-22",
-  "confidence": 0.5,
+  "confidence": 0.55,
   "history": [
    {
     "date": "2026-11-23",
     "confidence": 0.5,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.55,
+    "note": "The old team Automations settings are being renamed Rules, behind an isRenamed check. This frees up the Automations name for Loops."
    }
   ],
   "evidence": [
@@ -13168,6 +13286,18 @@
     "text": "An automation",
     "kind": "copy",
     "first_seen": "2026-11-23",
+    "new_chunk": false
+   },
+   {
+    "text": "Automate status updates, closing, and archiving",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Use rules to automatically add or remove SLAs based on filters",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
     "new_chunk": false
    }
   ],
@@ -14517,12 +14647,17 @@
   "first_evidence": "2026-11-27",
   "window_days": 120,
   "deadline": "2027-03-27",
-  "confidence": 0.1,
+  "confidence": 0.45,
   "history": [
    {
     "date": "2026-11-27",
     "confidence": 0.1,
     "note": "forecast made"
+   },
+   {
+    "date": "2026-11-28",
+    "confidence": 0.45,
+    "note": "Named presets (Focus, Morning, Café) with full descriptions and trigger error handling suggest the feature is nearly finished."
    }
   ],
   "evidence": [
@@ -14549,6 +14684,24 @@
     "kind": "copy",
     "first_seen": "2026-11-27",
     "new_chunk": true
+   },
+   {
+    "text": "Close, steady chords that are neither major nor minor. No melody, nothing to notice.",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Bright, high chords with a raised fourth, quick plucks and birds outside. Clear weather.",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "The Workshop's espresso bar with slow jazz chords, whichever page you are on",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
    }
   ],
   "prd": {
@@ -14560,6 +14713,177 @@
    "open_questions": [
     "Is this an internal experiment or a planned public preference?",
     "Will it ship as a default-off personalization setting?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "gemini-2026-11-28-keyboard-shortcuts-help-dialog",
+  "app": "gemini",
+  "app_name": "Gemini",
+  "title": "Keyboard shortcuts help dialog",
+  "one_liner": "Users can open a Keyboard shortcuts panel in Gemini on the web that lists shortcuts for the prompt box, dictation, file upload, model switching, new chat, search and the sidebar.",
+  "category": "new_feature",
+  "created": "2026-11-28",
+  "first_evidence": "2026-11-28",
+  "window_days": 60,
+  "deadline": "2027-01-27",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-28",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Keyboard shortcuts",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   },
+   {
+    "text": "Show keyboard shortcuts",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   },
+   {
+    "text": "Go to prompt box",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   },
+   {
+    "text": "Start or stop dictation",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   },
+   {
+    "text": "Open or close sidebar",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   },
+   {
+    "text": "Stop responding",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": true
+   }
+  ],
+  "prd": {
+   "problem": "Power users on desktop have no discoverable list of keyboard shortcuts for common Gemini actions.",
+   "users": "Desktop web users, especially frequent and power users.",
+   "what": "A modal titled 'Keyboard shortcuts' with a 'Prompt box' section (Send message, Add a new line, Stop responding with Esc) and a section of global actions. The global actions are Switch between Chat and Task, Start or stop dictation, Upload files, Go to prompt box, Switch model, New chat, Search chats and Open or close sidebar.",
+   "how_it_appears": "A dialog opened by the 'Show keyboard shortcuts' shortcut, probably also from a help or settings menu. Shortcut labels adapt to Mac or Windows, showing ⌘ or Ctrl.",
+   "rollout_guess": "Likely a gradual web rollout, probably tied to the Task mode and enter-to-send changes.",
+   "open_questions": [
+    "Does a similar shortcuts help already exist publicly? The code chunk is new to us and may be old.",
+    "Which key combinations are bound to each action?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-28-github-pr-linking-without-code-access",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "GitHub PR linking without code access",
+  "one_liner": "Install the basic Linear GitHub app on repositories that Linear Code does not read, so Linear links PRs and syncs GitHub issues there without code access.",
+  "category": "expansion",
+  "created": "2026-11-28",
+  "first_evidence": "2026-11-28",
+  "window_days": 60,
+  "deadline": "2027-01-27",
+  "confidence": 0.4,
+  "history": [
+   {
+    "date": "2026-11-28",
+    "confidence": 0.4,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Add PR linking for other repositories…",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "GitHub opens the basic Linear app. Select the repositories that Linear Code does not read. Linear links PRs and syncs GitHub issues in them without code access.",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Remove code access",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Linear Code needs code access to repositories, but teams may want PR linking and issue sync on other repositories without granting that access.",
+   "users": "Workspace admins who connect GitHub.",
+   "what": "The GitHub integration splits PR linking from code access. Admins can add PR linking for other repositories, reconnect it, configure it in GitHub, and remove code access from the integration.",
+   "how_it_appears": "Integration settings menu for GitHub, with a confirmation dialog that continues to GitHub.",
+   "rollout_guess": "Inferred: ships with the Linear Code and Reviews GitHub work as a settings change.",
+   "open_questions": [
+    "Is this already live for existing GitHub integrations?",
+    "Do the two apps need separate installations per org?"
+   ]
+  },
+  "status": "open",
+  "resolution": null
+ },
+ {
+  "id": "linear-2026-11-28-linear-review-auto-re-review-setting",
+  "app": "linear",
+  "app_name": "Linear",
+  "title": "Linear Review auto re-review setting",
+  "one_liner": "Choose whether Linear Review reviews a pull request again automatically after new commits, or only when asked.",
+  "category": "new_feature",
+  "created": "2026-11-28",
+  "first_evidence": "2026-11-28",
+  "window_days": 45,
+  "deadline": "2027-01-12",
+  "confidence": 0.45,
+  "history": [
+   {
+    "date": "2026-11-28",
+    "confidence": 0.45,
+    "note": "forecast made"
+   }
+  ],
+  "evidence": [
+   {
+    "text": "Review again after new commits",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   },
+   {
+    "text": "Review again only when asked",
+    "kind": "copy",
+    "first_seen": "2026-11-28",
+    "new_chunk": false
+   }
+  ],
+  "prd": {
+   "problem": "Reviews go stale as commits are pushed, and re-running them by hand is tedious.",
+   "users": "Admins and teams that use Linear Review.",
+   "what": "A re-review setting with Off (review again only when asked) and Auto (review again after new commits).",
+   "how_it_appears": "Linear Review settings, as a select field.",
+   "rollout_guess": "Inferred: ships as a Review setting with the other Review updates.",
+   "open_questions": [
+    "Is this set per workspace, team or repository?",
+    "Does Auto affect AI spend limits?"
    ]
   },
   "status": "open",
